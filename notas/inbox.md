@@ -29,3 +29,7 @@ Me encantaría que me historia atraviese muchos lugares haciendo referencia a lu
 ## 01/08/2026 · 23:17
 
 Me gusta la idea de tener mi propia identidad, me gustaría tener mis propias criaturas, inventar quizás algún idioma completo con todo lo que eso conlleva, caracteres, como se pronuncia y todo. Me gustaría tener un estilo de ambientación y sonoro predominante. Me gustaría que cada capitulo sea una experiencia, pero que esto no provoque sobresaturar al público epicidad.
+
+## 01/08/2026 · 23:19
+
+Me gustaría que el protagonista tenga una personalidad sin maldad, quizás ingenuo, infantil a veces.
