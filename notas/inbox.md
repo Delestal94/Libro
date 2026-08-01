@@ -21,3 +21,7 @@ Del señor de los misterios además de la ambientación me gustó la idea que pa
 ## 01/08/2026 · 23:10
 
 Lo que me gusta de frieren es de lo absurdamente poderosa que es frieren, pero en un escenario post convertirse heroes, dónde la trama principal pasa más por lo emocional y la busqueda de algo.
+
+## 01/08/2026 · 23:14
+
+Me encantaría que me historia atraviese muchos lugares haciendo referencia a lugares reales o quizás relatos de posibles lugares, como one piece que están en la isla de los gigantes, mezclan mitología nórdica, romana, árabe, cómo que la historia es inspirada es muchas otras y que la aventura sea por todos estos lugares.
