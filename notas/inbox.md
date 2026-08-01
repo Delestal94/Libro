@@ -25,3 +25,7 @@ Lo que me gusta de frieren es de lo absurdamente poderosa que es frieren, pero e
 ## 01/08/2026 · 23:14
 
 Me encantaría que me historia atraviese muchos lugares haciendo referencia a lugares reales o quizás relatos de posibles lugares, como one piece que están en la isla de los gigantes, mezclan mitología nórdica, romana, árabe, cómo que la historia es inspirada es muchas otras y que la aventura sea por todos estos lugares.
+
+## 01/08/2026 · 23:17
+
+Me gusta la idea de tener mi propia identidad, me gustaría tener mis propias criaturas, inventar quizás algún idioma completo con todo lo que eso conlleva, caracteres, como se pronuncia y todo. Me gustaría tener un estilo de ambientación y sonoro predominante. Me gustaría que cada capitulo sea una experiencia, pero que esto no provoque sobresaturar al público epicidad.
