@@ -127,10 +127,18 @@ export async function borrarArchivo(ruta: string, sha: string, mensaje: string):
   });
 }
 
-/** Añade texto al final de un fichero, creándolo si no existe. */
-export async function anexar(ruta: string, texto: string, mensaje: string): Promise<void> {
+/**
+ * Añade texto al final de un fichero. Si no existe lo crea con `encabezado`,
+ * de modo que no empiece con una línea en blanco suelta.
+ */
+export async function anexar(
+  ruta: string,
+  texto: string,
+  mensaje: string,
+  encabezado = "",
+): Promise<void> {
   const actual = await leerArchivo(ruta);
-  const base = actual?.contenido ?? "";
+  const base = actual?.contenido ?? encabezado;
   const separador = base.length && !base.endsWith("\n") ? "\n" : "";
   await guardarArchivo(ruta, base + separador + texto, mensaje, actual?.sha);
 }

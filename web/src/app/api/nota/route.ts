@@ -24,7 +24,12 @@ export async function POST(req: Request) {
   const entrada = `\n## ${fecha} · ${hora}\n\n${texto.trim()}\n`;
 
   try {
-    await anexar(RUTA_INBOX, entrada, `Nota rápida ${fecha} ${hora}`);
+    await anexar(
+      RUTA_INBOX,
+      entrada,
+      `Nota rápida ${fecha} ${hora}`,
+      "# Inbox\n\n> Capturas rápidas desde el móvil. Lo que sobreviva a releerse, sube a la biblia.\n",
+    );
     return NextResponse.json({ ok: true });
   } catch (e) {
     return NextResponse.json({ error: (e as Error).message }, { status: 500 });
