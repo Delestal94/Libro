@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { marked } from "marked";
 import { contarPalabras } from "@/lib/libro";
@@ -24,6 +25,7 @@ const ATAJOS = [
 ];
 
 export default function Editor({ ruta, shaInicial, contenidoInicial, titulo }: Props) {
+  const router = useRouter();
   const [texto, setTexto] = useState(contenidoInicial);
   const [sha, setSha] = useState(shaInicial);
   const [guardado, setGuardado] = useState(contenidoInicial);
@@ -58,11 +60,14 @@ export default function Editor({ ruta, shaInicial, contenidoInicial, titulo }: P
       setSha(datos.sha);
       setGuardado(enviado);
       setEstado("limpio");
+      // Refresca los datos del servidor para que la biblioteca y el modo lectura
+      // muestren el recuento nuevo al volver, en vez del de antes de guardar.
+      router.refresh();
     } catch (e) {
       setError((e as Error).message);
       setEstado("error");
     }
-  }, [estado, texto, ruta, sha]);
+  }, [estado, texto, ruta, sha, router]);
 
   // Aviso al cerrar la pestaña con cambios sin guardar.
   useEffect(() => {

@@ -1,5 +1,6 @@
 "use client";
 
+import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 
 /**
@@ -7,6 +8,7 @@ import { useEffect, useRef, useState } from "react";
  * Se abre con el teclado ya desplegado: si hay que dar dos toques, no se usa.
  */
 export default function CapturaRapida({ alCerrar }: { alCerrar: () => void }) {
+  const router = useRouter();
   const [texto, setTexto] = useState("");
   const [estado, setEstado] = useState<"listo" | "guardando" | "guardado" | "error">("listo");
   const [error, setError] = useState("");
@@ -33,6 +35,9 @@ export default function CapturaRapida({ alCerrar }: { alCerrar: () => void }) {
       });
       if (!res.ok) throw new Error((await res.json()).error ?? "No se pudo guardar");
       setEstado("guardado");
+      // Sin esto la biblioteca sigue mostrando el estado anterior: la nota está
+      // en GitHub pero la pantalla no se ha enterado.
+      router.refresh();
       setTimeout(alCerrar, 700);
     } catch (e) {
       setError((e as Error).message);
