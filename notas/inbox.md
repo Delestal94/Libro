@@ -13,3 +13,7 @@ Me gusta la idea de mezclar varios temas como one piece que hablan de temas deli
 ## 01/08/2026 · 23:07
 
 Me gusta la idea de one piece que el antagonista es una organización como el gobierno mundial pero que detrás hay personas que lo forman que son buenas, y que lo que defienden estás buenas personas no es algo malo.
+
+## 01/08/2026 · 23:09
+
+Del señor de los misterios además de la ambientación me gustó la idea que para progresar a nivel de poder ellos deben asimilar su poción, como Klein Moretti que asimiló la del payaso y la del vidente. Tuvo que convertirse en uno literal
