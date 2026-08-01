@@ -28,14 +28,14 @@ export default async function Biblioteca() {
         <p className="mt-1 text-sm text-tenue">{process.env.GITHUB_REPO}</p>
       </header>
 
-      <section className="mb-8 grid grid-cols-3 gap-2">
+      <Link href="/progreso" className="mb-8 grid grid-cols-3 gap-2">
         <Dato valor={palabrasManuscrito.toLocaleString("es-ES")} etiqueta="palabras" />
         <Dato valor={String(caps.length)} etiqueta={caps.length === 1 ? "capítulo" : "capítulos"} />
         <Dato
           valor={palabrasManuscrito ? `${minutosLectura(palabrasManuscrito)}′` : "—"}
           etiqueta="de lectura"
         />
-      </section>
+      </Link>
 
       {SECCIONES.map((s) => {
         const dentro = docs

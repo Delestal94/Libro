@@ -19,10 +19,43 @@ móvil  →  web (Vercel)  →  API de GitHub  →  repo Delestal94/Libro
 | Ruta | Qué hace |
 |---|---|
 | `/` | Biblioteca: biblia, manuscrito y notas, con palabras por documento y totales. Crear documentos nuevos. |
-| `/editar/<ruta>` | Editor Markdown con atajos táctiles, contador de palabras y vista previa. |
+| `/editar/<ruta>` | Editor Markdown con atajos táctiles, autocompletado de `[[enlaces]]`, retroenlaces, vista previa y borrado. |
 | `/leer` | El manuscrito completo con tipografía de libro, índice, tamaño de letra y progreso. |
+| `/trama` | Registro de pistas sembradas (con estado) y cronología de dos relojes: el del mundo y el del lector. |
+| `/progreso` | Rachas de escritura deducidas del historial de git, y descarga del libro en EPUB. |
 | `/buscar` | Busca en todo el proyecto, ignorando acentos y mayúsculas. |
 | Botón **Nota** | Captura rápida: se añade con fecha a `notas/inbox.md`. |
+
+## Enlaces entre documentos
+
+Escribe `[[Frieren]]` en cualquier sitio y queda enlazado al documento cuyo título o
+nombre de fichero coincida, ignorando acentos y mayúsculas. También vale
+`[[destino|texto que se muestra]]`. En cada documento se ve **quién lo menciona** y qué
+enlaces suyos aún no tienen destino.
+
+Es sintaxis de wiki guardada tal cual en el Markdown: el fichero se sigue leyendo sin la app.
+
+## Sin conexión
+
+- La app **abre** sin cobertura (service worker, red primero y caché de reserva).
+- Lo que escribes se guarda en el móvil mientras tanto, y si cierras la pestaña con
+  cambios sin guardar, al volver te ofrece recuperarlos.
+- Un guardado sin red entra en cola y **se envía solo** al recuperar la señal.
+
+La caché es red-primero a propósito: al revés sería más rápida, pero mostraría capítulos
+viejos tras editarlos en otro dispositivo — justo el fallo que este proyecto evita.
+
+## Tests
+
+```powershell
+npm test
+```
+
+Cubren lo que es fácil romper sin enterarse: resolución de enlaces y escapado de HTML,
+edición de tablas Markdown sin perder el texto de alrededor, cálculo de rachas en los
+bordes (cambio de mes, racha viva si escribiste ayer), y **validez del EPUB** —
+`mimetype` primero y sin comprimir, y XHTML bien formado, que es lo que un lector de
+ebooks comprueba antes de rechazar el fichero.
 
 ## Desarrollo
 

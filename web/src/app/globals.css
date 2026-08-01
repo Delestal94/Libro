@@ -135,6 +135,18 @@ button {
   text-underline-offset: 3px;
   text-decoration: underline;
 }
+/* Enlaces [[ ]]: los que existen navegan; los rotos se ven, pero no distraen. */
+.enlace-wiki {
+  color: var(--color-acento);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--color-acento) 45%, transparent);
+}
+.enlace-roto {
+  color: var(--color-tenue);
+  border-bottom: 1px dashed var(--color-peligro);
+  cursor: help;
+}
+
 .prosa table {
   width: 100%;
   border-collapse: collapse;

@@ -155,6 +155,47 @@ export async function leerBlob(sha: string): Promise<string> {
   return datos.encoding === "base64" ? b64aTexto(datos.content) : datos.content;
 }
 
+export type Commit = { sha: string; fecha: string; mensaje: string };
+
+/**
+ * Commits que tocan el contenido del libro. Se consulta carpeta por carpeta
+ * porque la API sólo admite un `path` por llamada, y se descartan así los
+ * commits de la propia app: escribir código no es escribir el libro.
+ */
+export async function commitsDelLibro(limite = 100): Promise<Commit[]> {
+  const { owner, name, rama } = config();
+
+  const porCarpeta = await Promise.all(
+    ["biblia", "manuscrito", "notas"].map((carpeta) =>
+      api<{ sha: string; commit: { author: { date: string }; message: string } }[]>(
+        `/repos/${owner}/${name}/commits?sha=${encodeURIComponent(rama)}&path=${carpeta}&per_page=${limite}`,
+      ).catch(() => []),
+    ),
+  );
+
+  const unicos = new Map<string, Commit>();
+  for (const lista of porCarpeta) {
+    for (const c of lista) {
+      unicos.set(c.sha, {
+        sha: c.sha,
+        fecha: c.commit.author.date,
+        mensaje: c.commit.message.split("\n")[0],
+      });
+    }
+  }
+
+  return [...unicos.values()].sort((a, b) => b.fecha.localeCompare(a.fecha));
+}
+
+/** Ficheros del manuscrito tal y como estaban en un commit concreto. */
+export async function arbolEnCommit(sha: string): Promise<NodoArbol[]> {
+  const { owner, name } = config();
+  const datos = await api<{ tree: NodoArbol[] }>(
+    `/repos/${owner}/${name}/git/trees/${sha}?recursive=1`,
+  );
+  return datos.tree.filter((n) => n.type === "blob" && n.path.endsWith(".md"));
+}
+
 export function repoConfigurado(): boolean {
   return Boolean(process.env.GITHUB_REPO && process.env.GITHUB_TOKEN);
 }

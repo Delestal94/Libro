@@ -2,7 +2,7 @@ import { NextResponse, type NextRequest } from "next/server";
 import { COOKIE, sesionValida } from "@/lib/auth";
 
 /** Todo está protegido salvo el propio login y los recursos estáticos. */
-const PUBLICO = ["/login", "/api/login", "/manifest.webmanifest", "/icono.svg"];
+const PUBLICO = ["/login", "/api/login", "/manifest.webmanifest", "/icono.svg", "/sw.js"];
 
 export async function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;

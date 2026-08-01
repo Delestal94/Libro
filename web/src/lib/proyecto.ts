@@ -1,6 +1,7 @@
 import "server-only";
 
 import { leerBlob, listarDocumentos } from "./github";
+import { construirIndice, retroenlaces } from "./enlaces";
 import { contarPalabras, esCapitulo, seccionDe, tituloDe, type Seccion } from "./libro";
 
 export type Doc = {
@@ -37,4 +38,14 @@ export async function cargarProyecto(): Promise<Doc[]> {
 
 export function capitulos(docs: Doc[]): Doc[] {
   return docs.filter((d) => d.esCapitulo).sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
+}
+
+/** Índice de enlaces `[[ ]]` de todo el proyecto. */
+export function indiceDe(docs: Doc[]): Map<string, string> {
+  return construirIndice(docs);
+}
+
+/** Qué documentos enlazan a `ruta`. */
+export function backlinks(ruta: string, docs: Doc[]) {
+  return retroenlaces(ruta, docs, construirIndice(docs));
 }

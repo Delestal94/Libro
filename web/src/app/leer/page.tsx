@@ -4,6 +4,7 @@ import Lector from "@/components/Lector";
 import SinConfigurar from "@/components/SinConfigurar";
 import { repoConfigurado } from "@/lib/github";
 import { cargarProyecto, capitulos } from "@/lib/proyecto";
+import { construirIndice, enlacesAHtml } from "@/lib/enlaces";
 import { minutosLectura } from "@/lib/libro";
 
 export const dynamic = "force-dynamic";
@@ -11,9 +12,10 @@ export const dynamic = "force-dynamic";
 export default async function Leer() {
   if (!repoConfigurado()) return <SinConfigurar />;
 
-  let caps;
+  let docs, caps;
   try {
-    caps = capitulos(await cargarProyecto());
+    docs = await cargarProyecto();
+    caps = capitulos(docs);
   } catch (e) {
     return <SinConfigurar detalle={(e as Error).message} />;
   }
@@ -33,12 +35,14 @@ export default async function Leer() {
     );
   }
 
+  const indice = construirIndice(docs);
+
   const secciones = caps.map((c) => ({
     ruta: c.ruta,
     titulo: c.titulo,
     palabras: c.palabras,
     // El encabezado lo pinta el lector, así que se quita del cuerpo para no duplicarlo.
-    html: marked.parse(c.contenido.replace(/^#\s+.+$/m, ""), {
+    html: marked.parse(enlacesAHtml(c.contenido.replace(/^#\s+.+$/m, ""), indice), {
       async: false,
       breaks: false,
     }) as string,

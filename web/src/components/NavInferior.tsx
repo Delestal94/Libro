@@ -8,6 +8,7 @@ import CapturaRapida from "./CapturaRapida";
 const ENLACES = [
   { href: "/", etiqueta: "Biblioteca", icono: "◆" },
   { href: "/leer", etiqueta: "Leer", icono: "▤" },
+  { href: "/trama", etiqueta: "Trama", icono: "⌘" },
   { href: "/buscar", etiqueta: "Buscar", icono: "⌕" },
 ];
 
