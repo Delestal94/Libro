@@ -17,3 +17,7 @@ Me gusta la idea de one piece que el antagonista es una organización como el go
 ## 01/08/2026 · 23:09
 
 Del señor de los misterios además de la ambientación me gustó la idea que para progresar a nivel de poder ellos deben asimilar su poción, como Klein Moretti que asimiló la del payaso y la del vidente. Tuvo que convertirse en uno literal
+
+## 01/08/2026 · 23:10
+
+Lo que me gusta de frieren es de lo absurdamente poderosa que es frieren, pero en un escenario post convertirse heroes, dónde la trama principal pasa más por lo emocional y la busqueda de algo.
