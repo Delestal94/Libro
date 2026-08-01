@@ -25,7 +25,7 @@ export default async function Biblioteca() {
     <div className="py-6">
       <header className="mb-6">
         <h1 className="font-serif text-3xl">Escritorio</h1>
-        <p className="mt-1 text-sm text-tenue">Delestal94/Libro</p>
+        <p className="mt-1 text-sm text-tenue">{process.env.GITHUB_REPO}</p>
       </header>
 
       <section className="mb-8 grid grid-cols-3 gap-2">
