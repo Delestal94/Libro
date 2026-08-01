@@ -1,0 +1,172 @@
+@import "tailwindcss";
+
+/*
+  Paleta de tinta y pergamino. Oscuro por defecto: la app se usa sobre todo
+  desde el móvil y a menudo de noche.
+*/
+@theme {
+  --color-fondo: #12100e;
+  --color-superficie: #1c1917;
+  --color-superficie-alta: #262220;
+  --color-borde: #34302c;
+  --color-texto: #e9e3d6;
+  --color-tenue: #a49b8c;
+  --color-acento: #c9a227;
+  --color-peligro: #d97757;
+
+  --font-lectura: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --font-interfaz: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+@media (prefers-color-scheme: light) {
+  @theme {
+    --color-fondo: #faf7f0;
+    --color-superficie: #ffffff;
+    --color-superficie-alta: #f2ede3;
+    --color-borde: #e0d8c8;
+    --color-texto: #2a2622;
+    --color-tenue: #6b6459;
+    --color-acento: #8a6d1f;
+  }
+}
+
+html {
+  background: var(--color-fondo);
+  color: var(--color-texto);
+  font-family: var(--font-interfaz);
+  /* Evita que iOS agrande el texto al girar el móvil. */
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100dvh;
+  overscroll-behavior-y: none;
+}
+
+/* Nada de zoom involuntario al enfocar un campo en iOS: mínimo 16px. */
+input,
+textarea,
+select,
+button {
+  font: inherit;
+  font-size: max(16px, 1rem);
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-acento) 35%, transparent);
+}
+
+/* Área segura del notch y de la barra de gestos. */
+.pb-segura {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.pt-segura {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+/* --- Tipografía del modo lectura --- */
+.prosa {
+  font-family: var(--font-lectura);
+  /* Heredado a propósito: el lector controla el tamaño desde el contenedor. */
+  font-size: inherit;
+  line-height: 1.75;
+  hyphens: auto;
+}
+.prosa h1,
+.prosa h2,
+.prosa h3 {
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 2em 0 0.6em;
+  text-wrap: balance;
+}
+.prosa h1 {
+  font-size: 1.7rem;
+}
+.prosa h2 {
+  font-size: 1.35rem;
+}
+.prosa h3 {
+  font-size: 1.15rem;
+}
+.prosa p {
+  margin: 0 0 1.1em;
+}
+/* Sangría francesa: los párrafos seguidos van sangrados, el primero no.
+   Es la convención de libro impreso y se lee mejor en columna estrecha. */
+.prosa p + p {
+  text-indent: 1.4em;
+  margin-top: -0.4em;
+}
+.prosa blockquote {
+  border-left: 2px solid var(--color-acento);
+  padding-left: 1em;
+  margin: 1.5em 0;
+  color: var(--color-tenue);
+  font-style: italic;
+}
+.prosa ul,
+.prosa ol {
+  margin: 0 0 1.1em 1.4em;
+}
+.prosa ul {
+  list-style: disc;
+}
+.prosa ol {
+  list-style: decimal;
+}
+.prosa li {
+  margin-bottom: 0.4em;
+}
+.prosa hr {
+  border: 0;
+  margin: 2.5em auto;
+  width: 40%;
+  border-top: 1px solid var(--color-borde);
+}
+.prosa strong {
+  font-weight: 700;
+}
+.prosa em {
+  font-style: italic;
+}
+.prosa a {
+  color: var(--color-acento);
+  text-underline-offset: 3px;
+  text-decoration: underline;
+}
+.prosa table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-family: var(--font-interfaz);
+  font-size: 0.9rem;
+}
+.prosa th,
+.prosa td {
+  border: 1px solid var(--color-borde);
+  padding: 0.5em 0.7em;
+  text-align: left;
+}
+.prosa th {
+  background: var(--color-superficie-alta);
+}
+.prosa code {
+  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+  font-size: 0.875em;
+  background: var(--color-superficie-alta);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+/* Las tablas y el código anchos hacen scroll ellos, nunca la página. */
+.prosa pre {
+  overflow-x: auto;
+  background: var(--color-superficie-alta);
+  padding: 1em;
+  border-radius: 8px;
+  margin: 0 0 1.1em;
+}
+.prosa pre code {
+  background: none;
+  padding: 0;
+}
