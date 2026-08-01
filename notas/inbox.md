@@ -9,3 +9,7 @@ Lo que me gustaría que haya algún misterio hasta el final de la historia como 
 ## 01/08/2026 · 23:06
 
 Me gusta la idea de mezclar varios temas como one piece que hablan de temas delicados y como luffy se volvió un referente a la libertad en muchos aspectos. Me gustaría que en mi libro se pueda tocar muchos puntos sensibles.
+
+## 01/08/2026 · 23:07
+
+Me gusta la idea de one piece que el antagonista es una organización como el gobierno mundial pero que detrás hay personas que lo forman que son buenas, y que lo que defienden estás buenas personas no es algo malo.
