@@ -33,3 +33,7 @@ Me gusta la idea de tener mi propia identidad, me gustaría tener mis propias cr
 ## 01/08/2026 · 23:19
 
 Me gustaría que el protagonista tenga una personalidad sin maldad, quizás ingenuo, infantil a veces.
+
+## 01/08/2026 · 23:20
+
+Me gustaría que los personajes secundarios, tengan tanto lore y transfondo en sus historias que puedan haber sido protagonista de sus propias historias y ser tan grande como la del protagonista
