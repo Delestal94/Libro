@@ -279,9 +279,9 @@ y quedó horrible, y varias personas apartaron la vista.
 
 Nadie en Keliun supo nunca qué había pasado exactamente en ese momento.
 
-Yo tampoco te lo voy a explicar todavía. Pero pasó ahí, delante de todos, mientras el
-niño sonreía en el peor sitio posible y sesenta y tantas personas lo miraban y decidían,
-todas a la vez y sin hablarlo, lo que era a partir de entonces.
+Pasó ahí, delante de todos, mientras el niño sonreía en el peor sitio posible y sesenta y
+tantas personas lo miraban y decidían, todas a la vez y sin hablarlo, lo que era a partir
+de entonces.
 
 Un huérfano.
 

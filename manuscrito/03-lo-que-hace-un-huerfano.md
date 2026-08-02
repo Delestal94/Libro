@@ -73,25 +73,25 @@ Y Sel dijo «sí» de una manera concreta. No lo pensó. Le salió: se quedó qu
 momento con la mano en la madera y no dijo nada más, y no puso ninguna cara, y eso fue
 exactamente lo que hizo.
 
-Tarin arregló la puerta. Tardó una hora. No le había ofrecido arreglar la puerta a nadie
-en once años.
+Tarin fue a por la herramienta.
 
-Hace falta explicar eso, y no tiene nada que ver con Sel.
+Tardó una hora. A la media hora ya había dicho dos veces que sólo iba a mirar cómo estaba,
+y a la hora tenía la puerta desmontada en el suelo.
 
-Hace once años y medio, Tarin le arregló el techo a un hombre llamado Oren, que era su
-amigo y que le debía dinero. Se lo arregló para que dejara de deberle el favor, que es
-como se cobran las deudas entre amigos cuando ninguno de los dos quiere hablar de
-dinero. El techo quedó bien. Oren se murió en enero de otra cosa que no tenía que ver
-con el techo, y la viuda vendió la casa, y el que la compró tiró el tejado entero porque
-quería levantar un piso.
+—¿Esto lo cobras? —dijo Sel, que a los nueve años pregunta esas cosas.
 
-Tarin lo vio hacer desde la fragua durante tres días y no dijo nada, y a partir de
-entonces hacía trabajos y los cobraba y no ofrecía ninguno.
+—No.
 
-No es una historia trágica. Es lo que le pasó, y de eso se compone casi todo el mundo:
-de una cosa mediana que se torció y de la regla privada que uno se hizo para que no
-volviera a pasar. Tarin tenía la suya, la llevaba once años cumpliendo, y aquella tarde
-la rompió por una puerta de corral sin saber por qué.
+—¿Nunca?
+
+—Ahora no.
+
+Tarin llevaba once años cobrando todo y no ofreciendo nada. En el pueblo lo sabían y
+nadie se lo tomaba a mal: se le había torcido una cosa mediana hace mucho —un tejado que
+arregló gratis a un amigo, y el amigo se murió, y el que compró la casa lo tiró entero
+delante de él— y se había hecho su regla, como se las hace todo el mundo.
+
+Aquella tarde la rompió por una puerta de corral.
 
 Cuando terminó se fue sin decir gran cosa, y por el camino de vuelta a la fragua se
 preguntó dos veces por qué había hecho eso, y las dos veces se contestó que porque el

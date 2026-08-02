@@ -54,23 +54,48 @@ siguiente, y **los 6 dicen literalmente «a una persona concreta»**.
 Los que coinciden en tres o más revisores. **Se actualiza el estado en cada panel nuevo**,
 no antes: que yo crea haberlo arreglado no es que esté arreglado.
 
-| # | Hallazgo | Coincidencias | 2026-08-02 |
-|---|---|---|---|
-| **H1** | El narrador explica lo que las escenas ya habían hecho. 22 glosas en 7 capítulos; 17 sobran | **20 / 20** | 🔴 abierto |
-| **H2** | Señalar cuál es la imagen buena la estropea | 6 | 🔴 abierto |
-| **H3** | Nadie quiere ser Sel. Todos prefieren a Ila | 6 / 6 niños | 🔴 abierto |
-| **H4** | Lo que los adultos admiran es lo que los niños saltan. Las biografías van en bloque | 10 / 12 lectores + 3 escritores | 🔴 abierto |
-| **H5** | El final del capítulo 5 expulsa: el buen final queda sepultado bajo dos codas | 8 | 🔴 abierto |
-| **H6** | El capítulo 7 se cae. Todo lo que pasa ya estaba decidido al final del 6 | 6 | 🔴 abierto |
-| **H7** | Ila abandona a sus hermanos y el libro no se entera | 5 | 🔴 abierto |
-| **H8** | El humor muere en el capítulo 3. Los capítulos 4 y 6 no tienen ninguno | 4 | 🔴 abierto |
-| **H9** | «Papel» aparece una vez en todo el manuscrito y no la dice ningún personaje | 2 críticos + 3 niños | 🔴 abierto |
-| **H10** | El sistema no tiene unidad de medida. Tres contradicciones de alcance | 2 críticos | 🔴 abierto |
-| **H11** | Sel no elige nunca. Sus dos decisiones están anuladas por el texto | 2 críticos | 🔴 abierto |
-| **H12** | La numeración de la biblia está desfasada respecto al manuscrito | 2 críticos | 🔴 abierto |
-| **H13** | No hay título | 1 crítico | 🔴 abierto |
+| # | Hallazgo | Coincidencias | 2026-08-02 | Pasada 4 |
+|---|---|---|---|---|
+| **H1** | El narrador explica lo que las escenas ya habían hecho. 22 glosas; 17 sobran | **20 / 20** | 🔴 | 🟡 **14 cortadas** |
+| **H2** | Señalar cuál es la imagen buena la estropea | 6 | 🔴 | 🟡 los tres carteles fuera |
+| **H3** | Nadie quiere ser Sel. Todos prefieren a Ila | 6 / 6 niños | 🔴 | 🔴 |
+| **H4** | Lo que los adultos admiran es lo que los niños saltan. Biografías en bloque | 10 / 12 + 3 escritores | 🔴 | 🟡 Tarin y Anu en escena |
+| **H5** | El final del cap. 5 queda sepultado bajo dos codas | 8 | 🔴 | 🟡 cierra en «No fue la última» |
+| **H6** | El capítulo 7 se cae | 6 | 🔴 | 🔴 |
+| **H7** | Ila abandona a sus hermanos y el libro no se entera | 5 | 🔴 | 🔴 |
+| **H8** | El humor muere en el cap. 3. Los caps. 4 y 6 no tienen ninguno | 4 | 🔴 | 🔴 |
+| **H9** | «Papel» aparece una vez y no la dice ningún personaje | 2 críticos + 3 niños | 🔴 | 🔴 |
+| **H10** | El sistema no tiene unidad de medida. Tres contradicciones | 2 críticos | 🔴 | 🔴 |
+| **H11** | Sel no elige nunca. Sus dos decisiones están anuladas | 2 críticos | 🔴 | 🔴 |
+| **H12** | La numeración de la biblia está desfasada | 2 críticos | 🔴 | 🔴 |
+| **H13** | No hay título | 1 crítico | 🔴 | 🔴 |
+| **H14** | 14 negritas, y tres capítulos sin ninguna | 1 escritor | 🔴 | 🟡 **cero en los siete** |
 
 **Leyenda:** 🔴 abierto · 🟡 tocado, sin confirmar · 🟢 cerrado por un panel posterior
+
+> **El amarillo no vale.** Sólo un panel posterior puede poner un hallazgo en verde. Cinco
+> tocados de catorce.
+
+### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
+
+Lo hecho, todo por corte y traslado. **Ni una escena reescrita.**
+
+- **14 glosas del narrador cortadas.** Conservadas las cinco que lo delatan: «No tengas
+  miedo. Todavía no pasa nada» · «Yo la he tenido en cuenta igual. Y ella también» ·
+  «Debería haberme parado a mirarlo aquí. No lo hice. Sigo» · «Yo lo vi entero y no hice
+  nada» · «Se me da mal dormir».
+- **Fuera los tres carteles**, incluido «si de este libro entero hay que quedarse con una
+  imagen». *Ninguno de los dos volvió a acordarse* recupera su golpe.
+- **Cero negritas** en los siete capítulos.
+- **«Se me da mal dormir» pasa a ser la última línea del arco.**
+- **El cap. 5 cierra en «No fue la última»**; el epílogo del despacho sube antes.
+- **Tarin y Anu pasan de bloque a escena.** La regla de once años de Tarin ahora sale en
+  diálogo mientras desmonta la puerta; los veintiún años de Anu, en cuatro réplicas con la
+  inspectora.
+- Cortado también «el día que importa fue un día cualquiera», que es donde abandonó el
+  lector de 13 años.
+
+**Comprobado que las doce cosas de la lista de conservar siguen intactas.**
 
 ---
 

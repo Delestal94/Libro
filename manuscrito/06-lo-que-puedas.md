@@ -98,8 +98,7 @@ La idea le vino esa noche.
 Era esta: si él podía conseguir que el pueblo entero le dejara quedarse en una casa que
 no le correspondía, podía conseguir que el pueblo entero se hiciera cargo de dos niños.
 
-Era una idea buena. Quiero que quede dicho, porque lo que viene después no significa que
-la idea fuera mala. **La idea era buena.**
+Era una idea buena.
 
 ---
 
@@ -163,7 +162,7 @@ Fue exactamente el tiempo que aguantó el acuerdo.
 
 ---
 
-No se rompió. Eso habría sido mejor. Se **deshizo**, que es otra cosa y es peor.
+No se rompió. Eso habría sido mejor. Se deshizo, que es otra cosa y es peor.
 
 El lunes fue perfecto. Hay que decirlo, porque lo fue: los dos niños comieron en tres
 casas distintas, el pequeño estuvo toda la tarde con la mujer del cachorro, y el de seis
@@ -178,8 +177,7 @@ uy, que se le había pasado, que qué cabeza, y era cierto: se le había pasado.
 mintiendo. Se había pasado el día en su casa haciendo sus cosas sin que en ningún momento
 se le cruzara por la cabeza que tenía algo que hacer.
 
-Y aquí conviene entender bien lo que pasó, porque no es lo que parece. Nadie se echó
-atrás. Nadie se lo pensó mejor. Nadie dijo en su casa *mira, al final no*. Lo que ocurrió
+Nadie se echó atrás. Nadie se lo pensó mejor. Nadie dijo en su casa *mira, al final no*. Lo que ocurrió
 fue algo más pequeño y mucho peor: que el compromiso dejó de estar donde se ponen los
 compromisos. Se quedó fuera de la lista de cosas que hay que hacer hoy, como si no lo
 hubieran metido nunca.
@@ -197,10 +195,6 @@ Y la otra contestó:
 
 Y se quedaron las dos calladas un momento, incómodas, y cambiaron de tema.
 
-Ese es el sonido de un acuerdo deshaciéndose. No hay portazo. Hay gente razonable que no
-consigue reconstruir su propia razón, y que ante un motivo que no recuerda hace lo único
-que puede hacer: soltarlo.
-
 El viernes ya no iba nadie.
 
 ---
@@ -213,7 +207,7 @@ vuelve a hacer el truco. Fue casa por casa y se quedó quieto en trece puertas.
 Y esta vez la gente cedía delante de él —decía que sí, que por supuesto, que faltaría
 más— y dejaba de hacerlo en cuanto él doblaba la esquina.
 
-**Funciona mientras estás.** Eso fue lo que aprendió aquella semana, aunque tardó años en
+Funciona mientras estás. Eso fue lo que aprendió aquella semana, aunque tardó años en
 poder decirlo con palabras. El papel no convence a nadie de nada. Sólo mueve a la gente
 mientras la estás mirando, y en cuanto te vas, vuelven — y se llevan puesta una decisión
 que no entienden y de la que se avergüenzan un poco, y por eso la sueltan antes que
@@ -253,8 +247,7 @@ Ya se la han buscado.
 —Yo no sabía que...
 
 —Ya sé que no sabías. —Y entonces sí levantó la voz, una sola vez, y fue peor que si
-hubiera gritado toda la conversación—. **Ese es el problema. Que no sabías y lo hiciste
-igual.**
+hubiera gritado toda la conversación—. Ese es el problema. Que no sabías y lo hiciste igual.
 
 Se quedaron los dos quietos.
 

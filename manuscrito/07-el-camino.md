@@ -41,10 +41,7 @@ y al final dijo:
 
 —Ya.
 
-Y siguió amasando, y Sel lo anotó porque lo anotaba todo, y tardó unos veinte años en
-entenderlo. Que un día se le olvidara algo. Que la cabeza se le fuera a otra parte
-mientras tenía las manos en la masa. Que hubiera un solo día en veintiún años en que
-levantarse a las cuatro no fuera una decisión.
+Y siguió amasando, y Sel lo anotó porque lo anotaba todo.
 
 El del molino, al que ya le había preguntado, se le acercó por la tarde a decirle que
 quería cambiar la suya, y Sel le dijo que vale, y el hombre se quedó allí de pie
@@ -115,8 +112,7 @@ Y entonces, porque Anu conocía a los niños y sabía perfectamente lo que valí
 
 Anu apoyó las dos manos en el mostrador y estuvo mirándolas un rato.
 
-Sel no hizo nada. Esto conviene decirlo, porque el lector puede estar pensando otra cosa:
-no hizo lo del pozo. Ni se le pasó por la cabeza. Estaba demasiado ocupado sintiéndose
+Sel no hizo lo del pozo. Ni se le pasó por la cabeza. Estaba demasiado ocupado sintiéndose
 mal para acordarse de que sabía hacer trucos.
 
 —Te vas a llevar pan —dijo Anu.
@@ -260,8 +256,6 @@ oído en su vida: que se podía llegar a ser algo a base de hacerlo. Se lo guard
 con las dos palabras, y se pasó los tres primeros días de camino repitiéndoselas para no
 perderlas.
 
-Es la única cosa de todo el capítulo que le hizo falta después.
-
 Ila lo oyó también. Y a ella no le pareció lo mejor que había oído en su vida: le pareció
 la explicación de algo, y se quedó mirando al niño que tenía al lado con una cara nueva.
 
@@ -325,12 +319,9 @@ Ila sí. Los contó enteros, sin decir nada, como llevaba haciendo desde los onc
 
 ---
 
-Yo he contado ese orden muchas veces. Molino, cojo, era. Se me da mal dormir.
-
 Aquella mañana bajaban dos personas por esa cuesta, y una de las dos no tenía por qué
 estar allí.
 
-Y él todavía no sabía que las cosas se pagan, ni cómo, ni con qué, ni que ya había
-pagado dos veces sin enterarse.
+Yo he contado ese orden muchas veces. Molino, cojo, era.
 
-Lo iba a aprender. Yo estaba deseando que no.
+Se me da mal dormir.

@@ -2,8 +2,6 @@
 
 Sel llevaba cuatro meses intentando que lo aceptaran los perros.
 
-Conviene explicar esto antes que nada, porque si no, lo que hizo después no se entiende.
-
 En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que
 hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba
 contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo,
@@ -53,8 +51,7 @@ Sel se rió. Sabiendo, o eso creyó él.
 
 ---
 
-Hay que decir que sonreía todo el rato. Eso importa después, así que lo dejo puesto
-aquí.
+Sonreía todo el rato.
 
 No sonreía por listo ni por bobo: sonreía como otros silban, sin darse cuenta, y la
 cara se le quedaba así incluso cuando la cosa no daba para sonreír, lo cual, en un
@@ -148,17 +145,13 @@ llevo aquí mucho. Yo que tú, en vez de meterme, aprendería a contarlo.
 
 Así que Sel dejó de aullar y empezó a contar.
 
-Y esto es lo importante, aunque en este capítulo no lo parezca: **a partir de esa noche,
-Sel fue la única persona de Keliun que se sabía el orden de los perros.** Los demás lo
-oían. Él lo escuchaba. Todas las noches, el molino, la era, el cojo, y los otros seis,
+A partir de esa noche, Sel fue la única persona de Keliun que se sabía el orden de los
+perros. Los demás los oían. Él los escuchaba. Todas las noches, el molino, la era, el cojo, y los otros seis,
 hasta que se dormía.
 
 Le pareció una cosa completamente inútil y aprendérsela le hizo muy feliz.
 
 ---
-
-El día que importa fue un día cualquiera. Conviene decirlo, porque uno no se acuerda de
-los días cualquiera y luego resulta que era el último.
 
 Bajaron al río por la mañana. Maara caminaba despacio, más despacio que el mes anterior,
 y se paró dos veces donde antes se paraba una, y las dos veces dijo que era por mirar el

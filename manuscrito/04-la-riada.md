@@ -20,7 +20,7 @@ en su vida.
 Se vistió mal y salió, y lo primero que vio fue que el pueblo entero estaba despierto,
 bajando en fila por el camino de la era, con faroles y sin correr.
 
-**Sin correr.** Eso fue lo que le pareció más raro. Iban rápido y ordenados, como quien
+Sin correr. Eso fue lo que le pareció más raro. Iban rápido y ordenados, como quien
 ha hecho esto antes, y no gritaba nadie.
 
 —¡Vuelve a la cama! —le dijo alguien al pasar.
@@ -65,8 +65,7 @@ Y pensó en la cuarta línea.
 
 *Ayuda siempre que puedas.*
 
-Y pensó, con la lógica perfecta y espantosa de un niño de nueve años, que **sí que
-podía**.
+Y pensó, con la lógica perfecta y espantosa de un niño de nueve años, que sí que podía.
 
 ---
 
@@ -92,7 +91,7 @@ Y así empezó.
 Lo que vino después fueron cuarenta minutos que Sel recordaría toda su vida, y que
 recordaría de dos maneras distintas según la edad que tuviera al acordarse.
 
-Porque **fue maravilloso**.
+Porque fue maravilloso.
 
 Pasó por el hueco del establo, que era un hueco de niño, y abrió desde dentro el
 portón que llevaban veinte minutos sin poder abrir, y salieron seis animales que se
@@ -105,12 +104,21 @@ Estaba.
 
 Y a partir de ahí, poco a poco, sin que nadie lo decidiera, empezaron a preguntarle a él.
 
-Quiero pararme aquí. Es lo único de esta noche que me importa de verdad.
+Y funcionaron, porque Sel conocía el pueblo mejor que casi nadie. Los niños de un pueblo
+saben cosas que los adultos no se molestan en saber: por dónde se cuela el agua en cada
+patio, qué tapia está mal, cuál de las dos puertas del corral grande se hincha y no
+cierra, dónde duerme cada uno. Un adulto sabe su casa. Un niño se ha metido en todas.
 
-Se llamaba Oren, como el amigo de Tarin, porque en un pueblo de sesenta y cinco personas
-los nombres se repiten. Cuarenta y un años. Llevaba desde las once metido en el agua y
-cargaba una puerta arrancada que pesaba lo que pesa una puerta mojada, que es mucho más
-de lo que pesa una puerta.
+—La tapia de Nera —dijo—. Por debajo. Ahí se va a colar.
+
+Y se coló, veinte minutos después, exactamente por debajo, y ya había alguien esperando
+con sacos.
+
+---
+
+El que cargaba la puerta se llamaba Oren. Cuarenta y un años. Llevaba desde las once
+metido en el agua, y la puerta arrancada pesaba lo que pesa una puerta mojada, que es
+mucho más de lo que pesa una puerta.
 
 Llegó a la mitad de la calle, donde el agua le daba por el pecho, y se paró.
 
@@ -127,27 +135,15 @@ empapado, temblando, con las rodillas juntas.
 
 Nadie dijo nada. Duró tres o cuatro segundos y no fue raro para ninguno de los que lo
 vieron. Un hombre de cuarenta y un años, con el agua por el pecho, en mitad de la noche,
-sosteniendo una puerta, quieto, mirando a un crío y **esperando a que le dijeran qué
-hacer**.
+sosteniendo una puerta, quieto, mirando a un crío y esperando a que le dijeran qué hacer.
 
 Sel se lo dijo.
 
 Oren fue.
 
-Eso es todo. Si de este libro entero hay que quedarse con una imagen, es esa, y no la que
-viene al final, y no la de la última página.
-
 Ninguno de los dos volvió a acordarse.
 
-Y funcionaron, porque Sel conocía el pueblo mejor que casi nadie. Los niños de un pueblo
-saben cosas que los adultos no se molestan en saber: por dónde se cuela el agua en cada
-patio, qué tapia está mal, cuál de las dos puertas del corral grande se hincha y no
-cierra, dónde duerme cada uno. Un adulto sabe su casa. Un niño se ha metido en todas.
-
-—La tapia de Nera —dijo—. Por debajo. Ahí se va a colar.
-
-Y se coló, veinte minutos después, exactamente por debajo, y ya había alguien esperando
-con sacos.
+---
 
 A las doce menos cuarto hizo falta alguien pequeño y rápido para el portón del corral
 grande, que se hincha y no cierra, y Sel miró alrededor buscando quién.
@@ -185,8 +181,6 @@ lo que hizo aquella noche estuvo bien hecho.
 Casi todo.
 
 ---
-
-Aquí es donde tengo que dejar de contarlo bonito.
 
 A las doce y media, con el agua ya bajando, quedaba un carro atascado con la mitad del
 grano del invierno. Estaba a veinte metros, con la corriente de lado, en el sitio donde
@@ -267,14 +261,13 @@ Sel se giró.
 —¿Cuándo?
 
 —Cuando dijiste lo del portón. Yo estaba sacando a mis hermanos. —Se miró las manos—.
-Y los dejé encima de una piedra y fui a lo del portón porque lo dijiste tú. **Dejé a mis
-hermanos en una piedra.**
+Y los dejé encima de una piedra y fui a lo del portón porque lo dijiste tú. Dejé a mis hermanos en una piedra.
 
 —Es que hacía falta.
 
 —Ya sé que hacía falta. —Levantó la vista y se lo quedó mirando de una manera que a Sel
 no le había mirado nadie desde que se murió su abuela: como a alguien que sabe algo—.
-Te estoy preguntando por qué te hice caso **a ti**.
+Te estoy preguntando por qué te hice caso a ti.
 
 Y Sel abrió la boca para contestar y no tenía nada dentro.
 
@@ -288,8 +281,7 @@ Ila negó con la cabeza, despacio, sin dejar de mirar el agua.
 
 —Mira. Yo llevo tres años haciendo cuentas todo el día. Todo el día. Cuánto queda, cuánto
 hace falta, a quién le puedo pedir y a quién no puedo pedirle nunca. No hago otra cosa
-desde los once años. —Se miró las manos, se las volvió a bajar—. Yo **no dejo de hacer
-cuentas**. No sé. Y esta noche dejé a mis hermanos encima de una piedra y me fui, y no
+desde los once años. —Se miró las manos, se las volvió a bajar—. Yo no dejo de hacer cuentas. No sé. Y esta noche dejé a mis hermanos encima de una piedra y me fui, y no
 hice ninguna. Ni una.
 
 —Igual es que...

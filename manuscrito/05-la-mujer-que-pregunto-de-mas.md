@@ -152,30 +152,23 @@ Anu abrió la boca. La cerró. Volvió a colocar los panes.
 —Pues no lo sé —dijo, y sonó molesta consigo misma—. Es raro eso, ¿no? Que no me
 acuerde de por qué.
 
-Anu hace pan desde los diecisiete años y lo hace bien, y eso es lo primero que hay que
-decir de ella, porque es lo primero que diría ella.
+—¿Desde cuándo hace usted el pan? —dijo Miren Saal.
 
-Tuvo dos hijos. El mayor se llamaba Vero y el pequeño no llegó a tener un nombre que
-usara nadie más que ella. Se murieron el mismo año, con seis meses de diferencia, de dos
-cosas distintas, que es el detalle que le arruinó a Anu cualquier explicación: si hubiera
-sido lo mismo habría podido odiar algo.
+—Desde los diecisiete.
 
-El pueblo se portó bien. Vinieron todos, dos veces. Trajeron cosas. Le dijeron que había
-que ser fuerte y que el tiempo cura, y una mujer que la quería mucho le dijo que eran
-ángeles, y Anu se pasó tres años sin poder mirar a esa mujer a la cara.
+—¿Y a qué hora se levanta?
 
-Y volvió al horno a las tres semanas, porque el pueblo tenía que comer, y descubrió una
-cosa que no le ha contado a nadie: que estar de pie a las cuatro de la mañana amasando
-para sesenta personas era lo único que no dolía. No porque la distrajera. Porque era
-útil, y a esa hora no había nadie a quien tuviera que contestar.
+—A las cuatro.
+
+—Eso es mucho madrugar para sesenta personas.
+
+Anu colocó unos panes que ya estaban colocados.
+
+—Se tarda lo que se tarda —dijo.
 
 Lleva veintiún años levantándose a las cuatro. El pueblo cree que es por el pan.
 
-Por eso Anu no le dijo a Sel que había que ser fuerte, ni que el tiempo cura, ni una sola
-de las cosas que le dijeron a ella. Le dijo *no sé qué decirte*, que era exactamente lo
-que le habría gustado que le dijeran, y se calló, que era la otra mitad.
-
-Sel estaba a dos metros comiendo un trozo de pan y no le encontró nada de raro a la
+Sel estaba a dos metros comiendo un trozo y no le encontró nada de raro a la
 conversación. Ya lo sabía él por qué habían cedido. Era porque él había querido, y le
 había salido bien, y se había pasado la semana bastante satisfecho de lo listo que era.
 
@@ -190,9 +183,6 @@ impresión —sin saber por qué, sin poder explicarlo— de que si decía algo,
 escribir.
 
 Se comió el pan.
-
-Ese trozo de pan es la razón de que haya un libro. Si el niño llega a hablar, esto se
-acaba en el capítulo cuatro.
 
 ---
 
@@ -225,7 +215,7 @@ lo que hacía falta.
 
 —Es veresh —dijo—. *Halu* es sueño, de los que uno quiere. *Ish* es «es».
 
-—Eso ya lo sé. Sé lo que quiere decir. Quiero saber **qué iba a decir ella**.
+—Eso ya lo sé. Sé lo que quiere decir. Quiero saber qué iba a decir ella.
 
 —Eso no te lo puede decir nadie.
 
@@ -309,7 +299,7 @@ Se puso de espaldas al pueblo, de cara al valle, y se quedó quieta.
 Sel esperó a que hiciera algo. No hizo nada. Estuvo así unos veinte segundos, con los
 brazos a los lados y la cara vuelta hacia el aire, y lo único que cambió fue que dejó de
 tener postura: los hombros le bajaron, la barbilla se le puso recta, y la cara —Sel se
-acordaría de esto el resto de su vida— **se le quedó sin nada**.
+acordaría de esto el resto de su vida— se le quedó sin nada.
 
 No se transformó. No se volvió otra. Fue peor: se volvió nadie. Como una casa a la que
 se le apaga la luz de dentro y sigue siendo exactamente la misma casa.
@@ -428,6 +418,17 @@ Y se fue por la curva.
 
 ---
 
+Esa noche, en una posada a cuatro horas de allí, escribió una carta muy corta pidiendo
+que le asignaran otra vez la misma comarca el año siguiente. Era una petición de trámite.
+Se concedían solas.
+
+Se la denegaron.
+
+Y en la respuesta, que tardó dos meses en llegarle, había una línea informándole de que
+la comarca ya estaba asignada, y a quién.
+
+---
+
 Sel volvió a casa andando muy despacio.
 
 Se sabía el nombre de sesenta y cinco personas. Sabía cuál de los nueve perros empezaba.
@@ -440,29 +441,3 @@ de que se le fuera a caer.
 Es la primera vez en su vida que tuvo miedo de olvidarse de algo a propósito.
 
 No fue la última.
-
-En un despacho a once días de allí hay un archivo con una ficha de cada uno de estos
-casos, y una nota al margen sobre lo que pasa cuando se dejan crecer, escrita por alguien
-que lo vio una vez.
-
-Miren Saal no abrió una ficha aquel día.
-
-Y ahora conviene entender lo que eso significa, porque no es lo que parece.
-
-Ella no ocultó a Sel. Hizo algo mucho más grande: **borró que hubiera estado allí.** No
-existe un solo testigo en Keliun de que una inspectora subiera al pueblo en primavera. No
-hay nadie a quien preguntar. No hay nada que contrastar.
-
-Eso no lo hace quien quiere tapar a un niño. Eso lo hace quien sabe que le van a preguntar
-y ha decidido de antemano que no va a poder contestar.
-
-Lo que sí hizo, esa misma noche, en una posada a cuatro horas de allí, fue escribir una
-carta muy corta pidiendo que le asignaran otra vez la misma comarca el año siguiente.
-Era una petición de trámite. Se concedían solas.
-
-Se la denegaron.
-
-Y en la respuesta, que tardó dos meses en llegarle, había una línea informándole de que
-la comarca ya estaba asignada, y a quién.
-
-Iba a arrepentirse.
