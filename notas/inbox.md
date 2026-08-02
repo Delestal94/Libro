@@ -57,3 +57,7 @@ Me gustaría hablar sobre trabajo infantil y de la necesidad de la gente que le 
 ## 02/08/2026 · 01:10
 
 Tengo quizás el final, al igual que one piece luffy quiere cumplir el sueño de todos me gustaría a mi como padre del protagonista que mi hijo sea feliz. Que en algún momento de la historia el protagonista diga textualmente: "Mi sueño es"... Y que termine ahí, y cuando sea revelado la frase complace que sea "Mi sueño es que mi hijo sea feliz" no por qué el tenga un hijo sino que la historia al final la cuento yo y mi hijo repito una frase que algún día le dije
+
+## 02/08/2026 · 01:15
+
+Me gustaría también hablar de perder a tus seres queridos o gente importante
