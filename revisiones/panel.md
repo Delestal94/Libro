@@ -73,11 +73,24 @@ está mal. Si sólo lo señala uno, es gusto.
 ## Cómo se ejecuta
 
 1. Se crea la carpeta `revisiones/AAAA-MM-DD-arco-N/`.
-2. Se lanzan los veinte, cada uno con su perfil, y **cada uno escribe su propio informe**
-   en esa carpeta. Sólo pueden escribir ahí.
-3. Cada uno devuelve además un resumen compacto: veredicto y tres hallazgos.
-4. Se agrega todo en `resumen.md`, ordenado **por número de coincidencias**, no por
+2. **Se lanza UNO solo primero y se comprueba que ha escrito su fichero.** Si no lo ha
+   escrito, el registro de agentes está antiguo: hay que reiniciar antes de seguir. Ver
+   abajo por qué.
+3. Se lanzan los diecinueve restantes, cada uno con su perfil. **Cada uno escribe su propio
+   informe** en esa carpeta y sólo puede escribir ahí.
+4. Cada uno devuelve además un resumen compacto: veredicto y tres hallazgos.
+5. Se agrega todo en `resumen.md`, ordenado **por número de coincidencias**, no por
    gravedad aparente.
+6. Se actualiza la tabla de seguimiento de `revisiones/README.md`.
+
+> ### Por qué el paso 2
+>
+> En el primer panel los agentes tenían cargado el registro anterior, **sin permiso de
+> escritura**. Devolvieron los veinte informes por respuesta, hubo que condensarlos para
+> que cupieran, y los transcripts completos —que son temporales— se limpiaron.
+>
+> Sobrevivieron los hallazgos, las puntuaciones y las mejores citas. Se perdieron los
+> matices y la mitad de los ejemplos. **Comprobar con uno cuesta dos minutos.**
 
 ## Qué se hace después
 
