@@ -41,3 +41,7 @@ Me gustaría que los personajes secundarios, tengan tanto lore y transfondo en s
 ## 02/08/2026 · 00:42
 
 Me gustaría que una temporada, una parte de la historia se llegue a una ciudad hermosa con comidas deliciosas, pero de trasfondo haya explotación animal y deforestación.
+
+## 02/08/2026 · 00:44
+
+Quisiera que mi hijo sea el protagonista, actualmente tiene 1 año y 8 meses, acabamos de salir de bañarnos, hacíamos jueguitos graciosos con la boca en el agua, se nos cayó un soporte de plástico que sostiene todas las cosas, se asustó pero fue gracioso.
