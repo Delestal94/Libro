@@ -24,4 +24,11 @@
 | El camino del cementerio brilla más y nadie se pregunta por qué | cap. 5 | — | pendiente |
 | El narrador se delata: «no tengas miedo», «debería haberme parado aquí» | caps. 1-4 | último capítulo | pendiente |
 | La chica de catorce que contestó «irme» sin pensárselo | cap. 5 | — | pendiente |
-| Qué lleva Miren Saal en la bolsa que pesa y suena a metal | cap. 4 | — | pendiente |
+| Qué lleva Miren Saal en la bolsa que pesa y suena a metal | cap. 5 | — | pendiente |
+| «Dos no pueden llevar el mismo a la vez» — dicho una vez y negado | cap. 5 | — | pendiente |
+| A Miren Saal le deniegan volver a la comarca, y le dicen a quién se la han dado | cap. 5 | — | pendiente |
+| El papel funciona mientras estás. Al irte, se deshace | cap. 6 | cap. 6 | pagada |
+| Sel puede hacerlo con trece personas a la vez, y no sabía que se podía | cap. 6 | — | pendiente |
+| Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
+| Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
+| Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |

@@ -210,6 +210,18 @@ como quien quiere que se le vea hacer algo aunque no lo entiendan.
 
 —Porque un día no vas a poder dejar de hacerlo.
 
+Empezó a bajar. Se paró otra vez, sin volverse, mirando la curva.
+
+—Y si alguna vez te encuentras con alguien que lo esté haciendo también —dijo, en el
+tono en que se recita algo que uno ha tenido que aprenderse—, apártate. Dos no pueden
+llevar el mismo a la vez.
+
+—¿El mismo qué?
+
+—Nada. Es un dicho de mi tierra.
+
+No era un dicho de su tierra.
+
 Le dio la mano —la mano, a un niño de nueve años, como a un adulto— y se fue por la
 curva.
 
@@ -222,5 +234,14 @@ casos, y una nota al margen sobre lo que pasa cuando se dejan crecer, escrita po
 que lo vio una vez.
 
 Miren Saal no abrió una ficha aquel día.
+
+Lo que sí hizo, esa misma noche, en una posada a cuatro horas de Keliun, fue escribir
+una carta muy corta pidiendo que le asignaran otra vez la misma comarca el año siguiente.
+Era una petición de trámite. Se concedían solas.
+
+Se la denegaron.
+
+Y en la respuesta, que tardó dos meses en llegarle, había una línea informándole de que
+la comarca ya estaba asignada, y a quién.
 
 Iba a arrepentirse.

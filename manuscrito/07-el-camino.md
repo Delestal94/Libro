@@ -54,6 +54,22 @@ Anu se lo tomó fatal.
 
 —Ya. Por algún sitio hay que empezar.
 
+—¿Y la chica?
+
+—Viene.
+
+Anu dejó lo que tenía en la mano.
+
+—¿Lo sabe su padre?
+
+—Se lo dijo delante de gente.
+
+—Ya. —Anu apretó los labios—. Eso ya lo sé, hijo. Lo que te pregunto es si tú sabes lo
+que le costó decírselo.
+
+Sel no contestó, porque sí lo sabía, y porque llevaba cuatro noches sin dormir haciendo
+esa misma cuenta.
+
 Anu se puso a colocar panes que estaban colocados, que era lo que hacía en vez de gritar.
 Después dijo que no, que de ninguna manera, que tenía nueve años; y Sel dijo que sí; y
 Anu dijo que iba a hablar con Tarin y con todo el pueblo y que ya vería él; y Sel dijo
@@ -132,13 +148,25 @@ frío tan raro.
 
 ---
 
-Se fue de madrugada, que es cuando se van los que no quieren despedirse de nadie, aunque
-en Keliun eso no funciona porque el pueblo entero madruga.
+Se fueron de madrugada, que es cuando se van los que no quieren despedirse de nadie,
+aunque en Keliun eso no funciona porque el pueblo entero madruga.
 
 Estaban en el sendero. No todos: unos catorce, los que se habían enterado. Nadie dijo
-gran cosa. Tarin le dio un cuchillo mejor que el que le habían dado el primer día y le
-enseñó cómo llevarlo para no cortarse él. Alguien le puso el gorro enorme y Sel lo dejó
-puesto por educación.
+gran cosa. Tarin le dio a Sel un cuchillo mejor que el que le habían dado el primer día
+y le enseñó cómo llevarlo para no cortarse él. Alguien le puso el gorro enorme y Sel lo
+dejó puesto por educación.
+
+A Ila no le dio nada nadie.
+
+Estuvo esperando a un lado con un hatillo pequeño, mirando el sendero, mientras trece
+personas se despedían de un niño de nueve años. Sus hermanos no habían venido. Su padre
+tampoco.
+
+Anu se acercó a ella la última, cuando ya se iban, y le puso en la mano el mismo pan que
+le había dado a Sel, del mismo tamaño, y le dijo algo muy corto al oído que Sel no oyó y
+que Ila no le contó nunca.
+
+Fue lo único.
 
 Y entonces pasó lo de la palabra.
 
@@ -181,10 +209,17 @@ perderlas.
 
 Es la única cosa de todo el capítulo que le hizo falta después.
 
+Ila lo oyó también. Y a ella no le pareció lo mejor que había oído en su vida: le pareció
+la explicación de algo, y se quedó mirando al niño que tenía al lado con una cara nueva.
+
+No dijo nada. Todavía.
+
 ---
 
-Bajó por el sendero de arriba, que es el que sale del pueblo por el cementerio, porque
-era más corto y porque quería pasar.
+Bajaron por el sendero de arriba, que es el que sale del pueblo por el cementerio, porque
+era más corto y porque Sel quería pasar.
+
+Ila no preguntó por qué. Se apartó unos metros y le dejó el sitio.
 
 Todavía era de noche.
 
@@ -201,19 +236,36 @@ porque ya había aprendido que se puede sin vaso, y dijo las cuatro líneas ente
 que se le rompiera ninguna, y le salió mucho mejor que en el entierro, y eso le dio una
 tristeza distinta que no supo colocar.
 
-Después siguió andando.
+Cuando bajó la mano, Ila estaba a diez metros con el hatillo al hombro, esperando sin
+prisa.
 
-Al final de la cuesta, ya donde el sendero gira, se volvió a mirar el pueblo. Estaba
+—¿Ya?
+
+—Ya.
+
+Siguieron andando.
+
+Al final de la cuesta, ya donde el sendero gira, Sel se volvió a mirar el pueblo. Estaba
 todo negro. Keliun se apaga entero y no hay en varias horas de camino una sola luz
 encendida.
 
 Todo negro menos el camino de arriba, que se veía perfectamente, un hilo verde pálido
 subiendo hasta el cementerio y desparramado por él.
 
-Sel pensó que era bonito.
+—Es bonito —dijo Sel.
 
-Nunca se le ocurrió preguntarse por qué esa parte estaba más iluminada que el resto.
+Ila miró.
 
-Los perros empezaron detrás de él. Molino, cojo, era, y los otros seis.
+Miró el hilo verde, y miró dónde terminaba, y miró la parte del cementerio donde el
+verde era más espeso, que era la parte nueva.
 
-Por primera vez en dos meses, no los contó.
+—Sí —dijo.
+
+Y no le explicó nada, porque tenía catorce años y ya había entendido que hay cosas que
+no se le explican a un niño el primer día de camino.
+
+Los perros empezaron detrás de ellos. Molino, cojo, era, y los otros seis.
+
+Por primera vez en dos meses, Sel no los contó.
+
+Ila sí. Los contó enteros, sin decir nada, como llevaba haciendo desde los once años.
