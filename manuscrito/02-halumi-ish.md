@@ -1,16 +1,30 @@
 # Halumi ish
 
-Dos noches después, los perros aullaron en otro orden.
+Dos noches después, los perros se equivocaron.
 
-Sel lo oyó medio dormido y algo le pareció raro sin llegar a saber el qué. Para notar
-que una costumbre se ha roto hay que haberla oído igual muchos años, y él no llevaba
-vivo tantos. Se dio la vuelta y volvió a dormirse.
+Sel lo notó enseguida, porque llevaba dos meses contándolos. Empezó el del molino, como
+siempre. Después tenía que ir el de la era, y no fue el de la era: fue el cojo. Y
+después ya no supo, porque se incorporó en la cama y se puso a escuchar en serio, y
+escuchando en serio no se cuenta bien.
 
-Lo que lo despertó del todo fue que Maara no se levantó a cerrar la ventana.
+Terminaron. Se callaron todos a la vez, como siempre. Habían sido nueve, como siempre.
 
-Eso fue lo primero, para él. La ventana del fondo golpeaba cuando había viento, y Maara
-la cerraba siempre ella, y siempre a la misma hora, refunfuñando lo mismo. Sel se
-despertó con el golpe, esperó el refunfuño, y no vino.
+Sel se quedó sentado a oscuras un buen rato, muy contento, pensando que a lo mejor era
+por él. Que a lo mejor dos meses de aullar detrás del corral habían servido para algo y
+los perros habían movido las cosas de sitio para hacerle hueco.
+
+Es lo que se piensa a los nueve años. Y es lo que iba a recordar, mucho después, cuando
+ya supiera lo que significaba de verdad que cambiara el orden: que lo primero que hizo
+al enterarse fue alegrarse.
+
+Se estaba durmiendo otra vez cuando oyó la ventana.
+
+Porque Maara no se levantó a cerrarla.
+
+La ventana del fondo golpeaba cuando había viento, y Maara la cerraba siempre ella, y
+siempre a la misma hora, refunfuñando lo mismo. Sel esperó el refunfuño.
+
+No vino.
 
 Se quedó quieto un momento. Después fue.
 
@@ -127,10 +141,15 @@ Esa frase no se termina en este capítulo.
 
 ---
 
-Aquella noche, más tarde, los perros se ordenaron otra vez. Sel los contó sin querer,
-porque no tenía otra cosa que hacer con la cabeza. Seguían siendo nueve.
+A la noche siguiente los perros volvieron a ordenarse. Sel los contó sin querer, porque
+no tenía otra cosa que hacer con la cabeza.
 
-Ese fue el orden a partir de entonces.
+Molino. Cojo. Era. Y los otros seis.
+
+No era el orden de antes. Tampoco era el de la otra noche. Era uno nuevo, y ya no se
+movió más.
+
+Le habían hecho hueco a alguien. No a él.
 
 ---
 

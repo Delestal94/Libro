@@ -22,13 +22,18 @@
 la frase cortada, y el primer papel — que no lo toma: le cae encima.
 
 ### 1. El brindis
-Un día cualquiera en Keliun. Sel, nueve años, y Maara. Se ve cómo se vive sin magia.
-Maara le enseña el brindis con un vaso de agua, porque es niño.
-→ **Cambia:** el lector sabe las cuatro líneas. Y sabe que Maara está peor de lo que dice.
+Sel lleva cuatro meses intentando que los perros lo acepten como el décimo. Falla,
+roba pan, sigue fallando. Maara le dice que deje de meterse y aprenda a contarlos — y
+así se convierte en la única persona de Keliun que se sabe el orden. Al final del día,
+el brindis, con vasos de agua.
+→ **Cambia:** el lector sabe las cuatro líneas, sabe que Maara está peor de lo que dice,
+y tiene en la mano un dato que parece inútil.
 
 ### 2. Halumi ish
-Maara muere de noche. Empieza a decir una frase y no la termina.
+El orden de los perros cambia. Sel lo nota —es el único que podría— y se alegra, porque
+cree que le han hecho hueco. Esa noche muere Maara. Empieza una frase y no la termina.
 → **Cambia:** Sel se queda con una pregunta que no puede contestar nadie de Keliun.
+Y el dato inútil resulta que servía para algo horrible.
 
 ### 3. Lo que hace un huérfano
 El entierro. Sel brinda solo por primera vez. Sin querer, *hace de huérfano* delante

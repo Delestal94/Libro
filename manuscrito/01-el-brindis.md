@@ -1,52 +1,144 @@
 # El brindis
 
-En Keliun se apagaba todo a la vez.
+Sel llevaba cuatro meses intentando que lo aceptaran los perros.
 
-No era una costumbre ni una ley; era que no había nada que dejar encendido. Cuando el
-sol se iba detrás del cerro, las casas se quedaban del color del cerro, y la gente que
-todavía tenía algo que decir lo decía a oscuras y en voz más baja, porque a oscuras
-nadie grita. Después se oía a los perros ordenarse, y después ya no se oía nada.
+Conviene explicar esto antes que nada, porque si no, lo que hizo después no se entiende.
 
-Los que venían de fuera decían que Keliun estaba atrasado. Lo decían con una sonrisa,
-como quien elogia una silla vieja. Los de Keliun contestaban que sí, que mucho, y
-seguían con lo suyo, que en verano era el agua y en invierno la leña, y en los dos casos
-las manos.
+En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que
+hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba
+contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo,
+siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando
+acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer.
 
-Sel tenía nueve años y no sabía que se pudiera vivir de otra manera.
+La gente lo usaba para saber la hora. Sel lo usaba para otra cosa.
 
-Vivía con su abuela en la última casa antes del sendero, una que se inundaba cada dos
-inviernos por el mismo sitio y que cada dos inviernos volvían a tapar con el mismo
-barro. La abuela se llamaba Maara. Era pequeña, tenía las manos como raíces y una manera
-propia de mirar las cosas que se le rompían: se quedaba un rato quieta delante, como
-esperando a que se disculparan.
+Sel había decidido que iba a ser el décimo.
 
-—Se cayó solo —decía Sel.
+—No eres un perro —le dijo su abuela la primera noche.
 
-—Nada se cae solo —decía ella—. Lo que pasa es que a veces no estabas mirando.
+—Ya.
 
-Y lo arreglaba.
+—Es un dato relevante.
 
-Sel sonreía mucho. Eso hay que decirlo pronto, porque después va a importar. No sonreía
-por listo ni por bobo: sonreía como otros silban, sin darse cuenta, y la cara se le
-quedaba así incluso cuando la cosa no daba para sonreír, lo cual, en un pueblo donde a
-todo el mundo se le había muerto alguien, incomodaba a más de uno. La panadera decía que
-ese niño no entendía nada. Maara la dejaba decirlo. Después, en casa, le contaba a Sel
-que la panadera había perdido dos hijos el mismo año, y que hay gente a la que le duele
-la alegría ajena como a otros les duele la luz.
+Aun así lo intentó. Se ponía en la parte alta del pueblo, esperaba a que terminara el
+cojo, que era el quinto, y metía el suyo en el hueco. Los perros no le hicieron ningún
+caso. Siguieron con su orden como si en la parte alta del pueblo no hubiera nada, que
+es exactamente lo que había desde su punto de vista.
 
-—¿Y entonces no sonrío? —preguntó Sel.
+Al mes cambió de estrategia y empezó a probar en otros huecos. Nada. Al segundo mes
+llegó a la conclusión de que el problema era técnico y se dedicó a mejorar el aullido,
+lo cual significa que durante seis semanas, todas las tardes, un niño de nueve años
+practicaba aullidos detrás del corral.
 
-—Sonríe —dijo Maara—. Pero sabiendo.
+—Ese ha sido mejor —dijo Maara desde dentro.
 
-Aquel día era un día cualquiera. Conviene decirlo también, porque uno no se acuerda de
+—¿Sí?
+
+—No.
+
+La panadera bajó dos veces a quejarse. La primera, Maara escuchó la queja entera con
+mucha atención y contestó que sí, que era horrible, y que llevaba oyéndolo desde más
+cerca. La segunda, la panadera dijo que ese niño no entendía nada, y Maara dejó de
+sonreír un momento y le dijo que entendía bastante, y la panadera se fue.
+
+Esa noche, en la cena, Maara le contó a Sel que la panadera había perdido dos hijos el
+mismo año, y que hay gente a la que le duele la alegría ajena como a otros les duele
+la luz.
+
+—¿Y entonces no me río?
+
+—Ríete —dijo Maara—. Pero sabiendo.
+
+Sel se rió. Sabiendo, o eso creyó él.
+
+---
+
+Hay que decir que sonreía todo el rato. Eso importa después, así que lo dejo puesto
+aquí.
+
+No sonreía por listo ni por bobo: sonreía como otros silban, sin darse cuenta, y la
+cara se le quedaba así incluso cuando la cosa no daba para sonreír, lo cual, en un
+pueblo donde a todo el mundo se le había muerto alguien, incomodaba a más de uno.
+
+Era el único niño de Keliun que no tenía padres y el único que no parecía tenerlo en
+cuenta. Los mayores lo comentaban en voz baja, con esa mezcla de alivio y sospecha con
+la que se habla de alguien que lleva bien lo que no se puede llevar bien.
+
+Maara los oía y no decía nada. Sabía perfectamente que Sel se despertaba algunas noches.
+También sabía que lo mejor que podía hacer con eso era dejarlo estar hasta que él lo
+trajera, y que se lo iba a traer un día, y que ese día ella tenía que estar despierta.
+
+---
+
+El cuarto mes fue el mes de la teoría del pan.
+
+La teoría del pan sostenía que los perros no lo aceptaban porque no compartía con ellos,
+y que, si les daba de comer, cambiarían de idea. Era una teoría preciosa. Tenía dos
+problemas: que a los nirai no les da de comer nadie, y que el pan de Keliun lo hacía la
+panadera.
+
+Sel resolvió el segundo problema robándolo.
+
+Lo hizo mal. Lo hizo tan mal que la panadera lo vio salir con el pan debajo del brazo y
+no dijo nada, y bajó una hora después a casa de Maara a contarlo, y Maara la escuchó,
+y las dos miraron al niño, que estaba en el corral repartiendo pan entre nueve perros
+que lo estaban ignorando activamente.
+
+—Se lo hago pagar —dijo Maara.
+
+—Déjalo —dijo la panadera.
+
+Y después, en la puerta, ya de espaldas:
+
+—Que lo pague. Pero no hoy.
+
+Maara se lo hizo pagar dos días más tarde, con trabajo, cargando leña, y no le explicó
+por qué no había sido enseguida. Sel tampoco preguntó. A los nueve años uno acepta el
+calendario de los castigos como acepta el clima.
+
+Los perros, por cierto, se comieron el pan y no lo aceptaron igual.
+
+—Es que no entienden —dijo Sel esa noche—. Si me oyeran bien, sabrían que quiero
+entrar.
+
+—Te oyen perfectamente.
+
+—¿Y entonces?
+
+Maara lo pensó de verdad, que era la parte suya que a él más le gustaba: no contestaba
+rápido nunca.
+
+—Que ellos ya tienen su orden —dijo—. Y su orden no es una cosa a la que se entra.
+
+—¿Y a qué es?
+
+—A saber. —Se encogió de hombros—. Pero llevan haciéndolo desde antes que yo, y yo
+llevo aquí mucho. Yo que tú, en vez de meterme, aprendería a contarlo.
+
+—¿Para qué?
+
+—Para saberlo —dijo Maara—. Es la única razón buena que hay para aprenderse una cosa.
+
+Así que Sel dejó de aullar y empezó a contar.
+
+Y esto es lo importante, aunque en este capítulo no lo parezca: **a partir de esa noche,
+Sel fue la única persona de Keliun que se sabía el orden de los perros.** Los demás lo
+oían. Él lo escuchaba. Todas las noches, el molino, la era, el cojo, y los otros seis,
+hasta que se dormía.
+
+Le pareció una cosa completamente inútil y aprendérsela le hizo muy feliz.
+
+---
+
+El día que importa fue un día cualquiera. Conviene decirlo, porque uno no se acuerda de
 los días cualquiera y luego resulta que era el último.
 
-Habían bajado al río por la mañana. Maara caminaba despacio, más despacio que el mes
-anterior, y se paraba dos veces donde antes se paraba una, y las dos veces dijo que era
-por mirar el valle. Sel miró el valle con ella para hacerle compañía. Es lo que se hace
-a los nueve años: uno no pregunta, uno mira el valle.
+Bajaron al río por la mañana. Maara caminaba despacio, más despacio que el mes anterior,
+y se paró dos veces donde antes se paraba una, y las dos veces dijo que era por mirar el
+valle. Sel miró el valle con ella para hacerle compañía. Es lo que se hace a los nueve
+años: uno no pregunta, uno mira el valle.
 
-Volvieron con dos cubos, y Sel llevó el más pesado sin que ella se lo pidiera, y ella se
+Volvieron con dos cubos. Sel llevó el más pesado sin que ella se lo pidiera, y ella se
 dio cuenta y no dijo nada, que era su forma de dar las gracias.
 
 Por la tarde arreglaron la puerta del corral. Es decir: Maara arregló la puerta del
@@ -59,8 +151,9 @@ corral y Sel le fue dando cosas.
 —Todos —dijo ella—. El más torcido.
 
 Cuando terminaron ya estaba oscureciendo, y ella se sentó en el escalón de la entrada
-con un cansancio que no era de la puerta. Se quedó ahí un rato larguísimo. Después dijo,
-sin volverse:
+con un cansancio que no era de la puerta. Se quedó ahí un rato larguísimo.
+
+Después dijo, sin volverse:
 
 —Trae dos vasos.
 
@@ -72,12 +165,16 @@ Sel trajo dos vasos.
 
 —De agua. Tienes nueve años.
 
+—El del molino ya ha empezado —dijo Sel, que estaba pendiente de otra cosa.
+
+—Ya lo he oído. Llena los vasos.
+
 Los llenó. Maara cogió el suyo con las dos manos, como se coge algo que pesa, aunque no
 pesaba, y esperó a que él hiciera lo mismo. Sel lo hizo. Le pareció un juego y por eso
 sonrió, y ella lo dejó sonreír, porque también era un juego, y porque las cosas que uno
 aprende riéndose se quedan mejor pegadas.
 
-—Esto se dice de pie —dijo Maara.
+—Esto se dice de pie.
 
 Se levantaron los dos. Ella con trabajo.
 
@@ -111,13 +208,11 @@ la oyera sola.
 
 Bebieron. Era agua del río y sabía a río.
 
-—¿Ya está? —dijo Sel.
+—¿Ya está?
 
 —Ya está.
 
 —¿Y para qué sirve?
-
-Maara se sentó otra vez en el escalón, más despacio de lo que se había levantado.
 
 —Para acordarte.
 
@@ -155,7 +250,7 @@ a hacer falta que diga lo que dice.
 Sel no entendió eso. Lo guardó igual, como se guardan las herramientas de un tamaño que
 todavía no se usa.
 
-—¿Tú te has acordado alguna vez? —preguntó.
+—¿Tú te has acordado alguna vez?
 
 Maara tardó en contestar.
 
@@ -165,10 +260,24 @@ Maara tardó en contestar.
 
 —No —dijo ella—. Pero seguí.
 
+Fuera, el cojo aulló el suyo, el quinto, en su sitio de siempre.
+
+—Ese es el que me dejaba entrar —dijo Sel.
+
+—Ese no te dejaba entrar.
+
+—Bueno. Ese era el que menos me echaba.
+
+Maara se rió otra vez, más flojo, cuidando de que no le pillara la tos.
+
+—Anda, a la cama.
+
 Aquella noche Sel se durmió pronto, como se duerme cuando se ha cargado un cubo pesado y
-se ha arreglado una puerta. La casa hacía los ruidos de siempre. Fuera, el pueblo entero
-se había apagado a la vez, igual que todas las noches, y no había en varias horas de
-camino una sola luz encendida.
+se ha arreglado una puerta, contando el orden hasta el noveno como todas las noches
+desde hacía dos meses.
+
+Fuera, el pueblo entero se apagó a la vez, igual que siempre, y no hubo en varias horas
+de camino una sola luz encendida.
 
 No tengas miedo. Todavía no pasa nada.
 
