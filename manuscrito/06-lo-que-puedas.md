@@ -17,10 +17,7 @@ Lavaba más porque hacía falta más, y hacía falta más porque no tenían desp
 y no tenían despensa ni mantas porque la noche de la riada nadie subió nada a la mesa en
 su casa.
 
-Sel sabía las tres cosas. Las sabía por separado, cada una en su sitio, como se saben las
-cosas a los nueve años: sin ponerlas en fila.
-
-Le habría bastado con ponerlas en fila.
+Sel sabía las tres cosas. Las sabía por separado, cada una en su sitio.
 
 Sel se sentó a mirarla. No ayudó, porque lo había intentado el primer día y la había
 estropeado.
@@ -177,10 +174,10 @@ uy, que se le había pasado, que qué cabeza, y era cierto: se le había pasado.
 mintiendo. Se había pasado el día en su casa haciendo sus cosas sin que en ningún momento
 se le cruzara por la cabeza que tenía algo que hacer.
 
-Nadie se echó atrás. Nadie se lo pensó mejor. Nadie dijo en su casa *mira, al final no*. Lo que ocurrió
-fue algo más pequeño y mucho peor: que el compromiso dejó de estar donde se ponen los
-compromisos. Se quedó fuera de la lista de cosas que hay que hacer hoy, como si no lo
-hubieran metido nunca.
+Nadie se echó atrás. Nadie se lo pensó mejor. Nadie dijo en su casa *mira, al final no*.
+Lo que ocurrió fue algo más pequeño y mucho peor: que el compromiso dejó de estar donde se
+ponen los compromisos. Se quedó fuera de la lista de cosas que hay que hacer hoy, como si
+no lo hubieran metido nunca.
 
 El miércoles, Anu les dio de comer y estuvo rara. Y el jueves Sel la oyó decirle a otra,
 en la puerta de la panadería, sin mala intención ninguna, con una perplejidad auténtica:
@@ -251,9 +248,8 @@ hubiera gritado toda la conversación—. Ese es el problema. Que no sabías y l
 
 Se quedaron los dos quietos.
 
-Y entonces Ila dijo la única cosa que Sel no iba a poder olvidar en toda su vida, y la
-dijo sin rencor ninguno, casi con curiosidad, como quien por fin le encuentra el nombre a
-algo:
+Ila lo dijo sin rencor ninguno, casi con curiosidad, como quien por fin le encuentra el
+nombre a algo:
 
 —La noche del río. Cuando me llamaste.
 
@@ -288,9 +284,7 @@ del molino con el carro.
 
 —¿Eres tú?
 
-Y Sel, que tenía nueve años, y que llevaba once semanas queriendo enseñarle el truco a
-alguien, y que no había entendido hasta ese momento exactamente qué era lo que había
-aprendido a hacer, dijo la verdad.
+Sel llevaba once semanas queriendo enseñarle el truco a alguien.
 
 —Sí.
 

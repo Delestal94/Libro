@@ -166,7 +166,7 @@ Anu colocó unos panes que ya estaban colocados.
 
 —Se tarda lo que se tarda —dijo.
 
-Lleva veintiún años levantándose a las cuatro. El pueblo cree que es por el pan.
+Llevaba veintiún años levantándose a las cuatro. El pueblo creía que era por el pan.
 
 Sel estaba a dos metros comiendo un trozo y no le encontró nada de raro a la
 conversación. Ya lo sabía él por qué habían cedido. Era porque él había querido, y le
@@ -418,7 +418,7 @@ Y se fue por la curva.
 
 ---
 
-Esa noche, en una posada a cuatro horas de allí, escribió una carta muy corta pidiendo
+Aquella noche, en una posada a cuatro horas de allí, Miren Saal escribió una carta corta pidiendo
 que le asignaran otra vez la misma comarca el año siguiente. Era una petición de trámite.
 Se concedían solas.
 
@@ -438,6 +438,6 @@ Se pasó el resto del día repitiendo en voz alta, sin que le viera nadie, *se l
 Miren Saal, se llamaba Miren Saal, se llamaba Miren Saal*, con el miedo exacto y físico
 de que se le fuera a caer.
 
-Es la primera vez en su vida que tuvo miedo de olvidarse de algo a propósito.
+Fue la primera vez en su vida que tuvo miedo de olvidar algo.
 
 No fue la última.

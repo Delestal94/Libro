@@ -261,7 +261,7 @@ Sel se giró.
 —¿Cuándo?
 
 —Cuando dijiste lo del portón. Yo estaba sacando a mis hermanos. —Se miró las manos—.
-Y los dejé encima de una piedra y fui a lo del portón porque lo dijiste tú. Dejé a mis hermanos en una piedra.
+Y fui a lo del portón porque lo dijiste tú. Dejé a mis hermanos en una piedra.
 
 —Es que hacía falta.
 
@@ -281,8 +281,8 @@ Ila negó con la cabeza, despacio, sin dejar de mirar el agua.
 
 —Mira. Yo llevo tres años haciendo cuentas todo el día. Todo el día. Cuánto queda, cuánto
 hace falta, a quién le puedo pedir y a quién no puedo pedirle nunca. No hago otra cosa
-desde los once años. —Se miró las manos, se las volvió a bajar—. Yo no dejo de hacer cuentas. No sé. Y esta noche dejé a mis hermanos encima de una piedra y me fui, y no
-hice ninguna. Ni una.
+desde los once años. —Se miró las manos, se las volvió a bajar—. Yo no dejo de hacer
+cuentas. No sé. Y esta noche me fui y no hice ninguna. Ni una.
 
 —Igual es que...
 

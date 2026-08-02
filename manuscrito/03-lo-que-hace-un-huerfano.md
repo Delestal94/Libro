@@ -162,8 +162,6 @@ otro rellenara el hueco él solito, porque los mayores no aguantan un hueco.
 
 Estuvo dos días haciendo eso y le pareció fascinante, como un truco de cartas.
 
-El domingo le salió mal, y le salió mal de la peor manera posible: le salió bien.
-
 ---
 
 El domingo se juntaron seis o siete en la plaza para decidir qué hacer con él. Estaba

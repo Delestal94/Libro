@@ -146,8 +146,8 @@ llevo aquí mucho. Yo que tú, en vez de meterme, aprendería a contarlo.
 Así que Sel dejó de aullar y empezó a contar.
 
 A partir de esa noche, Sel fue la única persona de Keliun que se sabía el orden de los
-perros. Los demás los oían. Él los escuchaba. Todas las noches, el molino, la era, el cojo, y los otros seis,
-hasta que se dormía.
+perros. Los demás los oían. Él los escuchaba. Todas las noches, el molino, la era, el
+cojo, y los otros seis, hasta que se dormía.
 
 Le pareció una cosa completamente inútil y aprendérsela le hizo muy feliz.
 

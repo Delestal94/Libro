@@ -167,9 +167,8 @@ generaciones.
 
 Nueve promesas rotas en un pueblo entero, en cien años.
 
-Le pareció poquísimo. Y años después, cuando ya había estado en sitios donde ese número
-no significaba nada, seguía pareciéndoselo, y era la única cosa de Keliun de la que
-presumía delante de desconocidos.
+Le pareció poquísimo. Siguió pareciéndoselo toda la vida, y era la única cosa de Keliun
+de la que presumía delante de desconocidos.
 
 Escogió una rama fina. Se le daba mal; le salió un nudo torpe y demasiado apretado.
 

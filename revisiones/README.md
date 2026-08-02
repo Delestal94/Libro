@@ -54,27 +54,37 @@ siguiente, y **los 6 dicen literalmente «a una persona concreta»**.
 Los que coinciden en tres o más revisores. **Se actualiza el estado en cada panel nuevo**,
 no antes: que yo crea haberlo arreglado no es que esté arreglado.
 
-| # | Hallazgo | Coincidencias | 2026-08-02 | Pasada 4 |
-|---|---|---|---|---|
-| **H1** | El narrador explica lo que las escenas ya habían hecho. 22 glosas; 17 sobran | **20 / 20** | 🔴 | 🟡 **14 cortadas** |
-| **H2** | Señalar cuál es la imagen buena la estropea | 6 | 🔴 | 🟡 los tres carteles fuera |
-| **H3** | Nadie quiere ser Sel. Todos prefieren a Ila | 6 / 6 niños | 🔴 | 🔴 |
-| **H4** | Lo que los adultos admiran es lo que los niños saltan. Biografías en bloque | 10 / 12 + 3 escritores | 🔴 | 🟡 Tarin y Anu en escena |
-| **H5** | El final del cap. 5 queda sepultado bajo dos codas | 8 | 🔴 | 🟡 cierra en «No fue la última» |
+| # | Hallazgo | Coincidencias | 1.º panel | Pasada 4 | **Verificado** |
+|---|---|---|---|---|---|
+| **H1** | El narrador explica lo que las escenas ya habían hecho | **20 / 20** | 🟡 14 cortadas | 🟡 **medias.** Quedan 8, no 5: hay tres sin pronombre. Y las glosas incrustadas siguen |
+| **H2** | Señalar cuál es la imagen buena la estropea | 6 | 🟡 tres carteles fuera | 🟡 **medias.** Sobrevivían cuatro sin nombre; dos cortados en la pasada 5 |
+| **H3** | Nadie quiere ser Sel | 6 / 6 niños | 🔴 | 🔴 |
+| **H4** | Lo que los adultos admiran es lo que los niños saltan | 10 / 12 + 3 escritores | 🟡 Tarin y Anu | 🟡 **Anu cerrada. Tarin no** — el diálogo no lleva los once años; siguen narrados |
+| **H5** | El final del cap. 5 sepultado bajo dos codas | 8 | 🟡 | 🟢 **cerrado** (con daño, ya reparado) |
 | **H6** | El capítulo 7 se cae | 6 | 🔴 | 🔴 |
 | **H7** | Ila abandona a sus hermanos y el libro no se entera | 5 | 🔴 | 🔴 |
-| **H8** | El humor muere en el cap. 3. Los caps. 4 y 6 no tienen ninguno | 4 | 🔴 | 🔴 |
+| **H8** | El humor muere en el cap. 3 | 4 | 🔴 | 🔴 |
 | **H9** | «Papel» aparece una vez y no la dice ningún personaje | 2 críticos + 3 niños | 🔴 | 🔴 |
-| **H10** | El sistema no tiene unidad de medida. Tres contradicciones | 2 críticos | 🔴 | 🔴 |
-| **H11** | Sel no elige nunca. Sus dos decisiones están anuladas | 2 críticos | 🔴 | 🔴 |
+| **H10** | El sistema no tiene unidad de medida | 2 críticos | 🔴 | 🔴 |
+| **H11** | Sel no elige nunca | 2 críticos | 🔴 | 🔴 |
 | **H12** | La numeración de la biblia está desfasada | 2 críticos | 🔴 | 🔴 |
 | **H13** | No hay título | 1 crítico | 🔴 | 🔴 |
-| **H14** | 14 negritas, y tres capítulos sin ninguna | 1 escritor | 🔴 | 🟡 **cero en los siete** |
+| **H14** | 14 negritas, tres capítulos sin ninguna | 1 escritor | 🟡 | 🟢 **cerrado.** Cero en los siete |
 
-**Leyenda:** 🔴 abierto · 🟡 tocado, sin confirmar · 🟢 cerrado por un panel posterior
+**Leyenda:** 🔴 abierto · 🟡 tocado, sin confirmar · 🟢 cerrado por un revisor posterior
 
-> **El amarillo no vale.** Sólo un panel posterior puede poner un hallazgo en verde. Cinco
-> tocados de catorce.
+> **Dos verdes de catorce.** Y la lección: los que se cerraron eran los dos que se podían
+> arreglar cortando. **Un problema estructural no se resta.**
+
+### Hallazgos nuevos, hijos de la pasada 4
+
+| # | Hallazgo | Origen |
+|---|---|---|
+| **H15** | Ocho prolepsis de la misma forma, dos casi literales | **Estaban camufladas entre las glosas. Se cortó el camuflaje y no se cortó la cosa** |
+| **H16** | «Dejé a mis hermanos en una piedra», cuatro veces | Se le quitó el subrayado al narrador y se dejó en boca de los personajes |
+| **H17** | Errores introducidos al arreglar | Tiempo verbal mezclado en el nuevo cierre del cap. 5 · isla de presente en la línea de Anu · salto de dos meses sin marca · seis márgenes rotos |
+
+**Los tres, reparados en la pasada 5.** H15 a medias: quedan seis prolepsis.
 
 ### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
 
@@ -96,6 +106,45 @@ Lo hecho, todo por corte y traslado. **Ni una escena reescrita.**
   lector de 13 años.
 
 **Comprobado que las doce cosas de la lista de conservar siguen intactas.**
+
+### Pasada 5 · reparar el daño colateral · 14.632 → 14.520 palabras
+
+Todo lo que encontró el crítico al releer, arreglado:
+
+- El error de tiempo verbal y de sentido en el nuevo cierre del cap. 5
+- La isla de presente que metí arreglando a Anu
+- El salto de dos meses sin marca
+- «Dejé a mis hermanos en una piedra»: de cuatro veces a dos
+- Los dos carteles que sobrevivían justo antes del clímax del arco
+- La prolepsis duplicada casi literal entre el cap. 2 y el 7
+- Seis márgenes rotos por la tijera
+
+Las doce cosas a conservar, verificadas otra vez. Intactas.
+
+---
+
+## La lección de la primera iteración completa
+
+**Escribir → panel → corregir → panel** funciona, y lo primero que enseñó es incómodo:
+
+1. **La nota no se movió.** 4 de 8 antes y después de cortar 786 palabras.
+2. **Sólo se cerraron los dos hallazgos que se podían arreglar cortando** (H5 y H14).
+3. **Sobreestimé lo hecho en tres de cinco.** Dije que Tarin pasaba a escena y no pasó;
+   dije cinco glosas y eran ocho; dije los carteles fuera y quedaban cuatro.
+4. **Aparecieron tres hallazgos nuevos, y los tres son hijos del arreglo anterior.** El más
+   instructivo: al quitar las glosas quedaron al aire ocho prolepsis que estaban camufladas
+   entre ellas.
+
+> **«Si se pueden quitar 786 palabras de narrador sin perder un solo dato, el narrador no
+> llevaba datos: llevaba énfasis. Se hizo la resta y no apareció nada en el hueco.»**
+
+**Lo que queda no se arregla con tijeras.** Y hay una escena concreta que arregla tres
+criterios a la vez: **Ila entrando en su casa a la mañana siguiente de la riada, en plano,
+con la despensa del invierno en el suelo.** Hoy eso está contado en cuatro líneas, fuera de
+plano, por el narrador — que es exactamente el problema mayor del arco:
+
+> **«Todas las causas de este arco están en escena y todos los efectos están contados fuera
+> de plano.»**
 
 ---
 
