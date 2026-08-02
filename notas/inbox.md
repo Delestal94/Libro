@@ -37,3 +37,7 @@ Me gustaría que el protagonista tenga una personalidad sin maldad, quizás inge
 ## 01/08/2026 · 23:20
 
 Me gustaría que los personajes secundarios, tengan tanto lore y transfondo en sus historias que puedan haber sido protagonista de sus propias historias y ser tan grande como la del protagonista
+
+## 02/08/2026 · 00:42
+
+Me gustaría que una temporada, una parte de la historia se llegue a una ciudad hermosa con comidas deliciosas, pero de trasfondo haya explotación animal y deforestación.
