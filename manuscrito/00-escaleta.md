@@ -36,19 +36,26 @@ cree que le han hecho hueco. Esa noche muere Maara. Empieza una frase y no la te
 Y el dato inútil resulta que servía para algo horrible.
 
 ### 3. Lo que hace un huérfano
-El entierro. Sel brinda solo por primera vez. Sin querer, *hace de huérfano* delante
-del pueblo — y algo funciona: la gente le da cosas, le abre puertas, le cree.
-→ **Cambia:** Sel descubre que actuar un papel sirve. No entiende qué ha hecho.
+El pueblo lo alimenta cuatro veces al día. Descubre por accidente que *quedarse quieto*
+hace que la gente le dé cosas, lo prueba como un truco de cartas, y el domingo lo usa a
+propósito para que no le quiten la casa. Le sale bien y nadie recuerda por qué cedió.
+Esa noche descubre que ya no se acuerda de cómo sonaba la voz de su abuela.
+→ **Cambia:** el papel funciona. Y cobra. Sel no relaciona las dos cosas.
 
 ### 4. La mujer que preguntó de más
-Llega alguien de fuera preguntando por «irregularidades». Habla con el pueblo, no con
-él. Sel la ve escribir en un cuaderno y no le da importancia.
-→ **Cambia:** el lector sabe que lo persiguen. Sel no.
+Llega Miren Saal, inspectora, «por lo de los registros». Sel la ayuda cuatro días
+seguidos y le cuenta prácticamente todo. Ella anota. Estuvo a punto de confesarle el
+truco y se calló por un pelo. Ella le dice que la frase la termina cada uno distinto —y
+él decide preguntársela a todo el mundo. Al irse, arranca las hojas del cuaderno.
+→ **Cambia:** el lector sabe que lo persiguen y que alguien decidió no denunciarlo. Sel
+sólo sabe que era una señora rara.
 
 ### 5. El camino
-Sel se va a buscar el final de la frase. Alguien del pueblo le dice «`avanesh`» a otro
-—el que hace de padre— y Sel entiende que hay palabras para esto.
-→ **Cambia:** empieza el viaje, y el sistema tiene nombre.
+Pregunta la frase a los veintiséis adultos de Keliun. Ninguna se parece. Anu le hace pan
+del día siguiente. Ata dos nudos en el haranu —volver, y traer la frase— cuando la regla
+dice que sólo se atan las que se pueden cumplir. Aprende `-in` y `-esh`. Se va por el
+cementerio y no se pregunta por qué esa parte del camino brilla más.
+→ **Cambia:** empieza el viaje, el sistema tiene nombre, y hay una promesa de más atada.
 
 ---
 
