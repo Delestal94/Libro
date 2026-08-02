@@ -69,3 +69,7 @@ Me gustaría hablar de la xenofobia, de las migraciones de personas, del racismo
 ## 02/08/2026 · 01:20
 
 Me gustaría hablar de la sobre estimulación tecnológica, que nos olvidamos de la conexión humana, de jugar en la calle, del cara a cara
+
+## 02/08/2026 · 01:22
+
+Me gustaría temas como el arte, la música
