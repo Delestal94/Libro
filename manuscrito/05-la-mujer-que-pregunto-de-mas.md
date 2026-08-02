@@ -298,12 +298,148 @@ llevar el mismo a la vez.
 
 No era un dicho de su tierra.
 
-Le dio la mano —la mano, a un niño de nueve años, como a un adulto— y se fue por la
-curva.
+Le dio la mano —la mano, a un niño de nueve años, como a un adulto—.
 
-Sel volvió a casa pensando que era la persona más rara que había conocido, y por el
-camino se le olvidó, porque tenía nueve años y porque en Keliun no había pasado nada raro
-en cuatro generaciones.
+Y entonces, en vez de irse, dejó la bolsa en el suelo.
+
+—Antes de nada —dijo—. Una cosa.
+
+Se puso de espaldas al pueblo, de cara al valle, y se quedó quieta.
+
+Sel esperó a que hiciera algo. No hizo nada. Estuvo así unos veinte segundos, con los
+brazos a los lados y la cara vuelta hacia el aire, y lo único que cambió fue que dejó de
+tener postura: los hombros le bajaron, la barbilla se le puso recta, y la cara —Sel se
+acordaría de esto el resto de su vida— **se le quedó sin nada**.
+
+No se transformó. No se volvió otra. Fue peor: se volvió nadie. Como una casa a la que
+se le apaga la luz de dentro y sigue siendo exactamente la misma casa.
+
+—¿Qué haces?
+
+—Deshacerlo.
+
+—¿El qué?
+
+—Los cuatro días.
+
+Y arriba, en el pueblo, a doscientos metros, no pasó absolutamente nada. No hubo ruido,
+ni viento, ni luz. Nadie gritó. Los perros no se movieron.
+
+Sesenta y cinco personas siguieron haciendo lo que estaban haciendo un martes por la
+mañana, y mientras lo hacían fueron dejando de tener dentro a una mujer con abrigo que
+había estado cuatro días preguntando por los registros.
+
+Duró menos de un minuto.
+
+Cuando terminó, Miren Saal se apoyó en la pared del sendero con las dos manos y estuvo
+un rato respirando como se respira después de cargar algo cuesta arriba.
+
+—Sube y pregunta —dijo.
+
+---
+
+Sel subió corriendo.
+
+Anu estaba en la puerta de la panadería colocando panes que ya estaban colocados.
+
+—¿Se ha ido ya la señora?
+
+—¿Qué señora?
+
+—La del abrigo. La que preguntaba cosas.
+
+Anu se quedó pensando de verdad, con la cara de quien intenta hacerle un favor a un niño.
+
+—¿Qué señora, Sel?
+
+Preguntó al del molino. Preguntó a Tarin. Preguntó a la mujer del cachorro, que se rió y
+le dijo que en Keliun no venía nadie de fuera desde la primavera pasada, y que si estaba
+soñando.
+
+Preguntó a Ila.
+
+Ila dejó el cesto en el suelo. Estuvo mirándolo un rato largo, con esa cara suya de estar
+haciendo una cuenta.
+
+—Había alguien —dijo despacio—. Sé que había alguien.
+
+—¡Sí!
+
+—Pero no sé quién.
+
+Y se agachó a coger el cesto, y antes de irse dijo una cosa que a Sel le sonó a nada y
+que años después le pareció lo más valiente que le había oído decir a nadie:
+
+—Voy a apuntarlo. Por si acaso.
+
+---
+
+Bajó otra vez. Ella seguía allí, sentada en una piedra, con la bolsa al lado.
+
+—Nadie se acuerda.
+
+—Ya.
+
+—Ila sí. Un poco.
+
+Miren Saal levantó la cabeza.
+
+—¿Ila?
+
+—La de la ropa. La que...
+
+—Ya sé quién es.
+
+Y se quedó callada, y por primera vez en cuatro días a Sel le pareció que estaba
+preocupada.
+
+—Yo sí me acuerdo —dijo Sel—. ¿Por qué me acuerdo yo?
+
+—Porque estabas dentro. —Se puso de pie—. Y porque eres como yo, aunque no lo sepas
+todavía.
+
+Sel miró hacia arriba, hacia el pueblo, donde acababa de desaparecer una persona entera
+de la cabeza de sesenta y cinco.
+
+Después miró a la mujer, que tenía cuarenta y tantos años y estaba cansada y le llegaban
+las manos a temblar un poco.
+
+Y preguntó lo que habría preguntado cualquier niño de nueve años del mundo:
+
+—¿Yo voy a poder hacer eso?
+
+Miren Saal se echó la bolsa al hombro.
+
+—Sí —dijo—. Ese es el problema.
+
+Empezó a bajar. A los diez pasos se paró, se giró, y con una cara completamente normal,
+sin rastro de broma, preguntó:
+
+—Perdona. ¿Cómo te llamabas?
+
+Se lo había preguntado el primer día. Lo había usado la tarde anterior, una sola vez,
+justo antes de decirle algo serio.
+
+—Sel.
+
+—Sel. —Asintió, como quien apunta un dato útil—. Gracias.
+
+Y se fue por la curva.
+
+---
+
+Sel volvió a casa andando muy despacio.
+
+Se sabía el nombre de sesenta y cinco personas. Sabía cuál de los nueve perros empezaba.
+Sabía que su abuela decía «el más torcido» y ya no sabía cómo sonaba diciéndolo.
+
+Se pasó el resto del día repitiendo en voz alta, sin que le viera nadie, *se llamaba
+Miren Saal, se llamaba Miren Saal, se llamaba Miren Saal*, con el miedo exacto y físico
+de que se le fuera a caer.
+
+Es la primera vez en su vida que tuvo miedo de olvidarse de algo a propósito.
+
+No fue la última.
 
 En un despacho a once días de allí hay un archivo con una ficha de cada uno de estos
 casos, y una nota al margen sobre lo que pasa cuando se dejan crecer, escrita por alguien
@@ -311,8 +447,17 @@ que lo vio una vez.
 
 Miren Saal no abrió una ficha aquel día.
 
-Lo que sí hizo, esa misma noche, en una posada a cuatro horas de Keliun, fue escribir
-una carta muy corta pidiendo que le asignaran otra vez la misma comarca el año siguiente.
+Y ahora conviene entender lo que eso significa, porque no es lo que parece.
+
+Ella no ocultó a Sel. Hizo algo mucho más grande: **borró que hubiera estado allí.** No
+existe un solo testigo en Keliun de que una inspectora subiera al pueblo en primavera. No
+hay nadie a quien preguntar. No hay nada que contrastar.
+
+Eso no lo hace quien quiere tapar a un niño. Eso lo hace quien sabe que le van a preguntar
+y ha decidido de antemano que no va a poder contestar.
+
+Lo que sí hizo, esa misma noche, en una posada a cuatro horas de allí, fue escribir una
+carta muy corta pidiendo que le asignaran otra vez la misma comarca el año siguiente.
 Era una petición de trámite. Se concedían solas.
 
 Se la denegaron.

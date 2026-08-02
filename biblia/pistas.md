@@ -39,3 +39,9 @@
 | Miren Saal escribe algo largo después de que Ila diga «no» | cap. 5 | — | pendiente |
 | El sueño de Anu: que un día se le olvide poner la levadura | cap. 7 | — | pendiente |
 | «Lo poco que duró eso» — el narrador sobre los dos bajando la cuesta | cap. 7 | — | pendiente |
+| Miren Saal se borra de la memoria de 65 personas en un minuto | cap. 5 | — | pendiente |
+| Ila la recuerda «un poco», y lo apunta por si acaso | cap. 5 | — | pendiente |
+| «Eres como yo, aunque no lo sepas todavía» | cap. 5 | — | pendiente |
+| Ella pregunta el nombre de Sel dos veces sin saber que repite | cap. 5 | — | pendiente |
+| «¿Yo voy a poder hacer eso?» / «Sí. Ese es el problema» | cap. 5 | — | pendiente |
+| No hay ni un testigo de que una inspectora subiera a Keliun | cap. 5 | — | pendiente |

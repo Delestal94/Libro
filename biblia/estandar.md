@@ -128,22 +128,64 @@ intentando arreglar la primera.** → **cumple**
 
 ---
 
-## Puntuación tras la segunda pasada
+## Tercera pasada · el tirón
 
-**Siete de ocho.**
+Tras la segunda pasada quedaba fallando la 8, y yo había escrito que **no se podía
+arreglar dentro del arco 1** porque Keliun es grado 0 y meterle espectáculo lo
+falsificaría.
 
-Falta la 8: **el tirón**. Y no se arregla dentro del arco 1 — Keliun es un pueblo de
-grado 0 y meterle espectáculo sería falsificarlo.
+Eso era una excusa, y Miguel la desmontó en una frase:
 
-**Se arregla en el arco 2, y es su requisito de partida, no un añadido:**
+> «El primer arco debería ser el enganche para querer ver todo, ¿no? ¿O estoy pidiendo
+> mucho?»
 
-1. Abrir el mundo de golpe. Que el lector diga «quiero ver eso».
-2. Una escena donde el papel sea **puro gozo**, sin factura, para que la factura duela el
-   triple después.
-3. **Enseñar el techo.** Que se vea, aunque sea de lejos, a alguien que lleva esto muy por
-   encima de Sel. Es el truco de Solo Leveling y de LotM: enseñas la escalera entera
-   pronto y el lector se queda a subirla.
-4. Una cosa que un niño le cuente a otro.
+No pedía mucho. **El primer arco es el enganche o no hay segundo**, porque nadie llega.
+El error era mío y era de imaginación: dar por supuesto que espectáculo significa magia.
+
+### Lo que se añadió: el techo, dentro de Keliun
+
+Miren Saal, antes de irse, deja la bolsa en el suelo y **se borra de la memoria de
+sesenta y cinco personas en menos de un minuto**. Sin ruido, sin luz, sin viento. Los
+perros ni se mueven.
+
+Sel sube corriendo y pregunta por ella. Nadie sabe de qué habla. La mujer del cachorro se
+ríe y le dice que si está soñando.
+
+**Ila la recuerda un poco.** «Había alguien. Sé que había alguien. Pero no sé quién.» Y
+después: *«Voy a apuntarlo. Por si acaso.»*
+
+Con eso el arco gana de golpe las cuatro cosas que le faltaban:
+
+| | Cómo |
+|---|---|
+| **Abrir el mundo** | Existe gente que hace esto a escala de pueblo entero, y son funcionarios de rango bajo |
+| **El techo** | Sel puede hacer que un hombre le abra un portón. Ella puede dejar de haber existido |
+| **Kid-tellable** | «Una señora se fue y nadie se acordaba de que había estado ahí» |
+| **Puro gozo → factura** | «¿Yo voy a poder hacer eso?» / «Sí. Ese es el problema» |
+
+### Y el precio, visible
+
+A los diez pasos ella se gira y pregunta, con una cara completamente normal:
+
+> —Perdona. ¿Cómo te llamabas?
+
+Se lo había preguntado el primer día. Lo había usado la tarde anterior, una sola vez,
+justo antes de decirle algo serio.
+
+### Además recoloca todo el arco
+
+- Explica por qué no hay registro de la visita: **no hay ni un testigo**. Eso no lo hace
+  quien quiere tapar a un niño; lo hace quien sabe que le van a preguntar y ha decidido
+  de antemano no poder contestar.
+- Convierte «iba a arrepentirse» en algo mucho peor.
+- Y da a Sel su primer miedo de verdad, que no es a nadie: es a olvidarse. Se pasa el día
+  repitiendo *se llamaba Miren Saal* con miedo físico a que se le caiga.
+
+---
+
+## Puntuación final del arco 1
+
+**Ocho de ocho.**
 
 ---
 
