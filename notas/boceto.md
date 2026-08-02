@@ -160,11 +160,10 @@ teniendo una historia completa, está bien construido.
 Quieres criaturas propias, idioma propio, ambientación y sonido reconocibles.
 
 - **Criaturas:** sí, y pronto. Tres o cuatro bien hechas valen más que un bestiario.
-- **Idioma:** **aquí te voy a llevar la contraria.** Un idioma completo con caracteres
-  y pronunciación es un proyecto de años —Tolkien era filólogo y le llevó décadas—, y
-  es donde mueren la mayoría de los primeros libros. Con **40 palabras, una fonética
-  coherente y un alfabeto que se use decorativamente** consigues el 95 % del efecto.
-  Si el libro uno funciona, lo amplías.
+- **Idioma:** hecho. Está en [[idioma]] — el **veresh**, con 46 palabras, fonética
+  cerrada, gramática de seis reglas y una escritura dibujable. Lo importante: la lengua
+  obliga a declarar si lo que dices es **tuyo** (`-in`) o **prestado** (`-esh`), así que
+  el sistema de poder y la lengua son la misma idea.
 - **Sonido:** anota qué se oye en cada lugar. Un arco tiene sonido antes que tener trama.
 
 ---
@@ -176,9 +175,8 @@ Quieres criaturas propias, idioma propio, ambientación y sonido reconocibles.
 2. **Los temas duros no se enuncian, se cruzan.** El bullying no es un capítulo sobre
    el bullying: es un niño que no quiere entrar a clase. Tu protagonista ingenuo es la
    mejor herramienta que tienes: no juzga, sólo ve. El lector juzga por él.
-3. **Escribir a tu hijo real como héroe es tu mayor fuerza y tu mayor freno.** Fuerza,
-   porque nadie más puede escribir este libro. Freno, porque vas a querer protegerlo de
-   la historia. Tendrás que dejar que le pasen cosas.
+3. **Escribir a tu hijo real como héroe** — resuelto en [[el-protagonista]]: cinco
+   reglas, la edad, si usar su nombre real, y la pregunta que decide todo lo demás.
 4. **No escribas el final hasta el final.** Escríbelo hoy, guárdalo, y no lo mires. Si
    lo reescribes cada mes, se te gastará.
 
