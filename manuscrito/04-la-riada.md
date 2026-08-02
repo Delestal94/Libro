@@ -225,19 +225,62 @@ siguiente había que comer igual y porque a esa hora ya no había nadie a quien 
 No se murió nadie. Se perdió una casa, medio granero y una cabra, y todo el mundo estuvo
 de acuerdo en que había salido bien.
 
-En las casas bajas, el agua se llevó lo que estaba a ras de suelo, que es donde está todo
-lo que no cabe en un estante. En la mayoría eso fue una alfombra, un banco, sacos vacíos.
+---
 
-En la de Ila fue la despensa entera del invierno y las tres mantas.
+A las seis, cuando ya había luz, la gente de las casas bajas empezó a entrar a ver.
 
-Un vecino le explicó a Sel, sin ninguna intención, que en las casas bajas lo que se hace
-es subirlo todo a la mesa en cuanto suena la campana, que se tarda diez minutos, y que
-por eso ellos no habían perdido casi nada.
+Sel fue detrás de Ila porque no se le ocurrió no ir.
+
+La casa era una habitación y media. Había una raya de barro en la pared, a la altura de
+la rodilla de un hombre, y por debajo de la raya todo estaba del color del río.
+
+En el suelo había cuatro sacos. Dos de grano y dos de castañas, hinchados, tumbados de
+lado, y una orza de manteca reventada contra la pata de la mesa. Eso era el invierno.
+
+Encima de la mesa no había nada.
+
+Ila se quedó tres segundos en la puerta y después entró y empezó a hacer cosas. Levantó
+un saco con las dos manos para ver el peso, lo dejó otra vez, lo abrió, metió la mano
+hasta el fondo, sacó un puñado y lo olió. Después lo tiró al suelo y se limpió la mano en
+el delantal.
+
+Hizo lo mismo con el segundo.
+
+El de seis años entró detrás y se quedó mirando la manteca.
+
+—¿Eso se puede coger?
+
+—No.
+
+—¿Por qué?
+
+—Porque no.
+
+El pequeño se había sentado en el barro y estaba muy contento.
+
+Las mantas estaban en un rincón, las tres, hechas una bola oscura. Ila no las tocó. Sel
+sí, porque quiso ayudar: cogió una y tiró de ella, y pesaba como pesa un animal, y no
+pudo con ella, y la soltó.
+
+—Déjalo.
+
+—Puedo...
+
+—Que lo dejes.
+
+Y no lo dijo de mala manera. Lo dijo como se le dice a alguien que está estorbando en una
+casa que no es la suya.
+
+En la puerta se había parado un vecino a mirar, uno de los de la fila de los faroles, y
+le explicó a Sel, sin ninguna intención y hasta con simpatía, que en las casas bajas lo
+que se hace es subirlo todo a la mesa en cuanto suena la campana, que se tarda diez
+minutos, y que por eso ellos no habían perdido casi nada.
 
 Sel dijo que ah.
 
-Y ya está. Eso fue todo lo que pensó, porque tenía nueve años, y porque nadie le dijo la
-otra mitad, y porque la otra mitad hay que ponerla uno.
+Ila estaba de espaldas, agachada, sacando algo de debajo del banco. No se giró.
+
+---
 
 Sel se sentó en el escalón de la iglesia, empapado, temblando, con el gorro enorme
 pegado a la cabeza.

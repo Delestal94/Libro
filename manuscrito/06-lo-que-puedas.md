@@ -13,11 +13,7 @@ Después de la riada había el triple de ropa que lavar, porque el agua había e
 seis casas y todo lo que se había mojado se había mojado de río, y el río es marrón. Ila
 llevaba tres días de rodillas en la piedra desde antes de que hubiera luz.
 
-Lavaba más porque hacía falta más, y hacía falta más porque no tenían despensa ni mantas,
-y no tenían despensa ni mantas porque la noche de la riada nadie subió nada a la mesa en
-su casa.
-
-Sel sabía las tres cosas. Las sabía por separado, cada una en su sitio.
+Lavaba más porque hacía falta más.
 
 Sel se sentó a mirarla. No ayudó, porque lo había intentado el primer día y la había
 estropeado.
