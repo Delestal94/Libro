@@ -39,6 +39,23 @@ fue Anu, la panadera, que un jueves le puso el pan delante y dijo:
 Y estuvieron los dos callados un rato, y a Sel le pareció con diferencia la mejor
 conversación de la semana.
 
+La segunda mejor fue con Ila, y duró menos.
+
+Se cruzaron en la cuesta. Ella subía con el cesto y él bajaba sin nada, que era lo que
+hacía todo el día.
+
+—¿Vas a llorar? —dijo Ila.
+
+—No.
+
+—Vale.
+
+Y siguió subiendo.
+
+Fue el único ser humano de Keliun que le preguntó eso directamente en vez de darle
+vueltas alrededor durante once días, y Sel se pasó la tarde pensando en lo raro que era
+que le hubiera gustado tanto.
+
 ---
 
 Lo descubrió el viernes, y lo descubrió sin querer, que es como se descubren estas
@@ -59,6 +76,23 @@ exactamente lo que hizo.
 Tarin arregló la puerta. Tardó una hora. No le había ofrecido arreglar la puerta a nadie
 en once años.
 
+Hace falta explicar eso, y no tiene nada que ver con Sel.
+
+Hace once años y medio, Tarin le arregló el techo a un hombre llamado Oren, que era su
+amigo y que le debía dinero. Se lo arregló para que dejara de deberle el favor, que es
+como se cobran las deudas entre amigos cuando ninguno de los dos quiere hablar de
+dinero. El techo quedó bien. Oren se murió en enero de otra cosa que no tenía que ver
+con el techo, y la viuda vendió la casa, y el que la compró tiró el tejado entero porque
+quería levantar un piso.
+
+Tarin lo vio hacer desde la fragua durante tres días y no dijo nada, y a partir de
+entonces hacía trabajos y los cobraba y no ofrecía ninguno.
+
+No es una historia trágica. Es lo que le pasó, y de eso se compone casi todo el mundo:
+de una cosa mediana que se torció y de la regla privada que uno se hizo para que no
+volviera a pasar. Tarin tenía la suya, la llevaba once años cumpliendo, y aquella tarde
+la rompió por una puerta de corral sin saber por qué.
+
 Cuando terminó se fue sin decir gran cosa, y por el camino de vuelta a la fragua se
 preguntó dos veces por qué había hecho eso, y las dos veces se contestó que porque el
 niño le daba pena, y las dos veces la respuesta le pareció verdad y le pareció corta.
@@ -78,10 +112,48 @@ aprendido a no formular ciertos pensamientos con palabras:
 
 Funcionó otra vez.
 
-Funcionó con el queso, que ya tenía, y le dieron más. Funcionó para que no le hicieran
-subir agua. Funcionó, y esto lo asustó un poco, para que le dejaran entrar en el granero,
-donde no entraban ni los mayores sin permiso, y una vez dentro no supo qué hacer con el
-granero y se salió.
+Empezó con algo pequeño, porque era un niño y no un estratega: fue a por queso, que ya
+tenía.
+
+—Buenas.
+
+—Hola, Sel.
+
+Y se quedó ahí. En la puerta. Sin decir nada más.
+
+La mujer del cachorro aguantó cuatro segundos —Sel los contó, ya había aprendido a
+contar cosas— y después dijo *ay, espera*, y entró, y salió con un trozo de queso más
+grande que el que le había dado el lunes.
+
+Sel bajó por el camino comiéndose el queso y con la sensación exacta de un tramposo. No
+le duró. A los nueve años nada dura.
+
+El sábado no le hicieron subir agua. El sábado subían agua todos los niños del pueblo y
+él se quedó sentado en el pretil viéndolos subir, y uno de ellos, al pasar, le dijo
+*qué suerte tienes*, y luego se puso rojo, y luego siguió subiendo con el cubo.
+
+Eso a Sel le sentó mal y no supo por qué.
+
+Y el domingo por la mañana, antes de la reunión, probó con el granero.
+
+El granero no se abre. Es la única cosa de Keliun que tiene cerradura y la llave la
+guarda el del molino, y no entran ni los mayores sin decir para qué. Sel no quería nada
+del granero. Quería saber si llegaba.
+
+Llegó.
+
+El del molino abrió, se apartó, y se quedó en la puerta esperando, y Sel entró y estuvo
+dentro de pie en la penumbra, oliendo el grano de todo el invierno del pueblo, sin nada
+que hacer allí y sin ninguna idea de qué se supone que se hace cuando una cosa te sale
+bien y no la querías.
+
+Salió a los veinte segundos.
+
+—Gracias.
+
+—De nada, chaval.
+
+Aquello sí lo asustó un poco. Duró hasta la comida.
 
 Tenía un método. No sabía que tenía un método, pero lo tenía, y era este: no llorar. Lo
 había probado el primer día y no servía; a la gente que llora se la abraza y se la manda
@@ -99,9 +171,36 @@ Tarin, estaba Anu, estaba el del molino, estaba la mujer que le había quitado e
 cachorro. Sel estaba también, porque lo habían llamado, sentado en el pretil del pozo
 con los pies colgando.
 
-La conversación duró un rato largo y fue toda razonable. Un niño de nueve años no vive
-solo. La casa se inunda cada dos inviernos. Tarin tenía sitio y tenía dos hijos y uno de
-ellos era de la edad. Se dijeron cosas sensatas, todas verdad, y todas dichas con cariño.
+La conversación duró un rato largo y fue toda razonable.
+
+—Nueve años —dijo la mujer del cachorro—. Nueve. Yo a los nueve no sabía ni encender una
+lumbre.
+
+—Sabe encender una lumbre —dijo Anu.
+
+—No es eso lo que digo.
+
+—Ya sé lo que dices.
+
+—La casa se inunda —dijo el del molino—. Cada dos inviernos, y este toca.
+
+—Se inunda por el mismo sitio de siempre y se tapa con el mismo barro de siempre.
+
+—Anu, que tiene nueve años.
+
+—Que ya lo sé.
+
+Sel los escuchaba desde el pretil balanceando los pies y le llamó la atención una cosa:
+que nadie preguntara. Llevaban veinte minutos hablando de dónde iba a vivir él y ninguno
+se había girado.
+
+No era desprecio. Es que un niño de nueve años no es alguien a quien se le pregunta, y
+eso lo sabe hasta el niño. Sel no se ofendió. Simplemente se dio cuenta de que si quería
+algo iba a tener que conseguirlo de otra manera, y lo pensó exactamente con esas
+palabras, y a esa edad pensar eso no es todavía una decisión, es una observación.
+
+Tarin tenía sitio. Tenía dos hijos y uno era de la edad, y era buen hombre, y lo dijo
+mirando a Sel de frente, que fue el primero que lo hizo en toda la tarde:
 
 —Sería lo mejor —dijo Tarin, y lo pensaba.
 

@@ -19,9 +19,36 @@ cosa de gente que sabe lo que hace.
 
 Siguió. Tarin dijo que sus hijos aprendieran el oficio y que uno de los dos no lo
 aprendiera, para que se fuera. La mujer del cachorro dijo que la dejaran en paz. Un
-hombre muy viejo que estaba sentado al sol dijo que volver a tener rodillas. Una chica de
-catorce que estaba tendiendo dijo *irme*, sin pensárselo, y en cuanto lo dijo miró
-alrededor para ver quién la había oído.
+hombre muy viejo que estaba sentado al sol dijo que volver a tener rodillas.
+
+A Ila no se lo preguntó, porque ya se lo había preguntado hacía semanas, en el lavadero,
+y ella había contestado *irme* sin pensárselo un segundo y después había mirado alrededor
+para ver quién la había oído.
+
+Sel había apuntado esa antes que ninguna. Y era la única de la lista que no había
+tachado, y no sabía por qué, porque tampoco era la de su abuela.
+
+Anu tardó más que nadie. Estuvo tanto rato callada que Sel pensó que no iba a contestar,
+y al final dijo:
+
+—Que un día se me olvide poner la levadura.
+
+—¿Eso es un sueño?
+
+—Sí.
+
+—No lo entiendo.
+
+—Ya.
+
+Y siguió amasando, y Sel lo anotó porque lo anotaba todo, y tardó unos veinte años en
+entenderlo. Que un día se le olvidara algo. Que la cabeza se le fuera a otra parte
+mientras tenía las manos en la masa. Que hubiera un solo día en veintiún años en que
+levantarse a las cuatro no fuera una decisión.
+
+El del molino, al que ya le había preguntado, se le acercó por la tarde a decirle que
+quería cambiar la suya, y Sel le dijo que vale, y el hombre se quedó allí de pie
+buscándolo y no le salió, y al final dijo que la dejara como estaba.
 
 Le contestaron veintiséis personas. Ninguna dudó demasiado, cosa que a Sel le sorprendió;
 él esperaba que la gente tuviera que pensárselo mucho y resultó que casi todos lo tenían
@@ -122,7 +149,33 @@ Anu se lo quedó mirando.
 
 —Sí —dijo—. Como el brindis.
 
-Sel escogió una rama fina. Se le daba mal; le salió un nudo torpe y demasiado apretado.
+Sel se acercó al tronco y estuvo un rato mirándolo de cerca, que es una cosa que en
+Keliun no hace nadie porque todo el mundo lo ha visto siempre.
+
+Visto de cerca no era una maraña. Eran nudos, uno por uno, de todos los tamaños, unos
+apretadísimos y otros flojos, unos hechos con dos dedos y otros con toda la mano. Algunos
+eran viejísimos y la rama había seguido creciendo alrededor y se los había tragado a
+medias. Y había huecos: sitios donde se veía perfectamente que había habido un nudo y ya
+no había ninguno, con la rama todavía doblada por la forma.
+
+—¿Y esos?
+
+—Esos se abrieron —dijo Anu.
+
+—¿De quién eran?
+
+—De gente.
+
+Sel contó los abiertos. Eran nueve, en todo el árbol, en no se sabe cuántas
+generaciones.
+
+Nueve promesas rotas en un pueblo entero, en cien años.
+
+Le pareció poquísimo. Y años después, cuando ya había estado en sitios donde ese número
+no significaba nada, seguía pareciéndoselo, y era la única cosa de Keliun de la que
+presumía delante de desconocidos.
+
+Escogió una rama fina. Se le daba mal; le salió un nudo torpe y demasiado apretado.
 
 —¿Qué has prometido?
 
@@ -269,3 +322,12 @@ Los perros empezaron detrás de ellos. Molino, cojo, era, y los otros seis.
 Por primera vez en dos meses, Sel no los contó.
 
 Ila sí. Los contó enteros, sin decir nada, como llevaba haciendo desde los once años.
+
+---
+
+Yo he contado ese orden muchas veces. Molino, cojo, era. Se me da mal dormir.
+
+Y siempre, al llegar al noveno, me acuerdo de que aquella mañana bajaban dos personas por
+esa cuesta.
+
+Y de lo poco que duró eso.

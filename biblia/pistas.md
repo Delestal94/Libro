@@ -32,3 +32,10 @@
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
+| La promesa de Maara: decir el brindis en voz alta, con la boca. Se quedó sin atar | cap. 2 | — | pendiente |
+| «Pensándolo se te va cambiando y no te enteras» | cap. 2 | — | pendiente |
+| Nueve nudos abiertos en el haranu en cien años | cap. 7 | — | pendiente |
+| Ila calla ante Miren Saal cuando podría haberlo denunciado | cap. 5 | — | pendiente |
+| Miren Saal escribe algo largo después de que Ila diga «no» | cap. 5 | — | pendiente |
+| El sueño de Anu: que un día se le olvide poner la levadura | cap. 7 | — | pendiente |
+| «Lo poco que duró eso» — el narrador sobre los dos bajando la cuesta | cap. 7 | — | pendiente |

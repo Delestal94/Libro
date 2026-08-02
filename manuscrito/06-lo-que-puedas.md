@@ -37,9 +37,32 @@ Los dos hermanos de Ila andaban por allí. El pequeño tenía cuatro años y se 
 del suelo; el otro, seis, se pasó la mañana intentando enseñarle a Sel a silbar, y no lo
 consiguió, y a Sel le gustó muchísimo la mañana.
 
-A mediodía apareció el padre. Estuvo en el lavadero cuatro minutos. Le dijo algo a Ila
-que Sel no oyó, y ella contestó que sí, y le dio unas monedas del bolsillo del delantal,
-y él se fue.
+A mediodía apareció el padre.
+
+Sel esperaba un monstruo. A esa edad uno espera monstruos, porque es la única forma que
+tiene de ordenar el mundo, y lo que vino por el camino no lo era ni de lejos.
+
+Era un hombre de unos cuarenta años, delgado, aseado, con la camisa metida por dentro.
+Saludó a Sel por su nombre y le dijo que sentía mucho lo de su abuela, y lo dijo bien,
+mejor que casi todo el pueblo, sin voz de enfermo y sin palmadas.
+
+—Era buena gente —dijo—. Me arregló una vez un cinturón que no tenía arreglo.
+
+Y era verdad, y Sel se acordaba del cinturón.
+
+Después se acercó a su hija y le dijo algo que Sel no oyó, y no lo dijo con desprecio ni
+con dureza: lo dijo con un tono de disculpa, casi con vergüenza, un poco encogido.
+
+Ila contestó que sí. Se secó una mano en el delantal, sacó unas monedas del bolsillo y se
+las dio.
+
+Él las cogió sin mirarlas, le dio las gracias, le dijo que se lo devolvía el viernes, y
+se fue por donde había venido. Andando derecho. A media mañana. Un martes.
+
+Y ese es el hombre. No pega, no grita, no se cae por las esquinas. Es amable, se acuerda
+de los nombres, dice que lo va a devolver el viernes y lo dice de verdad cada vez.
+
+Sel se quedó mirándolo irse y no supo por qué se le había puesto mal cuerpo.
 
 Ila siguió frotando exactamente al mismo ritmo, sin pararse ni un segundo, como si no
 hubiera pasado nada, y esa es la manera en que Sel se enteró de todo.
@@ -133,9 +156,24 @@ Fue exactamente el tiempo que aguantó el acuerdo.
 
 No se rompió. Eso habría sido mejor. Se **deshizo**, que es otra cosa y es peor.
 
-El martes, la mujer del cachorro no fue a por el pequeño. No dijo que no fuera a ir:
-simplemente no fue, y cuando Ila apareció por la tarde le dijo que uy, que se le había
-pasado, que qué cabeza.
+El lunes fue perfecto. Hay que decirlo, porque lo fue: los dos niños comieron en tres
+casas distintas, el pequeño estuvo toda la tarde con la mujer del cachorro, y el de seis
+años volvió sabiendo un juego nuevo y no se calló en toda la noche. Ila lavó cinco horas
+seguidas sin levantar la cabeza y ganó lo que ganaba antes en dos días.
+
+El martes la mujer del cachorro no fue a por el pequeño.
+
+No dijo que no fuera a ir. Simplemente no fue. Y cuando Ila apareció por la tarde, con
+las manos moradas y el niño de la mano, la mujer se llevó un susto de verdad y dijo que
+uy, que se le había pasado, que qué cabeza, y era cierto: se le había pasado. No estaba
+mintiendo. Se había pasado el día en su casa haciendo sus cosas sin que en ningún momento
+se le cruzara por la cabeza que tenía algo que hacer.
+
+Y aquí conviene entender bien lo que pasó, porque no es lo que parece. Nadie se echó
+atrás. Nadie se lo pensó mejor. Nadie dijo en su casa *mira, al final no*. Lo que ocurrió
+fue algo más pequeño y mucho peor: que el compromiso dejó de estar donde se ponen los
+compromisos. Se quedó fuera de la lista de cosas que hay que hacer hoy, como si no lo
+hubieran metido nunca.
 
 El miércoles, Anu les dio de comer y estuvo rara. Y el jueves Sel la oyó decirle a otra,
 en la puerta de la panadería, sin mala intención ninguna, con una perplejidad auténtica:

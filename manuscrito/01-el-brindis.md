@@ -96,6 +96,33 @@ Maara se lo hizo pagar dos días más tarde, con trabajo, cargando leña, y no l
 por qué no había sido enseguida. Sel tampoco preguntó. A los nueve años uno acepta el
 calendario de los castigos como acepta el clima.
 
+Mientras repartía el pan pasó Ila con el cesto de la ropa, que pesaba más que ella.
+
+Ila tenía catorce años y lavaba para media Keliun. Bajaba al lavadero antes de que
+hubiera luz y volvía a media mañana, y volvía a bajar por la tarde, y por el camino
+llevaba de la mano a un hermano y en la cadera al otro, y aun así iba más rápido que
+cualquiera.
+
+Se paró tres segundos a ver lo que estaba pasando: un niño de rodillas repartiendo pan
+robado entre nueve perros que miraban a otro lado.
+
+—Eso es pan —dijo.
+
+—Sí.
+
+—Que se come.
+
+—Ya.
+
+Ila se cambió el cesto de cadera y siguió andando.
+
+—Sois todos idiotas —dijo, sin dirigirse a nadie en concreto, y era verdad que no se
+dirigía a nadie en concreto: en el corral estaban él y nueve perros.
+
+Sel se quedó pensando en eso un rato, sin ofenderse. Era la única persona del pueblo que
+le hablaba como se le habla a una persona, y le llevó cuatro meses darse cuenta de que le
+gustaba.
+
 Los perros, por cierto, se comieron el pan y no lo aceptaron igual.
 
 —Es que no entienden —dijo Sel esa noche—. Si me oyeran bien, sabrían que quiero

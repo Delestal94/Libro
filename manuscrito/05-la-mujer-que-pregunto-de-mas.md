@@ -53,8 +53,27 @@ Se quedó cuatro días y habló con casi todo el mundo. Decía que venía «por 
 registros», que sonaba a nada, y preguntaba cosas aburridísimas: cuántos vivían, quién
 había nacido, quién se había muerto, si había pasado algo raro.
 
+Sel la vio trabajar y le pareció el oficio más aburrido del mundo.
+
+Era así: se sentaba, dejaba el cuaderno cerrado encima de la mesa —cerrado, siempre— y
+preguntaba por la cosecha. Se pasaba media hora con la cosecha. Después preguntaba por
+los animales. Después, cuando ya estaban los dos hartos de animales y el otro había
+empezado a mirar hacia la puerta, decía, como despidiéndose:
+
+—¿Y aquí se ha tomado alguna decisión rara últimamente?
+
+Y siempre, siempre, era en ese momento cuando abría el cuaderno.
+
+Lo hizo cinco veces delante de Sel y las cinco veces igual, y Sel no se dio cuenta del
+patrón porque a los nueve años no se ven los patrones de los adultos, se ven los de los
+perros.
+
 Nadie le dijo que hubiera pasado nada raro. En Keliun no había pasado nada raro en
 cuatro generaciones, cosa de la que estaban bastante orgullosos.
+
+Ella tampoco insistió nunca. Anotaba y seguía. Y cuando alguien contestaba que no
+demasiado rápido, no volvía a preguntar: se quedaba un momento con el lápiz parado, que
+era el único gesto suyo que tenía algo de amenaza, y después pasaba a otra cosa.
 
 Sel la acompañó los cuatro días.
 
@@ -79,6 +98,40 @@ Ella no preguntó más en ese momento. Anotó.
 
 ---
 
+El segundo día bajaron al lavadero, y Sel presentó a Ila como se presenta a alguien de
+quien no se sabe qué decir:
+
+—Esta lava.
+
+—Ya lo veo —dijo Miren Saal.
+
+Ila no levantó la cabeza. Contestó a todo lo que le preguntaron sin dejar de frotar:
+cuántos años tenía, cuántos hermanos, desde cuándo. Cuatro respuestas de una palabra.
+
+Y entonces Miren Saal hizo lo del cuaderno. Lo abrió.
+
+—¿Y aquí se ha tomado alguna decisión rara últimamente?
+
+Ila paró.
+
+Fue un segundo. Menos. Paró de frotar, levantó la vista, miró a la mujer del abrigo, y
+después —esto es lo que importa— miró a Sel.
+
+Y volvió a frotar.
+
+—No —dijo.
+
+Miren Saal la miró un momento más, con el lápiz parado, y después escribió algo bastante
+más largo que «no».
+
+Sel no se enteró de nada. Estaba tirándole piedras al agua.
+
+Aquellas dos mujeres no volvieron a hablar en los cuatro días. Se cruzaron dos veces, y
+las dos veces se saludaron con la cabeza, como se saluda alguien que ha entendido lo
+mismo que tú y no piensa comentarlo.
+
+---
+
 El tercer día, en la puerta de la panadería, con Anu delante y sin que viniera a cuento,
 Miren dijo:
 
@@ -99,9 +152,32 @@ Anu abrió la boca. La cerró. Volvió a colocar los panes.
 —Pues no lo sé —dijo, y sonó molesta consigo misma—. Es raro eso, ¿no? Que no me
 acuerde de por qué.
 
-Sel estaba a dos metros comiendo un trozo de pan y no le encontró nada de raro. Ya lo
-sabía él por qué. Era porque él había querido, y le había salido bien, y se había pasado
-la semana bastante satisfecho de lo listo que era.
+Anu hace pan desde los diecisiete años y lo hace bien, y eso es lo primero que hay que
+decir de ella, porque es lo primero que diría ella.
+
+Tuvo dos hijos. El mayor se llamaba Vero y el pequeño no llegó a tener un nombre que
+usara nadie más que ella. Se murieron el mismo año, con seis meses de diferencia, de dos
+cosas distintas, que es el detalle que le arruinó a Anu cualquier explicación: si hubiera
+sido lo mismo habría podido odiar algo.
+
+El pueblo se portó bien. Vinieron todos, dos veces. Trajeron cosas. Le dijeron que había
+que ser fuerte y que el tiempo cura, y una mujer que la quería mucho le dijo que eran
+ángeles, y Anu se pasó tres años sin poder mirar a esa mujer a la cara.
+
+Y volvió al horno a las tres semanas, porque el pueblo tenía que comer, y descubrió una
+cosa que no le ha contado a nadie: que estar de pie a las cuatro de la mañana amasando
+para sesenta personas era lo único que no dolía. No porque la distrajera. Porque era
+útil, y a esa hora no había nadie a quien tuviera que contestar.
+
+Lleva veintiún años levantándose a las cuatro. El pueblo cree que es por el pan.
+
+Por eso Anu no le dijo a Sel que había que ser fuerte, ni que el tiempo cura, ni una sola
+de las cosas que le dijeron a ella. Le dijo *no sé qué decirte*, que era exactamente lo
+que le habría gustado que le dijeran, y se calló, que era la otra mitad.
+
+Sel estaba a dos metros comiendo un trozo de pan y no le encontró nada de raro a la
+conversación. Ya lo sabía él por qué habían cedido. Era porque él había querido, y le
+había salido bien, y se había pasado la semana bastante satisfecho de lo listo que era.
 
 Casi se lo cuenta. Estuvo a punto: tenía en la boca la frase entera, *fui yo, mira lo que
 sé hacer*, con toda la ilusión de un niño que ha aprendido un truco y no tiene a quién

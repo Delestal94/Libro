@@ -109,10 +109,29 @@ Es difícil explicar lo rápido que pasó. Un hombre de cuarenta años, con el a
 pecho, cargando una puerta arrancada, se giró hacia el escalón de la iglesia donde
 estaba el niño y **esperó**. Esperó instrucciones. Y Sel se las dio.
 
-Y funcionaron, porque Sel conocía el pueblo mejor que casi nadie, y porque a los nueve
-años uno no tiene miedo de decidir.
+Y funcionaron, porque Sel conocía el pueblo mejor que casi nadie. Los niños de un pueblo
+saben cosas que los adultos no se molestan en saber: por dónde se cuela el agua en cada
+patio, qué tapia está mal, cuál de las dos puertas del corral grande se hincha y no
+cierra, dónde duerme cada uno. Un adulto sabe su casa. Un niño se ha metido en todas.
 
-Nunca en su vida se lo había pasado tan bien.
+—La tapia de Nera —dijo—. Por debajo. Ahí se va a colar.
+
+Y se coló, veinte minutos después, exactamente por debajo, y ya había alguien esperando
+con sacos.
+
+Lo que más recordaría no era eso. Era el sonido. La riada no hacía ruido, pero la gente
+sí: cincuenta personas trabajando de noche con el agua por la cintura hacen un ruido
+concreto, de chapoteo continuo y voces cortas y madera, y en mitad de todo eso la suya,
+la de él, la de un niño de nueve años, y el ruido bajando un poco cada vez para oírla.
+
+Nunca en su vida se lo había pasado tan bien. Nunca. Ni el día del pan, ni cuando por fin
+se aprendió el orden de los perros, ni ninguna otra cosa de las nueve que llevaba vividas.
+
+Y mientras tanto se sentía útil, y estaba siendo útil, y eso es lo que hace que este
+capítulo sea difícil de contar honradamente: que en el momento no había nada malo. Todo
+lo que hizo aquella noche estuvo bien hecho.
+
+Casi todo.
 
 ---
 
@@ -148,8 +167,18 @@ principio, y por donde habría ido él solo si nadie le hubiera señalado nada.
 
 ---
 
-El agua bajó a las tres. No se murió nadie. Se perdió una casa, medio granero y una
-cabra, y todo el mundo estuvo de acuerdo en que había salido bien.
+El agua bajó a las tres.
+
+Anu llevaba desde la una en lo alto del camino con dos calderos, y cuando la gente
+empezó a subir de la parte de abajo, empapada y temblando, les fue dando de comer por
+orden de lo mojados que estaban. No preguntó a nadie qué había pasado. No dijo ni una
+palabra en toda la noche que no fuera *toma* o *siéntate*.
+
+A las cuatro y media se llevó los calderos, y a las cinco estaba amasando, porque al día
+siguiente había que comer igual y porque a esa hora ya no había nadie a quien contestar.
+
+No se murió nadie. Se perdió una casa, medio granero y una cabra, y todo el mundo estuvo
+de acuerdo en que había salido bien.
 
 Sel se sentó en el escalón de la iglesia, empapado, temblando, con el gorro enorme
 pegado a la cabeza.
@@ -183,6 +212,42 @@ no le había mirado nadie desde que se murió su abuela: como a alguien que sabe
 Te estoy preguntando por qué te hice caso **a ti**.
 
 Y Sel abrió la boca para contestar y no tenía nada dentro.
+
+—Porque hacía falta —dijo al final, otra vez, porque era lo único que tenía.
+
+—Eso ya lo has dicho.
+
+—Es que es eso.
+
+Ila negó con la cabeza, despacio, sin dejar de mirar el agua.
+
+—Mira. Yo llevo tres años haciendo cuentas todo el día. Todo el día. Cuánto queda, cuánto
+hace falta, a quién le puedo pedir y a quién no puedo pedirle nunca. No hago otra cosa
+desde los once años. —Se miró las manos, se las volvió a bajar—. Yo **no dejo de hacer
+cuentas**. No sé. Y esta noche dejé a mis hermanos encima de una piedra y me fui, y no
+hice ninguna. Ni una.
+
+—Igual es que...
+
+—No.
+
+Sel se calló.
+
+—Yo no soy así —dijo Ila.
+
+Y se quedó callada, y a Sel le entró un miedo distinto de todos los que había tenido esa
+noche, porque no venía del río.
+
+Al rato ella preguntó, mucho más bajo:
+
+—¿Tú sabes lo que hiciste?
+
+—No.
+
+Fue la última vez en su vida que esa respuesta fue verdad.
+
+Ila lo miró un momento más, decidió algo que él no vio, y se levantó a coger a sus
+hermanos.
 
 ---
 

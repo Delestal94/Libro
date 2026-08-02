@@ -88,6 +88,49 @@ oía lo mal que iba el aire.
 
 —Sí.
 
+—Prométeme una cosa.
+
+—Vale.
+
+—Espera a saber cuál es.
+
+Sel esperó. Ella tardó, porque hablar le costaba y porque además lo estaba pensando.
+
+—El brindis. Dilo de vez en cuando aunque no haya nadie.
+
+—Vale.
+
+—En voz alta. Con la boca. —Se le fue el aire y tuvo que parar, y cuando volvió lo
+repitió, porque le pareció que era la parte importante—. Con la boca, Sel. Pensarlo no
+vale.
+
+—¿Por qué no vale?
+
+—Porque pensándolo se te va cambiando y no te enteras.
+
+Sel no entendió eso tampoco. Llevaba dos días sin entender nada de lo que le decían.
+
+—¿Ya está? ¿Eso es todo?
+
+—Eso es todo.
+
+—Es fácil.
+
+—Sí —dijo Maara—. Ahora es fácil.
+
+Deberían haber atado un nudo. Eso es lo que se hace en Keliun cuando alguien promete
+algo: se baja al árbol de la plaza y se ata. Pero ella no podía bajar, y a Sel no se le
+ocurrió que se pudiera ir y volver, y además ninguno de los dos quería que el otro se
+quedara solo ni cinco minutos.
+
+Así que la promesa se quedó sin atar.
+
+Yo la he tenido en cuenta igual. Y ella también.
+
+—Sel.
+
+—Sí.
+
 —El brindis.
 
 —Me acuerdo.
@@ -161,11 +204,53 @@ en todo el día, y limpió la cocina dos veces.
 
 A Sel le pareció raro que se ocuparan tanto de la cocina.
 
+Aquel día entero fue raro de la misma manera. La casa se llenó de gente que no cabía y
+que se quedó igual, de pie, en grupos de tres, hablando en voz baja de cosas que no
+tenían nada que ver: de la lluvia, de un precio, de una boda de otro pueblo. Sel se pasó
+horas oyendo conversaciones normales dichas en un tono que no era normal.
+
+Cada cierto rato alguien se acordaba de que él estaba allí y se le acercaba a decirle
+algo, y después volvía con los suyos con cara de alivio.
+
+Descubrió que había un sitio, entre la pared y el arcón, donde no lo veía nadie. Se metió
+ahí. Estuvo casi dos horas.
+
+Desde allí vio a Anu limpiar la cocina la segunda vez. Ya estaba limpia. La limpió igual,
+de rodillas, con una bayeta, entera, despacio, en una casa llena de gente y sin hablar con
+ninguno, y cuando terminó se quedó un momento quieta mirando el suelo mojado.
+
+Sel no entendió nada de eso. Y sin embargo, muchos años después, cuando ya había estado en
+sitios donde la gente se moría en cantidades, la imagen que se le venía cuando pensaba en
+Keliun no era el entierro ni la última noche.
+
+Era una mujer limpiando por segunda vez una cocina que estaba limpia.
+
 Enterraron a Maara al día siguiente, en la parte alta, donde la tierra es peor pero se ve
-el valle. Alguien dijo unas cosas. Sel no las escuchó; estaba mirando el sitio del valle
-donde ella se paraba a descansar fingiendo que miraba el valle, y pensando que a lo mejor
-no fingía, a lo mejor las dos cosas eran verdad, uno se para porque no puede más y
-mientras está parado mira, y con eso el paisaje queda visto igual.
+el valle.
+
+Cavaron Tarin y dos más, y tardaron más de lo normal porque ahí arriba hay piedra a medio
+metro y hay que ir sacándola a mano. Sel estuvo mirando las tres horas. Nadie le dijo que
+se fuera y nadie le dijo que se quedara.
+
+Lo que más le sorprendió fue lo práctico que era todo. Él esperaba una ceremonia y lo que
+había era gente trabajando: alguien midiendo, alguien discutiendo en voz baja sobre una
+raíz, alguien que se fue a por otra herramienta y volvió a los veinte minutos. Ila subió
+a media mañana con un cántaro de agua para los que cavaban, dejó el cántaro, miró a Sel
+tres segundos como quien comprueba una cuenta, y se volvió a bajar sin decir nada.
+
+Vino el pueblo entero. Sesenta y tantas personas en una cuesta, algunas de pie desde
+antes de que hubiera luz, muchas de ellas sin haber hablado con Maara en años. Eso a Sel
+le pareció raro y era lo más normal del mundo: en un pueblo de sesenta y cinco, todos los
+entierros son de todos, porque a la larga se va uno mismo.
+
+Alguien dijo unas cosas. No había nadie con cargo para decirlas; las dijo el hombre muy
+viejo que está siempre sentado al sol, que es el que las dice desde hace veinte años
+porque un día le tocó y ya nadie se lo quitó. Habló poco más de un minuto.
+
+Sel no lo escuchó. Estaba mirando el sitio del valle donde ella se paraba a descansar
+fingiendo que miraba el valle, y pensando que a lo mejor no fingía, a lo mejor las dos
+cosas eran verdad, uno se para porque no puede más y mientras está parado mira, y con eso
+el paisaje queda visto igual.
 
 Al final se acercó el hombre que llevaba el agua bendita o lo que fuera, y le preguntó si
 quería decir algo.
