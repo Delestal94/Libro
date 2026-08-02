@@ -3,8 +3,9 @@ import SinConfigurar from "@/components/SinConfigurar";
 import NuevoDocumento from "@/components/NuevoDocumento";
 import Salir from "@/components/Salir";
 import { repoConfigurado } from "@/lib/github";
-import { cargarProyecto, capitulos, type Doc } from "@/lib/proyecto";
+import { cargarProyecto, capitulos, personajes, type Doc } from "@/lib/proyecto";
 import { SECCIONES, minutosLectura } from "@/lib/libro";
+import { esPersonaje } from "@/lib/personajes";
 
 export const dynamic = "force-dynamic";
 
@@ -20,6 +21,7 @@ export default async function Biblioteca() {
 
   const caps = capitulos(docs);
   const palabrasManuscrito = caps.reduce((t, d) => t + d.palabras, 0);
+  const numPersonajes = personajes(docs).length;
 
   return (
     <div className="py-6">
@@ -37,9 +39,16 @@ export default async function Biblioteca() {
         />
       </Link>
 
+      <nav className="mb-8 grid grid-cols-2 gap-2">
+        <Acceso href="/personajes" icono="☗" titulo="Personajes" detalle={`${numPersonajes} ${numPersonajes === 1 ? "ficha" : "fichas"}`} />
+        <Acceso href="/trama" icono="⌘" titulo="Trama" detalle="Pistas y cronología" />
+      </nav>
+
       {SECCIONES.map((s) => {
         const dentro = docs
           .filter((d) => d.seccion === s.id)
+          // Las fichas tienen pantalla propia; repetirlas aquí sólo sería ruido.
+          .filter((d) => !esPersonaje(d.ruta))
           .sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
         if (!dentro.length) return null;
 
@@ -78,6 +87,31 @@ export default async function Biblioteca() {
       <NuevoDocumento />
       <Salir />
     </div>
+  );
+}
+
+function Acceso({
+  href,
+  icono,
+  titulo,
+  detalle,
+}: {
+  href: string;
+  icono: string;
+  titulo: string;
+  detalle: string;
+}) {
+  return (
+    <Link
+      href={href}
+      className="flex min-h-16 items-center gap-3 rounded-lg border border-borde bg-superficie px-4 py-3 active:bg-superficie-alta"
+    >
+      <span className="text-lg text-acento">{icono}</span>
+      <span className="min-w-0">
+        <span className="block truncate text-sm">{titulo}</span>
+        <span className="block truncate text-[11px] text-tenue">{detalle}</span>
+      </span>
+    </Link>
   );
 }
 

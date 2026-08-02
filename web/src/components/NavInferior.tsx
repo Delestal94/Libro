@@ -5,10 +5,15 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import CapturaRapida from "./CapturaRapida";
 
+/*
+  Cuatro destinos y la nota. Trama y Progreso se llegan desde la Biblioteca:
+  son pantallas de sentarse a planificar, no de consultar a diario, y meterlas
+  aquí dejaría las pestañas demasiado estrechas para el pulgar.
+*/
 const ENLACES = [
   { href: "/", etiqueta: "Biblioteca", icono: "◆" },
+  { href: "/personajes", etiqueta: "Personajes", icono: "☗" },
   { href: "/leer", etiqueta: "Leer", icono: "▤" },
-  { href: "/trama", etiqueta: "Trama", icono: "⌘" },
   { href: "/buscar", etiqueta: "Buscar", icono: "⌕" },
 ];
 

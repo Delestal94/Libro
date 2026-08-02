@@ -2,6 +2,7 @@ import "server-only";
 
 import { leerBlob, listarDocumentos } from "./github";
 import { construirIndice, retroenlaces } from "./enlaces";
+import { esPersonaje, leerPersonaje, type Personaje } from "./personajes";
 import { contarPalabras, esCapitulo, seccionDe, tituloDe, type Seccion } from "./libro";
 
 export type Doc = {
@@ -38,6 +39,14 @@ export async function cargarProyecto(): Promise<Doc[]> {
 
 export function capitulos(docs: Doc[]): Doc[] {
   return docs.filter((d) => d.esCapitulo).sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
+}
+
+/** Fichas de personaje, ordenadas por nombre. */
+export function personajes(docs: Doc[]): Personaje[] {
+  return docs
+    .filter((d) => esPersonaje(d.ruta))
+    .map((d) => leerPersonaje(d.ruta, d.contenido))
+    .sort((a, b) => a.nombre.localeCompare(b.nombre, "es"));
 }
 
 /** Índice de enlaces `[[ ]]` de todo el proyecto. */

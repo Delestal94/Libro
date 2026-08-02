@@ -19,6 +19,7 @@ móvil  →  web (Vercel)  →  API de GitHub  →  repo Delestal94/Libro
 | Ruta | Qué hace |
 |---|---|
 | `/` | Biblioteca: biblia, manuscrito y notas, con palabras por documento y totales. Crear documentos nuevos. |
+| `/personajes` | Fichas de personaje: datos técnicos y biografía. Crear, editar y borrar. |
 | `/editar/<ruta>` | Editor Markdown con atajos táctiles, autocompletado de `[[enlaces]]`, retroenlaces, vista previa y borrado. |
 | `/leer` | El manuscrito completo con tipografía de libro, índice, tamaño de letra y progreso. |
 | `/trama` | Registro de pistas sembradas (con estado) y cronología de dos relojes: el del mundo y el del lector. |
@@ -34,6 +35,31 @@ nombre de fichero coincida, ignorando acentos y mayúsculas. También vale
 enlaces suyos aún no tienen destino.
 
 Es sintaxis de wiki guardada tal cual en el Markdown: el fichero se sigue leyendo sin la app.
+
+## Personajes
+
+Un fichero por personaje en `biblia/personajes/`, con los datos técnicos en cabecera YAML
+y la biografía en Markdown debajo:
+
+```markdown
+---
+nombre: Frieren
+edad: 1000
+edad_aparente: 17
+---
+
+# Frieren
+
+## Biografía
+```
+
+**Los campos no están cerrados.** Los que ofrece la app (edad, altura, ojos…) son
+sugerencias: se pueden quitar todos e inventarse otros —«grado», «deuda», «precio que
+paga»—. Al guardar, un campo que dejas vacío desaparece del fichero en vez de quedarse
+con valor vacío.
+
+Como son ficheros Markdown normales, entran en el buscador y admiten `[[enlaces]]` desde
+el primer día: al mencionar `[[Frieren]]` en un capítulo, su ficha lo registra sola.
 
 ## Sin conexión
 
