@@ -73,3 +73,7 @@ Me gustaría hablar de la sobre estimulación tecnológica, que nos olvidamos de
 ## 02/08/2026 · 01:22
 
 Me gustaría temas como el arte, la música
+
+## 02/08/2026 · 01:24
+
+Me gustaría tocar temas como desastres sobre naturales como terremotos, tsunami, incendios, huracanes
