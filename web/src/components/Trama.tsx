@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import type { Tabla } from "@/lib/tablas";
+import LineaTiempo from "./LineaTiempo";
 
 const RUTAS = {
   pistas: "biblia/pistas.md",
@@ -49,7 +50,7 @@ export default function Trama({ pistas, cronologia }: { pistas: Tabla; cronologi
       {pestana === "pistas" ? (
         <Pistas tabla={pistas} />
       ) : (
-        <Cronologia tabla={cronologia} />
+        <LineaTiempo filas={cronologia.filas} />
       )}
     </div>
   );
@@ -137,44 +138,6 @@ function Pistas({ tabla }: { tabla: Tabla }) {
         ]}
         extra={["pendiente"]}
         textoBoton="Anotar pista"
-      />
-    </>
-  );
-}
-
-// --- Cronología ---
-
-function Cronologia({ tabla }: { tabla: Tabla }) {
-  return (
-    <>
-      {tabla.filas.length === 0 ? (
-        <Vacio texto="Sin eventos todavía. Empieza por lo que pasó antes de la página 1." />
-      ) : (
-        <ol className="mb-6 space-y-0">
-          {tabla.filas.map((f, i) => (
-            <li key={i} className="relative border-l border-borde pb-6 pl-5 last:pb-0">
-              {/* Punto de la línea temporal */}
-              <span className="absolute top-1.5 -left-[4.5px] h-2 w-2 rounded-full bg-acento" />
-              <p className="text-xs text-acento">{f[0] || "—"}</p>
-              <p className="mt-1 text-sm">{f[1]}</p>
-              <p className="mt-1 text-xs text-tenue">
-                {f[2] ? `Cap. ${f[2]}` : "Sin capítulo"}
-                {f[3] ? ` · lector: ${f[3]}` : ""}
-              </p>
-            </li>
-          ))}
-        </ol>
-      )}
-
-      <NuevaFila
-        ruta={RUTAS.cronologia}
-        campos={[
-          { etiqueta: "Cuándo", requerido: true },
-          { etiqueta: "Qué ocurre", requerido: true },
-          { etiqueta: "Capítulo" },
-          { etiqueta: "¿Lo sabe el lector?" },
-        ]}
-        textoBoton="Añadir evento"
       />
     </>
   );

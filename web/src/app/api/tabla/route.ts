@@ -69,6 +69,40 @@ export async function PATCH(req: Request) {
   }
 }
 
+/** Sustituye una fila entera. */
+export async function PUT(req: Request) {
+  const { ruta, indiceFila, fila } = (await req.json().catch(() => ({}))) as {
+    ruta?: string;
+    indiceFila?: number;
+    fila?: string[];
+  };
+
+  if (!ruta || !PERMITIDOS[ruta] || typeof indiceFila !== "number" || !Array.isArray(fila)) {
+    return NextResponse.json({ error: "Petición no válida" }, { status: 400 });
+  }
+
+  try {
+    const doc = await leerArchivo(ruta);
+    if (!doc) return NextResponse.json({ error: "No encontrado" }, { status: 404 });
+
+    const tabla = extraerTabla(doc.contenido);
+    if (!tabla?.filas[indiceFila]) {
+      return NextResponse.json({ error: "Esa fila ya no existe" }, { status: 409 });
+    }
+
+    const nueva = fila.map(String).slice(0, tabla.cabeceras.length);
+    while (nueva.length < tabla.cabeceras.length) nueva.push("");
+
+    const filas = tabla.filas.map((f, i) => (i === indiceFila ? nueva : f));
+    const nuevo = reemplazarTabla(doc.contenido, { ...tabla, filas });
+    await guardarArchivo(ruta, nuevo, `Editar fila de ${ruta}`, doc.sha);
+
+    return NextResponse.json({ ok: true, tabla: extraerTabla(nuevo) });
+  } catch (e) {
+    return NextResponse.json({ error: (e as Error).message }, { status: 500 });
+  }
+}
+
 /** Borra una fila. */
 export async function DELETE(req: Request) {
   const { ruta, indiceFila } = (await req.json().catch(() => ({}))) as {

@@ -22,7 +22,7 @@ móvil  →  web (Vercel)  →  API de GitHub  →  repo Delestal94/Libro
 | `/personajes` | Fichas de personaje: datos técnicos y biografía. Crear, editar y borrar. |
 | `/editar/<ruta>` | Editor Markdown con atajos táctiles, autocompletado de `[[enlaces]]`, retroenlaces, vista previa y borrado. |
 | `/leer` | El manuscrito completo con tipografía de libro, índice, tamaño de letra y progreso. |
-| `/trama` | Registro de pistas sembradas (con estado) y cronología de dos relojes: el del mundo y el del lector. |
+| `/trama` | Registro de pistas sembradas (con estado) y línea del tiempo con los dos relojes. |
 | `/progreso` | Rachas de escritura deducidas del historial de git, y descarga del libro en EPUB. |
 | `/buscar` | Busca en todo el proyecto, ignorando acentos y mayúsculas. |
 | Botón **Nota** | Captura rápida: se añade con fecha a `notas/inbox.md`. |
@@ -60,6 +60,25 @@ con valor vacío.
 
 Como son ficheros Markdown normales, entran en el buscador y admiten `[[enlaces]]` desde
 el primer día: al mencionar `[[Frieren]]` en un capítulo, su ficha lo registra sola.
+
+## Línea del tiempo
+
+Los mismos sucesos, dos ordenaciones:
+
+- **Orden del mundo** — cuándo ocurrió de verdad.
+- **Orden del lector** — en qué orden se entera.
+
+Verlos reordenarse al cambiar de pestaña *es* la función: en un misterio de largo
+recorrido, la distancia entre los dos relojes es la trama.
+
+El campo «Cuándo» es texto libre. Se intenta deducir un año de lo que escribas
+(«1200», «hace 300 años», «Año 847 de la Ceniza», «1200-03-15»); **lo que no se entiende
+no se inventa**, va a un grupo «sin situar». La separación entre puntos es proporcional
+al tiempo transcurrido, con escala de raíz cuadrada: en lineal, un salto de tres siglos
+aplastaría contra el margen dos escenas del mismo día.
+
+El color del punto dice qué sabe el lector en ese momento —lo sabe, lo sospecha, no lo
+sabe—, que es lo que permite ver de un vistazo dónde va a ciegas.
 
 ## Sin conexión
 
