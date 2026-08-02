@@ -97,9 +97,85 @@ respuesta incluye *«que sepa que se puede seguir cuando duele»*, entonces la d
 y el suicidio no pueden aparecer como tragedias cerradas — tienen que aparecer con
 alguien al otro lado. Eso no es suavizarlo. Es decidir para qué lo cuentas.
 
-**Escríbela abajo cuando la tengas. Es la línea más importante del proyecto.**
+### La respuesta *(2 de agosto de 2026)*
 
-—
+> **Brinda por lo que viene y por lo que se fue,
+> sonríe en lo bueno y lo malo,
+> sé bueno con la gente
+> y ayuda siempre que puedas.**
+
+---
+
+## Lo que esa respuesta decide
+
+No es un lema para poner en la contraportada. Son cuatro instrucciones, y cada una
+cierra una decisión que estaba abierta.
+
+### «Brinda por lo que viene y por lo que se fue»
+
+**El duelo de este libro se celebra, no se llora.**
+
+Con esto queda decidido cómo se tratan las muertes y las pérdidas — y en tus notas hay
+muchas. No como tragedia que había que evitar, sino como algo que **se levanta la copa
+y se nombra**. Es exactamente el tono de Frieren, y ahora está justificado desde dentro.
+
+Y trae un regalo estructural: **un gesto físico que se repite.** El brindis. Puede
+cerrar cada arco. Puede pasar de personaje en personaje. Puede hacerse solo, sin nadie
+enfrente, y entonces significa otra cosa. Puede hacerse por alguien que aún no ha
+muerto, y el lector sabrá lo que eso anuncia.
+
+Que diga **«lo que viene y lo que se fue»** —las dos cosas— impide que el libro se
+hunda en la nostalgia. No es un libro sobre lo perdido: es sobre seguir poniendo copas.
+
+### «Sonríe en lo bueno y lo malo»
+
+**La sonrisa del protagonista deja de ser ingenuidad y pasa a ser disciplina.**
+
+Esto resuelve el mayor riesgo del personaje. Un niño que sonríe porque no entiende es
+un tonto; un niño que sonríe **sabiendo** es lo más difícil que hay. La regla 4 —nada
+lo vuelve cruel— ya no es un rasgo suyo: es esta instrucción, cumpliéndose, cada vez
+más cara.
+
+Y da la imagen que va a cerrar los arcos duros: **el protagonista sonriendo cuando no
+tocaba.** El lector se va a enfadar con él antes de entenderlo.
+
+### «Sé bueno con la gente»
+
+**El antagonista no puede caer por la fuerza.**
+
+Si esta es la instrucción, la organización que lo persigue —hecha de gente buena que
+defiende algo que no es malo— no puede resolverse matándola. Tiene que resolverse
+tratándola bien. Eso es mucho más difícil de escribir y mucho mejor de leer.
+
+### «Ayuda siempre que puedas»
+
+**Aquí está la más honesta de las cuatro, y la que más te va a servir.**
+
+Dice **«siempre que puedas»**. No «siempre». Admite que hay veces en que no se puede.
+
+Eso es un permiso escrito, de tu puño, para las escenas en las que tu hijo llegue tarde
+y no lo salve. Ya no es traicionar el ideal: **es el ideal, dicho con precisión.** La
+regla 3 —tiene que fracasar de verdad— acaba de dejar de estar en conflicto con la
+regla 4.
+
+El libro **necesita** una escena en la que no pueda ayudar. Sin ella, esta frase es un
+adorno. Con ella, es una promesa que alguien cumplió de verdad.
+
+---
+
+## Las dos herencias
+
+Ahora la arquitectura está completa. Un padre le pasa a su hijo **dos cosas**:
+
+| | Qué | Cuándo aparece |
+|---|---|---|
+| **El brindis** | Las cuatro instrucciones | Se repite durante todo el libro. El lector se lo aprende sin querer. |
+| **El sueño** | `Halumi ish selmi alun` | Se corta siempre. Se completa en la última página. |
+
+Una se dice mil veces y parece que no significa nada hasta el final.
+La otra no se dice nunca y significa todo.
+
+**Ese es el libro.**
 
 ---
 

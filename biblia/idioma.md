@@ -120,6 +120,18 @@ Cuarenta y seis palabras. No hacen falta más para escribir el libro uno.
 | `tanu` | esperar |
 | `feru` | perder |
 
+### Del brindis
+
+| Veresh | Español |
+|---|---|
+| `nalu` | brindar, levantar la copa · *lleva `alu`, alegría, dentro* |
+| `alur` | sonreír |
+| `sanu` | bien, bondad · `sanun` bueno |
+| `harana` | ayudar · *de `haran`, mano: ayudar es dar la mano* |
+| `ken` | poder, ser capaz |
+| `sara` | siempre |
+| `nel` | con |
+
 ### Palabras pequeñas
 
 | Veresh | Español |
@@ -128,11 +140,15 @@ Cuarenta y seis palabras. No hacen falta más para escribir el libro uno.
 | `mo` | no |
 | `av` | y |
 | `il` | en, dentro |
-| `ru` | de, desde |
+| `ru` | de, por, desde |
 | `tel` | uno |
 | `sila` | pequeño |
 | `taro` | grande |
 | `veen` | aún, todavía |
+
+> **No hay palabra para «malo».** Se dice `mosanun` — «no-bueno». En una lengua de un
+> mundo donde quien te persigue tiene razón, el mal no es una cosa: es una ausencia.
+> Esto no se planeó; salió de la propia lengua al traducir el brindis.
 
 ---
 
@@ -164,6 +180,34 @@ Los sufijos se apilan en este orden: **raíz + in/esh + posesivo + plural**.
 | `Neshar mo ish veshu.` | Tomar un papel no es olvidar. |
 | `Keranmi ish taron.` | Mi corazón es grande. |
 | `Lir, sema. Nir ish sila.` | Canta, amigo. La noche es corta. |
+
+### El brindis
+
+Las cuatro instrucciones. Se dicen levantando la copa, y se repiten a lo largo de todo
+el libro hasta que el lector se las sabe sin haberlas estudiado.
+
+> ### `Nalu ru wentu av ru kaaska.`
+> *Brinda por lo que ha de nacer y por lo que murió.*
+>
+> ### `Alur il sanun av il mosanun.`
+> *Sonríe en lo bueno y en lo no-bueno.*
+>
+> ### `Ish sanun nel semai.`
+> *Sé bueno con los que caminan contigo.*
+>
+> ### `Harana sara il kenti.`
+> *Ayuda siempre, dentro de lo que puedas.*
+
+Tres de esas palabras **no hubo que inventarlas** — salieron solas de las reglas:
+
+- `wentu` = `wen` (nacer) + `-tu` (futuro) → «lo que ha de nacer». En veresh, el
+  porvenir y el nacer son la misma palabra.
+- `mosanun` = `mo` (no) + `sanun` (bueno) → no existe «malo», solo «no-bueno».
+- `semai` = `sema` (el que camina contigo) en plural → «la gente» es, literalmente,
+  **los que caminan contigo**.
+
+Que la lengua diga esas tres cosas por su cuenta es la prueba de que las reglas
+funcionan. No se decidieron: se descubrieron al traducir.
 
 ### Y la frase
 
