@@ -47,14 +47,18 @@ cosa gratis, o se cae la coherencia.
 **Recomendación: A**, pero es una de las decisiones grandes y va con la sección A del
 [[boceto]]. No decidir todavía.
 
-## Fauna
+## Fauna y flora
 
-Fantástica, y **poca**. Tres o cuatro criaturas bien hechas se recuerdan; un bestiario
-de cuarenta no lo lee nadie. Van en [[criaturas]], y cada una debería:
+Fantásticas, y **pocas**. Tres o cuatro bien hechas se recuerdan; un bestiario de
+cuarenta no lo lee nadie. Van en [[fauna]] y [[flora]], y cada una debería:
 
 1. Verse una vez antes de importar.
 2. Estar atada a un lugar concreto, no vagar por todo el mundo.
-3. Tener un **sonido** propio. Se reconocen antes de verse.
+3. Tener un **sonido** o un **olor** propio. Se reconocen antes de verse.
+4. Si sirve para algo, **costar algo**. Igual que todo lo demás aquí.
+
+La flora da más identidad que los monstruos y casi nadie la trabaja. Un mundo se
+recuerda por lo que huele y por lo que crece en las cunetas, no por sus dragones.
 
 ## Reglas duras
 

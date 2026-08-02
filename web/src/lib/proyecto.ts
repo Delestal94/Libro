@@ -51,7 +51,7 @@ export function fichasDe(docs: Doc[], tipo: TipoFicha): Ficha[] {
 
 /** Cuántas fichas hay de cada tipo, para el hub del mundo. */
 export function conteoFichas(docs: Doc[]): Record<TipoFicha, number> {
-  const conteo = { personajes: 0, lugares: 0, criaturas: 0 };
+  const conteo = { personajes: 0, lugares: 0, fauna: 0, flora: 0 };
   for (const d of docs) {
     const tipo = tipoDeRuta(d.ruta);
     if (tipo) conteo[tipo]++;

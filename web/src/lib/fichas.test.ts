@@ -86,7 +86,15 @@ test("los campos vacios no se escriben en la cabecera", () => {
 test("cada tipo tiene su carpeta y se reconoce por la ruta", () => {
   assert.equal(tipoDeRuta("biblia/personajes/frieren.md"), "personajes");
   assert.equal(tipoDeRuta("biblia/lugares/ciudad-jardin.md"), "lugares");
-  assert.equal(tipoDeRuta("biblia/criaturas/nube-de-sal.md"), "criaturas");
+  assert.equal(tipoDeRuta("biblia/fauna/nirai.md"), "fauna");
+  assert.equal(tipoDeRuta("biblia/flora/lasharil.md"), "flora");
+});
+
+test("fauna y flora no se confunden entre si", () => {
+  // Comparten forma pero son apartados distintos: una ruta sólo cae en uno.
+  assert.equal(tipoDeRuta("biblia/flora/x.md"), "flora");
+  assert.equal(tipoDeRuta("biblia/fauna/x.md"), "fauna");
+  assert.notEqual(TIPOS.fauna.carpeta, TIPOS.flora.carpeta);
 });
 
 test("lo que no es una ficha no se confunde con una", () => {
@@ -102,10 +110,20 @@ test("lo que no es una ficha no se confunde con una", () => {
   }
 });
 
-test("esTipoValido rechaza lo que no es un tipo", () => {
-  assert.ok(esTipoValido("lugares"));
-  assert.ok(!esTipoValido("capitulos"));
-  assert.ok(!esTipoValido("../personajes"));
+test("esTipoValido acepta los cuatro y rechaza el resto", () => {
+  for (const t of ["personajes", "lugares", "fauna", "flora"]) {
+    assert.ok(esTipoValido(t), `deberia valer: ${t}`);
+  }
+  for (const t of ["capitulos", "criaturas", "../personajes", "", "Fauna"]) {
+    assert.ok(!esTipoValido(t), `no deberia valer: ${t}`);
+  }
+});
+
+test("esTipoValido cubre exactamente los tipos declarados", () => {
+  // Si se añade un tipo a TIPOS y se olvida en esTipoValido, la API lo rechazaria.
+  for (const t of LISTA_TIPOS) {
+    assert.ok(esTipoValido(t.id), `${t.id} esta en TIPOS pero esTipoValido lo rechaza`);
+  }
 });
 
 test("slugValido acepta lo que produce aSlug", () => {
@@ -168,7 +186,7 @@ test("el nombre sale de la cabecera, del encabezado o del fichero", () => {
     leerFicha("biblia/lugares/x.md", "# Ciudad Jardín\n")?.nombre,
     "Ciudad Jardín",
   );
-  assert.equal(leerFicha("biblia/criaturas/nube-de-sal.md", "")?.nombre, "nube de sal");
+  assert.equal(leerFicha("biblia/fauna/nube-de-sal.md", "")?.nombre, "nube de sal");
 });
 
 test("leer una ruta que no es ficha devuelve null", () => {
@@ -187,14 +205,23 @@ test("los campos propios aparecen despues de los sugeridos", () => {
 
 test("cada tipo etiqueta sus propios campos", () => {
   assert.equal(etiquetaDe("lugares", "secreto"), "Lo que esconde");
-  assert.equal(etiquetaDe("criaturas", "peligro"), "Peligro");
+  assert.equal(etiquetaDe("flora", "precio"), "Qué cuesta usarla");
   // Un campo inventado recibe etiqueta legible en cualquier tipo.
   assert.equal(etiquetaDe("lugares", "color_favorito"), "Color favorito");
 });
 
 test("un mismo campo puede significar cosas distintas segun el tipo", () => {
   assert.equal(etiquetaDe("lugares", "suena"), "Qué se oye");
-  assert.equal(etiquetaDe("criaturas", "suena"), "Qué sonido hace");
+  assert.equal(etiquetaDe("fauna", "suena"), "Qué sonido hace");
+  assert.equal(etiquetaDe("fauna", "clase"), "Qué es");
+  assert.equal(etiquetaDe("flora", "clase"), "Qué es");
+});
+
+test("la flora obliga a declarar el precio de lo que sirve", () => {
+  // Regla del libro: nada util sale gratis. Si desaparece el campo, se pierde.
+  const claves = TIPOS.flora.campos.map((c) => c.clave);
+  assert.ok(claves.includes("uso"));
+  assert.ok(claves.includes("precio"));
 });
 
 test("quitar un campo lo elimina de verdad del fichero", () => {
@@ -219,10 +246,12 @@ test("una ficha nueva lleva las secciones de su tipo y se relee entera", () => {
   }
 });
 
-test("una criatura nueva no lleva secciones de personaje", () => {
-  const texto = fichaNueva("criaturas", "Nube de sal");
-  assert.ok(!texto.includes("## Biografía"));
-  assert.match(texto, /## Cómo se comporta/);
+test("cada tipo trae sus propias secciones y no las de otro", () => {
+  assert.match(fichaNueva("fauna", "Nirai"), /## Cómo se comporta/);
+  assert.ok(!fichaNueva("fauna", "Nirai").includes("## Biografía"));
+
+  assert.match(fichaNueva("flora", "Lasharil"), /## Para qué sirve y qué cuesta/);
+  assert.ok(!fichaNueva("flora", "Lasharil").includes("## Cómo se comporta"));
 });
 
 // --- Auxiliares ---

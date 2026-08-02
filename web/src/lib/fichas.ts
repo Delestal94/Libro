@@ -17,7 +17,7 @@ export type Campo = {
   destacado?: boolean;
 };
 
-export type TipoFicha = "personajes" | "lugares" | "criaturas";
+export type TipoFicha = "personajes" | "lugares" | "fauna" | "flora";
 
 export type DefinicionTipo = {
   id: TipoFicha;
@@ -91,6 +91,7 @@ export const TIPOS: Record<TipoFicha, DefinicionTipo> = {
         ayuda: "Grado 0 a 4 — ver biblia/mundo.md",
         destacado: true,
       },
+      { clave: "nombre_veresh", etiqueta: "Nombre en veresh" },
       { clave: "inspiracion", etiqueta: "Inspiración", ayuda: "Mitología o lugar real del que sale" },
       { clave: "tema", etiqueta: "Tema del arco", destacado: true },
       { clave: "suena", etiqueta: "Qué se oye", ayuda: "El sonido del sitio" },
@@ -110,32 +111,62 @@ export const TIPOS: Record<TipoFicha, DefinicionTipo> = {
     ],
   },
 
-  criaturas: {
-    id: "criaturas",
-    singular: "criatura",
-    plural: "Criaturas",
+  fauna: {
+    id: "fauna",
+    singular: "animal",
+    plural: "Fauna",
     icono: "✦",
-    descripcion: "Fauna propia. Tres bien hechas valen más que un bestiario.",
-    carpeta: "biblia/criaturas",
+    descripcion: "Bichos propios. Tres bien hechos valen más que un bestiario.",
+    carpeta: "biblia/fauna",
     campos: [
       { clave: "clase", etiqueta: "Qué es", ayuda: "Bestia, ave, insecto, otra cosa", destacado: true },
+      { clave: "nombre_veresh", etiqueta: "Nombre en veresh" },
       { clave: "habitat", etiqueta: "Dónde vive", destacado: true },
       { clave: "tamano", etiqueta: "Tamaño" },
       { clave: "dieta", etiqueta: "De qué se alimenta" },
-      { clave: "suena", etiqueta: "Qué sonido hace" },
-      { clave: "peligro", etiqueta: "Peligro", ayuda: "Inofensiva, esquiva, mortal…", destacado: true },
+      { clave: "suena", etiqueta: "Qué sonido hace", ayuda: "Se reconocen antes de verse" },
+      { clave: "peligro", etiqueta: "Peligro", ayuda: "Inofensivo, esquivo, mortal…", destacado: true },
       { clave: "inteligencia", etiqueta: "Inteligencia" },
       { clave: "relacion", etiqueta: "Relación con la gente", ayuda: "Se caza, se cría, se teme, se adora" },
       { clave: "inspiracion", etiqueta: "De dónde sale" },
     ],
-    secciones: ["Cómo es", "Cómo se comporta", "Qué cuentan de ella", "Notas"],
+    secciones: ["Cómo es", "Cómo se comporta", "Qué cuentan de él", "Notas"],
+  },
+
+  flora: {
+    id: "flora",
+    singular: "planta",
+    plural: "Flora",
+    icono: "❧",
+    descripcion: "Lo que crece. Da más identidad que los monstruos y casi nadie la trabaja.",
+    carpeta: "biblia/flora",
+    /*
+      `uso` y `precio` van juntos a propósito: en este mundo nada útil sale
+      gratis, y una planta que cura sin cobrar nada rompe la regla del libro.
+      `olor` es el sentido más memorable y el menos usado en fantasía.
+    */
+    campos: [
+      { clave: "clase", etiqueta: "Qué es", ayuda: "Árbol, hierba, hongo, enredadera, flor", destacado: true },
+      { clave: "nombre_veresh", etiqueta: "Nombre en veresh" },
+      { clave: "habitat", etiqueta: "Dónde crece", destacado: true },
+      { clave: "aspecto", etiqueta: "Cómo se reconoce" },
+      { clave: "cuando", etiqueta: "Cuándo florece o da" },
+      { clave: "olor", etiqueta: "A qué huele" },
+      { clave: "sabor", etiqueta: "A qué sabe" },
+      { clave: "uso", etiqueta: "Para qué se usa", destacado: true },
+      { clave: "precio", etiqueta: "Qué cuesta usarla", ayuda: "Nada útil sale gratis" },
+      { clave: "peligro", etiqueta: "Peligro", ayuda: "Comestible, tóxica, mortal…" },
+      { clave: "quien", etiqueta: "Quién la usa" },
+      { clave: "inspiracion", etiqueta: "De dónde sale" },
+    ],
+    secciones: ["Cómo es", "Dónde y cuándo", "Para qué sirve y qué cuesta", "Qué cuentan de ella", "Notas"],
   },
 };
 
 export const LISTA_TIPOS = Object.values(TIPOS);
 
 export function esTipoValido(t: string): t is TipoFicha {
-  return t === "personajes" || t === "lugares" || t === "criaturas";
+  return t === "personajes" || t === "lugares" || t === "fauna" || t === "flora";
 }
 
 /**

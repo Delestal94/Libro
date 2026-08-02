@@ -1,10 +1,16 @@
 # Halumi ish
 
-Dos noches después Maara no se levantó a cerrar la ventana.
+Dos noches después, los perros aullaron en otro orden.
 
-Eso fue lo primero. La ventana del fondo golpeaba cuando había viento, y Maara la
-cerraba siempre ella, y siempre a la misma hora, refunfuñando lo mismo. Sel se despertó
-con el golpe, esperó el refunfuño, y no vino.
+Sel lo oyó medio dormido y algo le pareció raro sin llegar a saber el qué. Para notar
+que una costumbre se ha roto hay que haberla oído igual muchos años, y él no llevaba
+vivo tantos. Se dio la vuelta y volvió a dormirse.
+
+Lo que lo despertó del todo fue que Maara no se levantó a cerrar la ventana.
+
+Eso fue lo primero, para él. La ventana del fondo golpeaba cuando había viento, y Maara
+la cerraba siempre ella, y siempre a la misma hora, refunfuñando lo mismo. Sel se
+despertó con el golpe, esperó el refunfuño, y no vino.
 
 Se quedó quieto un momento. Después fue.
 
@@ -118,6 +124,13 @@ para esperarlo, con la mano de su abuela todavía abierta hacia arriba en la suy
 ventana del fondo golpeando otra vez porque había vuelto el viento.
 
 Esa frase no se termina en este capítulo.
+
+---
+
+Aquella noche, más tarde, los perros se ordenaron otra vez. Sel los contó sin querer,
+porque no tenía otra cosa que hacer con la cabeza. Seguían siendo nueve.
+
+Ese fue el orden a partir de entonces.
 
 ---
 

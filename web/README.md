@@ -36,9 +36,9 @@ enlaces suyos aún no tienen destino.
 
 Es sintaxis de wiki guardada tal cual en el Markdown: el fichero se sigue leyendo sin la app.
 
-## Fichas: personajes, lugares y criaturas
+## Fichas: personajes, lugares, fauna y flora
 
-Los tres son lo mismo por debajo —un fichero Markdown con datos técnicos en cabecera
+Los cuatro son lo mismo por debajo —un fichero Markdown con datos técnicos en cabecera
 YAML y texto libre debajo—, así que comparten toda la maquinaria (`src/lib/fichas.ts`)
 y sólo se diferencian en la carpeta, los campos sugeridos y las secciones de la
 plantilla. Añadir un cuarto tipo es añadir una entrada a `TIPOS`.
@@ -61,8 +61,10 @@ cabecera se reescribe entera, así que un campo que quitas desaparece del ficher
 de quedarse vacío.
 
 Cada tipo tiene los suyos: los lugares llevan **grado de tecnología mágica**, **qué se
-oye** y **lo que esconde**; las criaturas, **qué sonido hacen** y **relación con la
-gente**. Un mismo campo puede significar cosas distintas según el tipo.
+oye** y **lo que esconde**; la fauna, **qué sonido hace**; la flora, **a qué huele**,
+**para qué sirve** y —obligatorio en este mundo— **qué cuesta usarla**. Un mismo campo
+puede significar cosas distintas según el tipo: `suena` es «qué se oye» en un lugar y
+«qué sonido hace» en un animal.
 
 Como son ficheros Markdown normales, entran en el buscador y admiten `[[enlaces]]` desde
 el primer día: al mencionar `[[Frieren]]` en un capítulo, su ficha lo registra sola.

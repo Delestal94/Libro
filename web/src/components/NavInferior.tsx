@@ -28,7 +28,7 @@ export default function NavInferior() {
   if (ruta === "/login") return null;
 
   // Las fichas cuelgan de Mundo, así que su pestaña sigue marcada dentro de ellas.
-  const RAMAS_MUNDO = ["/mundo", "/personajes", "/lugares", "/criaturas"];
+  const RAMAS_MUNDO = ["/mundo", "/personajes", "/lugares", "/fauna", "/flora"];
 
   const activo = (href: string) => {
     if (href === "/") return ruta === "/";
