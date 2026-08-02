@@ -61,3 +61,7 @@ Tengo quizás el final, al igual que one piece luffy quiere cumplir el sueño de
 ## 02/08/2026 · 01:15
 
 Me gustaría también hablar de perder a tus seres queridos o gente importante
+
+## 02/08/2026 · 01:18
+
+Me gustaría hablar de la xenofobia, de las migraciones de personas, del racismo, del odio, de las guerras
