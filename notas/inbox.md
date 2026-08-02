@@ -77,3 +77,7 @@ Me gustaría temas como el arte, la música
 ## 02/08/2026 · 01:24
 
 Me gustaría tocar temas como desastres sobre naturales como terremotos, tsunami, incendios, huracanes
+
+## 02/08/2026 · 04:05
+
+Me gustaría que el mundo sea fantasía, época medieval pero con grados de tecnología mágica, los animales y fauna sean fantasticas
