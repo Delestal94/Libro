@@ -105,9 +105,39 @@ Estaba.
 
 Y a partir de ahí, poco a poco, sin que nadie lo decidiera, empezaron a preguntarle a él.
 
-Es difícil explicar lo rápido que pasó. Un hombre de cuarenta años, con el agua por el
-pecho, cargando una puerta arrancada, se giró hacia el escalón de la iglesia donde
-estaba el niño y **esperó**. Esperó instrucciones. Y Sel se las dio.
+Quiero pararme aquí. Es lo único de esta noche que me importa de verdad.
+
+Se llamaba Oren, como el amigo de Tarin, porque en un pueblo de sesenta y cinco personas
+los nombres se repiten. Cuarenta y un años. Llevaba desde las once metido en el agua y
+cargaba una puerta arrancada que pesaba lo que pesa una puerta mojada, que es mucho más
+de lo que pesa una puerta.
+
+Llegó a la mitad de la calle, donde el agua le daba por el pecho, y se paró.
+
+No porque no supiera qué hacer con la puerta. Sabía perfectamente qué hacer con la
+puerta: llevaba cuarenta y un años en ese pueblo y había estado en la riada de hacía
+nueve, y su padre le había enseñado dónde se ponen las cosas cuando sube el río.
+
+Se paró y se giró hacia el escalón de la iglesia.
+
+Y esperó.
+
+Arriba, en el escalón, había un niño de nueve años con un gorro que le venía enorme,
+empapado, temblando, con las rodillas juntas.
+
+Nadie dijo nada. Duró tres o cuatro segundos y no fue raro para ninguno de los que lo
+vieron. Un hombre de cuarenta y un años, con el agua por el pecho, en mitad de la noche,
+sosteniendo una puerta, quieto, mirando a un crío y **esperando a que le dijeran qué
+hacer**.
+
+Sel se lo dijo.
+
+Oren fue.
+
+Eso es todo. Si de este libro entero hay que quedarse con una imagen, es esa, y no la que
+viene al final, y no la de la última página.
+
+Ninguno de los dos volvió a acordarse.
 
 Y funcionaron, porque Sel conocía el pueblo mejor que casi nadie. Los niños de un pueblo
 saben cosas que los adultos no se molestan en saber: por dónde se cuela el agua en cada
@@ -119,10 +149,31 @@ cierra, dónde duerme cada uno. Un adulto sabe su casa. Un niño se ha metido en
 Y se coló, veinte minutos después, exactamente por debajo, y ya había alguien esperando
 con sacos.
 
-Lo que más recordaría no era eso. Era el sonido. La riada no hacía ruido, pero la gente
-sí: cincuenta personas trabajando de noche con el agua por la cintura hacen un ruido
-concreto, de chapoteo continuo y voces cortas y madera, y en mitad de todo eso la suya,
-la de él, la de un niño de nueve años, y el ruido bajando un poco cada vez para oírla.
+A las doce menos cuarto hizo falta alguien pequeño y rápido para el portón del corral
+grande, que se hincha y no cierra, y Sel miró alrededor buscando quién.
+
+Ila estaba a quince metros, en la parte alta del agua, con el de seis años de la mano y
+el de cuatro en la cadera.
+
+—¡Ila!
+
+Ella lo miró.
+
+Y esto pasó en menos tiempo del que se tarda en contarlo: Ila miró a Sel, miró el
+portón, miró a sus hermanos, y dejó a los dos sentados encima de una piedra que sobresalía
+medio metro del agua, les dijo algo muy corto, y fue.
+
+Tardó doce minutos. Los niños no se movieron de la piedra. No les pasó nada.
+
+Lo que estaba pasando mientras tanto era otra cosa, y estaba pasando doscientos metros más
+allá, en la casa de ellos, que es de las bajas, y a la que nadie fue porque la persona que
+tenía que ir estaba abriendo un portón.
+
+Lo que más recordaría Sel no era nada de esto. Era el sonido. La riada no hacía ruido,
+pero la gente sí: cincuenta personas trabajando de noche con el agua por la cintura hacen
+un ruido concreto, de chapoteo continuo y voces cortas y madera, y en mitad de todo eso la
+suya, la de él, la de un niño de nueve años, y el ruido bajando un poco cada vez para
+oírla.
 
 Nunca en su vida se lo había pasado tan bien. Nunca. Ni el día del pan, ni cuando por fin
 se aprendió el orden de los perros, ni ninguna otra cosa de las nueve que llevaba vividas.
@@ -179,6 +230,20 @@ siguiente había que comer igual y porque a esa hora ya no había nadie a quien 
 
 No se murió nadie. Se perdió una casa, medio granero y una cabra, y todo el mundo estuvo
 de acuerdo en que había salido bien.
+
+En las casas bajas, el agua se llevó lo que estaba a ras de suelo, que es donde está todo
+lo que no cabe en un estante. En la mayoría eso fue una alfombra, un banco, sacos vacíos.
+
+En la de Ila fue la despensa entera del invierno y las tres mantas.
+
+Un vecino le explicó a Sel, sin ninguna intención, que en las casas bajas lo que se hace
+es subirlo todo a la mesa en cuanto suena la campana, que se tarda diez minutos, y que
+por eso ellos no habían perdido casi nada.
+
+Sel dijo que ah.
+
+Y ya está. Eso fue todo lo que pensó, porque tenía nueve años, y porque nadie le dijo la
+otra mitad, y porque la otra mitad hay que ponerla uno.
 
 Sel se sentó en el escalón de la iglesia, empapado, temblando, con el gorro enorme
 pegado a la cabeza.

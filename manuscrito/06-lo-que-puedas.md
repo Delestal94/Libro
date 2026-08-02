@@ -13,6 +13,15 @@ Después de la riada había el triple de ropa que lavar, porque el agua había e
 seis casas y todo lo que se había mojado se había mojado de río, y el río es marrón. Ila
 llevaba tres días de rodillas en la piedra desde antes de que hubiera luz.
 
+Lavaba más porque hacía falta más, y hacía falta más porque no tenían despensa ni mantas,
+y no tenían despensa ni mantas porque la noche de la riada nadie subió nada a la mesa en
+su casa.
+
+Sel sabía las tres cosas. Las sabía por separado, cada una en su sitio, como se saben las
+cosas a los nueve años: sin ponerlas en fila.
+
+Le habría bastado con ponerlas en fila.
+
 Sel se sentó a mirarla. No ayudó, porque lo había intentado el primer día y la había
 estropeado.
 
@@ -246,6 +255,29 @@ Ya se la han buscado.
 —Ya sé que no sabías. —Y entonces sí levantó la voz, una sola vez, y fue peor que si
 hubiera gritado toda la conversación—. **Ese es el problema. Que no sabías y lo hiciste
 igual.**
+
+Se quedaron los dos quietos.
+
+Y entonces Ila dijo la única cosa que Sel no iba a poder olvidar en toda su vida, y la
+dijo sin rencor ninguno, casi con curiosidad, como quien por fin le encuentra el nombre a
+algo:
+
+—La noche del río. Cuando me llamaste.
+
+—Sí.
+
+—Yo estaba en la parte alta con los críos. Ya no había nada que hacer, ya estaba todo
+sacado. —Se secó la frente con el antebrazo, que era lo único seco que tenía—. Yo iba a
+subir a mi casa, Sel. Iba a subir a mi casa a poner las cosas encima de la mesa.
+
+Sel no dijo nada.
+
+—Y me llamaste, y fui.
+
+—Yo no sabía dónde vivías.
+
+—Ya lo sé. —Y esto fue lo peor: que lo dijo para tranquilizarlo—. No te estoy diciendo
+que lo hicieras. Te estoy diciendo que pasó.
 
 Se quedaron los dos callados.
 

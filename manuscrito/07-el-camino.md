@@ -327,7 +327,10 @@ Ila sí. Los contó enteros, sin decir nada, como llevaba haciendo desde los onc
 
 Yo he contado ese orden muchas veces. Molino, cojo, era. Se me da mal dormir.
 
-Y siempre, al llegar al noveno, me acuerdo de que aquella mañana bajaban dos personas por
-esa cuesta.
+Aquella mañana bajaban dos personas por esa cuesta, y una de las dos no tenía por qué
+estar allí.
 
-Y de lo poco que duró eso.
+Y él todavía no sabía que las cosas se pagan, ni cómo, ni con qué, ni que ya había
+pagado dos veces sin enterarse.
+
+Lo iba a aprender. Yo estaba deseando que no.
