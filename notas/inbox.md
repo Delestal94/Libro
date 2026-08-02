@@ -45,3 +45,7 @@ Me gustaría que una temporada, una parte de la historia se llegue a una ciudad 
 ## 02/08/2026 · 00:44
 
 Quisiera que mi hijo sea el protagonista, actualmente tiene 1 año y 8 meses, acabamos de salir de bañarnos, hacíamos jueguitos graciosos con la boca en el agua, se nos cayó un soporte de plástico que sostiene todas las cosas, se asustó pero fue gracioso.
+
+## 02/08/2026 · 00:47
+
+Quisiera que se traten temas de bulling, de mafia, de drogas, de deprecion, se suicidio, de adicciones, de problemas intrafamiliar, de abusos, de problemas de adaptación social, de política, religión, deporte. De la gula, envidia, egoísmo, robo, los 7 pecados capitales.
