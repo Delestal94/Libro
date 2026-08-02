@@ -81,3 +81,7 @@ Me gustaría tocar temas como desastres sobre naturales como terremotos, tsunami
 ## 02/08/2026 · 04:05
 
 Me gustaría que el mundo sea fantasía, época medieval pero con grados de tecnología mágica, los animales y fauna sean fantasticas
+
+## 02/08/2026 · 04:26
+
+Me gustaría tener un apartado de las distintas ciudades con sus características particulares
