@@ -49,3 +49,7 @@ Quisiera que mi hijo sea el protagonista, actualmente tiene 1 año y 8 meses, ac
 ## 02/08/2026 · 00:47
 
 Quisiera que se traten temas de bulling, de mafia, de drogas, de deprecion, se suicidio, de adicciones, de problemas intrafamiliar, de abusos, de problemas de adaptación social, de política, religión, deporte. De la gula, envidia, egoísmo, robo, los 7 pecados capitales.
+
+## 02/08/2026 · 00:51
+
+Me gustaría hablar sobre trabajo infantil y de la necesidad de la gente que le cuesta el día a dia, de la gente mayor y sus dificultades, del machismo y del feminismo (ambos desde un punto de vista de los extremistas).
