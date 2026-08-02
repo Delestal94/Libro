@@ -3,49 +3,51 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
-import { CAMPOS, aClave, etiquetaDe, iniciales } from "@/lib/personajes";
+import { TIPOS, aClave, etiquetaDe, iniciales, type Campo, type TipoFicha } from "@/lib/fichas";
 import type { Retroenlace } from "@/lib/enlaces";
 import Retroenlaces from "./Retroenlaces";
 
 type CampoRelleno = { clave: string; etiqueta: string; valor: string };
 
 type Props = {
+  tipo: TipoFicha;
   slug: string;
   nombre: string;
-  ficha: Record<string, string>;
+  datos: Record<string, string>;
   campos: CampoRelleno[];
   cuerpo: string;
   cuerpoHtml: string;
   menciones: Retroenlace[];
-  otros: string[];
 };
 
-export default function FichaPersonaje({
+export default function DetalleFicha({
+  tipo,
   slug,
   nombre,
-  ficha,
+  datos,
   campos,
   cuerpo,
   cuerpoHtml,
   menciones,
 }: Props) {
   const router = useRouter();
+  const def = TIPOS[tipo];
   const [editando, setEditando] = useState(false);
-  const [datos, setDatos] = useState<Record<string, string>>(ficha);
+  const [borrador, setBorrador] = useState<Record<string, string>>(datos);
   const [guardando, setGuardando] = useState(false);
   const [error, setError] = useState("");
 
   // Sugerencias que aún no están en la ficha: lo demás ya se ve.
-  const sinUsar = CAMPOS.filter((c) => !datos[c.clave]?.trim());
+  const sinUsar = def.campos.filter((c) => !borrador[c.clave]?.trim());
 
   async function guardar() {
     setGuardando(true);
     setError("");
     try {
-      const res = await fetch("/api/personaje", {
+      const res = await fetch("/api/ficha", {
         method: "PATCH",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ slug, ficha: datos }),
+        body: JSON.stringify({ tipo, slug, datos: borrador }),
       });
       if (!res.ok) throw new Error((await res.json()).error ?? "No se pudo guardar");
       setEditando(false);
@@ -57,42 +59,30 @@ export default function FichaPersonaje({
     }
   }
 
-  function cambiar(clave: string, valor: string) {
-    setDatos((d) => ({ ...d, [clave]: valor }));
-  }
-
-  function quitar(clave: string) {
-    setDatos((d) => {
-      const { [clave]: _, ...resto } = d;
-      return resto;
-    });
-  }
-
-  function anadir(clave: string) {
-    if (!clave || datos[clave] !== undefined) return;
-    setDatos((d) => ({ ...d, [clave]: "" }));
-  }
-
   return (
     <div className="py-4">
-      <Link href="/personajes" className="text-sm text-tenue">
-        ‹ Personajes
+      <Link href={`/${tipo}`} className="text-sm text-tenue">
+        ‹ {def.plural}
       </Link>
 
       <header className="mt-3 mb-6 flex items-center gap-4">
         <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-acento/40 bg-acento/10 font-serif text-xl text-acento">
           {iniciales(nombre)}
         </span>
-        <h1 className="min-w-0 font-serif text-2xl break-words">{nombre}</h1>
+        <div className="min-w-0">
+          <h1 className="font-serif text-2xl break-words">{nombre}</h1>
+          <p className="text-xs text-tenue">
+            {def.icono} {def.singular}
+          </p>
+        </div>
       </header>
 
-      {/* --- Ficha técnica --- */}
       <section className="mb-8">
         <div className="mb-2 flex items-center justify-between">
           <h2 className="text-xs font-semibold tracking-wide text-tenue uppercase">Ficha</h2>
           <button
             onClick={() => {
-              setDatos(ficha);
+              setBorrador(datos);
               setEditando((v) => !v);
               setError("");
             }}
@@ -103,19 +93,27 @@ export default function FichaPersonaje({
         </div>
 
         {editando ? (
-          <Editor
-            datos={datos}
+          <EditorCampos
+            tipo={tipo}
+            datos={borrador}
             sinUsar={sinUsar}
-            onCambiar={cambiar}
-            onQuitar={quitar}
-            onAnadir={anadir}
+            onCambiar={(c, v) => setBorrador((d) => ({ ...d, [c]: v }))}
+            onQuitar={(c) =>
+              setBorrador((d) => {
+                const { [c]: _, ...resto } = d;
+                return resto;
+              })
+            }
+            onAnadir={(c) =>
+              setBorrador((d) => (c && d[c] === undefined ? { ...d, [c]: "" } : d))
+            }
             onGuardar={guardar}
             guardando={guardando}
             error={error}
           />
         ) : campos.length === 0 ? (
           <p className="rounded-lg border border-dashed border-borde px-4 py-8 text-center text-sm text-tenue">
-            Ficha vacía. Toca «Editar» para rellenar edad, altura, o lo que se te ocurra.
+            Ficha vacía. Toca «Editar» para rellenarla, o inventarte campos.
           </p>
         ) : (
           <dl className="overflow-hidden rounded-lg border border-borde">
@@ -132,21 +130,20 @@ export default function FichaPersonaje({
         )}
       </section>
 
-      {/* --- Biografía --- */}
       <section className="mb-8">
         <div className="mb-2 flex items-center justify-between">
-          <h2 className="text-xs font-semibold tracking-wide text-tenue uppercase">Biografía</h2>
+          <h2 className="text-xs font-semibold tracking-wide text-tenue uppercase">Texto</h2>
           <Link
-            href={`/editar/biblia/personajes/${slug}.md`}
+            href={`/editar/${def.carpeta}/${slug}.md`}
             className="min-h-9 px-2 text-sm text-acento"
           >
             Editar texto
           </Link>
         </div>
 
-        {cuerpo.replace(/^#\s+.+$/m, "").trim().length < 60 ? (
+        {cuerpo.replace(/^#\s+.+$/m, "").replace(/^##\s+.+$/gm, "").trim().length < 30 ? (
           <p className="rounded-lg border border-dashed border-borde px-4 py-8 text-center text-sm text-tenue">
-            Sin biografía todavía. La plantilla ya tiene las secciones sugeridas.
+            Sin escribir todavía. La plantilla ya tiene las secciones sugeridas.
           </p>
         ) : (
           <article
@@ -158,14 +155,13 @@ export default function FichaPersonaje({
 
       <Retroenlaces entradas={menciones} rotos={[]} cargando={false} />
 
-      <Borrar slug={slug} nombre={nombre} />
+      <Borrar tipo={tipo} slug={slug} nombre={nombre} singular={def.singular} />
     </div>
   );
 }
 
-// --- Edición de la ficha ---
-
-function Editor({
+function EditorCampos({
+  tipo,
   datos,
   sinUsar,
   onCambiar,
@@ -175,8 +171,9 @@ function Editor({
   guardando,
   error,
 }: {
+  tipo: TipoFicha;
   datos: Record<string, string>;
-  sinUsar: typeof CAMPOS;
+  sinUsar: Campo[];
   onCambiar: (c: string, v: string) => void;
   onQuitar: (c: string) => void;
   onAnadir: (c: string) => void;
@@ -186,7 +183,7 @@ function Editor({
 }) {
   const [nuevoCampo, setNuevoCampo] = useState("");
 
-  // `nombre` se edita como título, no como una fila más de la tabla.
+  // `nombre` se muestra como título de la ficha, no como una fila más.
   const claves = Object.keys(datos).filter((k) => k !== "nombre");
 
   function anadirPropio() {
@@ -202,11 +199,11 @@ function Editor({
         {claves.map((clave) => (
           <div key={clave}>
             <div className="mb-1 flex items-baseline justify-between gap-2">
-              <label className="text-xs text-tenue">{etiquetaDe(clave)}</label>
+              <label className="text-xs text-tenue">{etiquetaDe(tipo, clave)}</label>
               <button
                 onClick={() => onQuitar(clave)}
                 className="px-2 text-xs text-peligro"
-                aria-label={`Quitar ${etiquetaDe(clave)}`}
+                aria-label={`Quitar ${etiquetaDe(tipo, clave)}`}
               >
                 Quitar
               </button>
@@ -226,7 +223,6 @@ function Editor({
         </p>
       )}
 
-      {/* Sugerencias que todavía no están en la ficha */}
       {sinUsar.length > 0 && (
         <div className="mt-5">
           <p className="mb-2 text-xs text-tenue">Añadir campo sugerido:</p>
@@ -281,7 +277,17 @@ function Editor({
   );
 }
 
-function Borrar({ slug, nombre }: { slug: string; nombre: string }) {
+function Borrar({
+  tipo,
+  slug,
+  nombre,
+  singular,
+}: {
+  tipo: TipoFicha;
+  slug: string;
+  nombre: string;
+  singular: string;
+}) {
   const router = useRouter();
   const [confirmando, setConfirmando] = useState(false);
   const [borrando, setBorrando] = useState(false);
@@ -291,13 +297,13 @@ function Borrar({ slug, nombre }: { slug: string; nombre: string }) {
     setBorrando(true);
     setError("");
     try {
-      const res = await fetch("/api/personaje", {
+      const res = await fetch("/api/ficha", {
         method: "DELETE",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ slug }),
+        body: JSON.stringify({ tipo, slug }),
       });
       if (!res.ok) throw new Error((await res.json()).error ?? "No se pudo borrar");
-      router.push("/personajes");
+      router.push(`/${tipo}`);
       router.refresh();
     } catch (e) {
       setError((e as Error).message);
@@ -311,7 +317,7 @@ function Borrar({ slug, nombre }: { slug: string; nombre: string }) {
         onClick={() => setConfirmando(true)}
         className="mt-8 w-full py-3 text-center text-xs text-tenue underline"
       >
-        Borrar este personaje
+        Borrar {singular === "lugar" ? "este lugar" : `esta ${singular}`}
       </button>
     );
   }

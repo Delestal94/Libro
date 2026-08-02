@@ -12,10 +12,13 @@ import CapturaRapida from "./CapturaRapida";
 */
 const ENLACES = [
   { href: "/", etiqueta: "Biblioteca", icono: "◆" },
-  { href: "/personajes", etiqueta: "Personajes", icono: "☗" },
+  { href: "/mundo", etiqueta: "Mundo", icono: "☗" },
   { href: "/leer", etiqueta: "Leer", icono: "▤" },
   { href: "/buscar", etiqueta: "Buscar", icono: "⌕" },
 ];
+
+/* Personajes, lugares y criaturas cuelgan de Mundo: son tres destinos que no
+   caben abajo, y agrupados se llega igual de rápido. */
 
 export default function NavInferior() {
   const ruta = usePathname();
@@ -24,7 +27,14 @@ export default function NavInferior() {
   // El login se ve a pantalla completa, sin navegación.
   if (ruta === "/login") return null;
 
-  const activo = (href: string) => (href === "/" ? ruta === "/" : ruta.startsWith(href));
+  // Las fichas cuelgan de Mundo, así que su pestaña sigue marcada dentro de ellas.
+  const RAMAS_MUNDO = ["/mundo", "/personajes", "/lugares", "/criaturas"];
+
+  const activo = (href: string) => {
+    if (href === "/") return ruta === "/";
+    if (href === "/mundo") return RAMAS_MUNDO.some((r) => ruta.startsWith(r));
+    return ruta.startsWith(href);
+  };
 
   return (
     <>

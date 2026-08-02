@@ -19,7 +19,7 @@ móvil  →  web (Vercel)  →  API de GitHub  →  repo Delestal94/Libro
 | Ruta | Qué hace |
 |---|---|
 | `/` | Biblioteca: biblia, manuscrito y notas, con palabras por documento y totales. Crear documentos nuevos. |
-| `/personajes` | Fichas de personaje: datos técnicos y biografía. Crear, editar y borrar. |
+| `/mundo` | Hub de fichas: personajes, lugares y criaturas, más las reglas del mundo. |
 | `/editar/<ruta>` | Editor Markdown con atajos táctiles, autocompletado de `[[enlaces]]`, retroenlaces, vista previa y borrado. |
 | `/leer` | El manuscrito completo con tipografía de libro, índice, tamaño de letra y progreso. |
 | `/trama` | Registro de pistas sembradas (con estado) y línea del tiempo con los dos relojes. |
@@ -36,10 +36,12 @@ enlaces suyos aún no tienen destino.
 
 Es sintaxis de wiki guardada tal cual en el Markdown: el fichero se sigue leyendo sin la app.
 
-## Personajes
+## Fichas: personajes, lugares y criaturas
 
-Un fichero por personaje en `biblia/personajes/`, con los datos técnicos en cabecera YAML
-y la biografía en Markdown debajo:
+Los tres son lo mismo por debajo —un fichero Markdown con datos técnicos en cabecera
+YAML y texto libre debajo—, así que comparten toda la maquinaria (`src/lib/fichas.ts`)
+y sólo se diferencian en la carpeta, los campos sugeridos y las secciones de la
+plantilla. Añadir un cuarto tipo es añadir una entrada a `TIPOS`.
 
 ```markdown
 ---
@@ -53,13 +55,21 @@ edad_aparente: 17
 ## Biografía
 ```
 
-**Los campos no están cerrados.** Los que ofrece la app (edad, altura, ojos…) son
-sugerencias: se pueden quitar todos e inventarse otros —«grado», «deuda», «precio que
-paga»—. Al guardar, un campo que dejas vacío desaparece del fichero en vez de quedarse
-con valor vacío.
+**Los campos no están cerrados.** Los que ofrece la app son sugerencias: se pueden
+quitar todos e inventarse otros —«grado», «deuda», «precio que paga»—. Al guardar, la
+cabecera se reescribe entera, así que un campo que quitas desaparece del fichero en vez
+de quedarse vacío.
+
+Cada tipo tiene los suyos: los lugares llevan **grado de tecnología mágica**, **qué se
+oye** y **lo que esconde**; las criaturas, **qué sonido hacen** y **relación con la
+gente**. Un mismo campo puede significar cosas distintas según el tipo.
 
 Como son ficheros Markdown normales, entran en el buscador y admiten `[[enlaces]]` desde
 el primer día: al mencionar `[[Frieren]]` en un capítulo, su ficha lo registra sola.
+
+Los slugs se validan con **lista de permitidos** (`/^[a-z0-9]+(?:-[a-z0-9]+)*$/`), no
+prohibiendo `..` y `/`. Una lista de prohibidos siempre se queda corta, y aquí el slug
+acaba siendo un nombre de fichero.
 
 ## Línea del tiempo
 

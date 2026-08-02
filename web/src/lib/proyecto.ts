@@ -2,7 +2,7 @@ import "server-only";
 
 import { leerBlob, listarDocumentos } from "./github";
 import { construirIndice, retroenlaces } from "./enlaces";
-import { esPersonaje, leerPersonaje, type Personaje } from "./personajes";
+import { leerFicha, tipoDeRuta, type Ficha, type TipoFicha } from "./fichas";
 import { contarPalabras, esCapitulo, seccionDe, tituloDe, type Seccion } from "./libro";
 
 export type Doc = {
@@ -41,12 +41,22 @@ export function capitulos(docs: Doc[]): Doc[] {
   return docs.filter((d) => d.esCapitulo).sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
 }
 
-/** Fichas de personaje, ordenadas por nombre. */
-export function personajes(docs: Doc[]): Personaje[] {
+/** Fichas de un tipo (personajes, lugares o criaturas), ordenadas por nombre. */
+export function fichasDe(docs: Doc[], tipo: TipoFicha): Ficha[] {
   return docs
-    .filter((d) => esPersonaje(d.ruta))
-    .map((d) => leerPersonaje(d.ruta, d.contenido))
+    .map((d) => leerFicha(d.ruta, d.contenido))
+    .filter((f): f is Ficha => f !== null && f.tipo === tipo)
     .sort((a, b) => a.nombre.localeCompare(b.nombre, "es"));
+}
+
+/** Cuántas fichas hay de cada tipo, para el hub del mundo. */
+export function conteoFichas(docs: Doc[]): Record<TipoFicha, number> {
+  const conteo = { personajes: 0, lugares: 0, criaturas: 0 };
+  for (const d of docs) {
+    const tipo = tipoDeRuta(d.ruta);
+    if (tipo) conteo[tipo]++;
+  }
+  return conteo;
 }
 
 /** Índice de enlaces `[[ ]]` de todo el proyecto. */

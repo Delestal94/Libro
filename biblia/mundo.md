@@ -3,16 +3,65 @@
 > Solo entra aquí lo que afecta a la trama. Un mundo con tres reglas firmes
 > convence más que uno con cincuenta páginas de historia que nadie lee.
 
-## Dónde y cuándo
+## Qué clase de mundo es *(decidido el 2 de agosto de 2026)*
 
-—
+**Fantasía de época medieval, con tecnología mágica en grados desiguales, y fauna
+propia.**
+
+Lo importante de esa decisión no es «medieval con magia» —eso lo es todo—, sino la
+palabra **desiguales**. Que la tecnología mágica no esté repartida por igual convierte
+el mapa en una escalera: cada lugar del viaje está en un peldaño distinto, y **el
+peldaño es el tema del arco**.
+
+Un pueblo sin nada y una capital saturada no son dos decorados: son dos respuestas a
+la misma pregunta, y el protagonista las cruza en el mismo libro.
+
+## Los cinco grados
+
+Cada lugar de la [[lugares]] lleva su grado en la ficha. La escala es de uso, no de
+poder: mide **cuánta magia hay metida en la vida diaria**, no lo fuerte que es nadie.
+
+| Grado | Nombre | Cómo se vive | Se nota en |
+|---|---|---|---|
+| **0** | Yerma | Sin magia aplicada. Herramienta, animal y mano. | Se hace de noche y se acabó el día. |
+| **1** | Doméstica | Pequeños encantamientos: luz, calor, conservar comida. | Una lámpara que no se apaga en toda la casa. |
+| **2** | Artesana | Talleres y gremios. La magia es un oficio con aprendices. | Se compra hecho lo que antes se rezaba. |
+| **3** | Industrial | Producción en serie. Motores. Ciudades que no duermen. | El río ya no huele igual. |
+| **4** | Saturada | Magia en todo, y **ya nadie sabe cómo funciona**. | Se pulsa y funciona. Si deja de funcionar, nadie sabe arreglarlo. |
+
+**El grado 4 es la nota del 1 de agosto a las 01:20** —la sobreestimulación, olvidarse
+de la conexión humana, del cara a cara— convertida en un lugar concreto al que se puede
+llegar caminando. No hay que explicar el tema: se camina por él.
+
+## La pregunta abierta: ¿de qué se alimenta?
+
+Todo lo demás en este libro tiene un precio. La tecnología mágica no puede ser la única
+cosa gratis, o se cae la coherencia.
+
+| | Opción | Qué implica |
+|---|---|---|
+| **A** | **Se alimenta de lo mismo que los Papeles** ★ | Una ciudad de grado 4 consume vidas prestadas para mantener las luces. Ata el sistema de poder, el mundo y los temas en una sola idea — y hace que la organización que regula los Papeles tenga aún más razón. |
+| B | Cuesta materia rara que se extrae | Explotación, minas, colonias. Más convencional, más fácil de escribir. |
+| C | Cuesta memoria colectiva | El grado 4 es una ciudad que ha olvidado su propia historia. Muy bello, difícil de sostener. |
+
+**Recomendación: A**, pero es una de las decisiones grandes y va con la sección A del
+[[boceto]]. No decidir todavía.
+
+## Fauna
+
+Fantástica, y **poca**. Tres o cuatro criaturas bien hechas se recuerdan; un bestiario
+de cuarenta no lo lee nadie. Van en [[criaturas]], y cada una debería:
+
+1. Verse una vez antes de importar.
+2. Estar atada a un lugar concreto, no vagar por todo el mundo.
+3. Tener un **sonido** propio. Se reconocen antes de verse.
 
 ## Reglas duras
 
-*Las cosas que no pueden romperse. Si hay magia/tecnología/sistema, define el **coste**:
+*Las cosas que no pueden romperse. Si hay magia o sistema, define el **coste**:
 un poder sin precio mata la tensión.*
 
-1.
+1. La tecnología mágica se reparte en grados, y **ningún lugar está en dos a la vez**.
 2.
 3.
 
@@ -20,14 +69,11 @@ un poder sin precio mata la tensión.*
 
 *Orden de revelaciones. Qué sabe el lector antes que el protagonista y viceversa.*
 
-| Revelación | Capítulo aprox. |
-|---|---|
-| | |
+Ver la línea del tiempo en la app (Trama → Cronología), que ya lleva los dos relojes.
 
 ## Glosario
 
-*Nombres propios, términos inventados. Sirve para no escribir el mismo sitio de dos formas
-en el capítulo 3 y en el 19.*
+*Nombres propios y términos inventados. Las palabras del veresh viven en [[idioma]].*
 
 | Término | Significado |
 |---|---|
@@ -35,6 +81,10 @@ en el capítulo 3 y en el 19.*
 
 ## Decisiones cerradas
 
-*Cosas que ya se han decidido y no se vuelven a discutir. Con fecha, para saber qué es reciente.*
-
-- *(2026-08-01)* Proyecto iniciado. Género y premisa pendientes.
+- *(2026-08-01)* Proyecto iniciado.
+- *(2026-08-02)* **El brindis**: lo que el libro quiere dejarle a quien lo lea.
+  Está en [[el-protagonista]].
+- *(2026-08-02)* **El veresh**: lengua con fonética cerrada y la distinción
+  `-in` / `-esh` entre lo propio y lo prestado. Está en [[idioma]].
+- *(2026-08-02)* **Fantasía medieval con tecnología mágica desigual y fauna propia.**
+  Cinco grados, uno por peldaño del viaje.

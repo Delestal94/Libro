@@ -3,9 +3,9 @@ import SinConfigurar from "@/components/SinConfigurar";
 import NuevoDocumento from "@/components/NuevoDocumento";
 import Salir from "@/components/Salir";
 import { repoConfigurado } from "@/lib/github";
-import { cargarProyecto, capitulos, personajes, type Doc } from "@/lib/proyecto";
+import { cargarProyecto, capitulos, conteoFichas, type Doc } from "@/lib/proyecto";
 import { SECCIONES, minutosLectura } from "@/lib/libro";
-import { esPersonaje } from "@/lib/personajes";
+import { esFicha } from "@/lib/fichas";
 
 export const dynamic = "force-dynamic";
 
@@ -21,7 +21,7 @@ export default async function Biblioteca() {
 
   const caps = capitulos(docs);
   const palabrasManuscrito = caps.reduce((t, d) => t + d.palabras, 0);
-  const numPersonajes = personajes(docs).length;
+  const totalFichas = Object.values(conteoFichas(docs)).reduce((t, n) => t + n, 0);
 
   return (
     <div className="py-6">
@@ -40,7 +40,12 @@ export default async function Biblioteca() {
       </Link>
 
       <nav className="mb-8 grid grid-cols-2 gap-2">
-        <Acceso href="/personajes" icono="☗" titulo="Personajes" detalle={`${numPersonajes} ${numPersonajes === 1 ? "ficha" : "fichas"}`} />
+        <Acceso
+          href="/mundo"
+          icono="☗"
+          titulo="Mundo"
+          detalle={`${totalFichas} ${totalFichas === 1 ? "ficha" : "fichas"}`}
+        />
         <Acceso href="/trama" icono="⌘" titulo="Trama" detalle="Pistas y cronología" />
       </nav>
 
@@ -48,7 +53,7 @@ export default async function Biblioteca() {
         const dentro = docs
           .filter((d) => d.seccion === s.id)
           // Las fichas tienen pantalla propia; repetirlas aquí sólo sería ruido.
-          .filter((d) => !esPersonaje(d.ruta))
+          .filter((d) => !esFicha(d.ruta))
           .sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
         if (!dentro.length) return null;
 
