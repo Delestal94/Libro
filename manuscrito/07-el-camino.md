@@ -209,6 +209,23 @@ gran cosa. Tarin le dio a Sel un cuchillo mejor que el que le habían dado el pr
 y le enseñó cómo llevarlo para no cortarse él. Alguien le puso el gorro enorme y Sel lo
 dejó puesto por educación.
 
+La mujer del cachorro se acercó con una correa vieja en la mano.
+
+—Toma.
+
+—Ya tengo.
+
+—Esa es de esparto y le va a hacer llaga. —Se la puso en la mano igual, y le costó
+soltarla—. Y no le des pan. Todo el mundo les da pan y luego no comen.
+
+—Vale.
+
+Se quedó ahí un momento más, mirando al perro y no a Sel.
+
+—Es bueno —dijo—. Le tocó una casa mala y luego le tocó otra.
+
+Y se fue antes de que nadie le contestara.
+
 A Ila no le dio nada nadie.
 
 Estuvo esperando a un lado con un hatillo pequeño, mirando el sendero, mientras trece
@@ -320,6 +337,8 @@ Los perros empezaron detrás de ellos. Molino, cojo, era, y los otros seis.
 Por primera vez en dos meses, Sel no los contó.
 
 Ila sí. Los contó enteros, sin decir nada, como llevaba haciendo desde los once años.
+
+Diez no aulló. Iba delante, en la correa nueva, tirando.
 
 ---
 

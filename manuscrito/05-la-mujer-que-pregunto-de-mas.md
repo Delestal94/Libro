@@ -422,6 +422,25 @@ por qué le pareció que ella acababa de hacer algo que no debía.
 —Eso lo sabes tú mejor que yo. —Se ajustó la correa de la bolsa—. Llevas el que te dieron
 en el entierro.
 
+—¿Y tú cuál llevas?
+
+Miren Saal se rió una vez, corta, sin ganas.
+
+—Yo llevo una bolsa y un cuaderno —dijo—. Y a once días de aquí hay un armario con una
+ficha por cada niño como tú que alguien se ha molestado en escribir. Algunas tienen una
+nota al margen puesta por alguien que vio lo que pasa cuando se dejan crecer.
+
+—¿Yo tengo una?
+
+—No.
+
+Sel tardó un rato en entender lo que acababa de oír, y cuando lo entendió ya era tarde
+para preguntar.
+
+—Pero...
+
+—Buenas noches, Sel.
+
 Empezó a bajar. A los diez pasos se paró, se giró, y con una cara completamente normal,
 sin rastro de broma, preguntó:
 

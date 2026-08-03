@@ -97,6 +97,32 @@ Pasó por el hueco del establo, que era un hueco de niño, y abrió desde dentro
 portón que llevaban veinte minutos sin poder abrir, y salieron seis animales que se
 habrían ahogado. La gente gritó. Le gritaron a él. Bien.
 
+Cinco animales salieron solos. El sexto no.
+
+El sexto era el cachorro.
+
+Estaba en el rincón de atrás, encima de un fardo, temblando y muy ofendido, y cuando Sel
+lo cogió le mordió el pulgar con toda la fuerza de que era capaz, que no era ninguna.
+
+—Ay.
+
+El cachorro le volvió a morder.
+
+—Que soy yo.
+
+Salió con él dentro de la camisa. Le pesaba, se movía, le clavaba las uñas y le mordía la
+tripa cada dos por tres, y Sel estuvo el resto de la noche dando instrucciones a hombres
+adultos con un perro de tres meses metido por dentro de la ropa.
+
+La mujer del cachorro lo vio salir del establo con el bulto puesto.
+
+Se quedó mirándolo un rato largo desde la otra orilla del agua, con la cara de alguien
+que está haciendo una cuenta que no le sale.
+
+Y no dijo nada.
+
+Y no se lo pidió.
+
 Después alguien preguntó en voz alta qué había en la casa de la esquina y Sel contestó
 que la abuela de Nera dormía en la de atrás, no en la de delante, porque lo sabía, porque
 se pasaba el día por ahí y los niños saben dónde duerme cada uno. Fueron a la de atrás.

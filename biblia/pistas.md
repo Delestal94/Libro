@@ -14,15 +14,15 @@
 | «Halumi ish…» sin terminar | cap. 2 | último capítulo | pendiente |
 | El papel cobra: Sel pierde el sonido de la voz de Maara | cap. 3 | — | pendiente |
 | Quien cede ante el papel encuentra una explicación que le queda corta | cap. 3 | — | pendiente |
-| Existe un archivo con una ficha por cada caso como el de Sel | cap. 4 | — | pendiente |
-| Existe una nota al margen sobre qué pasa cuando se dejan crecer | cap. 4 | — | pendiente |
-| Miren Saal arranca las hojas y no abre ficha: «iba a arrepentirse» | cap. 4 | — | pendiente |
-| «Un día no vas a poder dejar de hacerlo» | cap. 4 | — | pendiente |
+| Existe un archivo con una ficha por cada caso como el de Sel | cap. 5 | — | pendiente |
+| Existe una nota al margen sobre qué pasa cuando se dejan crecer | cap. 5 | — | pendiente |
+| Miren Saal arranca las hojas y no abre ficha: «iba a arrepentirse» | cap. 5 | — | pendiente |
+| «Un día no vas a poder dejar de hacerlo» | cap. 5 | — | pendiente |
 | Maara se acordó una vez del brindis, no funcionó, y siguió. No se dice qué fue | cap. 1 | — | pendiente |
-| Dos nudos en el haranu cuando sólo se atan los que se pueden cumplir | cap. 5 | — | pendiente |
+| Dos nudos en el haranu cuando sólo se atan los que se pueden cumplir | cap. 7 | — | pendiente |
 | Si haces de algo mucho tiempo te lo empiezan a decir con `-in` | cap. 5 | — | pendiente |
-| El camino del cementerio brilla más y nadie se pregunta por qué | cap. 5 | — | pendiente |
-| El narrador se delata: «no tengas miedo», «debería haberme parado aquí» | caps. 1-4 | último capítulo | pendiente |
+| El camino del cementerio brilla más y nadie se pregunta por qué | cap. 7 | — | pendiente |
+| El narrador se delata: «no tengas miedo», «debería haberme parado aquí» | caps. 1-7 | último capítulo | pendiente |
 | La chica de catorce que contestó «irme» sin pensárselo | cap. 5 | — | pendiente |
 | Qué lleva Miren Saal en la bolsa que pesa y suena a metal | cap. 5 | — | pendiente |
 | «Dos no pueden llevar el mismo a la vez» — dicho una vez y negado | cap. 5 | — | pendiente |
@@ -38,10 +38,23 @@
 | Ila calla ante Miren Saal cuando podría haberlo denunciado | cap. 5 | — | pendiente |
 | Miren Saal escribe algo largo después de que Ila diga «no» | cap. 5 | — | pendiente |
 | El sueño de Anu: que un día se le olvide poner la levadura | cap. 7 | — | pendiente |
-| «Lo poco que duró eso» — el narrador sobre los dos bajando la cuesta | cap. 7 | — | pendiente |
 | Miren Saal se borra de la memoria de 65 personas en un minuto | cap. 5 | — | pendiente |
 | Ila la recuerda «un poco», y lo apunta por si acaso | cap. 5 | — | pendiente |
 | «Eres como yo, aunque no lo sepas todavía» | cap. 5 | — | pendiente |
 | Ella pregunta el nombre de Sel dos veces sin saber que repite | cap. 5 | — | pendiente |
 | «¿Yo voy a poder hacer eso?» / «Sí. Ese es el problema» | cap. 5 | — | pendiente |
 | No hay ni un testigo de que una inspectora subiera a Keliun | cap. 5 | — | pendiente |
+| Los nirai: el nombre de los perros, dicho una sola vez | cap. 1 | — | pendiente |
+| «No hubo en varias horas de camino una sola luz encendida» | cap. 1 | cap. 7 | **pagada** |
+| El viejo dice las palabras «porque un día le tocó y ya nadie se lo quitó» | cap. 2 | — | pendiente |
+| El papel se lo da el pueblo entero en el entierro | cap. 2 | cap. 5 | **pagada** |
+| Tarin rompe una regla privada de once años | cap. 3 | — | pendiente |
+| El cuchillo que no debería haber tenido, y el que le da Tarin | cap. 3 | cap. 7 | **pagada** |
+| «Ninguno de los dos volvió a acordarse» — el papel también borra al que lo usa | cap. 4 | — | pendiente |
+| El cachorro que le quitaron, recuperado en la riada | cap. 3 | cap. 4 | **pagada** |
+| Diez: el décimo perro, que nunca estuvo en el orden | cap. 1 | cap. 6 | **pagada** |
+| La mesa vacía de casa de Ila | cap. 4 | cap. 6 | **pagada** |
+| El del molino no consigue volver a decir su sueño | cap. 7 | — | pendiente |
+| «Llevas el que te dieron en el entierro» | cap. 5 | — | pendiente |
+| Sel no tiene ficha en el armario, y Miren Saal no explica por qué | cap. 5 | — | pendiente |
+| El padre de Ila sigue vivo, sigue allí, y ahora la odia | cap. 6 | — | pendiente |

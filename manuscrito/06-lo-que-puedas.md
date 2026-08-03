@@ -36,8 +36,50 @@ Ila siguió frotando y no dijo nada durante un buen rato, y después dijo:
 Fue lo más parecido a un consuelo que le dio nadie en Keliun, y a Sel le duró tres días.
 
 Los dos hermanos de Ila andaban por allí. El pequeño tenía cuatro años y se comía cosas
-del suelo; el otro, seis, se pasó la mañana intentando enseñarle a Sel a silbar, y no lo
-consiguió, y a Sel le gustó muchísimo la mañana.
+del suelo. El otro tenía seis y se pasó la mañana intentando enseñarle a Sel a silbar.
+
+—Así.
+
+—Así.
+
+—No. Así.
+
+—Así.
+
+—Que no.
+
+Estuvieron en eso una hora y media. El de seis años silbaba como un pájaro y no sabía
+explicar cómo lo hacía, que es el peor maestro que hay; Sel escupía. El cachorro, cada
+vez que el de seis silbaba, levantaba las orejas y miraba alrededor buscando al pájaro, y
+cada vez que Sel lo intentaba se quedaba exactamente igual.
+
+—Tu perro sabe —dijo el de seis.
+
+—Ya.
+
+—¿Cómo se llama?
+
+Sel se lo pensó. Llevaba once días sin ponerle nombre, por si acaso.
+
+—Diez.
+
+—Eso no es un nombre.
+
+—Sí lo es.
+
+—¿Por qué Diez?
+
+Y Sel abrió la boca para explicarlo, y se dio cuenta a mitad de camino de que para
+explicarlo había que contar los cuatro meses enteros, y el corral, y los aullidos, y la
+noche en que se abrió un hueco en el orden y no era para él.
+
+—Porque sí —dijo.
+
+—Vale.
+
+Y volvieron a lo de silbar.
+
+A Sel le gustó muchísimo la mañana.
 
 A mediodía apareció el padre.
 

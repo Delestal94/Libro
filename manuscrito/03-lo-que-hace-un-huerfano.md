@@ -84,12 +84,28 @@ y a la hora tenía la puerta desmontada en el suelo.
 
 —¿Nunca?
 
-—Ahora no.
+Tarin tardó en contestar. Estaba de rodillas con el gozne en la mano.
 
-Tarin llevaba once años cobrando todo y no ofreciendo nada. En el pueblo lo sabían y
-nadie se lo tomaba a mal: se le había torcido una cosa mediana hace mucho —un tejado que
-arregló gratis a un amigo, y el amigo se murió, y el que compró la casa lo tiró entero
-delante de él— y se había hecho su regla, como se las hace todo el mundo.
+—Hace once años le puse un tejado a un amigo —dijo—. Gratis.
+
+—¿Y?
+
+—Y se murió, y la viuda vendió la casa, y el que la compró lo tiró entero. —Probó el
+gozne, no le gustó, lo volvió a probar—. Desde el patio de la fragua se veía. Tardaron
+tres días.
+
+—¿Y no dijiste nada?
+
+—¿A quién?
+
+Sel se lo pensó de verdad y no encontró a nadie.
+
+—Ya —dijo Tarin.
+
+Y siguió con la puerta.
+
+Once años cobrándolo todo y no ofreciendo nada, y en el pueblo lo sabían y nadie se lo
+tomaba a mal, porque las reglas privadas se respetan hasta cuando no se entienden.
 
 Aquella tarde la rompió por una puerta de corral.
 

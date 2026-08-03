@@ -30,3 +30,8 @@
 | 1200-04-27 | Sel pregunta la frase a los veintiséis adultos del pueblo | 5 | sí |
 | 1200-04-28 | Ata dos nudos en el haranu | 5 | sí |
 | 1200-04-29 | Sel se va de Keliun por el sendero del cementerio | 5 | sí |
+| 1200-04-19 | La riada. Sel dirige a trece adultos durante cuarenta minutos | cap. 4 | sabe |
+| 1200-04-20 | La despensa y las mantas de Ila, perdidas. Sel recupera al cachorro | cap. 4 | sabe |
+| 1200-04-27 | Sel consigue que el pueblo se reparta a los hermanos de Ila | cap. 6 | sabe |
+| 1200-05-02 | El acuerdo se deshace. Ila lo ha roto todo para irse | cap. 6 | sabe |
+| 1200-05-03 | «¿Eres tú?» — Ila lo sabe. Y se va con él | cap. 6 | sabe |
