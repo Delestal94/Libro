@@ -88,10 +88,9 @@ Y así empezó.
 
 ---
 
-Lo que vino después fueron cuarenta minutos que Sel recordaría toda su vida, y que
-recordaría de dos maneras distintas según la edad que tuviera al acordarse.
+Lo que vino después fueron cuarenta minutos.
 
-Porque fue maravilloso.
+Y fue maravilloso.
 
 Pasó por el hueco del establo, que era un hueco de niño, y abrió desde dentro el
 portón que llevaban veinte minutos sin poder abrir, y salieron seis animales que se
@@ -191,7 +190,7 @@ Lo que estaba pasando mientras tanto era otra cosa, y estaba pasando doscientos 
 allá, en la casa de ellos, que es de las bajas, y a la que nadie fue porque la persona que
 tenía que ir estaba abriendo un portón.
 
-Lo que más recordaría Sel no era nada de esto. Era el sonido. La riada no hacía ruido,
+Y lo que se le quedó no fue nada de esto. Fue el sonido. La riada no hacía ruido,
 pero la gente sí: cincuenta personas trabajando de noche con el agua por la cintura hacen
 un ruido concreto, de chapoteo continuo y voces cortas y madera, y en mitad de todo eso la
 suya, la de él, la de un niño de nueve años, y el ruido bajando un poco cada vez para

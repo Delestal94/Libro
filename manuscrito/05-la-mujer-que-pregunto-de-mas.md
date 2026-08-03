@@ -359,8 +359,7 @@ haciendo una cuenta.
 
 —Pero no sé quién.
 
-Y se agachó a coger el cesto, y antes de irse dijo una cosa que a Sel le sonó a nada y
-que años después le pareció lo más valiente que le había oído decir a nadie:
+Y se agachó a coger el cesto, y antes de irse dijo una cosa que a Sel le sonó a nada:
 
 —Voy a apuntarlo. Por si acaso.
 

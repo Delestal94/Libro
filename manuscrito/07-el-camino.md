@@ -342,6 +342,33 @@ Diez no aulló. Iba delante, en la correa nueva, tirando.
 
 ---
 
+A media mañana pararon a comer y Sel sacó la hoja de las veintiséis frases.
+
+Estaban todas tachadas y no servía para nada, así que le dio la vuelta, y en el otro lado,
+arriba del todo, escribió con mucho cuidado y torcido:
+
+*Cosas que ya no tengo.*
+
+Y debajo, en la primera línea:
+
+*1. Cómo sonaba.*
+
+Estuvo un rato mirando el número. No había un dos. Le pareció una lista corta y le pareció
+tranquilizador, que es lo que le parece una lista corta a cualquiera la primera vez que la
+escribe.
+
+Guardó la hoja, se comió el pan de Anu y siguieron andando.
+
+Ila lo había visto escribir. No preguntó qué era.
+
+Esa noche, cuando el niño ya dormía, sacó su propio papel —el del *por si acaso*, el de la
+mujer del abrigo— y añadió algo debajo, a la luz del musgo, sin acercarse al fuego para
+que él no se despertara.
+
+Tardó bastante. Escribía despacio, porque casi no había aprendido.
+
+---
+
 Aquella mañana bajaban dos personas por esa cuesta, y una de las dos no tenía por qué
 estar allí.
 

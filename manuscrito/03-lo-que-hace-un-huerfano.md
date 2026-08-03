@@ -171,12 +171,12 @@ Salió a los veinte segundos.
 
 Aquello sí lo asustó un poco. Duró hasta la comida.
 
-Tenía un método. No sabía que tenía un método, pero lo tenía, y era este: no llorar. Lo
-había probado el primer día y no servía; a la gente que llora se la abraza y se la manda
-a la cama. Lo que servía era lo otro. Quedarse quieto. Contestar corto. Y dejar que el
-otro rellenara el hueco él solito, porque los mayores no aguantan un hueco.
+Llorar no servía: a la gente que llora se la abraza y se la manda a la cama. Lo había
+probado el primer día.
 
-Estuvo dos días haciendo eso y le pareció fascinante, como un truco de cartas.
+Lo que servía era lo otro.
+
+Estuvo dos días haciéndolo y le pareció fascinante, como un truco de cartas.
 
 ---
 

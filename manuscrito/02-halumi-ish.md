@@ -13,9 +13,9 @@ Sel se quedó sentado a oscuras un buen rato, muy contento, pensando que a lo me
 por él. Que a lo mejor dos meses de aullar detrás del corral habían servido para algo y
 los perros habían movido las cosas de sitio para hacerle hueco.
 
-Es lo que se piensa a los nueve años. Y es lo que iba a recordar, mucho después, cuando
-ya supiera lo que significaba de verdad que cambiara el orden: que lo primero que hizo
-al enterarse fue alegrarse.
+Es lo que se piensa a los nueve años.
+
+Lo primero que hizo al enterarse fue alegrarse. Eso no se le olvidó nunca.
 
 Se estaba durmiendo otra vez cuando oyó la ventana.
 
@@ -59,8 +59,7 @@ hagas.
 
 Sel no lo hizo. Después, durante años, iba a pensar en esa parte más que en ninguna
 otra: en que le habían dado permiso para no hacer nada y él lo había aceptado. Aunque lo
-pensara mil veces no iba a encontrar qué otra cosa cabía. A veces no cabe otra cosa. Eso
-tampoco lo entendía todavía.
+pensara mil veces no iba a encontrar qué otra cosa cabía.
 
 Estuvieron un rato callados. La ventana seguía golpeando cada vez que el viento se
 acordaba.
@@ -180,7 +179,7 @@ Lo esperó un rato largo. Lo estuvo esperando incluso cuando ya no había ningun
 para esperarlo, con la mano de su abuela todavía abierta hacia arriba en la suya y la
 ventana del fondo golpeando otra vez porque había vuelto el viento.
 
-Esa frase no se termina en este capítulo.
+Esa frase no se termina aquí.
 
 ---
 
