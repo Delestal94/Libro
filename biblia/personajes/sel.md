@@ -9,7 +9,7 @@ senas: Sonríe todo el rato. También cuando no toca
 
 # Sel
 
-> **Nombre provisional.** En veresh, `sel` significa «niño, hijo». Nadie dentro del
+> **Nombre decidido** ([[decisiones]]). En veresh, `sel` significa «niño, hijo». Nadie dentro del
 > libro lo sabe: el narrador le puso de nombre «hijo». Sustituible en un minuto por otro
 > parecido al real.
 >

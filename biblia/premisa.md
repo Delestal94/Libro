@@ -1,4 +1,6 @@
-# Premisa
+# El décimo perro
+
+> *La premisa. Título decidido en [[decisiones]].*
 
 ## La frase
 
@@ -50,7 +52,9 @@ Tomadas de las opciones recomendadas en [[boceto]]. Todas reversibles.
 | **B** | **Narrador que no se identifica**, al que se le escapan cosas | Padre declarado desde la página 1 |
 | **C** | **La institución que administra los Papeles**, y tiene razón | Imperio · fe |
 | **E** | **Seis arcos, libro cerrado** | Saga larga |
-| **F** | *(abierta)* De qué se alimenta la tecnología mágica | — |
+| **F** | **Gente recordada.** La luz se paga con muertos que ya no molestan a nadie | [[decisiones]] |
+| **G** | **El *halumi ish* es motor:** preguntarlo le cuesta algo a quien contesta | [[decisiones]] |
+| **H** | **Título: *El décimo perro*** | [[decisiones]] |
 
 ## Nombres provisionales
 

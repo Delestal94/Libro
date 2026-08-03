@@ -9,7 +9,7 @@ senas: Las manos estropeadas de agua fría. Catorce años y manos de cuarenta
 
 # Ila
 
-> **Nombre provisional**, como el de [[sel]]. En veresh `il` es «en, dentro». *Ila* suena
+> **Nombre decidido**, como el de [[sel]] ([[decisiones]]). En veresh `il` es «en, dentro». *Ila* suena
 > a «la que está dentro», que es exactamente lo que es hasta que deja de serlo. Nadie
 > dentro del libro lo comenta.
 

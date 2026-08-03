@@ -33,7 +33,32 @@ poder: mide **cuánta magia hay metida en la vida diaria**, no lo fuerte que es 
 de la conexión humana, del cara a cara— convertida en un lugar concreto al que se puede
 llegar caminando. No hay que explicar el tema: se camina por él.
 
-## La pregunta abierta: ¿de qué se alimenta?
+## De qué se alimenta · **decidido**
+
+**De gente recordada.** No de almas ni de vidas: de **memoria sostenida por los vivos**.
+Un sitio enciende cosas en la medida en que hay muertos que alguien todavía tiene dentro,
+y usarla **gasta ese recuerdo**.
+
+Es la fusión de las opciones A y C de abajo, y no eran dos opciones: eran la misma. Los
+papeles cuestan memoria de personas **porque ese es el combustible del mundo entero**. El
+papel no es una excepción — es la tecnología funcionando dentro de alguien.
+
+> **La luz se paga con muertos que ya no molestan a nadie.**
+
+De ahí salen las tres consecuencias que sostienen el viaje:
+
+1. **El [[lasharil]] brilla más sobre los muertos recientes**, porque son los que todavía
+   se recuerdan. Y una mata arrancada no vuelve a alumbrar: ese recuerdo ya se gastó.
+2. **Keliun es grado 0 por pequeño, no por pobre.** Sesenta y cinco personas no recuerdan
+   lo bastante para encender nada. Y prefieren quedarse a sus muertos.
+3. **Las ciudades grandes están iluminadas porque han olvidado a los suyos.** Un grado 4
+   es un sitio donde nadie sabe quién está enterrado debajo.
+
+El razonamiento completo, en [[decisiones]].
+
+---
+
+*El planteamiento original, que se conserva porque explica por qué se eligió así:*
 
 Todo lo demás en este libro tiene un precio. La tecnología mágica no puede ser la única
 cosa gratis, o se cae la coherencia.
