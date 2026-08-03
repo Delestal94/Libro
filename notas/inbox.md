@@ -85,3 +85,7 @@ Me gustaría que el mundo sea fantasía, época medieval pero con grados de tecn
 ## 02/08/2026 · 04:26
 
 Me gustaría tener un apartado de las distintas ciudades con sus características particulares
+
+## 03/08/2026 · 01:34
+
+Me gustó la escena y la historia Sasuke e Itachi. La muerte de Jiraiya para Naruto fue un momento icónico.
