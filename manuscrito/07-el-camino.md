@@ -112,8 +112,13 @@ Y entonces, porque Anu conocía a los niños y sabía perfectamente lo que valí
 
 Anu apoyó las dos manos en el mostrador y estuvo mirándolas un rato.
 
-Sel no hizo lo del pozo. Ni se le pasó por la cabeza. Estaba demasiado ocupado sintiéndose
-mal para acordarse de que sabía hacer trucos.
+Sel podía haber hecho lo del pozo.
+
+Se dio cuenta a mitad de la conversación, y fue como acordarse de que llevas un cuchillo
+en el bolsillo. Anu estaba enfadada y tenía razón, y era la única persona de Keliun capaz
+de impedírselo, y con cuatro segundos habría bastado.
+
+Se metió las manos en los bolsillos y dejó que le gritara.
 
 —Te vas a llevar pan —dijo Anu.
 

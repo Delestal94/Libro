@@ -200,11 +200,11 @@ vuelve a hacer el truco. Fue casa por casa y se quedó quieto en trece puertas.
 Y esta vez la gente cedía delante de él —decía que sí, que por supuesto, que faltaría
 más— y dejaba de hacerlo en cuanto él doblaba la esquina.
 
-Funciona mientras estás. Eso fue lo que aprendió aquella semana, aunque tardó años en
-poder decirlo con palabras. El papel no convence a nadie de nada. Sólo mueve a la gente
-mientras la estás mirando, y en cuanto te vas, vuelven — y se llevan puesta una decisión
-que no entienden y de la que se avergüenzan un poco, y por eso la sueltan antes que
-ninguna otra.
+Funciona mientras estás. Eso fue lo que aprendió aquella semana.
+
+El papel no convence a nadie de nada. Sólo mueve a la gente mientras la estás mirando, y
+en cuanto te vas, vuelven — y se llevan puesta una decisión que no entienden y de la que
+se avergüenzan un poco, y por eso la sueltan antes que ninguna otra.
 
 Le había pedido al pueblo que se hiciera cargo de dos niños con algo que dura lo que dura
 una habitación.
@@ -298,6 +298,34 @@ Después volvió a meter las manos en el agua.
 
 —No te estoy pidiendo perdón, ni te lo estoy dando. —Frotó—. Te estoy diciendo lo que va
 a pasar.
+
+Sel tardó en preguntar lo que había que preguntar, y lo preguntó mal, que es como se
+preguntan esas cosas.
+
+—¿Y tus hermanos?
+
+Ila no paró de frotar.
+
+—Como estaban.
+
+—Pero el pueblo dijo que...
+
+—El pueblo dijo. —Sacó una prenda, la escurrió, la volvió a meter—. Están como estaban
+hace tres semanas. Ni mejor ni peor. La única que ha perdido algo aquí soy yo.
+
+Sel no supo qué contestar a eso.
+
+—Llevo tres años haciendo la cuenta todas las noches —dijo ella—. Y siempre me sale lo
+mismo: que si me quedo, aguantamos. Los tres. Mal, pero aguantamos, hasta que yo tenga
+treinta y ellos se vayan.
+
+—¿Y entonces?
+
+—Entonces me quedo aquí sola y me parezco a mi padre.
+
+Metió las manos otra vez en el agua.
+
+—Esa cuenta también la he hecho.
 
 ---
 

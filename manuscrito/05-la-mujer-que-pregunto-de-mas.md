@@ -176,11 +176,13 @@ Casi se lo cuenta. Estuvo a punto: tenía en la boca la frase entera, *fui yo, m
 sé hacer*, con toda la ilusión de un niño que ha aprendido un truco y no tiene a quién
 enseñárselo desde hace once días.
 
-Le paró una cosa muy pequeña: que Miren Saal no se giró.
+Y entonces vio el lápiz.
 
-Se quedó quieta, mirando a Anu, esperando, con el lápiz parado. Y a Sel le dio la
-impresión —sin saber por qué, sin poder explicarlo— de que si decía algo, ella lo iba a
-escribir.
+Miren Saal seguía mirando a Anu, esperando, sin girarse, con el lápiz parado encima del
+cuaderno abierto. Llevaba así desde que había hecho la pregunta.
+
+Sel se quedó con la frase en la boca, mirando el lápiz, calculando por primera vez en su
+vida algo que no era un aullido ni un trozo de queso.
 
 Se comió el pan.
 
@@ -401,6 +403,24 @@ Y preguntó lo que habría preguntado cualquier niño de nueve años del mundo:
 Miren Saal se echó la bolsa al hombro.
 
 —Sí —dijo—. Ese es el problema.
+
+—¿Y cómo se llama?
+
+Ella se paró.
+
+Sel vio que se lo pensaba, y vio el momento exacto en que decidía contestar, y no supo
+por qué le pareció que ella acababa de hacer algo que no debía.
+
+—Un papel —dijo Miren Saal—. Se llaman papeles.
+
+—¿Cuántos hay?
+
+—Muchos.
+
+—¿Y cuál llevo yo?
+
+—Eso lo sabes tú mejor que yo. —Se ajustó la correa de la bolsa—. Llevas el que te dieron
+en el entierro.
 
 Empezó a bajar. A los diez pasos se paró, se giró, y con una cara completamente normal,
 sin rastro de broma, preguntó:
