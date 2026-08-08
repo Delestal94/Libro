@@ -93,3 +93,7 @@ Me gustó la escena y la historia Sasuke e Itachi. La muerte de Jiraiya para Nar
 ## 08/08/2026 · 18:30
 
 Vi una escena donde un hombre se prende fuego, y después un hombre le da la mano y el fuego se extiende por su mano. Me pareció espectacular la escena quizás una escena donde el que se está prendiendo fuego es alguien que fue derrotado y el otro no sé si como respeto o que pero lo reconoce y aunque se queme un poco su mano, es mágica la escena
+
+## 08/08/2026 · 19:15
+
+Escena donde, imaginas que nadie viene a salvarte y luego escuchar la voz de tu amigo.
