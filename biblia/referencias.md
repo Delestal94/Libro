@@ -77,3 +77,55 @@ el motor real del libro es otro (el papel, Ila, el narrador) y la frase se queda
 verdad funciona: **en la última página**.
 
 Está anotado como decisión pendiente. No se resuelve escribiendo más arco 1.
+
+---
+
+## El apretón de manos que quema *(nota del 8 de agosto, 18:30)*
+
+**Qué es:** un hombre se está prendiendo fuego. Otro le da la mano. El fuego se le pasa a
+la mano y **no la retira**. El que arde ha sido derrotado; el otro lo reconoce, y le cuesta
+un poco de piel.
+
+**Por qué funciona:** porque el reconocimiento **tiene un precio y se paga en el sitio**.
+No es un discurso ni un perdón: es una mano que se quema. Y no salva a nadie — el hombre
+sigue ardiendo. Sólo deja de arder solo.
+
+**Dónde aplica aquí, y es grande:**
+
+Este libro va de lo contrario. [[sel]] toca a la gente **sin saber lo que les cuesta**, y
+la factura la pagan ellos. Tarin pierde su regla de once años. [[ila]] pierde el invierno,
+el caldero y a su padre. Ninguno se entera.
+
+**El apretón que quema es la versión adulta de lo mismo: saber exactamente lo que cuesta y
+alargar la mano igual.**
+
+Eso no es una escena suelta. Es **cómo termina la historia**: el niño que tomaba prestada
+la vida de la gente sin verlo, convertido en alguien que da algo suyo sabiendo el precio.
+Y encaja con [[decisiones]] · F: si el combustible es memoria de gente, entonces recordar
+a alguien a propósito **cuesta**, y hacerlo de todas formas es el único acto limpio que
+hay en este mundo.
+
+> Nota de oficio: **que no se explique.** El poder de esa escena está en que nadie dice
+> «te respeto». Hay una mano, hay fuego, y hay alguien que no la quita.
+
+---
+
+## «Nadie viene a salvarte, y entonces oyes la voz de tu amigo» *(8 de agosto, 19:15)*
+
+**Qué es:** el momento en que el personaje ya ha hecho la cuenta y la cuenta da que está
+solo. Y se equivocaba.
+
+**Por qué funciona:** porque **hay que haber estado solo de verdad antes**. Si el rescate
+es lo esperado, no es nada. La escena la construye todo lo anterior, no ella misma.
+
+**Dónde aplica aquí:** es de Ila, y ya está medio sembrada.
+
+El arco 1 termina con ella yéndose por una cuenta fría —«si me quedo me parezco a mi
+padre»— y escribiendo algo en un papel que Sel no ve. Ahora mismo el lector no sabe si va
+con él por lealtad o por cobro.
+
+**El día que la voz que llega sea la suya, se contesta esa pregunta de golpe**, y se cobra
+la deuda entera del arco 1 sin una palabra de explicación.
+
+Aviso: **una sola vez en todo el libro.** Repetido, es un truco. Y tiene que llegar cuando
+Sel ya no tenga ningún papel que ponerse — si puede resolverlo él, no vale.
