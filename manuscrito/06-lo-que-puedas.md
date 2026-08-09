@@ -97,14 +97,13 @@ Y era verdad, y Sel se acordaba del cinturón.
 Después se acercó a su hija y le dijo algo que Sel no oyó, y no lo dijo con desprecio ni
 con dureza: lo dijo con un tono de disculpa, casi con vergüenza, un poco encogido.
 
+Se acercó lo bastante para que Sel le notara el aliento. A media mañana.
+
 Ila contestó que sí. Se secó una mano en el delantal, sacó unas monedas del bolsillo y se
 las dio.
 
 Él las cogió sin mirarlas, le dio las gracias, le dijo que se lo devolvía el viernes, y
 se fue por donde había venido. Andando derecho. A media mañana. Un martes.
-
-Y ese es el hombre. No pega, no grita, no se cae por las esquinas. Es amable, se acuerda
-de los nombres, dice que lo va a devolver el viernes y lo dice de verdad cada vez.
 
 Sel se quedó mirándolo irse y no supo por qué se le había puesto mal cuerpo.
 
@@ -166,6 +165,9 @@ Fue el silencio más raro que ha habido en la plaza de Keliun.
 —El pequeño no —dijo alguien—, el pequeño se come cosas.
 
 —Pues lo miro yo.
+
+—Y yo los llevo al río los domingos —dijo Oren, que estaba al fondo y que no había abierto
+la boca en toda la tarde—. A mí me llevaba mi padre.
 
 Y así, en menos de cinco minutos, sin discutir, sin que nadie pusiera una sola pega, el
 pueblo de Keliun se repartió entero a dos niños de seis y cuatro años.
@@ -229,6 +231,13 @@ Y la otra contestó:
 —Ya. Pero eso ya daba pena antes.
 
 Y se quedaron las dos calladas un momento, incómodas, y cambiaron de tema.
+
+El viernes Sel se cruzó con Oren en la cuesta y le preguntó por lo del río.
+
+Oren tardó un momento en saber de qué le hablaba. Después dijo que sí, que claro, que el
+domingo, y siguió subiendo con un saco al hombro.
+
+No fue.
 
 El viernes ya no iba nadie.
 

@@ -69,8 +69,7 @@ cosa gratis, o se cae la coherencia.
 | B | Cuesta materia rara que se extrae | Explotación, minas, colonias. Más convencional, más fácil de escribir. |
 | C | Cuesta memoria colectiva | El grado 4 es una ciudad que ha olvidado su propia historia. Muy bello, difícil de sostener. |
 
-**Recomendación: A**, pero es una de las decisiones grandes y va con la sección A del
-[[boceto]]. No decidir todavía.
+*Se decidió A fusionada con C. Ver arriba y en [[decisiones]].*
 
 ## Fauna y flora
 
@@ -91,8 +90,13 @@ recuerda por lo que huele y por lo que crece en las cunetas, no por sus dragones
 un poder sin precio mata la tensión.*
 
 1. La tecnología mágica se reparte en grados, y **ningún lugar está en dos a la vez**.
-2.
-3.
+2. **Todo cuesta memoria de gente recordada**, y lo gastado no vuelve. Ni la luz de una
+   ciudad ni un papel puesto durante cuatro segundos.
+3. **Un papel funciona mientras estás.** Al irte se deshace, y el que cedió se queda con
+   una decisión que no entiende y de la que se avergüenza un poco.
+4. **Dos no pueden llevar el mismo papel a la vez.** Dicho una vez, sin explicar.
+5. **El haranu sólo aguanta las promesas que puedas cumplir.** Si atas de más, se abre la
+   más vieja.
 
 ## Lo que el lector descubre y cuándo
 
@@ -106,7 +110,12 @@ Ver la línea del tiempo en la app (Trama → Cronología), que ya lleva los dos
 
 | Término | Significado |
 |---|---|
-| | |
+| **papel** | Lo que alguien es a ojos de los demás, y que puede ponerse y quitarse. Cuesta memoria |
+| **veresh** | La lengua vieja. Distingue `-in` (lo que se es) de `-esh` (lo que se hace) |
+| **nirai** | Los perros que no son de nadie. Se ordenan al anochecer |
+| **lasharil** | El musgo que alumbra. Crece más donde se recuerda a los muertos |
+| **haranu** | El árbol de los nudos. Uno por promesa |
+| **grado** | Cuánta magia hay metida en la vida diaria de un sitio. De 0 a 4 |
 
 ## Decisiones cerradas
 
@@ -117,3 +126,5 @@ Ver la línea del tiempo en la app (Trama → Cronología), que ya lleva los dos
   `-in` / `-esh` entre lo propio y lo prestado. Está en [[idioma]].
 - *(2026-08-02)* **Fantasía medieval con tecnología mágica desigual y fauna propia.**
   Cinco grados, uno por peldaño del viaje.
+- *(2026-08-03)* **De qué se alimenta:** de gente recordada. Y con ella, el *halumi ish*
+  como motor y el título del libro. Todo en [[decisiones]].

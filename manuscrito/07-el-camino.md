@@ -226,6 +226,10 @@ Se quedó ahí un momento más, mirando al perro y no a Sel.
 
 Y se fue antes de que nadie le contestara.
 
+Oren estaba al final del grupo, apoyado en la tapia, mirando. No se acercó y no dijo
+nada. Sel levantó la mano y Oren levantó la suya, y ninguno de los dos supo muy bien por
+qué lo hacía.
+
 A Ila no le dio nada nadie.
 
 Estuvo esperando a un lado con un hatillo pequeño, mirando el sendero, mientras trece

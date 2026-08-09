@@ -73,6 +73,9 @@ por el pan. Se quedó sola otra vez.
 **Los dos hermanos de Ila** — seis y cuatro años. Con su padre. **Como estaban.**
 **El padre de Ila** — vivo, allí, y ahora la odia.
 **El del molino** — no consigue volver a decir cuál era su sueño.
+**Oren** — cuarenta y un años. Se paró en mitad del agua a esperar órdenes de un niño y no
+volvió a acordarse. Prometió llevar a los hermanos de Ila al río los domingos y se le
+olvidó. Levantó la mano cuando se iban.
 
 ## Contadores
 
