@@ -227,7 +227,10 @@ export default function Lector({
         const datos = await res.json();
         if (!res.ok) throw new Error(datos.error ?? "No se pudo guardar");
         setAnotaciones((prev) => [...prev, datos.anotacion as Anotacion]);
-        window.getSelection()?.removeAllRanges();
+        const sel = window.getSelection();
+        sel?.empty?.();
+        sel?.removeAllRanges();
+        if (document.activeElement instanceof HTMLElement) document.activeElement.blur();
         setSeleccion(null);
         setComentando(false);
         setTextoComentario("");
