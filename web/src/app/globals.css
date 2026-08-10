@@ -164,6 +164,28 @@ button {
   font-weight: 600;
   white-space: nowrap;
 }
+/* Subrayados hechos desde el lector. El comentado lleva además un puntito
+   debajo para distinguirlo sin tener que tocarlo. */
+.prosa mark.resaltado {
+  background: color-mix(in srgb, var(--color-acento) 30%, transparent);
+  color: inherit;
+  border-radius: 0.15em;
+  padding: 0.03em 0;
+  cursor: pointer;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.prosa mark.resaltado-comentado {
+  background-image: linear-gradient(
+    to top,
+    var(--color-acento) 0,
+    var(--color-acento) 2px,
+    transparent 2px
+  );
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
 /* Enlaces [[ ]]: los que existen navegan; los rotos se ven, pero no distraen. */
 .enlace-wiki {
   color: var(--color-acento);

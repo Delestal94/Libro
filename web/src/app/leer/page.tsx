@@ -5,7 +5,8 @@ import SinConfigurar from "@/components/SinConfigurar";
 import { repoConfigurado } from "@/lib/github";
 import { cargarProyecto, capitulos } from "@/lib/proyecto";
 import { construirIndice, enlacesAHtml } from "@/lib/enlaces";
-import { minutosLectura } from "@/lib/libro";
+import { minutosLectura, RUTA_ANOTACIONES } from "@/lib/libro";
+import { extraerAnotaciones } from "@/lib/anotaciones";
 
 export const dynamic = "force-dynamic";
 
@@ -50,5 +51,15 @@ export default async function Leer() {
 
   const total = caps.reduce((t, c) => t + c.palabras, 0);
 
-  return <Lector secciones={secciones} total={total} minutos={minutosLectura(total)} />;
+  const docAnotaciones = docs.find((d) => d.ruta === RUTA_ANOTACIONES);
+  const anotaciones = docAnotaciones ? extraerAnotaciones(docAnotaciones.contenido) : [];
+
+  return (
+    <Lector
+      secciones={secciones}
+      total={total}
+      minutos={minutosLectura(total)}
+      anotacionesIniciales={anotaciones}
+    />
+  );
 }

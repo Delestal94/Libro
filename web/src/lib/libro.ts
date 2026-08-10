@@ -127,3 +127,4 @@ export function resumir(nodos: NodoArbol[]): ResumenDoc[] {
 }
 
 export const RUTA_INBOX = "notas/inbox.md";
+export const RUTA_ANOTACIONES = "notas/anotaciones.md";
