@@ -24,15 +24,23 @@ type Seleccion = { texto: string; ruta: string; x: number; y: number };
 /** Elementos de bloque tras los que el navegador cuenta un salto como un espacio. */
 const SELECTOR_BLOQUE = "p,li,h1,h2,h3,h4,blockquote,td,th";
 
-type Punto = { nodo: Text; offset: number };
+type Punto = { nodo: Text; offset: number; bloque: Element | null };
 
 /**
- * Busca `cita` en el texto del contenedor y envuelve la primera aparición en
- * un <mark>. Construye un mapa carácter a carácter (nodo de texto + offset)
- * en vez de sumar longitudes: así, cuando la cita cruza un salto de párrafo,
- * se puede insertar el espacio sintético que el navegador ya puso al hacer
- * `selection.toString()` — sin ese espacio, la búsqueda nunca encontraba
- * nada en las citas que atravesaban un `</p><p>`.
+ * Busca `cita` en el texto del contenedor y la envuelve en uno o más
+ * <mark>. Construye un mapa carácter a carácter (nodo de texto + offset +
+ * bloque) en vez de sumar longitudes: así, cuando la cita cruza un salto de
+ * párrafo, se puede (a) insertar el espacio sintético que el navegador ya
+ * puso al hacer `selection.toString()`, y (b) partir el resaltado en un
+ * <mark> por cada párrafo que toca, en vez de uno solo.
+ *
+ * Lo segundo no es cosmético: un <mark> es contenido de línea (`phrasing
+ * content`), y meterle un <p> dentro —que es justo lo que hacía la versión
+ * anterior con `extractContents` cuando la cita cruzaba un `</p><p>`— es
+ * HTML inválido. El navegador lo pinta bien al principio, pero en cuanto
+ * algo dispara un reflow importante puede normalizar el árbol y partir o
+ * borrar la marca. Con un <mark> por párrafo esto no puede pasar: cada uno
+ * sólo contiene texto y elementos de línea, que es lo que <mark> admite.
  */
 function resaltarCita(
   contenedor: HTMLElement,
@@ -59,13 +67,13 @@ function resaltarCita(
 
     if (bloqueAnterior !== null && bloque !== bloqueAnterior && texto && !/\s$/.test(texto)) {
       texto += " ";
-      mapa.push({ nodo, offset: 0 });
+      mapa.push({ nodo, offset: 0, bloque });
     }
     bloqueAnterior = bloque;
 
     for (let i = 0; i < nodo.data.length; i++) {
       texto += nodo.data[i];
-      mapa.push({ nodo, offset: i });
+      mapa.push({ nodo, offset: i, bloque });
     }
   }
 
@@ -73,29 +81,49 @@ function resaltarCita(
   if (inicio === -1) return false; // El capítulo cambió y la cita ya no existe tal cual.
   const fin = inicio + cita.length;
 
-  const puntoInicio = mapa[inicio];
-  const puntoFin = mapa[fin - 1];
-  if (!puntoInicio || !puntoFin) return false;
+  // Agrupa el rango [inicio, fin) en tramos contiguos del mismo bloque.
+  const tramos: { desde: Punto; hasta: Punto }[] = [];
+  for (let i = inicio; i < fin; i++) {
+    const punto = mapa[i];
+    if (!punto) continue;
+    const ultimo = tramos[tramos.length - 1];
+    if (ultimo && ultimo.hasta.bloque === punto.bloque) {
+      ultimo.hasta = punto;
+    } else {
+      tramos.push({ desde: punto, hasta: punto });
+    }
+  }
+  if (!tramos.length) return false;
 
-  const rango = document.createRange();
-  rango.setStart(puntoInicio.nodo, puntoInicio.offset);
-  rango.setEnd(puntoFin.nodo, puntoFin.offset + 1);
+  for (const t of tramos) {
+    const rango = document.createRange();
+    rango.setStart(t.desde.nodo, t.desde.offset);
+    rango.setEnd(t.hasta.nodo, t.hasta.offset + 1);
 
-  const marca = document.createElement("mark");
-  marca.className = comentada ? "resaltado resaltado-comentado" : "resaltado";
-  marca.dataset.anotacion = id;
-  marca.dataset.color = color;
+    const marca = document.createElement("mark");
+    marca.className = comentada ? "resaltado resaltado-comentado" : "resaltado";
+    marca.dataset.anotacion = id;
+    marca.dataset.color = color;
 
-  try {
-    rango.surroundContents(marca);
-  } catch {
-    // La cita cruza un límite de elemento (p. ej. entra y sale de una <em>):
-    // extractContents sí lo soporta, surroundContents no.
-    const contenido = rango.extractContents();
-    marca.appendChild(contenido);
-    rango.insertNode(marca);
+    try {
+      rango.surroundContents(marca);
+    } catch {
+      // Dentro del mismo bloque, esto sólo puede pasar por cruzar un
+      // elemento de línea (una <em>, un <a>): extractContents sí lo
+      // soporta, surroundContents no.
+      const contenido = rango.extractContents();
+      marca.appendChild(contenido);
+      rango.insertNode(marca);
+    }
   }
   return true;
+}
+
+/** Quita del DOM todas las marcas (puede haber una por párrafo) de una anotación. */
+function desmarcar(id: string) {
+  document.querySelectorAll<HTMLElement>(`mark[data-anotacion="${id}"]`).forEach((marca) => {
+    marca.outerHTML = marca.innerHTML;
+  });
 }
 
 function PuntosDeColor({ elegido, onElegir }: { elegido: Color; onElegir: (c: Color) => void }) {
@@ -214,10 +242,19 @@ export default function Lector({
   }, [anotaciones]);
 
   // Selección de texto: barra flotante con colores y comentario.
+  //
+  // No se reacciona a `selectionchange` mientras el botón sigue apretado:
+  // si la barra aparece a mitad de un arrastre, se dibuja encima del texto
+  // que se está seleccionando, el ratón (o el dedo) pasa a estar sobre la
+  // barra en vez de sobre la prosa, y el navegador corta la selección ahí
+  // — con doble clic (que no arrastra) nunca pasaba, y por eso sólo fallaba
+  // arrastrando.
   useEffect(() => {
     let temporizador: ReturnType<typeof setTimeout> | undefined;
+    let arrastrando = false;
 
     function revisar() {
+      if (arrastrando) return;
       const sel = window.getSelection();
       if (!sel || sel.isCollapsed || !sel.rangeCount) {
         setSeleccion(null);
@@ -246,9 +283,29 @@ export default function Lector({
       temporizador = setTimeout(revisar, 150);
     }
 
+    function alBajar() {
+      arrastrando = true;
+    }
+
+    function alSoltar() {
+      arrastrando = false;
+      clearTimeout(temporizador);
+      // Pequeño margen para que el navegador termine de fijar la selección
+      // antes de leerla.
+      temporizador = setTimeout(revisar, 30);
+    }
+
     document.addEventListener("selectionchange", alCambiarSeleccion);
+    document.addEventListener("mousedown", alBajar);
+    document.addEventListener("mouseup", alSoltar);
+    document.addEventListener("touchstart", alBajar, { passive: true });
+    document.addEventListener("touchend", alSoltar);
     return () => {
       document.removeEventListener("selectionchange", alCambiarSeleccion);
+      document.removeEventListener("mousedown", alBajar);
+      document.removeEventListener("mouseup", alSoltar);
+      document.removeEventListener("touchstart", alBajar);
+      document.removeEventListener("touchend", alSoltar);
       clearTimeout(temporizador);
     };
   }, []);
@@ -286,8 +343,7 @@ export default function Lector({
   );
 
   async function borrarAnotacion(id: string) {
-    const marca = document.querySelector<HTMLElement>(`mark[data-anotacion="${id}"]`);
-    if (marca) marca.outerHTML = marca.innerHTML;
+    desmarcar(id);
     aplicadas.current.delete(id);
     setAnotaciones((prev) => prev.filter((a) => a.id !== id));
     setActiva(null);
@@ -316,9 +372,8 @@ export default function Lector({
       if (!res.ok) throw new Error(datos.error ?? "No se pudo guardar");
       const actualizada = datos.anotacion as Anotacion;
 
-      // Repinta la marca desde cero con el color/comentario nuevos.
-      const marca = document.querySelector<HTMLElement>(`mark[data-anotacion="${id}"]`);
-      if (marca) marca.outerHTML = marca.innerHTML;
+      // Repinta la(s) marca(s) desde cero con el color/comentario nuevos.
+      desmarcar(id);
       aplicadas.current.delete(id);
 
       setAnotaciones((prev) => prev.map((a) => (a.id === id ? actualizada : a)));
