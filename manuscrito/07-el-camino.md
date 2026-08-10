@@ -14,8 +14,11 @@ El del molino lo pensó con el ceño fruncido, honradamente, y dijo:
 
 —Que llueva en abril y no en mayo.
 
-Sel lo anotó. Anotaba, porque había visto anotar a Miren Saal y le había parecido una
-cosa de gente que sabe lo que hace.
+No era. Lo supo enseguida, con la misma certeza física con que se sabe que una fruta no
+está madura.
+
+Sel lo anotó de todas formas. Anotaba, porque había visto anotar a Miren Saal y le había
+parecido una cosa de gente que sabe lo que hace.
 
 Siguió. Tarin dijo que sus hijos aprendieran el oficio y que uno de los dos no lo
 aprendiera, para que se fuera. La mujer del cachorro dijo que la dejaran en paz. Un

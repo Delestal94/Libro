@@ -87,24 +87,35 @@ Honesta, del 2 de agosto de 2026.
 
 ## Segunda pasada *(mismo día)*
 
-### 1 · La imagen — decidida, no cerrada
+### 1 · La imagen — **cambiada el 10 de agosto de 2026**
 
-**Elegida: Oren, cuarenta y un años, con el agua por el pecho, sosteniendo una puerta
-arrancada, parado en mitad de la calle, esperando a que un niño de nueve años le diga qué
-hacer.** *(cap. 4)*
+**Elegida ahora: Anu, con las manos quietas en la harina, diciendo que sí otra vez —
+encima de la duda que ella misma había dicho en voz alta el jueves.** *(cap. 6, la ronda
+de reparación)*
 
-Compite contra el borrado de Miren Saal (cap. 5), la mesa vacía de Ila (cap. 4) y el
-musgo del cementerio (cap. 7, todavía sin declarar explícitamente en esta ficha). Se elige
-Oren y no las otras dos por un criterio, no por preferencia: **tiene que ser la única
-imagen que el protagonista causa**, no una que mira. El borrado lo mira. La mesa vacía ni
-la ve —está a doscientos metros—. Ésta la causa él, y es la única que el libro puede
-repetir en los cinco arcos que quedan: siempre va a haber, en algún sitio, Sel consiguiendo
-que alguien haga algo.
+**Se retira a Oren.** Era la elegida desde el 3 de agosto («con el agua por el pecho,
+sosteniendo una puerta arrancada»), y seguía siendo una imagen bien escrita. Pero un mes de
+paneles señaló siempre lo mismo, con distintas palabras: es potencia sin factura. Sel la
+causa, y no le cuesta nada — ni a él ni, en el fondo, a Oren, que la olvida en diez minutos
+y sigue con su vida. **Es la imagen de un poder que funciona. La que hacía falta es la
+imagen de un poder que cuesta**, y ésa nunca fue Oren.
 
-**Pagando ya.** Se añadió un beat, diez minutos después de que Oren obedezca: Sel pasa
-cerca de él buscando sacos y ya no queda en su cara nada de lo que hubo en el escalón. El
-olvido de «Ninguno de los dos volvió a acordarse» ahora se ve empezar dentro de la propia
-escena, no sólo se declara después. → **decidida y pagando**
+Compite contra el borrado de Miren Saal (cap. 5, la mira pero no la causa), la mesa vacía
+de Ila (cap. 4, ni la ve, está a doscientos metros) y el propio Oren (la causa, pero no
+paga). La de Anu gana por el único criterio que de verdad separaba a las demás: **es la
+única imagen que Sel causa y que además queda registrada en la moneda que el libro ya
+usa** — esa misma noche aparece «2. A qué olía» en la lista, a quince páginas de
+distancia, sin que el texto diga nunca que las dos cosas están conectadas.
+
+**Se relee distinto, sin que nadie lo señale:** las manos quietas en la harina (cap. 6) son
+la razón — no dicha — de que Sel no vuelva a usar el papel con ella en el cap. 7 («Se
+acordó de que no había movido las manos»), y esa misma escena es donde ella le hace la
+única pregunta del arco que él no contesta: «¿Tú también te lo crees?»
+
+**Comprobado el capítulo 4 entero:** no hace falta tocar nada. La escena de Oren nunca se
+editorializa a sí misma como «la imagen» — no hay cartel que cortar. Sigue siendo una
+buena escena; simplemente deja de ser candidata a abreviatura del arco. El cambio es sólo
+de esta ficha, no del manuscrito.
 
 ### 5 · La riada, hecha estructural
 

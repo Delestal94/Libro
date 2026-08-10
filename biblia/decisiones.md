@@ -135,3 +135,43 @@ esperaba», está en:
 
 Sigue la regla de Itachi de [[referencias]]: **el narrador tiene que ser coherente con las
 dos lecturas en todo momento.** Nunca una frase que sólo funcione si el lector no sabe.
+
+---
+
+## K · Si el papel cobra o no — no cuánto
+
+**No es una escala. Es un umbral.** O la persona se resistía y el papel lo revierte, y
+entonces cobra un canal sensorial entero de Sel (la unidad que ya usa `pistas.md`: el
+oído, después el olfato) — o no se resistía, y no cobra nada. No hay término medio, y
+«caro» o «barato» no es el vocabulario correcto: es **sí o no**.
+
+**Esto es distinto de H10 (`revisiones/README.md`), que sigue abierto.** H10 es cuánto
+*dura* la obediencia antes de deshacerse — Oren minutos, la plaza cinco días, las trece
+puertas segundos. K es si *a Sel* le cuesta algo. Son dos preguntas distintas sobre el
+mismo poder, no la misma pregunta dos veces, y confundirlas fue el error de la primera
+versión de esta ficha.
+
+**La única variable es la resistencia real de la persona en el momento**, no su necesidad,
+ni su cariño por Sel, ni si es un desconocido — esas tres cosas *pueden* venir junto con la
+resistencia, pero no la sustituyen. Lo que decide es esto: ¿esa persona, ahora mismo, en
+esa frase, estaba diciendo o pensando que no?
+
+| Lo que ya estaba | ¿Se resistía en ese momento? | ¿Cobra? |
+|---|---|---|
+| Oren obedece y lo olvida en diez minutos | No — no había nada que decidir | No |
+| El domingo de la plaza, trece a la vez | No — la mayoría ya quería ayudar | No |
+| La ronda de reparación, la puerta de Anu | Sí — dudaba del acuerdo desde el jueves, en voz alta | Sí — esa noche, «2. A qué olía» |
+| Miren Saal borrándose a sí misma de la memoria de sesenta y cinco personas | Sí, de la manera más extrema posible: se resiste ella misma a desaparecer | Sí — se queda sin aliento en el sitio |
+
+### Lo que abre para los arcos 2 a 6
+
+Cuando Sel use el papel sobre alguien que ya quería ayudar, es gratis y sospechoso — el
+lector entrenado lo nota antes que él. Cuando lo use sobre alguien que decía que no, hay
+factura, siempre del mismo tamaño: un sentido entero. No hace falta graduar nada escena
+por escena.
+
+Y dado que la reserva es finita —cinco sentidos, y ya van dos gastados en siete
+capítulos—, para cuatro arcos más quedan tres facturas de Maara. **Es una cuenta atrás
+real, no retórica**, y hay que decidir antes del arco 4 o 5 qué pasa cuando se agote: si
+se acaba el poder, si empieza a cobrar de otro sitio, o si Sel deja de necesitar forzar a
+nadie antes de llegar a cero — que es, otra vez, adonde apunta el arco 6.

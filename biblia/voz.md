@@ -91,8 +91,13 @@ Cada una tiene detrás un revisor que abandonó, se durmió o se saltó páginas
 
 ## Obligaciones
 
-1. **Humor en cada capítulo salvo uno.** El arco 1 tenía dos capítulos sin un solo chiste
-   —el 4 y el 6— y son los dos que más costaron. El registro es seco:
+1. **Humor donde el capítulo lo aguante, no en todos.** El arco 1 tenía dos capítulos sin
+   un solo chiste —el 4 y el 6— y en ese momento eran los que más costaban: el problema no
+   era la falta de humor, era que el capítulo entero estaba plano. Corregido eso, un
+   capítulo puede quedarse sin ninguno **si lo que está contando no lo admite** — el 7
+   (la despedida) es el caso: cargarlo de humor sería forzarlo. La regla no es un
+   recuento, es un síntoma: si un capítulo sin chistes también se siente sin vida en todo
+   lo demás, el problema es el capítulo, no el humor. El registro, cuando aparece, es seco:
    > «—No eres un perro. —Ya. —Es un dato relevante.»
 2. **Una obsesión ridícula del protagonista por capítulo.** Concreta, con cuerpo, suya. Sin
    ella nadie quiere ser él: seis de seis niños dijeron que preferían a Ila.
