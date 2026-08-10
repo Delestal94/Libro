@@ -14,6 +14,15 @@
   --color-acento: #c9a227;
   --color-peligro: #d97757;
 
+  /* Paleta de subrayado del lector. Mismo valor en claro y oscuro a
+     propósito: son superposiciones translúcidas (color-mix con
+     transparent), así que se adaptan solas al fondo de cada tema. */
+  --color-resaltado-dorado: #c9a227;
+  --color-resaltado-rosa: #c9527a;
+  --color-resaltado-verde: #5a9c6e;
+  --color-resaltado-celeste: #4a8fc9;
+  --color-resaltado-naranja: #c97a3f;
+
   --font-lectura: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --font-interfaz: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
@@ -164,10 +173,11 @@ button {
   font-weight: 600;
   white-space: nowrap;
 }
-/* Subrayados hechos desde el lector. El comentado lleva además un puntito
-   debajo para distinguirlo sin tener que tocarlo. */
+/* Subrayados hechos desde el lector. Color elegido por quien subraya; el
+   comentado lleva además un puntito debajo para distinguirlo sin tocarlo. */
 .prosa mark.resaltado {
-  background: color-mix(in srgb, var(--color-acento) 30%, transparent);
+  --tinta: var(--color-resaltado-dorado);
+  background: color-mix(in srgb, var(--tinta) 30%, transparent);
   color: inherit;
   border-radius: 0.15em;
   padding: 0.03em 0;
@@ -175,15 +185,49 @@ button {
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
+.prosa mark.resaltado[data-color="rosa"] {
+  --tinta: var(--color-resaltado-rosa);
+}
+.prosa mark.resaltado[data-color="verde"] {
+  --tinta: var(--color-resaltado-verde);
+}
+.prosa mark.resaltado[data-color="celeste"] {
+  --tinta: var(--color-resaltado-celeste);
+}
+.prosa mark.resaltado[data-color="naranja"] {
+  --tinta: var(--color-resaltado-naranja);
+}
 .prosa mark.resaltado-comentado {
-  background-image: linear-gradient(
-    to top,
-    var(--color-acento) 0,
-    var(--color-acento) 2px,
-    transparent 2px
-  );
+  background-image: linear-gradient(to top, var(--tinta) 0, var(--tinta) 2px, transparent 2px);
   background-repeat: no-repeat;
   background-position: bottom;
+}
+
+/* Los puntos de color de la barra de selección y del selector al editar. */
+.punto-color {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 999px;
+  background: var(--tinta);
+  border: 2px solid transparent;
+}
+.punto-color[data-elegido="true"] {
+  border-color: var(--color-texto);
+}
+.punto-color[data-color="dorado"] {
+  --tinta: var(--color-resaltado-dorado);
+}
+.punto-color[data-color="rosa"] {
+  --tinta: var(--color-resaltado-rosa);
+}
+.punto-color[data-color="verde"] {
+  --tinta: var(--color-resaltado-verde);
+}
+.punto-color[data-color="celeste"] {
+  --tinta: var(--color-resaltado-celeste);
+}
+.punto-color[data-color="naranja"] {
+  --tinta: var(--color-resaltado-naranja);
 }
 
 /* Enlaces [[ ]]: los que existen navegan; los rotos se ven, pero no distraen. */

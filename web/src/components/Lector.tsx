@@ -1,13 +1,22 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { COLORES, type Color } from "@/lib/anotaciones";
 
 type Seccion = { ruta: string; titulo: string; palabras: number; html: string };
-type Anotacion = { id: string; ruta: string; cita: string; comentario: string; fecha: string };
+type Anotacion = {
+  id: string;
+  ruta: string;
+  cita: string;
+  comentario: string;
+  color: Color;
+  fecha: string;
+};
 
 const TAMANOS = [16, 18, 20, 23];
 const CLAVE_TAMANO = "lector:tamano";
 const CLAVE_POSICION = "lector:posicion";
+const COLOR_POR_DEFECTO: Color = "dorado";
 
 /** Selección de texto en curso: qué dice, en qué capítulo, y dónde mostrar la barra. */
 type Seleccion = { texto: string; ruta: string; x: number; y: number };
@@ -25,7 +34,13 @@ type Punto = { nodo: Text; offset: number };
  * `selection.toString()` — sin ese espacio, la búsqueda nunca encontraba
  * nada en las citas que atravesaban un `</p><p>`.
  */
-function resaltarCita(contenedor: HTMLElement, cita: string, id: string, comentada: boolean): boolean {
+function resaltarCita(
+  contenedor: HTMLElement,
+  cita: string,
+  id: string,
+  color: Color,
+  comentada: boolean,
+): boolean {
   const walker = document.createTreeWalker(contenedor, NodeFilter.SHOW_TEXT, {
     acceptNode(nodo) {
       return nodo.parentElement?.closest("mark[data-anotacion]")
@@ -69,6 +84,7 @@ function resaltarCita(contenedor: HTMLElement, cita: string, id: string, comenta
   const marca = document.createElement("mark");
   marca.className = comentada ? "resaltado resaltado-comentado" : "resaltado";
   marca.dataset.anotacion = id;
+  marca.dataset.color = color;
 
   try {
     rango.surroundContents(marca);
@@ -80,6 +96,25 @@ function resaltarCita(contenedor: HTMLElement, cita: string, id: string, comenta
     rango.insertNode(marca);
   }
   return true;
+}
+
+function PuntosDeColor({ elegido, onElegir }: { elegido: Color; onElegir: (c: Color) => void }) {
+  return (
+    <div className="flex gap-2">
+      {COLORES.map((c) => (
+        <button
+          key={c}
+          type="button"
+          onClick={() => onElegir(c)}
+          aria-label={`Color ${c}`}
+          aria-pressed={elegido === c}
+          className="punto-color"
+          data-color={c}
+          data-elegido={elegido === c}
+        />
+      ))}
+    </div>
+  );
 }
 
 export default function Lector({
@@ -102,11 +137,16 @@ export default function Lector({
   const aplicadas = useRef<Set<string>>(new Set());
 
   const [seleccion, setSeleccion] = useState<Seleccion | null>(null);
+  const [colorElegido, setColorElegido] = useState<Color>(COLOR_POR_DEFECTO);
   const [comentando, setComentando] = useState(false);
   const [textoComentario, setTextoComentario] = useState("");
   const [guardando, setGuardando] = useState(false);
-  const [activa, setActiva] = useState<Anotacion | null>(null);
   const [errorGuardado, setErrorGuardado] = useState("");
+
+  const [activa, setActiva] = useState<Anotacion | null>(null);
+  const [editando, setEditando] = useState(false);
+  const [textoEdicion, setTextoEdicion] = useState("");
+  const [colorEdicion, setColorEdicion] = useState<Color>(COLOR_POR_DEFECTO);
 
   // Preferencia de tamaño y posición de lectura, recordadas entre visitas.
   useEffect(() => {
@@ -142,23 +182,19 @@ export default function Lector({
     document.getElementById(ruta)?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
-  // Pinta en el DOM las anotaciones que todavía no se han aplicado. Corre en
-  // cada cambio de la lista (se añade una nueva, se carga la página) pero
-  // sólo procesa las que faltan: las ya envueltas se saltan por el filtro
-  // del TreeWalker, así que reprocesar no duplica marcas.
+  // Pinta en el DOM las anotaciones que todavía no se han aplicado.
   useEffect(() => {
     if (!contenedor.current) return;
     for (const a of anotaciones) {
       if (aplicadas.current.has(a.id)) continue;
       const seccion = document.getElementById(a.ruta);
       if (!seccion) continue;
-      const ok = resaltarCita(seccion, a.cita, a.id, Boolean(a.comentario));
+      const ok = resaltarCita(seccion, a.cita, a.id, a.color, Boolean(a.comentario));
       if (ok) aplicadas.current.add(a.id);
     }
   }, [anotaciones]);
 
-  // Clic en un resaltado ya existente: abre la tarjeta con el comentario (o
-  // el botón de borrar, si es un subrayado sin nada escrito).
+  // Clic en un resaltado ya existente: abre la tarjeta con el comentario.
   useEffect(() => {
     function alClicar(e: MouseEvent) {
       const marca = (e.target as HTMLElement).closest<HTMLElement>("mark[data-anotacion]");
@@ -168,13 +204,16 @@ export default function Lector({
       if (a) {
         setSeleccion(null);
         setActiva(a);
+        setEditando(false);
+        setTextoEdicion(a.comentario);
+        setColorEdicion(a.color);
       }
     }
     document.addEventListener("click", alClicar);
     return () => document.removeEventListener("click", alClicar);
   }, [anotaciones]);
 
-  // Selección de texto: barra flotante con "Resaltar" y "Comentar".
+  // Selección de texto: barra flotante con colores y comentario.
   useEffect(() => {
     let temporizador: ReturnType<typeof setTimeout> | undefined;
 
@@ -215,25 +254,28 @@ export default function Lector({
   }, []);
 
   const guardarAnotacion = useCallback(
-    async (ruta: string, cita: string, comentario: string) => {
+    async (ruta: string, cita: string, comentario: string, color: Color) => {
       setGuardando(true);
       setErrorGuardado("");
       try {
         const res = await fetch("/api/anotacion", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ ruta, cita, comentario }),
+          body: JSON.stringify({ ruta, cita, comentario, color }),
         });
         const datos = await res.json();
         if (!res.ok) throw new Error(datos.error ?? "No se pudo guardar");
         setAnotaciones((prev) => [...prev, datos.anotacion as Anotacion]);
+
         const sel = window.getSelection();
         sel?.empty?.();
         sel?.removeAllRanges();
         if (document.activeElement instanceof HTMLElement) document.activeElement.blur();
+
         setSeleccion(null);
         setComentando(false);
         setTextoComentario("");
+        setColorElegido(COLOR_POR_DEFECTO);
       } catch (e) {
         setErrorGuardado((e as Error).message);
       } finally {
@@ -244,8 +286,6 @@ export default function Lector({
   );
 
   async function borrarAnotacion(id: string) {
-    // Optimista: en modo lectura, un fallo de red al borrar no debería
-    // quedar la marca a medias en pantalla, pero tampoco bloquear la lectura.
     const marca = document.querySelector<HTMLElement>(`mark[data-anotacion="${id}"]`);
     if (marca) marca.outerHTML = marca.innerHTML;
     aplicadas.current.delete(id);
@@ -260,6 +300,34 @@ export default function Lector({
     } catch {
       // Sin conexión: la marca ya se quitó de esta pantalla. Peor caso,
       // reaparece en la próxima carga porque no se borró en el repo.
+    }
+  }
+
+  async function guardarEdicion(id: string) {
+    setGuardando(true);
+    setErrorGuardado("");
+    try {
+      const res = await fetch("/api/anotacion", {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, comentario: textoEdicion, color: colorEdicion }),
+      });
+      const datos = await res.json();
+      if (!res.ok) throw new Error(datos.error ?? "No se pudo guardar");
+      const actualizada = datos.anotacion as Anotacion;
+
+      // Repinta la marca desde cero con el color/comentario nuevos.
+      const marca = document.querySelector<HTMLElement>(`mark[data-anotacion="${id}"]`);
+      if (marca) marca.outerHTML = marca.innerHTML;
+      aplicadas.current.delete(id);
+
+      setAnotaciones((prev) => prev.map((a) => (a.id === id ? actualizada : a)));
+      setActiva(actualizada);
+      setEditando(false);
+    } catch (e) {
+      setErrorGuardado((e as Error).message);
+    } finally {
+      setGuardando(false);
     }
   }
 
@@ -338,25 +406,27 @@ export default function Lector({
         <p className="pb-8 text-center text-sm text-tenue">— Fin de lo escrito —</p>
       </div>
 
-      {/* Barra flotante al seleccionar texto: resaltar, o resaltar y comentar. */}
+      {/* Barra flotante al seleccionar texto: colores para resaltar, o comentar. */}
       {seleccion && !comentando && (
         <div
-          className="fixed z-50 flex -translate-x-1/2 -translate-y-full overflow-hidden rounded-lg border border-borde bg-superficie-alta shadow-lg"
+          className="fixed z-50 flex -translate-x-1/2 -translate-y-full items-center gap-1 rounded-lg border border-borde bg-superficie-alta px-2 py-1.5 shadow-lg"
           style={{ left: seleccion.x, top: Math.max(8, seleccion.y - 8) }}
         >
-          <button
-            onClick={() => guardarAnotacion(seleccion.ruta, seleccion.texto, "")}
-            disabled={guardando}
-            className="min-h-11 border-r border-borde px-4 text-sm font-medium text-acento disabled:opacity-50"
-          >
-            ✎ Resaltar
-          </button>
+          <PuntosDeColor
+            elegido={colorElegido}
+            onElegir={(c) => {
+              setColorElegido(c);
+              guardarAnotacion(seleccion.ruta, seleccion.texto, "", c);
+            }}
+          />
+          <div className="mx-1 h-6 w-px bg-borde" />
           <button
             onClick={() => setComentando(true)}
             disabled={guardando}
-            className="min-h-11 px-4 text-sm font-medium text-tenue disabled:opacity-50"
+            className="min-h-9 min-w-9 rounded-md text-lg disabled:opacity-50"
+            aria-label="Comentar"
           >
-            💬 Comentar
+            💬
           </button>
         </div>
       )}
@@ -377,6 +447,11 @@ export default function Lector({
             <p className="mb-3 border-l-2 border-acento pl-3 text-sm text-tenue italic">
               «{seleccion.texto}»
             </p>
+
+            <div className="mb-3">
+              <PuntosDeColor elegido={colorElegido} onElegir={setColorElegido} />
+            </div>
+
             <textarea
               autoFocus
               value={textoComentario}
@@ -387,7 +462,7 @@ export default function Lector({
             />
             {errorGuardado && <p className="mt-2 text-sm text-peligro">{errorGuardado}</p>}
             <button
-              onClick={() => guardarAnotacion(seleccion.ruta, seleccion.texto, textoComentario)}
+              onClick={() => guardarAnotacion(seleccion.ruta, seleccion.texto, textoComentario, colorElegido)}
               disabled={guardando || !textoComentario.trim()}
               className="mt-3 min-h-12 w-full rounded-lg bg-acento font-semibold text-fondo disabled:opacity-40"
             >
@@ -397,25 +472,74 @@ export default function Lector({
         </div>
       )}
 
-      {/* Tarjeta al tocar un resaltado ya existente. */}
+      {/* Tarjeta al tocar un resaltado ya existente: ver, editar o quitar. */}
       {activa && (
-        <div className="fixed inset-0 z-50 flex flex-col justify-end bg-black/60" onClick={() => setActiva(null)}>
+        <div
+          className="fixed inset-0 z-50 flex flex-col justify-end bg-black/60"
+          onClick={() => {
+            setActiva(null);
+            setEditando(false);
+          }}
+        >
           <div
             className="rounded-t-2xl border-t border-borde bg-superficie p-4 pb-segura"
             onClick={(e) => e.stopPropagation()}
           >
             <p className="mb-3 border-l-2 border-acento pl-3 text-sm text-tenue italic">«{activa.cita}»</p>
-            {activa.comentario ? (
-              <p className="mb-4 leading-relaxed">{activa.comentario}</p>
+
+            {editando ? (
+              <>
+                <div className="mb-3">
+                  <PuntosDeColor elegido={colorEdicion} onElegir={setColorEdicion} />
+                </div>
+                <textarea
+                  autoFocus
+                  value={textoEdicion}
+                  onChange={(e) => setTextoEdicion(e.target.value)}
+                  placeholder="Sin comentario"
+                  rows={3}
+                  className="w-full resize-none rounded-lg border border-borde bg-fondo p-3 leading-relaxed outline-none focus:border-acento"
+                />
+                {errorGuardado && <p className="mt-2 text-sm text-peligro">{errorGuardado}</p>}
+                <div className="mt-3 flex gap-2">
+                  <button
+                    onClick={() => setEditando(false)}
+                    className="min-h-11 flex-1 rounded-lg border border-borde text-sm text-tenue"
+                  >
+                    Cancelar
+                  </button>
+                  <button
+                    onClick={() => guardarEdicion(activa.id)}
+                    disabled={guardando}
+                    className="min-h-11 flex-1 rounded-lg bg-acento text-sm font-semibold text-fondo disabled:opacity-50"
+                  >
+                    {guardando ? "Guardando…" : "Guardar"}
+                  </button>
+                </div>
+              </>
             ) : (
-              <p className="mb-4 text-sm text-tenue">Subrayado sin comentario.</p>
+              <>
+                {activa.comentario ? (
+                  <p className="mb-4 leading-relaxed">{activa.comentario}</p>
+                ) : (
+                  <p className="mb-4 text-sm text-tenue">Subrayado sin comentario.</p>
+                )}
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => setEditando(true)}
+                    className="min-h-11 flex-1 rounded-lg border border-borde text-sm"
+                  >
+                    Editar
+                  </button>
+                  <button
+                    onClick={() => borrarAnotacion(activa.id)}
+                    className="min-h-11 flex-1 rounded-lg border border-borde text-sm text-peligro"
+                  >
+                    Quitar
+                  </button>
+                </div>
+              </>
             )}
-            <button
-              onClick={() => borrarAnotacion(activa.id)}
-              className="min-h-11 w-full rounded-lg border border-borde text-sm text-peligro"
-            >
-              Quitar
-            </button>
           </div>
         </div>
       )}
