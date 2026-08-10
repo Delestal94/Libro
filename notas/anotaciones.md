@@ -5,6 +5,7 @@
 > cual, el subrayado simplemente deja de mostrarse — no hace falta borrarlo
 > a mano.
 
-| Id | Capítulo | Cita | Comentario | Fecha |
-|---|---|---|---|---|
-| fr735qsy | manuscrito/01-el-brindis.md | Sel llevaba cuatro meses intentando que lo aceptaran los perros. En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaba |  | 2026-08-10T23:24:56.467Z |
+| Id | Capítulo | Cita | Comentario | Color | Fecha |
+|---|---|---|---|---|---|
+| fr735qsy | manuscrito/01-el-brindis.md | Sel llevaba cuatro meses intentando que lo aceptaran los perros. En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaba |  | dorado | 2026-08-10T23:24:56.467Z |
+| s53tz0nu | manuscrito/01-el-brindis.md | anochecer |  | rosa | 2026-08-10T23:35:19.499Z |
