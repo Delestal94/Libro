@@ -223,10 +223,17 @@ export default function Lector({
   }, [anotaciones]);
 
   // Clic en un resaltado ya existente: abre la tarjeta con el comentario.
+  // Si el clic viene detrás de un arrastre que dejó texto seleccionado
+  // (algo muy probable cuando ya hay resaltados grandes: es fácil que la
+  // selección nueva empiece o termine encima de uno viejo), no se abre la
+  // tarjeta — si no, se tapa la pantalla justo cuando se estaba
+  // seleccionando texto nuevo, y la selección parece "desaparecer".
   useEffect(() => {
     function alClicar(e: MouseEvent) {
       const marca = (e.target as HTMLElement).closest<HTMLElement>("mark[data-anotacion]");
       if (!marca) return;
+      const sel = window.getSelection();
+      if (sel && !sel.isCollapsed && sel.toString().trim()) return;
       const id = marca.dataset.anotacion;
       const a = anotaciones.find((x) => x.id === id);
       if (a) {
