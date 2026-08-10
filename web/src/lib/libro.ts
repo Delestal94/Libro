@@ -1,4 +1,5 @@
 /** Lógica de dominio: cómo se organiza un libro dentro del repo. */
+// build: forzar redeploy tras cancelaciones en cadena del 10-08
 
 import type { NodoArbol } from "./github";
 
