@@ -10,7 +10,7 @@
 
 | Pista | Sembrada en | Recogida en | Estado |
 |---|---|---|---|
-| El orden de los perros cambia cuando alguien se muere | cap. 1 | cap. 2 | pagada |
+| El orden de los perros cambia cuando alguien se muere | cap. 1 | cap. 2 | pendiente (marcada pagada por error: el texto dice «Le habían hecho hueco a alguien. No a él», nunca explica qué es el orden ni por qué se reordena — es inferencia del lector) |
 | «Halumi ish…» sin terminar | cap. 2 | último capítulo | pendiente |
 | El papel cobra: Sel pierde el sonido de la voz de Maara | cap. 3 | — | pendiente |
 | Quien cede ante el papel encuentra una explicación que le queda corta | cap. 3 | — | pendiente |
@@ -20,14 +20,15 @@
 | «Un día no vas a poder dejar de hacerlo» | cap. 5 | — | pendiente |
 | Maara se acordó una vez del brindis, no funcionó, y siguió. No se dice qué fue | cap. 1 | — | pendiente |
 | Dos nudos en el haranu cuando sólo se atan los que se pueden cumplir | cap. 7 | — | pendiente |
-| Si haces de algo mucho tiempo te lo empiezan a decir con `-in` | cap. 5 | — | pendiente |
+| Si haces de algo mucho tiempo te lo empiezan a decir con `-in`/`-esh` | cap. 7 (fila corregida: estaba imputada al cap. 5) | — | pendiente |
 | El camino del cementerio brilla más y nadie se pregunta por qué | cap. 7 | — | pendiente |
 | El narrador se delata: «no tengas miedo», «debería haberme parado aquí» | caps. 1-7 | último capítulo | pendiente |
-| La chica de catorce que contestó «irme» sin pensárselo | cap. 5 | — | pendiente |
+| La chica de catorce que contestó «irme» sin pensárselo, y miró alrededor a ver quién la oyó | cap. 5 | cap. 6 | pagada |
+| La cuenta de Ila sobre sus hermanos no incluye lo que pierden las seis casas — alguien lo nota en la página | cap. 6 | cap. 6 | pagada |
 | Qué lleva Miren Saal en la bolsa que pesa y suena a metal | cap. 5 | — | pendiente |
 | «Dos no pueden llevar el mismo a la vez» — dicho una vez y negado | cap. 5 | — | pendiente |
 | A Miren Saal le deniegan volver a la comarca, y le dicen a quién se la han dado | cap. 5 | — | pendiente |
-| El papel funciona mientras estás. Al irte, se deshace | cap. 6 | cap. 6 | pagada |
+| El papel funciona mientras estás. Al irte, se deshace | cap. 6 | cap. 6 | pendiente (marcada pagada por error: el propio cap. 6 la contradice con tres velocidades de deshecho distintas — inmediato con Oren, cinco días en la plaza, al doblar la esquina con las trece puertas) |
 | Sel puede hacerlo con trece personas a la vez, y no sabía que se podía | cap. 6 | — | pendiente |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
@@ -58,3 +59,13 @@
 | «Llevas el que te dieron en el entierro» | cap. 5 | — | pendiente |
 | Sel no tiene ficha en el armario, y Miren Saal no explica por qué | cap. 5 | — | pendiente |
 | El padre de Ila sigue vivo, sigue allí, y ahora la odia | cap. 6 | — | pendiente |
+| «Estuvo un rato mirando el número. No había un dos» — a media mañana. Esa misma noche aparece el segundo, «2. A qué olía», con el disparador en la propia panadería (el pan de Anu contra el pecho, el hueco debajo del olor a horno) — nunca se dice que la causa sea la puerta forzada del cap. 6, sólo el sitio y el sentido lo sugieren. Verificación del 10-08: la ambigüedad geográfica sigue abierta (la panadería es también el sitio de la contención de ese mismo día) | cap. 7 | cap. 7, la misma noche | pagada |
+| **La ley del coste, ahora anclada en el cap. 3** («Fue el mismo día del pozo. Habían pasado once días.», añadido el 10-08): cada vez que el papel cobra, se lleva un canal sensorial completo, no un dato — primero el oído (cap. 3, «cómo sonaba»), después el olfato (cap. 7, «a qué olía»). **La vista de Maara sigue intacta** (cap. 3: «del gesto, de dónde estaba sentada cada vez»); **el tacto no tiene ninguna escena que lo confirme ni lo niegue** — hueco real, no decidido. El arco 2 puede contradecir esta regla sin saberlo si no queda declarada aquí | caps. 3, 7 | — | pendiente (regla, no escena — anotar antes de escribir el arco 2) |
+| La mano levantada sin vaso (la noche de la muerte de Maara → el entierro → el cementerio) | cap. 2 | cap. 7 | pagada (repetida tres veces, sin comentario) |
+| El padre de Oren le enseñó dónde se ponen las cosas cuando sube el río, y él lleva a los suyos al río los domingos | cap. 4, cap. 6 | — | pendiente |
+| «Diez no aulló» | cap. 7 | — | pendiente |
+| «Le tocó una casa mala y luego le tocó otra» — la mujer del cachorro habla del perro con las mismas palabras con que podría hablarse de Sel | cap. 7 | — | pendiente |
+| Sel significa «hijo» en veresh, y el narrador cuenta el orden de los perros | caps. 1-7 | — | pendiente |
+| El pan del día siguiente que Anu hace a las tres de la mañana | cap. 7 | — | pendiente (la única constancia explícita se cortó en la pasada del 9 de agosto) |
+| Sel visita a Anu en la ronda de las trece puertas cuando ella ya había empezado a dudar del acuerdo («¿Y por qué dijimos que sí?», jueves) y la fuerza a decir que sí otra vez | cap. 6 | cap. 7 (el gesto de restraint: «Se acordó de que no había movido las manos», y la pregunta sin contestar: «¿Tú también te lo crees?») | pendiente — el coste queda en la relación, no está formalmente cobrado en ninguna parte del texto |
+| «¿Tú también te lo crees?» — Anu nombra, sin saberlo, la pregunta que le hará Miren Saal más tarde sobre creerse el papel, y Sel no la contesta | cap. 7 | — | pendiente (queda sin contestar a propósito — es la pregunta que persigue a Sel el resto del libro) |

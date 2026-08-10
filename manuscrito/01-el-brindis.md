@@ -90,8 +90,7 @@ Y después, en la puerta, ya de espaldas:
 —Que lo pague. Pero no hoy.
 
 Maara se lo hizo pagar dos días más tarde, con trabajo, cargando leña, y no le explicó
-por qué no había sido enseguida. Sel tampoco preguntó. A los nueve años uno acepta el
-calendario de los castigos como acepta el clima.
+por qué no había sido enseguida. Sel tampoco preguntó.
 
 Mientras repartía el pan pasó Ila con el cesto de la ropa, que pesaba más que ella.
 
@@ -300,5 +299,3 @@ Fuera, el pueblo entero se apagó a la vez, igual que siempre, y no hubo en vari
 de camino una sola luz encendida.
 
 No tengas miedo. Todavía no pasa nada.
-
-Lo que pasa es dos noches después.

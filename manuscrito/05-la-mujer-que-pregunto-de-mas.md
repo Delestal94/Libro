@@ -83,8 +83,8 @@ va a decir un nombre y no le sale, y al final dijo que porque había que sacar e
 
 Miren Saal abrió el cuaderno.
 
-Lo hizo cuatro veces más, en cuatro casas, y siempre igual: cosecha, animales, y el río al
-final. Y las cuatro veces alguien se quedó buscando algo que no encontró.
+Lo repitió en dos casas más. Cosecha. Animales. El río al final. Las dos veces, alguien
+se quedó buscando algo que no encontró.
 
 Nadie le dijo que hubiera pasado nada raro. En Keliun no había pasado nada raro en cuatro
 generaciones, cosa de la que estaban bastante orgullosos.
@@ -92,6 +92,9 @@ generaciones, cosa de la que estaban bastante orgullosos.
 Ella tampoco insistió nunca. Anotaba y seguía.
 
 Sel la acompañó los cuatro días.
+
+Había otra razón, que no dijo: llevaba once días sabiendo hacer algo que nadie en Keliun
+sabía que sabía, y quería que alguien de fuera se diera cuenta.
 
 Que quede claro que ella no se lo pidió. Sel se levantaba temprano, la esperaba en la
 plaza y se iba detrás. Le llevaba la bolsa. Le decía qué casa era de quién. Le avisaba de
@@ -480,6 +483,37 @@ Se la denegaron.
 
 Y en la respuesta, que tardó dos meses en llegarle, había una línea informándole de que
 la comarca ya estaba asignada, y a quién.
+
+---
+
+Por la tarde, cuando ya oscurecía, Sel encontró a Ila en el lavadero, terminando la ropa
+que le quedaba a la luz del musgo.
+
+Se sentó en el borde de piedra, con las piernas colgando, y se lo preguntó sin pensarlo
+mucho, porque se lo llevaba preguntando a todo el mundo por dentro desde que Miren Saal
+le había dicho la palabra.
+
+—*Halumi ish* —dijo—. Termínalo.
+
+Ila no paró de frotar.
+
+—¿Qué es eso?
+
+—Mi sueño es. Hay que terminarlo.
+
+Contestó sin pensárselo un segundo, como quien suelta algo que llevaba tiempo listo:
+
+—Irme.
+
+Y miró alrededor —al lavadero vacío, a la calle vacía, a Sel— para ver quién la había
+oído.
+
+—Eso no es un sueño —dijo Sel, sin darse cuenta de lo que estaba haciendo—. Es un sitio.
+
+—Ya te lo he contestado.
+
+Volvió a frotar, más rápido que antes, y no dijo una palabra más en todo lo que quedaba
+de ropa.
 
 ---
 

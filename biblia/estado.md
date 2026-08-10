@@ -35,8 +35,13 @@ Lo que Sel se ha gastado, en la página, de su puño:
 
 > *Cosas que ya no tengo.*
 > *1. Cómo sonaba.*
+> *2. A qué olía.*
 
-**Esta lista es el contador del sistema.** Si una escena cobra, crece aquí.
+**Esta lista es el contador del sistema.** Si una escena cobra, crece aquí. El «2» se
+descubre en la panadería de Anu, con el pan recién dado contra el pecho — no está dicho
+que la causa sea la puerta forzada del cap. 6, y no hace falta decirlo. **Regla deducible:
+el papel se lleva un canal sensorial entero cada vez que cobra** — primero el oído,
+después el olfato. Sin anotar en ningún sitio del texto; ver `pistas.md`.
 
 ## Lo que Sel sabe
 
@@ -56,6 +61,36 @@ Lo que Sel se ha gastado, en la página, de su puño:
 - Quién es el narrador
 - Que el nudo de más en el haranu va a abrir el otro
 
+## Lo que se puso en plano en esta pasada
+
+- **La respuesta de Ila** («Irme») ya no se cuenta de segunda mano: está en el lavadero,
+  cap. 5, con el gesto de mirar alrededor a ver quién la oyó. Cap. 6 y cap. 7 la citan como
+  lo que es ahora — un recuerdo compartido, no la primera vez que el lector la oye.
+- **La cuenta de Ila sobre sus hermanos** ya no queda sin que nadie la mire: en cap. 6, Sel
+  le señala que las seis casas de ropa perdida no entran en su «están como estaban». Ella no
+  cede, pero ya no es el libro el que se cree la cuenta: es ella, delante de un testigo.
+- **Sel usa el papel con Anu cuando forzarlo significaba algo peor que con las otras doce
+  puertas.** De las trece de la ronda de reparación (cap. 6, después de que el acuerdo se
+  deshiciera), una es la de Anu — que el jueves ya había dudado en voz alta («¿Y por qué
+  dijimos que sí?»). Sel la fuerza a decir que sí otra vez, encima de esa duda. Ella se
+  queda con las manos quietas en la harina y después amasa más fuerte de lo que hace
+  falta. En cap. 7, cuando Sel podría usar el papel contra ella otra vez y no lo hace, la
+  razón no está dicha: «se acordó de que no había movido las manos». Después, cuando la
+  deja gritar, ella se para a media queja y le pregunta algo que no sabe que es la
+  pregunta correcta: «Cada vez que te sale bien algo, todos actuamos como si hubiera sido
+  idea nuestra. ¿Tú también te lo crees?» Sel no contesta.
+
+  **«No había un dos» dejó de ser cierto esa misma noche.** Con el pan de Anu contra el
+  pecho, Sel busca sin querer otro olor debajo del olor a horno — el de su abuela — y no
+  lo encuentra. Escribe *«2. A qué olía»*. No se dice que la causa sea la puerta forzada;
+  el sitio (la panadería) y el sentido (uno que Anu no comparte con Maara, para no
+  confundir a las dos) hacen el trabajo que el narrador no puede hacer sin explicarlo.
+  Cuatro lecturas de verificación del 10 de agosto: estructura 5,5→6,0, personajes
+  5,0→5,5, sistema 5,5→5,75. **Primer movimiento real del día en los tres criterios**,
+  aunque el problema mayor sigue sólo "parcialmente cerrado" — pendiente de una quinta
+  verificación sobre esta última versión (olfato, en la panadería, no manos, no esa
+  noche aislada).
+
 ## Lo que el lector sabe y Sel no
 
 - Que a Miren Saal le denegaron volver, y le dijeron a quién le dieron la comarca
@@ -63,6 +98,11 @@ Lo que Sel se ha gastado, en la página, de su puño:
   **«No dijo nada. Todavía.»**
 - Que el lasharil crece más espeso sobre la parte nueva del cementerio, y que Ila lo miró,
   lo entendió, y dijo «sí» sin explicar nada
+- Que Anu ya dudaba del acuerdo en voz alta («¿Y por qué dijimos que sí?») cuando Sel
+  volvió a forzarla a decir que sí, y que por eso —y no por cálculo— no vuelve a usar el
+  papel con ella en el cap. 7
+- Que el «2» de la lista de Sel apareció la misma noche de esa puerta, y que Sel no lo
+  conecta con Anu — el lector puede
 - Que el narrador estuvo allí, que cuenta perros de noche, y que duerme mal
 
 ## Quién queda en Keliun
@@ -82,11 +122,11 @@ olvidó. Levantó la mano cuando se iban.
 | | |
 |---|---|
 | Papeles que Sel sabe llevar | 1 · el Huérfano |
-| Veces que lo ha usado a propósito | 3 · el pozo, la riada, la plaza |
-| Cosas de la lista | 1 |
+| Veces que lo ha usado a propósito | 4 · el pozo, la riada, la plaza, la ronda de reparación (trece puertas) |
+| Cosas de la lista | 2 |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | volver · traer la frase |
-| Pistas pendientes | 40 de 49 |
+| Pistas pendientes | 41 de 51 |
 
 ---
 

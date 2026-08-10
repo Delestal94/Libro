@@ -47,6 +47,7 @@ export default async function Biblioteca() {
           detalle={`${totalFichas} ${totalFichas === 1 ? "ficha" : "fichas"}`}
         />
         <Acceso href="/trama" icono="⌘" titulo="Trama" detalle="Pistas y cronología" />
+        <Acceso href="/revisiones" icono="◈" titulo="Revisiones" detalle="El panel de lectores" />
       </nav>
 
       {SECCIONES.map((s) => {
@@ -54,6 +55,8 @@ export default async function Biblioteca() {
           .filter((d) => d.seccion === s.id)
           // Las fichas tienen pantalla propia; repetirlas aquí sólo sería ruido.
           .filter((d) => !esFicha(d.ruta))
+          // Las revisiones tienen su propia pantalla, con agregado por panel.
+          .filter((d) => !d.ruta.startsWith("revisiones/"))
           .sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
         if (!dentro.length) return null;
 

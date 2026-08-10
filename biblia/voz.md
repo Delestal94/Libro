@@ -63,20 +63,29 @@ Tres frases sin una sola palabra emocional, y es la línea más triste del libro
 
 Cada una tiene detrás un revisor que abandonó, se durmió o se saltó páginas.
 
-1. **Ninguna negrita.** Cero en los siete capítulos del arco 1, y así se queda. Subrayar
-   es la versión gráfica de no fiarse de la frase.
+1. **Si la mejor frase de un párrafo no es la última, lo que va detrás está haciendo daño.**
+   Es una regla de posición, no de contenido: se aplica sin criterio. Casi todo lo que hubo
+   que cortar en la segunda pasada era esto — la frase buena llegaba y luego seguía hablando
+   el narrador.
 2. **Ningún cartel.** Nunca «si de este libro hay que quedarse con una imagen», nunca «lo
    más valiente que le había oído decir a nadie». Señalar la línea buena la mata.
 3. **Nada de «conviene entender», «hay que decir», «esto importa después».** El narrador
    administrando la atención del lector. Se cortaron catorce en una tarde y no se perdió
    un solo dato.
 4. **Máximo una prolepsis por capítulo**, y que no se parezca a la del capítulo anterior.
-   Había ocho de la misma forma; quedan tres.
+   Se cortaron varias en la primera pasada, pero siguen sobrando: el editor de mesa contó
+   doce en la última revisión. **No fiarse del recuento de aquí — contar de nuevo cada vez.**
 5. **Ningún bloque de biografía.** La vida anterior de un secundario **se dice en escena o
    no se dice**. Los seis lectores niño se saltaron los tres bloques del arco 1, uno por
    uno. En cambio se leyeron entera la versión en diálogo.
 6. **Nunca «tenía nueve años» justo después de que el niño haga algo que no hace un niño.**
    Admitir el problema no lo arregla: lo señala.
+7. **La emoción nombrada también está prohibida en boca del personaje**, no sólo en el
+   narrador: «no supo por qué», «no sabía nombrar», «una tristeza que no supo colocar», «un
+   frío tan raro». Que el personaje declare que no entiende lo que siente es la misma frase
+   explicativa con otro disfraz — y cuesta más de ver, porque parece contención.
+8. **Ninguna negrita.** Resuelto (cero en los siete capítulos), se queda como norma de
+   formato menor — no ocupa sitio de regla de voz.
 
 ---
 
@@ -94,6 +103,11 @@ Cada una tiene detrás un revisor que abandonó, se durmió o se saltó páginas
    mejor final del arco.
 5. **El precio se cuenta.** Sel lleva una lista, *Cosas que ya no tengo*. Si una escena
    cobra, la lista crece, y crece **en la página**.
+6. **Escena nueva, párrafo viejo borrado, el mismo día.** Cuando una escena se escribe para
+   sustituir un resumen, el resumen se borra al terminar de escribir la escena — no en la
+   pasada siguiente. Este autor añade mejor de lo que resta; tres veces en la segunda
+   pasada convivió la escena nueva con el párrafo que venía a sustituir, y las dos costaron
+   caro por separado.
 
 ---
 
@@ -115,6 +129,12 @@ martes» ya había dicho mejor.
 **Se delata como mucho una vez por capítulo.** Y el lector ya lo tiene medio adivinado
 desde el capítulo 3: se escribe para quien lo adivina. Toda frase del narrador tiene que
 funcionar **igual de bien sabiéndolo y sin saberlo**.
+
+**El punto de vista es tercera de Sel, con un narrador que sabe cosas que Sel no sabe.**
+Eso da privilegio para hechos (*«Ninguno de los dos volvió a acordarse»*), no para cabezas.
+**No se entra en el pensamiento de otro personaje** — ni Tarin volviendo a la fragua, ni
+Anu con su «frío raro», ni nadie fuera de Sel e Ila. Si hace falta lo que piensa un
+secundario, se dice por fuera: lo que hace, lo que dice, lo que no dice.
 
 ---
 
@@ -187,8 +207,8 @@ Contados en el arco 1. Son firma legítima **hasta que se convierten en molde**.
 | `, que es lo que se hace cuando…` | Máximo 2 por capítulo. Había 21 en siete |
 | `—Ya.` como réplica completa | Máximo 3 por capítulo, y no todos los personajes |
 | `y no supo por qué` | Una vez en todo el arco |
-| Contar segundos | **Sólo para el papel.** No se gasta esa moneda en otra cosa |
-| El número once | Ya está muy usado. Buscar otros |
+| `tres segundos`, siempre Ila | Es su tic — mira así antes de decidir. Tope alcanzado a las tres (caps. 1, 2, 4): **no repetir**. No usar para el papel de Sel; el papel no cuenta segundos, cuenta lo que pierde |
+| El número once | **Revisado.** Casi todas las apariciones son el mismo eco a propósito: once días desde la muerte de Maara (caps. 3 y 5), once años de la regla de Tarin y de Ila lavando (caps. 3, 4, 6, 7). El error de verdad eran dos «once semanas» en cap. 6 que contradecían esos días — corregidas a «un mes» / «semanas», sin número. El resto se queda: es intencional |
 
 ---
 

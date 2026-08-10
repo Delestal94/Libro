@@ -11,6 +11,12 @@ También le dieron: dos mantas, un gorro que le venía enorme, una silla, un cuc
 no debería haber tenido, media rueda de queso, un cachorro que le quitaron al día
 siguiente cuando la dueña se dio cuenta de lo que había hecho, y consejos.
 
+El cuchillo se lo pasó probando. Contra una piedra, contra la suela de la bota, contra un
+pelo suyo que se arrancó a propósito y sostuvo en el aire para ver si lo cortaba en dos
+sin tocarlo. Lo hizo. Se pasó media tarde comprobando cosas que no necesitaba cortar,
+convencido de que un cuchillo que no está afilado del todo no sirve para nada, cosa que
+no era verdad y que nadie le sacó de la cabeza en meses.
+
 Los consejos fueron lo peor.
 
 —Hay que ser fuerte —le dijo el del molino.
@@ -53,8 +59,12 @@ hacía todo el día.
 Y siguió subiendo.
 
 Fue el único ser humano de Keliun que le preguntó eso directamente en vez de darle
-vueltas alrededor durante once días, y Sel se pasó la tarde pensando en lo raro que era
-que le hubiera gustado tanto.
+vueltas alrededor durante toda la semana, y Sel se pasó la tarde pensando en lo raro que
+era que le hubiera gustado tanto.
+
+Esa noche pensó una cosa, muy simple, sin decírsela a nadie: que quería quedarse en esa
+cama. En esa casa. Con la puerta que había arreglado su abuela y que se iba a volver a
+torcer.
 
 ---
 
@@ -78,7 +88,7 @@ Tarin fue a por la herramienta.
 Tardó una hora. A la media hora ya había dicho dos veces que sólo iba a mirar cómo estaba,
 y a la hora tenía la puerta desmontada en el suelo.
 
-—¿Esto lo cobras? —dijo Sel, que a los nueve años pregunta esas cosas.
+—¿Esto lo cobras? —dijo Sel.
 
 —No.
 
@@ -103,9 +113,6 @@ Sel se lo pensó de verdad y no encontró a nadie.
 —Ya —dijo Tarin.
 
 Y siguió con la puerta.
-
-Once años cobrándolo todo y no ofreciendo nada, y en el pueblo lo sabían y nadie se lo
-tomaba a mal, porque las reglas privadas se respetan hasta cuando no se entienden.
 
 Aquella tarde la rompió por una puerta de corral.
 
@@ -142,7 +149,7 @@ contar cosas— y después dijo *ay, espera*, y entró, y salió con un trozo de
 grande que el que le había dado el lunes.
 
 Sel bajó por el camino comiéndose el queso y con la sensación exacta de un tramposo. No
-le duró. A los nueve años nada dura.
+le duró.
 
 El sábado no le hicieron subir agua. El sábado subían agua todos los niños del pueblo y
 él se quedó sentado en el pretil viéndolos subir, y uno de ellos, al pasar, le dijo
@@ -208,10 +215,9 @@ Sel los escuchaba desde el pretil balanceando los pies y le llamó la atención 
 que nadie preguntara. Llevaban veinte minutos hablando de dónde iba a vivir él y ninguno
 se había girado.
 
-No era desprecio. Es que un niño de nueve años no es alguien a quien se le pregunta, y
-eso lo sabe hasta el niño. Sel no se ofendió. Simplemente se dio cuenta de que si quería
-algo iba a tener que conseguirlo de otra manera, y lo pensó exactamente con esas
-palabras, y a esa edad pensar eso no es todavía una decisión, es una observación.
+No era desprecio. Es que no era alguien a quien se le pregunta, y eso lo sabía hasta él.
+Sel no se ofendió. Simplemente se dio cuenta de que si quería algo iba a tener que
+conseguirlo de otra manera, y lo pensó exactamente con esas palabras.
 
 Tarin tenía sitio. Tenía dos hijos y uno era de la edad, y era buen hombre, y lo dijo
 mirando a Sel de frente, que fue el primero que lo hizo en toda la tarde:
@@ -275,13 +281,10 @@ sentada cada vez.
 
 De cómo sonaba, no.
 
-Habían pasado once días.
+Fue el mismo día del pozo. Habían pasado once días.
 
 Sel se pasó el resto de la noche despierto intentando recuperarla, probando frases,
 diciéndolas en alto para ver si al oírlas en el aire le volvía, y no le volvió, y a las
 cuatro de la mañana dejó de intentarlo porque tenía miedo de gastar las que quedaban.
 
 Fuera, los perros llevaban horas callados.
-
-Nadie le había dicho que las cosas se pagan. Y aunque se lo hubieran dicho, no habría
-sabido qué es lo que había comprado.

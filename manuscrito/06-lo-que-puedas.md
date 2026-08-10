@@ -79,8 +79,6 @@ noche en que se abrió un hueco en el orden y no era para él.
 
 Y volvieron a lo de silbar.
 
-A Sel le gustó muchísimo la mañana.
-
 A mediodía apareció el padre.
 
 Sel esperaba un monstruo. A esa edad uno espera monstruos, porque es la única forma que
@@ -105,16 +103,11 @@ las dio.
 Él las cogió sin mirarlas, le dio las gracias, le dijo que se lo devolvía el viernes, y
 se fue por donde había venido. Andando derecho. A media mañana. Un martes.
 
-Sel se quedó mirándolo irse y no supo por qué se le había puesto mal cuerpo.
-
-Ila siguió frotando exactamente al mismo ritmo, sin pararse ni un segundo, como si no
-hubiera pasado nada, y esa es la manera en que Sel se enteró de todo.
-
-—*Halumi ish* —dijo—. Termínalo.
+—Lo del lavadero —dijo Sel—. Lo que contestaste.
 
 —Ya te lo contesté.
 
-—Contestaste «irme». Eso no es un sueño, es un sitio.
+—Irme no es un sueño. Es un sitio.
 
 Ila levantó la cabeza.
 
@@ -138,8 +131,8 @@ Era una idea buena.
 
 Lo hizo el domingo, en la plaza, junto al pozo, en el mismo sitio.
 
-Se juntaron doce o trece porque él los juntó, cosa que un niño de nueve años no puede
-hacer y que hizo. Estaba Tarin, estaba Anu, estaba el del molino con su historia de que
+Se juntaron doce o trece porque él los juntó, cosa que no puede hacer un niño y que
+hizo. Estaba Tarin, estaba Anu, estaba el del molino con su historia de que
 le había parecido más corto. Estaba Ila al fondo con los brazos cruzados, que no sabía a
 qué la habían llamado.
 
@@ -178,7 +171,7 @@ Se levantó, dio las gracias mal, dos veces, y se fue corriendo. Y Sel se quedó
 pie en medio de la plaza con la sensación más grande y más limpia que había tenido
 nunca, que es la de haber arreglado algo.
 
-Habían pasado once semanas desde que se murió su abuela.
+Había pasado poco más de un mes desde que se murió su abuela.
 
 *Ayuda siempre que puedas.*
 
@@ -292,14 +285,20 @@ Sel lo intentó otra vez.
 Claro que lo intentó. Es lo primero que haría cualquiera: si el truco funcionó, se
 vuelve a hacer el truco. Fue casa por casa y se quedó quieto en trece puertas.
 
+Una de las trece era la panadería.
+
+Anu tenía las manos llenas de harina y no las movió. Fue el mismo silencio del jueves,
+delante de la otra mujer.
+
+—Sí —dijo, al final—. Claro que sí.
+
+Con las mismas palabras que las otras doce puertas. Y volvió a amasar antes de que él
+hubiera terminado de irse, más fuerte de lo que hacía falta.
+
 Y esta vez la gente cedía delante de él —decía que sí, que por supuesto, que faltaría
 más— y dejaba de hacerlo en cuanto él doblaba la esquina.
 
 Funciona mientras estás. Eso fue lo que aprendió aquella semana.
-
-El papel no convence a nadie de nada. Sólo mueve a la gente mientras la estás mirando, y
-en cuanto te vas, vuelven — y se llevan puesta una decisión que no entienden y de la que
-se avergüenzan un poco, y por eso la sueltan antes que ninguna otra.
 
 Le había pedido al pueblo que se hiciera cargo de dos niños con algo que dura lo que dura
 una habitación.
@@ -375,7 +374,7 @@ del molino con el carro.
 
 —¿Eres tú?
 
-Sel llevaba once semanas queriendo enseñarle el truco a alguien.
+Sel llevaba semanas queriendo enseñarle el truco a alguien.
 
 —Sí.
 
@@ -407,6 +406,21 @@ Ila no paró de frotar.
 
 —El pueblo dijo. —Sacó una prenda, la escurrió, la volvió a meter—. Están como estaban
 hace tres semanas. Ni mejor ni peor. La única que ha perdido algo aquí soy yo.
+
+—No es verdad —dijo Sel.
+
+Ila paró de frotar.
+
+—Las seis casas —dijo él—. Se las dijiste tú misma. Ya no tienen quien les lave. Eso no
+es como estaba hace tres semanas.
+
+Ila lo miró un momento largo, con la cara de alguien a quien le acaban de estropear una
+cuenta que llevaba mucho tiempo cerrando bien.
+
+—Eso es de ellas —dijo al final—. No mío.
+
+Y volvió a frotar, más deprisa, como si con eso bastara para que la cuenta volviera a
+salir.
 
 Sel no supo qué contestar a eso.
 

@@ -4,10 +4,10 @@
 > — 2 de agosto de 2026
 
 Es el listón correcto. El problema es que «obra de arte» es una sensación, y con una
-sensación no se puede corregir un capítulo. Aquí está traducido a siete cosas que se
-pueden comprobar una por una.
+sensación no se puede corregir un capítulo. Aquí está traducido a ocho cosas que se
+pueden comprobar una por una — siete generales y una octava propia de este libro.
 
-**Un arco no se cierra hasta que las siete dan bien. Seis no vale.**
+**Un arco no se cierra hasta que las ocho dan bien. Siete no vale.**
 
 ---
 
@@ -87,14 +87,24 @@ Honesta, del 2 de agosto de 2026.
 
 ## Segunda pasada *(mismo día)*
 
-### 1 · La imagen, puesta en el centro
+### 1 · La imagen — decidida, no cerrada
 
-Oren, cuarenta y un años, con el agua por el pecho, sosteniendo una puerta arrancada, se
-para en mitad de la calle y **espera** a que un niño de nueve años le diga qué hacer.
+**Elegida: Oren, cuarenta y un años, con el agua por el pecho, sosteniendo una puerta
+arrancada, parado en mitad de la calle, esperando a que un niño de nueve años le diga qué
+hacer.** *(cap. 4)*
 
-Antes ocupaba una línea. Ahora el capítulo se detiene ahí, le pone nombre y edad al
-hombre, y el narrador dice en voz alta que si hay que quedarse con una imagen del libro
-es esa. **Ninguno de los dos vuelve a acordarse.** → **cumple**
+Compite contra el borrado de Miren Saal (cap. 5), la mesa vacía de Ila (cap. 4) y el
+musgo del cementerio (cap. 7, todavía sin declarar explícitamente en esta ficha). Se elige
+Oren y no las otras dos por un criterio, no por preferencia: **tiene que ser la única
+imagen que el protagonista causa**, no una que mira. El borrado lo mira. La mesa vacía ni
+la ve —está a doscientos metros—. Ésta la causa él, y es la única que el libro puede
+repetir en los cinco arcos que quedan: siempre va a haber, en algún sitio, Sel consiguiendo
+que alguien haga algo.
+
+**Pagando ya.** Se añadió un beat, diez minutos después de que Oren obedezca: Sel pasa
+cerca de él buscando sacos y ya no queda en su cara nada de lo que hubo en el escalón. El
+olvido de «Ninguno de los dos volvió a acordarse» ahora se ve empezar dentro de la propia
+escena, no sólo se declara después. → **decidida y pagando**
 
 ### 5 · La riada, hecha estructural
 
@@ -183,9 +193,209 @@ justo antes de decirle algo serio.
 
 ---
 
-## Puntuación final del arco 1
+## Puntuación final del arco 1 — **retirada**
 
-**Ocho de ocho.**
+Aquí decía «Ocho de ocho». Era la autopuntuación del 2 de agosto, antes de que el primer
+panel independiente diera **4,25 / 8**. Dejarla escrita, sin corregir, es exactamente el
+error que ese panel señaló: puntuar una afirmación del narrador en vez de un hecho del
+texto. No se borra sin más — queda anotado como advertencia — pero **la nota real vive en
+`revisiones/README.md`**, se actualiza ahí en cada panel, y hoy es más baja que esto:
+estructura 4,5, personajes 6, sistema 5. **No volver a escribir un número aquí sin que
+venga de un panel.**
+
+---
+
+## Cuarta pasada · 10 de agosto de 2026 · el problema mayor
+
+El panel reducido del 10 de agosto (`revisiones/2026-08-10-arco-1/resumen.md`) confirmó,
+desde cinco ángulos independientes, el mismo diagnóstico que arrastraba el proyecto desde
+el 2 de agosto: **el arco no le cuesta nada a Sel.** Ningún cierre de capítulo, en siete,
+contenía una elección suya con precio.
+
+### Lo que se añadió
+
+En el cap. 6, de las trece puertas donde repite el truco, una es la de Anu: no hacía
+falta —ella habría dicho que sí de todas formas— y lo hace igual, por inercia. Ella no
+dice nada; se pone a colocar panes que ya estaban colocados, el mismo gesto con el que en
+el cap. 7 evita gritarle.
+
+En el cap. 7, cuando Sel podría usar el papel contra Anu y no lo hace, la razón nunca se
+dice: *«Se acordó de las manos llenas de harina.»*
+
+### Por qué esta forma y no otra
+
+- **No toca «Estuvo un rato mirando el número. No había un dos.»** Ese hueco es el hallazgo
+  mejor citado de todo el proyecto y añadirle un ítem lo habría arruinado. El coste que
+  paga Sel aquí es relacional, no mágico: no entra en la lista física. Sigue habiendo un
+  uno y ningún dos — y ahora eso es más triste, no menos, porque el lector sabe que sí hay
+  algo que no se ha contado.
+- **Cumple la regla 3 de `el-protagonista.md`** casi literalmente: falla de verdad, por su
+  culpa, no por mala suerte.
+- **Da motivo real a la única renuncia del arco** (el pozo, cap. 7), que hasta esta pasada
+  era gratis: Anu cedía igual y Sel no arriesgaba nada absteniéndose.
+- Usa una técnica que el libro ya practica (`voz.md`, calibración 2: la emoción alojada en
+  un gesto repetido e inútil) en vez de inventar una nueva.
+
+### Lo que esto no cierra todavía
+
+- El criterio de sistema (H18 en `revisiones/README.md`): el coste **mágico** del papel
+  sigue sin reactivarse tras el capítulo 3. Lo que se añadió aquí es un coste distinto —
+  relacional— y deliberadamente no toca la lista.
+- El capítulo 5 se comprimió (dos visitas menos anunciadas explícitamente como repetición),
+  pero no se ha vuelto a pasar por un crítico.
+- H8 (el humor no vuelve tras el cap. 3), H10 (tres velocidades de deshecho distintas para
+  la misma regla del papel) y H12 (numeración de la biblia) siguen sin tocar: los tres
+  piden una decisión de autor, no un corte, y no se han forzado en esta pasada.
+
+**No puntuar aquí.** La nota real sigue viviendo en `revisiones/README.md` y sólo se mueve
+con un panel nuevo.
+
+### Verificación, mismo día
+
+Dos verificadores (estructura, personajes — `2026-08-10-arco-1/verificacion-01-*` y
+`-02-*`) coincidieron, cada uno con evidencia propia: **el problema mayor sigue abierto.**
+
+Lo que sí cerraron: el diagnóstico inicial (arriba) estaba mal en un hecho. Decía que Sel
+usaba el papel con Anu «sin que hiciera falta —habría dicho que sí de todas formas—». Pero
+la ronda de las trece puertas ocurre **después** de que el acuerdo ya se hubiera deshecho
+(«El viernes ya no iba nadie»): Anu había empezado a dudar en voz alta el jueves. Sel no
+manipula a alguien que no lo necesitaba — fuerza a decir que sí a alguien que ya estaba
+dejando de creérselo. Corregido en el texto y en `estado.md`/`pistas.md`.
+
+Lo que no cerraron, con exactitud quirúrgica de ambos: **contenerse no le cuesta nada a
+Sel.** Cuatro líneas después de que decida no usar el papel con Anu, ella le grita y le da
+el pan igual. El mundo en que se contiene y el mundo en que no son el mismo mundo. Tiene
+un motivo ahora — antes no tenía ninguno — pero un motivo no es un precio.
+
+**Lo que faltaba, dicho por el crítico de personajes con la frase exacta:** «Un niño
+gastando su poder sobre la única que no lo necesitaba sí sería una falta propia — pero esa
+escena no está escrita.»
+
+### Quinta pasada, mismo día · la escena de la plaza — **revertida**
+
+Se probó añadir, en el domingo del pozo (cap. 6), justo después de que Anu sea la primera
+de los trece en ceder: «Ella lo habría dicho igual, con papel o sin él. Sel no distinguía
+las puertas: se había quedado quieto con los trece a la vez, y a ella no le hacía falta.»
+
+La tercera verificación (`verificacion-03-personajes-final.md`) la desmontó con precisión:
+**es una coartada, no un cargo.** Niega elección, conocimiento y pérdida en la misma frase
+— las tres condiciones de una falta — y lo hace en el peor sitio, encima de la escena de
+poder más pura del arco. Y es, otra vez, el narrador repitiendo con concepto lo que
+`pistas.md` ya afirmaba: exactamente el vicio (H1) que el proyecto lleva un mes cortando.
+**Revertida.** No queda en el manuscrito.
+
+### Sexta pasada, mismo día · el precio, sin tocar el desenlace — **a medias**
+
+Con permiso para decidir: se añadió, después de que Sel se contenga y deje que Anu le
+grite, una pregunta que ella no sabe que es la correcta:
+
+> —Cada vez que te sale bien algo, todos actuamos como si hubiera sido idea nuestra.
+> ¿Tú también te lo crees?
+
+Sel no contesta. **Esta parte se queda** — la verificación no la objeta, y cumple el
+criterio 3 aplicado por primera vez a un adulto. Se cortó la frase de cierre que traía
+detrás («Anu esperó un momento más… como si no hubiera pasado nada»): dejaba la mejor
+línea del pasaje sin ser la última, contra la prohibición 1 de `voz.md`.
+
+### La verificación final, y el límite real de lo que se puede arreglar así
+
+Tres verificaciones seguidas, mismo problema mayor, **misma nota: 5,0 / 8, sin mover un
+milímetro.** La tercera dio el diagnóstico que explica por qué las dos primeras tampoco
+podían funcionar:
+
+> **Mientras «Estuvo un rato mirando el número. No había un dos» siga siendo literalmente
+> cierto, la contabilidad del propio libro certifica que Sel no ha pagado nada. Cualquier
+> coste que se escriba fuera de esa lista no cuenta para el sistema del libro.**
+
+Esto no es una opinión de estilo: es la misma regla que `voz.md` obligación 5 exige
+(«el precio se cuenta… y crece en la página») aplicada contra el propio libro. La lista es
+el árbitro, y hoy el árbitro dice que no.
+
+**Lo que quedaba, sin forzar:** o bien se aceptaba la nota actual del arco como techo, o
+bien se decidía que «No había un dos» dejara de ser cierto.
+
+### Séptima pasada, mismo día · «si hace falta reescribir todo, se hará» — **versión final: olfato, no manos**
+
+Se decidió que «No había un dos» dejara de ser cierto. La primera versión (item 2 = «Cómo
+eran sus manos», descubierto esa noche, separado de la escena) pasó por tres
+verificaciones que la desmontaron pieza por pieza: exculpaba en vez de acusar, chocaba con
+la mano de Maara ya descrita en el cap. 1-2, y la palabra «amasar» sabotea la propia
+distinción con Anu. **Se abandonó.**
+
+La versión que quedó, verificada once veces en total ese mismo día:
+
+1. **Cap. 3 (la raíz):** *«Fue el mismo día del pozo. Habían pasado once días.»* — la ley
+   causal del sistema (usar el papel cuesta memoria) queda establecida donde nace la
+   lista, no sólo inferida desde `decisiones.md`.
+2. **Cap. 7, panadería, en la misma escena de la contención:** *«Sel lo apretó contra el
+   pecho y [...] quiso oler otra cosa por debajo [...] y no encontró nada donde tenía que
+   haber algo.»*
+3. **Cap. 7, esa noche:** *2. A qué olía.*
+
+### Resultado final del día, con las once verificaciones ya hechas
+
+| Crítico | Al empezar | Al terminar | Movimiento |
+|---|---|---|---|
+| Estructura | 5,5 | **6,0** | +0,5 |
+| Personajes | 5,0 | **5,5** | +0,5 |
+| Sistema | 5,5 | **6,1** | +0,6 |
+
+**Media: 5,3 → 5,87.** Real, verificado once veces, ninguno llegó a 8.
+
+### Lo que sigue abierto, con la precisión de la última lectura
+
+- **La ambigüedad geográfica del cap. 7 no se resolvió del todo.** La panadería es el
+  sitio de dos sucesos (la puerta forzada del cap. 6 y la contención de hoy); mover el
+  descubrimiento ahí mejoró la escena pero no eliminó la competencia entre las dos
+  lecturas.
+- **La función de precio no está definida:** ¿cuesta más forzar a alguien que no lo
+  necesitaba que usar el papel una vez cualquiera? Nunca se dice, y H10 (tres velocidades
+  de deshecho) sigue sin unificarse con esto.
+- **La desproporción de la lista:** dos ítems para unos treinta usos documentados del
+  papel en todo el arco. Sigue siendo aritmética visible y sigue estando mal — ahora al
+  menos es aritmética, no un vacío.
+- **H8** (el humor no vuelve tras el cap. 3) — revisado y **dejado a propósito**: `voz.md`
+  permite un capítulo sin humor, y el 7 —la despedida— es el candidato lógico. Forzar un
+  chiste ahí arriesgaba más de lo que daba.
+- **H12** — real (`decisiones.md` empieza en F, sin A-E), pero no afecta a la historia.
+  Fuera de alcance a propósito.
+- **La función de precio y la desproporción de la lista** — siguen abiertas. Es lo que
+  más rendiría si se retoma esto otro día.
+
+### Cuarto frente: criterio 8, el tirón (segunda mitad de la sesión)
+
+Se plantó el deseo de Sel más temprano en los capítulos 3 y 5, sin mover ninguno de los
+dos clímax:
+
+- **Cap. 3:** «Esa noche pensó una cosa, muy simple, sin decírsela a nadie: que quería
+  quedarse en esa cama. En esa casa. Con la puerta que había arreglado su abuela.» —
+  **funciona de verdad**, confirmado dos veces: gobierna el resto del capítulo (la puerta,
+  el queso, el granero pasan a ser pruebas de una herramienta con blanco).
+- **Cap. 5, primer intento** (curiosidad por la frase de la abuela) — **falló**: no
+  producía ninguna acción durante 170 líneas, y no era el deseo que de verdad dramatiza el
+  capítulo. Revertido.
+- **Cap. 5, segundo intento** (querer que alguien de fuera se dé cuenta de lo que sabe
+  hacer) — **funciona**: conecta con «fui yo, mira lo que sé hacer» (l. 195) y retro-activa
+  la visita guiada entera como cebo. Dos bugs de continuidad («semanas» vs. «once días»;
+  un tic ya agotado) corregidos en la misma pasada, verificados sin residuo.
+
+**Resultado:** criterio 8 sigue «a medias» — no cambia de casilla — pero ahora está
+sostenido sin deuda de continuidad, y el capítulo 3 dejó de ser una excepción del
+criterio. Lo que le falta de verdad no está en una frase: el capítulo 7 sigue sin deseo en
+su primera mitad, y eso pide otra escena, no un empujón.
+
+### La lección del día
+
+**Cada verificación movió medio punto o menos, y cada una costó una lectura completa de un
+crítico.** Catorce verificaciones en un día es caro y da rendimientos decrecientes — y las
+lecturas puntuales no siempre recalculan la nota general con el mismo criterio: hubo
+variación entre 5,5 y 6,0 en estructura según qué se le preguntó a cada verificador. La
+cifra fiable pide un panel de cierre, no otra verificación puntual.
+
+La ganancia real de hoy no vino de repetir la misma escena con más cuidado — vino de
+**subir a la causa** cuando la rama dejaba de responder (cap. 3 para el sistema; el deseo
+real del capítulo, no el más obvio, para el tirón). Si se retoma esto: la función de
+precio, la desproporción de la lista, y el capítulo 7 sin deseo en su primera mitad.
 
 ---
 

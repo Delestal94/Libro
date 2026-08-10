@@ -40,8 +40,7 @@ lo que nadie te cuenta de una riada — que no hace ruido. Lo que hace ruido es 
 Estaban sacando lo que se podía sacar. Tarin y otros dos habían formado una cadena por
 la ventana de la primera casa; el del molino subía sacos a un carro. Alguien había
 llevado las cabras a lo alto y las cabras se estaban comiendo el huerto de otro, y ese
-otro estaba allí mismo, viéndolo, y no dijo nada, y eso a Sel le pareció una cosa
-enorme.
+otro estaba allí mismo, viéndolo, y no dijo nada.
 
 Sel intentó ayudar cuatro veces en diez minutos.
 
@@ -65,7 +64,7 @@ Y pensó en la cuarta línea.
 
 *Ayuda siempre que puedas.*
 
-Y pensó, con la lógica perfecta y espantosa de un niño de nueve años, que sí que podía.
+Y pensó, con esa lógica perfecta y espantosa que tienen los niños, que sí que podía.
 
 ---
 
@@ -166,6 +165,13 @@ Sel se lo dijo.
 
 Oren fue.
 
+Diez minutos después, con la puerta ya puesta y el agua todavía subiendo, Sel pasó cerca
+de él buscando más sacos. Oren lo miró un momento, con la misma cara con la que se mira a
+cualquier crío en medio de una noche de riada, y siguió cargando.
+
+No se apartó. No dijo nada raro. Sólo que ya no quedaba en su cara nada de lo que había
+habido en el escalón.
+
 Ninguno de los dos volvió a acordarse.
 
 ---
@@ -185,10 +191,6 @@ portón, miró a sus hermanos, y dejó a los dos sentados encima de una piedra q
 medio metro del agua, les dijo algo muy corto, y fue.
 
 Tardó doce minutos. Los niños no se movieron de la piedra. No les pasó nada.
-
-Lo que estaba pasando mientras tanto era otra cosa, y estaba pasando doscientos metros más
-allá, en la casa de ellos, que es de las bajas, y a la que nadie fue porque la persona que
-tenía que ir estaba abriendo un portón.
 
 Y lo que se le quedó no fue nada de esto. Fue el sonido. La riada no hacía ruido,
 pero la gente sí: cincuenta personas trabajando de noche con el agua por la cintura hacen

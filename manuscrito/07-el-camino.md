@@ -21,6 +21,10 @@ Siguió. Tarin dijo que sus hijos aprendieran el oficio y que uno de los dos no 
 aprendiera, para que se fuera. La mujer del cachorro dijo que la dejaran en paz. Un
 hombre muy viejo que estaba sentado al sol dijo que volver a tener rodillas.
 
+Un chico de la fragua, que tenía la cara llena de granos, dijo que un caballo. Sólo eso,
+un caballo, y no quiso explicar por qué, y a Sel aquello le pareció, de las veintiséis, la
+más razonable de todas.
+
 A Ila no se lo preguntó, porque ya se lo había preguntado hacía semanas, en el lavadero,
 y ella había contestado *irme* sin pensárselo un segundo y después había mirado alrededor
 para ver quién la había oído.
@@ -76,7 +80,7 @@ Anu se lo tomó fatal.
 
 —Eso es *todas partes*, Sel.
 
-—Ya. Por algún sitio hay que empezar.
+—Por algún sitio hay que empezar.
 
 —¿Y la chica?
 
@@ -88,8 +92,9 @@ Anu dejó lo que tenía en la mano.
 
 —Se lo dijo delante de gente.
 
-—Ya. —Anu apretó los labios—. Eso ya lo sé, hijo. Lo que te pregunto es si tú sabes lo
-que le costó decírselo.
+Anu apretó los labios.
+
+—Eso ya lo sé, hijo. Lo que te pregunto es si tú sabes lo que le costó decírselo.
 
 Sel no contestó, porque sí lo sabía, y porque llevaba cuatro noches sin dormir haciendo
 esa misma cuenta.
@@ -118,7 +123,20 @@ Se dio cuenta a mitad de la conversación, y fue como acordarse de que llevas un
 en el bolsillo. Anu estaba enfadada y tenía razón, y era la única persona de Keliun capaz
 de impedírselo, y con cuatro segundos habría bastado.
 
+Se acordó de que no había movido las manos.
+
 Se metió las manos en los bolsillos y dejó que le gritara.
+
+A media queja, Anu se paró.
+
+—Cada vez que te sale bien algo —dijo, ya más baja—, todos actuamos como si hubiera sido
+idea nuestra.
+
+Sel no dijo nada.
+
+—¿Tú también te lo crees? —dijo ella.
+
+Él tampoco contestó a eso.
 
 —Te vas a llevar pan —dijo Anu.
 
@@ -128,8 +146,12 @@ Se metió las manos en los bolsillos y dejó que le gritara.
 
 —Vale.
 
-Y le dio el pan del día siguiente, que todavía no existía, lo cual significa que Anu se
-levantó a las tres de la mañana a hacerlo.
+Y le dio el pan del día siguiente, que todavía no existía.
+
+Todavía caliente, olía a todo el horno.
+
+Sel lo apretó contra el pecho y, sin pensarlo, sin buscarlo a propósito, quiso oler otra
+cosa por debajo —algo de antes, algo suyo— y no encontró nada donde tenía que haber algo.
 
 ---
 
@@ -196,18 +218,16 @@ vieja.
 
 —Sólo tengo dos —dijo Sel—. No hay más viejas.
 
-Y era verdad, y por eso no había manera de explicarle por qué aquello le dio a Anu un
-frío tan raro.
-
 ---
 
 Se fueron de madrugada, que es cuando se van los que no quieren despedirse de nadie,
 aunque en Keliun eso no funciona porque el pueblo entero madruga.
 
 Estaban en el sendero. No todos: unos catorce, los que se habían enterado. Nadie dijo
-gran cosa. Tarin le dio a Sel un cuchillo mejor que el que le habían dado el primer día
-y le enseñó cómo llevarlo para no cortarse él. Alguien le puso el gorro enorme y Sel lo
-dejó puesto por educación.
+gran cosa. Tarin le dio a Sel un cuchillo mejor que el que le habían dado el primer día,
+y Sel lo probó ahí mismo contra la uña del pulgar, delante de todos, antes incluso de dar
+las gracias. Tarin no se ofendió: se limitó a enseñarle cómo llevarlo para no cortarse
+él. Alguien le puso el gorro enorme y Sel lo dejó puesto por educación.
 
 La mujer del cachorro se acercó con una correa vieja en la mano.
 
@@ -305,8 +325,7 @@ Sel se paró un momento donde estaba ella.
 
 No sabía qué se hace ahí. Nadie se lo había explicado. Al final levantó la mano vacía,
 porque ya había aprendido que se puede sin vaso, y dijo las cuatro líneas enteras y sin
-que se le rompiera ninguna, y le salió mucho mejor que en el entierro, y eso le dio una
-tristeza distinta que no supo colocar.
+que se le rompiera ninguna, y le salió mucho mejor que en el entierro.
 
 Cuando bajó la mano, Ila estaba a diez metros con el hatillo al hombro, esperando sin
 prisa.
@@ -333,9 +352,6 @@ verde era más espeso, que era la parte nueva.
 
 —Sí —dijo.
 
-Y no le explicó nada, porque tenía catorce años y ya había entendido que hay cosas que
-no se le explican a un niño el primer día de camino.
-
 Los perros empezaron detrás de ellos. Molino, cojo, era, y los otros seis.
 
 Por primera vez en dos meses, Sel no los contó.
@@ -357,15 +373,33 @@ Y debajo, en la primera línea:
 
 *1. Cómo sonaba.*
 
-Estuvo un rato mirando el número. No había un dos. Le pareció una lista corta y le pareció
-tranquilizador, que es lo que le parece una lista corta a cualquiera la primera vez que la
-escribe.
+Estuvo un rato mirando el número. No había un dos.
 
 Guardó la hoja, se comió el pan de Anu y siguieron andando.
 
 Ila lo había visto escribir. No preguntó qué era.
 
-Esa noche, cuando el niño ya dormía, sacó su propio papel —el del *por si acaso*, el de la
+---
+
+Esa noche, antes de dormirse, le volvió el pan contra el pecho, el hueco de debajo del
+olor a horno.
+
+Cerró los ojos e intentó ponerle algo encima. Humo de leña. Lana sin lavar. Algo verde,
+de fuera, que se le había quedado en la ropa de tanto arrancar hierbas malas.
+
+No le vino nada. Ni siquiera el intento de nada: un hueco limpio, del tamaño exacto de lo
+que tendría que haber ahí.
+
+Sacó la hoja otra vez, a la luz del musgo. Debajo de *1. Cómo sonaba* escribió, más
+torcido todavía que la primera vez:
+
+*2. A qué olía.*
+
+Se quedó mirando el número un rato más largo que la primera vez.
+
+Guardó la hoja.
+
+Cuando por fin durmió, Ila sacó su propio papel —el del *por si acaso*, el de la
 mujer del abrigo— y añadió algo debajo, a la luz del musgo, sin acercarse al fuego para
 que él no se despertara.
 
