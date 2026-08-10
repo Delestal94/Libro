@@ -50,30 +50,46 @@ Fue lo primero que anotó.
 ---
 
 Se quedó cuatro días y habló con casi todo el mundo. Decía que venía «por lo de los
-registros», que sonaba a nada, y preguntaba cosas aburridísimas: cuántos vivían, quién
-había nacido, quién se había muerto, si había pasado algo raro.
+registros», que sonaba a nada.
 
-Sel la vio trabajar y le pareció el oficio más aburrido del mundo.
+Llegaba en mal momento. Hacía dos semanas de la riada y el pueblo entero estaba de barro
+hasta las rodillas, secando lo que se podía secar, y todo el mundo tenía algo mejor que
+hacer que contestarle a una mujer con un cuaderno.
 
-Era así: se sentaba, dejaba el cuaderno cerrado encima de la mesa —cerrado, siempre— y
-preguntaba por la cosecha. Se pasaba media hora con la cosecha. Después preguntaba por
-los animales. Después, cuando ya estaban los dos hartos de animales y el otro había
-empezado a mirar hacia la puerta, decía, como despidiéndose:
+Ella no llevaba prisa.
 
-—¿Y aquí se ha tomado alguna decisión rara últimamente?
+En casa del molino, Sel la vio hacerlo por primera vez y le pareció el oficio más aburrido
+del mundo. Dejó el cuaderno cerrado encima de la mesa —cerrado— y preguntó por la
+cosecha. Media hora con la cosecha. Después por los animales.
 
-Y siempre, siempre, era en ese momento cuando abría el cuaderno.
+Y después, cuando ya estaban los dos hartos y el hombre había empezado a mirar hacia la
+puerta, dijo como despidiéndose:
 
-Lo hizo cinco veces delante de Sel y las cinco veces igual, y Sel no se dio cuenta del
-patrón porque a los nueve años no se ven los patrones de los adultos, se ven los de los
-perros.
+—Y con lo del río. ¿Se hizo algo raro?
 
-Nadie le dijo que hubiera pasado nada raro. En Keliun no había pasado nada raro en
-cuatro generaciones, cosa de la que estaban bastante orgullosos.
+—Se hizo lo de siempre.
 
-Ella tampoco insistió nunca. Anotaba y seguía. Y cuando alguien contestaba que no
-demasiado rápido, no volvía a preguntar: se quedaba un momento con el lápiz parado, que
-era el único gesto suyo que tenía algo de amenaza, y después pasaba a otra cosa.
+—¿Sacaron a alguien del agua?
+
+—A mí —dijo el del molino, y se rió—. Me metí en un hoyo como un tonto.
+
+—¿Y por qué se metió?
+
+El del molino abrió la boca.
+
+Y ahí Sel vio una cosa que sí entendió, porque no era un patrón de adultos sino algo mucho
+más simple: el hombre no lo sabía. Se quedó buscándolo un rato, con la cara de quien
+va a decir un nombre y no le sale, y al final dijo que porque había que sacar el carro.
+
+Miren Saal abrió el cuaderno.
+
+Lo hizo cuatro veces más, en cuatro casas, y siempre igual: cosecha, animales, y el río al
+final. Y las cuatro veces alguien se quedó buscando algo que no encontró.
+
+Nadie le dijo que hubiera pasado nada raro. En Keliun no había pasado nada raro en cuatro
+generaciones, cosa de la que estaban bastante orgullosos.
+
+Ella tampoco insistió nunca. Anotaba y seguía.
 
 Sel la acompañó los cuatro días.
 

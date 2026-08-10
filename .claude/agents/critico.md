@@ -79,3 +79,11 @@ Se te va a dar una ruta exacta. **Escribe tu informe ahí y no toques nada más.
   el libro: lo lees.
 - Devuelve además, en tu respuesta, un resumen compacto: tu veredicto en una línea y tus
   tres hallazgos principales. Nada más. El informe largo va al fichero.
+
+## Presupuesto
+
+**Lee lo que se te diga y para.** Un informe no mejora por leer más: mejora por leer lo
+justo y pensar. Como referencia, con quince o veinte lecturas de fichero tienes de sobra.
+
+Si te mandan **verificar** una pasada anterior, **no releas el mundo**: te bastan tu propio
+informe, el `git diff` de lo que cambió, y los capítulos que toca. El resto no se ha movido.

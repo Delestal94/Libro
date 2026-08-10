@@ -2,8 +2,8 @@
 
 Sel tardó dos días en tener la idea, y la idea le pareció la mejor de su vida.
 
-Casi todas las ideas que arruinan algo son así. Vienen enteras, encajan solas, y uno se
-levanta de la cama con ellas ya montadas y con una sensación física de suerte.
+Vino entera, encajó sola, y se levantó de la cama con ella ya montada y con una sensación
+física de suerte.
 
 ---
 
@@ -97,7 +97,7 @@ Y era verdad, y Sel se acordaba del cinturón.
 Después se acercó a su hija y le dijo algo que Sel no oyó, y no lo dijo con desprecio ni
 con dureza: lo dijo con un tono de disculpa, casi con vergüenza, un poco encogido.
 
-Se acercó lo bastante para que Sel le notara el aliento. A media mañana.
+Se acercó lo bastante para que Sel le notara el aliento.
 
 Ila contestó que sí. Se secó una mano en el delantal, sacó unas monedas del bolsillo y se
 las dio.
@@ -188,10 +188,56 @@ Lo había hecho. Y le había salido perfecto.
 
 Ila hizo lo que tenía que hacer para irse, que era romper cosas.
 
-Se lo dijo a su padre, delante de gente, para que no pudiera decir que no. Vendió el
-caldero grande, que era lo único de su madre. Y le dijo a las seis casas para las que
-lavaba que se buscaran a otra, porque si no se lo decía no se iba a ir nunca, y ella se
-conocía.
+Empezó por lo más caro, porque sabía que si empezaba por lo barato no llegaba a lo caro.
+
+Lo hizo un miércoles, a la puerta de la panadería, con Anu delante y con dos mujeres más
+que estaban esperando el pan y que no se fueron.
+
+—Padre.
+
+—Dime.
+
+—Me voy con el niño de Maara.
+
+Él tardó un poco. Miró a las mujeres, y volvió a mirarla, y se rió una vez, corto, para
+darle a ella la ocasión de que también fuera una broma.
+
+Ila no se rió.
+
+—¿A dónde?
+
+—No lo sé.
+
+—Ila.
+
+—Los críos comen en casa de Anu —dijo ella, y lo dijo mirando a Anu, no a él—. Y por las
+tardes va a mirarlos la del cachorro. Está hablado con todos. Se hizo el domingo.
+
+Y ahí estuvo lo caro, y no fue la frase: fue que **lo dijo delante de gente para que él
+tuviera que contestar delante de gente**, y él lo entendió, y ella supo que lo había
+entendido, y los dos siguieron adelante de todas formas.
+
+—Bueno —dijo el padre.
+
+Y después, buscando algo:
+
+—Si necesitas algo...
+
+—No.
+
+Se quedó un momento más. Después se puso bien la camisa, que ya estaba bien, y se fue por
+donde había venido.
+
+Una de las mujeres que esperaba el pan dijo algo en voz baja, y la otra contestó, y Anu
+las miró y las dos se callaron.
+
+---
+
+Lo demás fue más fácil.
+
+Vendió el caldero grande, que era lo único de su madre, y no dejó que Sel la acompañara.
+Y le dijo a las seis casas para las que lavaba que se buscaran a otra, porque si no se lo
+decía no se iba a ir nunca, y ella se conocía.
 
 Eso le llevó cinco días.
 
@@ -219,7 +265,12 @@ Lo que ocurrió fue algo más pequeño y mucho peor: que el compromiso dejó de 
 ponen los compromisos. Se quedó fuera de la lista de cosas que hay que hacer hoy, como si
 no lo hubieran metido nunca.
 
-El miércoles, Anu les dio de comer y estuvo rara. Y el jueves Sel la oyó decirle a otra,
+El miércoles Sel se cruzó con Oren en la cuesta y le preguntó por lo del río.
+
+Oren tardó un momento en saber de qué le hablaba. Después dijo que sí, que claro, que el
+domingo, y siguió subiendo con un saco al hombro.
+
+Ese mismo miércoles Anu les dio de comer y estuvo rara. Y el jueves Sel la oyó decirle a otra,
 en la puerta de la panadería, sin mala intención ninguna, con una perplejidad auténtica:
 
 —Oye, ¿y por qué dijimos que sí?
@@ -231,13 +282,6 @@ Y la otra contestó:
 —Ya. Pero eso ya daba pena antes.
 
 Y se quedaron las dos calladas un momento, incómodas, y cambiaron de tema.
-
-El viernes Sel se cruzó con Oren en la cuesta y le preguntó por lo del río.
-
-Oren tardó un momento en saber de qué le hablaba. Después dijo que sí, que claro, que el
-domingo, y siguió subiendo con un saco al hombro.
-
-No fue.
 
 El viernes ya no iba nadie.
 

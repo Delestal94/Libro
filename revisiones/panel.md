@@ -97,3 +97,48 @@ está mal. Si sólo lo señala uno, es gusto.
 Sólo se actúa sobre lo que coincide en **tres o más perfiles distintos**. El resto se
 anota y se deja pasar: perseguir opiniones sueltas es la forma más rápida de escribir un
 libro sin voz.
+
+---
+
+## Los dos tamaños de panel
+
+**No se lanzan veinte revisores cada vez.** Los veinte son para cerrar un arco. Para
+comprobar una pasada hay otro modo, mucho más barato.
+
+| | **Panel completo** | **Verificación** |
+|---|---|---|
+| Cuándo | Al cerrar un arco | Después de una pasada de correcciones |
+| Quién | Los veinte perfiles | 2 críticos + 2 lectores, **los que abrieron los hallazgos que se tocaron** |
+| Qué leen | Todo | **Su propio informe anterior, el `git diff` y los capítulos tocados** |
+| Qué contestan | Los siete u ocho puntos | **Sólo: ¿se cerró? ¿qué se rompió?** |
+
+**En verificación no se relee el mundo.** El manuscrito entero cuesta lo mismo que
+leerlo entero, y lo único que ha cambiado son mil palabras que `git diff` da en un
+suspiro.
+
+### Reparto de modelo
+
+Los lectores **reportan experiencia**, no analizan: van con un modelo más barato y el
+informe no baja de calidad. Los críticos y el escritor necesitan juicio y van con el
+bueno. Está en las cabeceras de `.claude/agents/`.
+
+### Y una regla para quien orquesta
+
+**No te traigas los informes enteros a tu contexto.** Los agentes escriben en `revisiones/`
+y devuelven un resumen de tres hallazgos: con eso se agrega. Leer los veinte informes
+completos para escribir el resumen es pagar dos veces por lo mismo.
+
+---
+
+## Los relectores están contaminados
+
+Lo dijo el lector de 35 años, y tiene razón:
+
+> «No sé si el entierro ha mejorado o si soy yo el que ya no esperaba nada de él. **Un
+> relector no sirve para medir eso; hay que preguntárselo a alguien virgen.**»
+
+**Hay preguntas que sólo contesta alguien que no lo ha leído nunca:** si una escena
+emociona, si un misterio se entiende, si el ritmo aguanta. Y hay otras que sólo contesta un
+relector: si un hallazgo se cerró, si algo se rompió.
+
+En un panel completo, **al menos la mitad de los lectores tienen que ser nuevos**.

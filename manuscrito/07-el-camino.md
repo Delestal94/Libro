@@ -373,9 +373,6 @@ Tardó bastante. Escribía despacio, porque casi no había aprendido.
 
 ---
 
-Aquella mañana bajaban dos personas por esa cuesta, y una de las dos no tenía por qué
-estar allí.
-
 Yo he contado ese orden muchas veces. Molino, cojo, era.
 
 Se me da mal dormir.
