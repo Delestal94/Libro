@@ -282,6 +282,7 @@ export default function Lector({
       }
       const rect = sel.getRangeAt(0).getBoundingClientRect();
       if (!rect.width && !rect.height) return;
+      setErrorGuardado(""); // una selección nueva no debe arrastrar el error de la anterior
       setSeleccion({ texto, ruta: seccion.id, x: rect.left + rect.width / 2, y: rect.top });
     }
 
@@ -471,25 +472,32 @@ export default function Lector({
       {/* Barra flotante al seleccionar texto: colores para resaltar, o comentar. */}
       {seleccion && !comentando && (
         <div
-          className="fixed z-50 flex -translate-x-1/2 -translate-y-full items-center gap-1 rounded-lg border border-borde bg-superficie-alta px-2 py-1.5 shadow-lg"
-          style={{ left: seleccion.x, top: Math.max(8, seleccion.y - 8) }}
+          className="fixed z-50 flex -translate-x-1/2 flex-col items-center gap-1"
+          style={{ left: seleccion.x, top: Math.max(8, seleccion.y - 8), transform: "translate(-50%, -100%)" }}
         >
-          <PuntosDeColor
-            elegido={colorElegido}
-            onElegir={(c) => {
-              setColorElegido(c);
-              guardarAnotacion(seleccion.ruta, seleccion.texto, "", c);
-            }}
-          />
-          <div className="mx-1 h-6 w-px bg-borde" />
-          <button
-            onClick={() => setComentando(true)}
-            disabled={guardando}
-            className="min-h-9 min-w-9 rounded-md text-lg disabled:opacity-50"
-            aria-label="Comentar"
-          >
-            💬
-          </button>
+          {errorGuardado && (
+            <p className="max-w-56 rounded-md bg-peligro px-2 py-1 text-center text-xs text-fondo shadow-lg">
+              {errorGuardado}
+            </p>
+          )}
+          <div className="flex items-center gap-1 rounded-lg border border-borde bg-superficie-alta px-2 py-1.5 shadow-lg">
+            <PuntosDeColor
+              elegido={colorElegido}
+              onElegir={(c) => {
+                setColorElegido(c);
+                guardarAnotacion(seleccion.ruta, seleccion.texto, "", c);
+              }}
+            />
+            <div className="mx-1 h-6 w-px bg-borde" />
+            <button
+              onClick={() => setComentando(true)}
+              disabled={guardando}
+              className="min-h-9 min-w-9 rounded-md text-lg disabled:opacity-50"
+              aria-label="Comentar"
+            >
+              💬
+            </button>
+          </div>
         </div>
       )}
 
