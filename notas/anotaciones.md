@@ -16,3 +16,4 @@
 | cnus720s | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acab |  | verde | 2026-08-11T04:12:13.330Z |
 | wa5ghvzl | manuscrito/01-el-brindis.md | a gente lo usaba para saber la hora. |  | celeste | 2026-08-11T04:12:19.244Z |
 | pu68z2og | manuscrito/01-el-brindis.md | abía decidido que |  | celeste | 2026-08-11T04:12:24.514Z |
+| vc6cs985 | manuscrito/01-el-brindis.md | metía el suyo en el hueco |  | rosa | 2026-08-11T04:12:52.869Z |
