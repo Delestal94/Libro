@@ -180,25 +180,47 @@ nadie antes de llegar a cero — que es, otra vez, adonde apunta el arco 6.
 
 ## L · Cómo son los enfrentamientos · *(11 de agosto de 2026)*
 
-**Hay duelos, y se ganan con el tema. El modelo es Frieren contra Aura.**
+**Hay combate de verdad, y se gana con el tema. El modelo es Frieren, entera.**
 
-Aura no pierde por un intercambio de golpes: pierde una **balanza**. Es literalmente una
-competición de cuánto maná acumulado tiene cada una, y Frieren gana porque lleva mil años
-entrenando en silencio mientras la otra presumía. Quítale la pelea a esa escena y se cae
-el tema de la serie entera. Eso es lo que hay que copiar: **no la ausencia de combate, sino
-que el combate sea la tesis puesta en escena.**
+*Corregido dos veces el mismo día, y las dos por lo mismo: por leer Frieren como más
+tranquila de lo que es.* Frieren tiene combate extenso y táctico — Stark contra el dragón,
+Frieren contra Solitär, Fern contra Lügner, Linie copiando técnicas por observación, y el
+examen de primera clase, que son varios capítulos de emboscadas y duelos. **No es una serie
+elegíaca con una pelea ingeniosa: alterna capítulos quietos y arcos de combate, y lo
+elegíaco no se resiente.** Al contrario: cada registro hace que el otro pese más.
 
-### Por qué encaja con este sistema sin forzar nada
+Lo que hay que copiar no es la cantidad de peleas. Son las tres cosas que las hacen
+funcionar, y este libro ya tiene las tres:
 
-El poder de este libro no es fuerza: es **cuánto estás dispuesto a gastar de ti mismo**. Un
-enfrentamiento se resuelve, entonces, por tres cosas y ninguna es pegar:
+1. **Reglas duras que el lector aprende y puede usar para predecir.** Aquí: qué es un
+   papel, que sólo se lleva uno, que cobra si el otro se resistía, que dos no pueden llevar
+   el mismo.
+2. **Se gana por preparación y conocimiento**, nunca por gritar más fuerte. Aura pierde una
+   balanza de maná acumulado contra alguien que lleva mil años entrenando en silencio.
+3. **Se pierde de verdad.** Frieren casi muere. El grupo pierde. Un enfrentamiento que no
+   se puede perder no es un enfrentamiento.
+
+Y un detalle que encaja solo: **Linie copia técnicas mirándolas**. Es casi exactamente la
+regla de que hay que haber visto un papel de cerca para poder tomarlo (§ M).
+
+### Cómo se pelea con este sistema
+
+Un papel da lo que ese papel sabe hacer (§ M). Así que **quien lleva el papel del
+Espadachín pelea de verdad**, con acero y con consecuencias — no hay que inventar un
+sistema de combate aparte, ya está.
+
+Lo que decide quién gana no es la fuerza, es:
 
 1. **Quién aguanta más tiempo el papel puesto.**
 2. **Quién está dispuesto a pagar más caro.**
-3. **Quién se niega a pagar** — que es la que más va a doler, y la que gana al final.
+3. **Quién se niega a pagar** — la que más va a doler, y la que gana al final del libro.
 
-Sel contra Bern (arco 2) ya es una balanza sin que nadie la haya llamado así: dos personas
-con el mismo papel en el mismo pueblo, y el pueblo teniendo que creerle a uno.
+Eso da dos clases de enfrentamiento, y el libro puede usar las dos:
+
+| | Cómo se ve | Ejemplo |
+|---|---|---|
+| **La balanza** | Nadie se toca. Se aguanta, se cede, y el que cede no entiende por qué | Sel contra Bern (arco 2): dos con el mismo papel y un pueblo que tiene que creerle a uno |
+| **El combate** | Alguien lleva un papel que sabe pelear, y pelea | Por escribir. El primero debería costarle a Sel algo que el lector pueda nombrar |
 
 ### Lo que sigue sin poder pasar
 
