@@ -82,3 +82,88 @@ export function desencolar(ruta: string): void {
 export function esFalloDeRed(e: unknown): boolean {
   return e instanceof TypeError || (typeof navigator !== "undefined" && !navigator.onLine);
 }
+
+// --- Anotaciones pendientes de llegar a GitHub -----------------------------
+
+/**
+ * Subrayar tiene que sentirse instantáneo y no perderse nunca, y cada
+ * anotación es un commit: entre las dos cosas hace falta una cola.
+ *
+ * La marca se pinta en el momento y la operación queda aquí hasta que el
+ * servidor la confirma. Si se cae la red, si salta un límite de la API o si
+ * se cierra la pestaña a media escritura, la operación sigue en el móvil y
+ * sale sola en cuanto se puede.
+ *
+ * Todas las operaciones llevan `id` y son idempotentes en el servidor, así
+ * que reintentar de más nunca duplica un subrayado.
+ */
+const CLAVE_ANOTACIONES = "cola-anotaciones";
+
+export type OperacionAnotacion =
+  | {
+      tipo: "crear";
+      id: string;
+      ruta: string;
+      texto: string;
+      aparicion: number;
+      comentario: string;
+      color: string;
+      ts: number;
+    }
+  | { tipo: "editar"; id: string; comentario: string; color: string; ts: number }
+  | { tipo: "borrar"; id: string; ts: number };
+
+/**
+ * `Omit` sobre una unión se queda con las claves comunes y pierde las ramas.
+ * Ésta se aplica a cada miembro por separado, que es lo que hace falta para
+ * poder encolar cualquiera de las tres operaciones sin su marca de tiempo.
+ */
+export type SinTs<T> = T extends unknown ? Omit<T, "ts"> : never;
+
+export function colaAnotaciones(): OperacionAnotacion[] {
+  return leer<OperacionAnotacion[]>(CLAVE_ANOTACIONES) ?? [];
+}
+
+/**
+ * Encola una operación. Las que se pisan entre sí se colapsan: varias
+ * ediciones del mismo subrayado dejan sólo la última, y borrar algo que
+ * todavía no se había llegado a crear cancela las dos — así una tarde de
+ * pruebas no acaba en veinte commits inútiles.
+ */
+export function encolarAnotacion(op: SinTs<OperacionAnotacion>): void {
+  const cola = colaAnotaciones();
+  const siguiente = { ...op, ts: Date.now() } as OperacionAnotacion;
+
+  if (siguiente.tipo === "borrar") {
+    const previas = cola.filter((o) => o.id === siguiente.id);
+    const seCreoAqui = previas.some((o) => o.tipo === "crear");
+    const resto = cola.filter((o) => o.id !== siguiente.id);
+    escribir(CLAVE_ANOTACIONES, seCreoAqui ? resto : [...resto, siguiente]);
+    return;
+  }
+
+  if (siguiente.tipo === "editar") {
+    // Si la creación sigue pendiente, se edita ahí mismo y no se encola nada.
+    const creacion = cola.find((o) => o.id === siguiente.id && o.tipo === "crear");
+    if (creacion && creacion.tipo === "crear") {
+      const actualizada = { ...creacion, comentario: siguiente.comentario, color: siguiente.color };
+      escribir(
+        CLAVE_ANOTACIONES,
+        cola.map((o) => (o === creacion ? actualizada : o)),
+      );
+      return;
+    }
+    const resto = cola.filter((o) => !(o.id === siguiente.id && o.tipo === "editar"));
+    escribir(CLAVE_ANOTACIONES, [...resto, siguiente]);
+    return;
+  }
+
+  escribir(CLAVE_ANOTACIONES, [...cola, siguiente]);
+}
+
+export function desencolarAnotacion(op: OperacionAnotacion): void {
+  escribir(
+    CLAVE_ANOTACIONES,
+    colaAnotaciones().filter((o) => !(o.id === op.id && o.tipo === op.tipo && o.ts === op.ts)),
+  );
+}

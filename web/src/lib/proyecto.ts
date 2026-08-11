@@ -15,15 +15,45 @@ export type Doc = {
 };
 
 /**
+ * Cada blob se pide a GitHub por su sha, y un sha identifica un contenido para
+ * siempre: si no cambió el sha, el texto es idéntico. Eso hace que se puedan
+ * guardar sin caducidad y sin miedo a servir algo viejo — al editar un fichero
+ * cambia su sha y con él la clave.
+ *
+ * Existe porque sin esto cada carga de una pantalla pedía los ~110 ficheros
+ * del repo uno por uno, y una tarde de recargas seguidas basta para que GitHub
+ * corte por límite secundario y la app deje de abrir.
+ */
+const blobs = new Map<string, string>();
+const TOPE_BLOBS = 400;
+
+async function leerBlobCacheado(sha: string): Promise<string> {
+  const guardado = blobs.get(sha);
+  if (guardado !== undefined) return guardado;
+
+  const contenido = await leerBlob(sha);
+  if (blobs.size >= TOPE_BLOBS) {
+    // Se tira lo más viejo: un Map conserva el orden de inserción.
+    const primero = blobs.keys().next().value;
+    if (primero !== undefined) blobs.delete(primero);
+  }
+  blobs.set(sha, contenido);
+  return contenido;
+}
+
+/**
  * Carga todo el libro. Un proyecto de escritura son decenas de ficheros, no
  * miles, así que leerlo entero de una vez sale más barato en latencia que
  * encadenar peticiones a medida que se navega.
+ *
+ * La lista de ficheros sí se pide siempre (una petición): es lo que dice qué
+ * shas hay ahora, y por tanto lo que detecta los cambios.
  */
 export async function cargarProyecto(): Promise<Doc[]> {
   const nodos = await listarDocumentos();
   const docs = await Promise.all(
     nodos.map(async (n) => {
-      const contenido = await leerBlob(n.sha);
+      const contenido = await leerBlobCacheado(n.sha);
       return {
         ruta: n.path,
         titulo: tituloDe(n.path, contenido),
