@@ -10,4 +10,3 @@
 | Id | Capítulo | Texto | Comentario | Color | Aparición | Fecha |
 |---|---|---|---|---|---|---|
 | b0tuxz9b | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer. |  | rosa | 0 | 2026-08-11T04:32:57.031Z |
-| nstlbttm | manuscrito/01-el-brindis.md | La gente lo usaba para saber la hora. Sel lo usaba para otra cosa. Sel había decidido que iba a ser el décimo. —No eres un perro —le dijo su abuela la primer |  | naranja | 0 | 2026-08-11T04:42:20.275Z |
