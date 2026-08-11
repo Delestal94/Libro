@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { memo, useCallback, useEffect, useRef, useState } from "react";
 import { COLORES, COLOR_POR_DEFECTO, type Anotacion, type Color } from "@/lib/anotaciones";
 import { anclajeDeSeleccion, despintar, pintar, type Anclaje } from "@/lib/resaltado";
 import {
@@ -27,6 +27,32 @@ type Seleccion = { piezas: Anclaje[]; x: number; y: number };
 function nuevoId(): string {
   return Math.random().toString(36).slice(2, 10);
 }
+
+/**
+ * El texto del libro, aislado del resto del componente.
+ *
+ * Va memoizado y **no depende de ningún estado**: leyendo se re-renderiza en
+ * cada fotograma del scroll (la barra de progreso) y con cada cambio de la
+ * cola, y las marcas viven dentro de este HTML, puestas a mano sobre el DOM.
+ * Cualquier repintado de React aquí se las lleva por delante — que es
+ * exactamente lo que hacía desaparecer los subrayados al bajar con la rueda.
+ *
+ * `secciones` viene del servidor y no cambia mientras la página está abierta,
+ * así que con esto React no vuelve a tocar el texto ni una vez.
+ */
+const Capitulos = memo(function Capitulos({ secciones }: { secciones: Seccion[] }) {
+  return (
+    <>
+      {secciones.map((s, i) => (
+        <section key={s.ruta} id={s.ruta} className="mb-16 scroll-mt-6">
+          {i > 0 && <hr className="mx-auto mb-12 w-1/3 border-borde" />}
+          <h2 className="mb-8 text-center font-serif text-2xl">{s.titulo}</h2>
+          <article className="prosa" dangerouslySetInnerHTML={{ __html: s.html }} />
+        </section>
+      ))}
+    </>
+  );
+});
 
 function PuntosDeColor({
   elegido,
@@ -76,7 +102,6 @@ export default function Lector({
   const [pendientes, setPendientes] = useState(0);
   const [verHuerfanas, setVerHuerfanas] = useState(false);
 
-  const pintadas = useRef<Set<string>>(new Set());
   const sincronizando = useRef(false);
 
   const [seleccion, setSeleccion] = useState<Seleccion | null>(null);
@@ -112,18 +137,34 @@ export default function Lector({
 
   useEffect(() => {
     let pendiente = false;
+    let ultimoGuardado = 0;
+
     const alDesplazar = () => {
       if (pendiente) return;
       pendiente = true;
       requestAnimationFrame(() => {
         const alto = document.documentElement.scrollHeight - window.innerHeight;
-        setProgreso(alto > 0 ? Math.min(1, window.scrollY / alto) : 0);
-        localStorage.setItem(CLAVE_POSICION, String(Math.round(window.scrollY)));
+        const nuevo = alto > 0 ? Math.min(1, window.scrollY / alto) : 0;
+        // Sólo se toca el estado si la barra se movería de verdad: redondear a
+        // milésimas evita re-renderizar en cada fotograma del scroll.
+        setProgreso((antes) => (Math.abs(antes - nuevo) > 0.001 ? nuevo : antes));
+
+        // Guardar la posición es para volver donde se dejó, no un cronómetro:
+        // escribir en disco en cada fotograma sólo servía para dar tirones.
+        const ahora = Date.now();
+        if (ahora - ultimoGuardado > 400) {
+          ultimoGuardado = ahora;
+          localStorage.setItem(CLAVE_POSICION, String(Math.round(window.scrollY)));
+        }
         pendiente = false;
       });
     };
+
     window.addEventListener("scroll", alDesplazar, { passive: true });
-    return () => window.removeEventListener("scroll", alDesplazar);
+    return () => {
+      window.removeEventListener("scroll", alDesplazar);
+      localStorage.setItem(CLAVE_POSICION, String(Math.round(window.scrollY)));
+    };
   }, []);
 
   // --- Pintar lo que falte por pintar --------------------------------------
@@ -270,7 +311,6 @@ export default function Lector({
 
     const nueva = { ...actualizada, comentario, color: colorEdicion };
     despintar(id);
-    pintadas.current.delete(id);
     setAnotaciones((prev) => prev.map((a) => (a.id === id ? nueva : a)));
     setActiva(nueva);
     setEditando(false);
@@ -280,7 +320,6 @@ export default function Lector({
 
   function quitar(id: string) {
     despintar(id);
-    pintadas.current.delete(id);
     setAnotaciones((prev) => prev.filter((a) => a.id !== id));
     setActiva(null);
     setEditando(false);
@@ -443,14 +482,7 @@ export default function Lector({
       )}
 
       <div style={{ fontSize: tamano }}>
-        {secciones.map((s, i) => (
-          <section key={s.ruta} id={s.ruta} className="mb-16 scroll-mt-6">
-            {i > 0 && <hr className="mx-auto mb-12 w-1/3 border-borde" />}
-            <h2 className="mb-8 text-center font-serif text-2xl">{s.titulo}</h2>
-            <article className="prosa" dangerouslySetInnerHTML={{ __html: s.html }} />
-          </section>
-        ))}
-
+        <Capitulos secciones={secciones} />
         <p className="pb-8 text-center text-sm text-tenue">— Fin de lo escrito —</p>
       </div>
 
