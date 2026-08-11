@@ -175,3 +175,103 @@ capítulos—, para cuatro arcos más quedan tres facturas de Maara. **Es una cu
 real, no retórica**, y hay que decidir antes del arco 4 o 5 qué pasa cuando se agote: si
 se acaba el poder, si empieza a cobrar de otro sitio, o si Sel deja de necesitar forzar a
 nadie antes de llegar a cero — que es, otra vez, adonde apunta el arco 6.
+
+---
+
+## L · Cómo son los enfrentamientos · *(11 de agosto de 2026)*
+
+**Hay duelos, y se ganan con el tema. El modelo es Frieren contra Aura.**
+
+Aura no pierde por un intercambio de golpes: pierde una **balanza**. Es literalmente una
+competición de cuánto maná acumulado tiene cada una, y Frieren gana porque lleva mil años
+entrenando en silencio mientras la otra presumía. Quítale la pelea a esa escena y se cae
+el tema de la serie entera. Eso es lo que hay que copiar: **no la ausencia de combate, sino
+que el combate sea la tesis puesta en escena.**
+
+### Por qué encaja con este sistema sin forzar nada
+
+El poder de este libro no es fuerza: es **cuánto estás dispuesto a gastar de ti mismo**. Un
+enfrentamiento se resuelve, entonces, por tres cosas y ninguna es pegar:
+
+1. **Quién aguanta más tiempo el papel puesto.**
+2. **Quién está dispuesto a pagar más caro.**
+3. **Quién se niega a pagar** — que es la que más va a doler, y la que gana al final.
+
+Sel contra Bern (arco 2) ya es una balanza sin que nadie la haya llamado así: dos personas
+con el mismo papel en el mismo pueblo, y el pueblo teniendo que creerle a uno.
+
+### Lo que sigue sin poder pasar
+
+- **La institución no cae por la fuerza.** Sigue en pie tal cual está en
+  [[el-protagonista]]: está hecha de gente buena que defiende algo que no es malo, y se
+  resuelve tratándola bien. Un duelo por el camino no es lo mismo que ganar la guerra a
+  golpes.
+- **Sel no humilla a nadie.** Regla 1 de [[el-protagonista]]. Puede perder un duelo; no
+  puede ganarlo pisando a quien pierde.
+- **Nada de escalada medida en fuerza.** Si un enfrentamiento se puede resumir en «ahora
+  es más fuerte», está mal escrito. Se mide en qué le costó.
+
+### Y el peligro físico se queda
+
+Independiente de lo anterior: agua, fuego, derrumbes, animales, prisa. El capítulo 4 del
+arco 1 —la riada— fue el mejor momento del arco para el lector de trece años, el más
+difícil de enganchar del panel, y ahí no levanta un arma nadie. Los dos registros conviven:
+la balanza y la riada.
+
+---
+
+## M · Qué da un papel, y cuántos se pueden llevar · *(11 de agosto de 2026)*
+
+**Un papel da competencia real, no sólo trato. Y sólo se puede llevar uno a la vez.**
+
+### Lo primero: competencia, no deferencia
+
+Hasta hoy el glosario decía que un papel es «lo que alguien es a ojos de los demás». Eso
+daba poder social —pena, permiso, obediencia— y nada más. Al decidir que Sel enciende una
+lámpara **tomando el papel de Guardador**, queda claro que un papel da lo que ese papel
+sabe hacer.
+
+Es la mitad del punto de comparación que ya estaba en [[premisa]]: *Lord of the Mysteries*,
+donde se actúa el papel hasta digerirlo y entonces se puede. Abre el sistema entero — el
+Espadachín, el Médico, el Cartógrafo— sin inventar ninguna regla nueva.
+
+Lo que impide que sea una máquina de pedir deseos ya estaba escrito:
+
+- **Hay que poder actuarlo.** Sel puede ser Guardador porque se pasa medio arco mirando
+  trabajar a Yeva. Nadie toma un papel que no ha visto de cerca.
+- **Dos no pueden llevar el mismo a la vez** (regla dura 4).
+- **Cuesta memoria, y lo gastado no vuelve.**
+- **Nada de lo que le pase lo vuelve cruel** ([[el-protagonista]], regla 4). Un papel de
+  violencia no está prohibido, pero el libro tiene que tratarlo como lo que sería: una
+  tentación, no un premio.
+
+### Lo segundo, y es lo que da forma al libro: uno a la vez
+
+**Ponerse un papel es quitarse el que llevabas.** No se acumulan.
+
+| Lo que gana el libro | |
+|---|---|
+| Cada arco es **una decisión, no una suma** | Sel no se hace más fuerte: se hace otra cosa |
+| Cada escena obliga a elegir **quién necesita ser** | Y equivocarse tiene precio |
+| El final se escribe solo | Tomar el papel del Padre (arco 6) significa **soltar todo lo demás** |
+
+Y encaja con el tema declarado en [[premisa]] hasta la última letra: *«crecer es ir dejando
+de ser uno mismo a cambio de poder hacer cosas»*. Con acumulación, el libro diría que
+crecer es sumar. Con uno a la vez, dice que crecer es cambiar y perder — que es lo que
+quiere decir.
+
+### La consecuencia inmediata, en el arco 2
+
+El conflicto del arco —dos Huérfanos en el mismo pueblo— **se resuelve por la propia
+progresión**: para ponerse el Guardador, Sel tiene que quitarse el Huérfano. Deja libre el
+papel que Bern no podía soltar.
+
+Y aparece la distinción que sostiene por qué la institución tiene razón:
+
+> **Sel toma el papel de Guardador. Bern entra de aprendiz con Yeva.**
+>
+> Lo primero es el atajo: funciona hoy y se paga en memoria. Lo segundo es el oficio: tarda
+> años, no cuesta un recuerdo, y al final es tuyo de verdad.
+
+Sel sale de Adruin pudiendo hacer lo que Bern todavía no sabe hacer, y Bern se queda con lo
+único que Sel no va a tener nunca. Ninguno de los dos lo dice en voz alta.

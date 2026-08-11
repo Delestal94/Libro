@@ -8,7 +8,7 @@
 | # | Lugar | Tema | Papel | Grado |
 |---|---|---|---|---|
 | 1 | Keliun, el pueblo | Perder a alguien | el Huérfano | 0 · Yerma |
-| 2 | La escuela flotante | No encajar | el Payaso | 1 · Doméstica |
+| 2 | Adruin, pueblo de mercado | Que lo que haces ya lo hace otro | el Guardador de lumbre | 1 · Doméstica |
 | 3 | La ciudad-jardín | Belleza con explotación debajo | el Jardinero | 2 · Artesana |
 | 4 | El barrio bajo | Mafia y adicción | el Ladrón | 3 · Industrial |
 | 5 | El conservatorio | Arte a mano donde ya no hace falta | el Músico | 4 · Saturada |
@@ -80,8 +80,14 @@ cementerio y no se pregunta por qué esa parte del camino brilla más.
 
 ## Arcos 2 a 6
 
-Por escaletar cuando el 1 esté escrito. Lo único fijo:
+El 2 está escaletado escena por escena en `manuscrito/arco-2/00-escaleta.md`. Los demás,
+por escaletar. Lo único fijo:
 
+- **Arco 2:** Adruin. Dos personas llevan el mismo papel —el Huérfano— en el mismo sitio,
+  y eso no se puede. Sel sale con un papel nuevo, el Guardador de lumbre, e Ila se queda.
+  *(La escaleta decía «la escuela flotante / el Payaso»; se cambió el 11 de agosto de 2026
+  al escaletarlo en detalle, porque el conflicto con Bern es mejor motor y da la imagen
+  del arco. El Payaso vuelve a la reserva para un arco posterior.)*
 - **Arco 5:** aquí es donde Sel **no puede ayudar**. Es la escena que exige la cuarta
   línea del brindis.
 - **Arco 6:** toma el papel del Padre y completa la frase. El narrador habla por

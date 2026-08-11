@@ -6,15 +6,21 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 1, capítulo 7 · *El camino*
-**Momento:** primavera del 1200. Primer día de camino, ya de noche.
+**Último capítulo escrito:** arco 2, capítulo 1 · *Lo que se compra hecho* — **a medias**
+(escrita la escena 1.1; faltan 1.2 y 1.3)
+**Momento:** primavera del 1200. Cuarta noche de camino, llegando a Adruin.
 
 ---
 
 ## Dónde están
 
-Sel e Ila han salido de [[keliun]] de madrugada por el sendero de arriba, el del
-cementerio. Llevan un día andando. Van hacia «donde haya más gente», sin destino concreto.
+Salieron de [[keliun]] de madrugada por el sendero de arriba, el del cementerio. Cuatro
+días andando. **Acaban de entrar en Adruin**, pueblo de mercado en un cruce de caminos,
+grado 1 — el primer sitio con magia doméstica que Sel ve en su vida.
+
+Lo que Sel ha visto hasta ahora de Adruin: una lámpara encendida sin llama, la pared limpia
+encima, y una mujer cerrándole el postigo en la cara sin prisa. Todavía no ha hablado con
+nadie del pueblo, no conoce a Bern ni a Yeva, y no ha intentado nada con la magia de aquí.
 
 Con ellos va **Diez**, el cachorro, con una correa que le dio la mujer que se lo había
 quitado.

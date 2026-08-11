@@ -13,28 +13,50 @@ puede pagarla. Es el primer peldaño de la escalera de `mundo.md`, y el primer s
 lo que hace Sel **tiene competencia**: existe alguien que ya hace ese trabajo, con
 licencia, de manera profesional.
 
+## Revisión del 11 de agosto de 2026
+
+Esta escaleta se escribió **antes** del panel del 10 de agosto y de las decisiones § K y
+§ L. Cuatro cosas cambian, y ninguna toca la estructura de 21 escenas:
+
+1. **Sel sale de Adruin con un papel nuevo: el Guardador de lumbre.** La escaleta maestra
+   daba al arco 2 «la escuela flotante / el Payaso»; se cambia por esto (ver
+   `manuscrito/00-escaleta.md`). Lo que Sel hace con la lámpara del capítulo 4 no es
+   improvisar magia doméstica —ninguna regla lo permitiría—: es **tomar el papel de
+   Guardador**, actuarlo hasta creérselo, y que entonces funcione. Encaja con § A sin
+   inventar nada, y resuelve que el arco 2 dejaba al protagonista sin progresión.
+2. **El coste se rige por § K:** el papel sólo cobra cuando la persona **se resistía**.
+   Afecta a la escena 3.1 (ver allí).
+3. **Los enfrentamientos se rigen por § L:** duelos de papeles, ganados por quién aguanta,
+   quién paga o quién se niega a pagar. Sel contra Bern es una balanza.
+4. **Ila se queda en Adruin.** Confirmado, con todo el peso que eso tiene: es el personaje
+   más querido del arco 1 y el libro lo pierde aquí.
+
+---
+
 ## Los ocho puntos, sobre el papel
 
-**1 · La imagen — una, causada por Sel.** Sel alimentando una lámpara doméstica con un
-recuerdo que no debería gastar, en la cocina de una casa que no es la suya, y viendo cómo
-la llama se pone de un color que no le habían dicho que existía. Ni Ila ni el dueño de la
-casa la ven arder así nunca más — sólo él, esa vez. Se repite en cinco arcos: siempre va a
-haber un sitio donde Sel enciende algo que no debería.
+**1 · La imagen — una, causada por Sel y pagada por Sel.** Sel encendiendo la lámpara de
+una cocina que no es la suya, y la llama poniéndose de un color que nadie le había dicho
+que existía. Ni Ila ni la dueña la ven arder así nunca más — sólo él, esa vez.
 
-**2 · La escena grande, tachada mentalmente.** La escena grande es que Sel y **Bern**
-—que lleva años siendo «el Huérfano» de Adruin, adulto ya, sin poder dejarlo— se
-encuentran cara a cara y el pueblo tiene que decidir a cuál de los dos cree. Si se tacha,
-el arco se cae entero: no queda motor, sólo un pueblo nuevo con las mismas escenas de
-Keliun repetidas. Es estructural, no decoración.
+Cumple lo que el arco 1 no cumplía y costó tres paneles descubrir: **la causa el
+protagonista y la paga el protagonista, en el sitio y delante de alguien**. En el arco 1
+la factura llegaba once días tarde y a solas.
 
-**3 · La última línea.** Provisional, se decide al escribir el capítulo final, pero el
-candidato es la línea de Bern al ceder el papel, no la de Sel — por la misma razón que en
-el arco 1 la mejor línea era de un secundario (Oren) y no del narrador.
+**2 · La escena grande, tachada mentalmente.** Sel y **Bern** —que lleva años siendo «el
+Huérfano» de Adruin, adulto ya, sin poder dejarlo— cara a cara, y el pueblo teniendo que
+decidir a cuál de los dos cree. Es una balanza en el sentido de § L: gana el que aguante,
+y acaba ganando el que se niega a seguir pagando. Si se tacha, el arco se cae entero.
 
-**4 · El humor.** Un capítulo sin ninguno (probablemente el 5, el más denso en
-argumento) se acepta a propósito y se anota por qué, como pide el estándar. El resto
-lleva al menos un chiste seco, en la línea de «Los perros, por cierto, se comieron el pan
-y no lo aceptaron igual.»
+**3 · La última línea.** **Tiene que decidirse antes de escribir el capítulo 7, no
+durante.** En el arco 1 se dejó para el final y la mejor línea acabó en el capítulo 3 de 7
+—criterio 6 suspendido en tres paneles seguidos—. La forma está fijada aunque falten las
+palabras: **Sel contando luces que sabe lo que cuestan**, dicha por él o por nadie, nunca
+por el narrador explicando el tema.
+
+**4 · El humor.** Un capítulo sin ninguno —el 5, el más denso de sistema— y anotado por
+qué, según la regla de `voz.md` revisada hoy: el humor va donde el capítulo lo aguanta, no
+por recuento. El resto, al menos un chiste seco.
 
 **5 · Qué se paga de `pistas.md`.** Ver tabla siguiente.
 
@@ -294,21 +316,34 @@ identificar.
 - **Qué no puede pasar todavía:** la decisión final. Eso es el capítulo 7.
 - **Largo:** ~900 palabras.
 
-### Escena 6.2
+### Escena 6.2 · **el clímax del arco, y la balanza**
 - **Dónde/quién:** Sel y Bern, en el taller de Yeva, con Yeva presente.
-- **Qué entra:** el cierre del conflicto central: dos no pueden llevar el mismo papel a
-  la vez, y uno de los dos tiene que dejarlo.
-- **Qué pasa:** Bern lo deja. No lo obliga nadie — lo decide él, con Yeva ofreciéndole
-  el aprendizaje real de Guardador que llevaba años necesitando y nunca había tenido
-  delante en forma de oferta concreta.
-- **Qué cambia:** por primera vez en el libro, un papel se suelta **por elección y sin
-  castigo**, no porque a alguien se le olvide o se rompa. Es la contrapartida esperanzada
-  de «funciona mientras estás».
-- **Qué se siembra:** que sí hay salida del papel, si alguien ofrece algo real a cambio.
+- **Qué entra:** el cierre del conflicto: dos no pueden llevar el mismo papel, y el pueblo
+  lleva medio arco sin saber a cuál de los dos cree.
+- **Qué pasa:** **se resuelve por la propia progresión, no por una discusión.** Sel se
+  quita el Huérfano para ponerse el Guardador — que es lo único que puede hacer, porque
+  sólo se lleva uno a la vez *(`decisiones.md` · M)*. Al soltarlo deja libre el papel que
+  Bern llevaba siete años sin poder soltar. Nadie gana: uno cambia de sitio y el otro se
+  queda con el suyo, por fin sin competencia.
+- **Y la distinción que sostiene el libro entero:** Bern no toma el papel de Guardador.
+  Bern entra **de aprendiz** con Yeva.
+  > Sel toma el atajo: funciona hoy y se paga en memoria.
+  > Bern toma el oficio: tarda años, no cuesta un recuerdo, y al final es suyo de verdad.
+
+  Sel sale de Adruin pudiendo hacer lo que Bern todavía no sabe hacer. Bern se queda con lo
+  único que Sel no va a tener nunca. **Ninguno de los dos lo dice en voz alta**, y el
+  narrador tampoco.
+- **Qué cambia:** primera vez en el libro que un papel se suelta **por elección y sin
+  castigo**. Es la contrapartida esperanzada de «funciona mientras estás». Y es la primera
+  vez que se ve por qué la institución tiene razón: existe un camino legítimo, y Sel
+  siempre se lo salta.
+- **Qué se siembra:** que hay salida del papel si alguien ofrece algo real a cambio. Y la
+  duda que Sel se lleva sin resolver: si lo suyo es un atajo, ¿de qué le sirve llegar antes?
 - **Qué se paga:** cierra del todo «Dos no pueden llevar el mismo papel a la vez».
-- **Qué no puede pasar todavía:** que a Sel se le ofrezca lo mismo. Él no se queda —eso
-  es la premisa del libro entero— pero la escena tiene que dejar sentir que **podría**.
-- **Largo:** ~1.200 palabras.
+- **Qué no puede pasar todavía:** que a Sel se le ofrezca el aprendizaje. La escena tiene
+  que dejar sentir que **podría** quedarse — y que nadie se lo propone, porque ya se le ve
+  que no se queda.
+- **Largo:** ~1.300 palabras.
 
 ### Escena 6.3
 - **Dónde/quién:** de noche, Sel e Ila, en la posada.

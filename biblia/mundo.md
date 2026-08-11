@@ -97,6 +97,10 @@ un poder sin precio mata la tensión.*
 4. **Dos no pueden llevar el mismo papel a la vez.** Dicho una vez, sin explicar.
 5. **El haranu sólo aguanta las promesas que puedas cumplir.** Si atas de más, se abre la
    más vieja.
+6. **Un papel da lo que ese papel sabe hacer**, no sólo el trato que le dan los demás. Hay
+   que haberlo visto de cerca para poder actuarlo *(ver [[decisiones]] · M)*.
+7. **Sólo se lleva uno a la vez.** Ponerse un papel es quitarse el anterior. No se
+   acumulan, y por eso cada arco es una decisión y no una suma.
 
 ## Lo que el lector descubre y cuándo
 
@@ -110,7 +114,7 @@ Ver la línea del tiempo en la app (Trama → Cronología), que ya lleva los dos
 
 | Término | Significado |
 |---|---|
-| **papel** | Lo que alguien es a ojos de los demás, y que puede ponerse y quitarse. Cuesta memoria |
+| **papel** | Lo que alguien es a ojos de los demás. Se actúa hasta creérselo y entonces **da lo que ese papel sabe hacer**. Uno a la vez. Cuesta memoria |
 | **veresh** | La lengua vieja. Distingue `-in` (lo que se es) de `-esh` (lo que se hace) |
 | **nirai** | Los perros que no son de nadie. Se ordenan al anochecer |
 | **lasharil** | El musgo que alumbra. Crece más donde se recuerda a los muertos |
