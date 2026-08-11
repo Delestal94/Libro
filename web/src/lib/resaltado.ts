@@ -156,39 +156,71 @@ export function despintar(id: string, raiz: ParentNode = document): void {
   });
 }
 
+export type Anclaje = { ruta: string; texto: string; aparicion: number };
+
 /**
- * Datos de anclaje de lo que hay seleccionado ahora mismo, o null si la
- * selección no sirve (vacía, fuera de la prosa, demasiado corta o larga).
+ * Convierte lo que hay seleccionado ahora mismo en uno o varios anclajes, o
+ * null si no hay nada útil seleccionado.
  *
- * La aparición se cuenta sobre el texto que va **desde el principio de la
- * sección hasta donde empieza la selección**, así que sale exacta sin tener
- * que adivinar nada después.
+ * **Sin límite de longitud**: subrayar una escena entera —o el libro entero—
+ * es un uso normal leyendo, y cualquier tope acababa cortando por donde no
+ * tocaba.
+ *
+ * Devuelve **una pieza por capítulo**. Una anotación pertenece a un capítulo
+ * (es lo que permite encontrarla luego), así que una selección que cruza de
+ * uno a otro se reparte en tantas anotaciones como capítulos toque, cada una
+ * con su propio trozo. Para quien lee es un solo gesto; por debajo son varias
+ * filas, y cada una se resuelve por su cuenta si el texto cambia.
+ *
+ * La aparición se cuenta sobre el texto que va desde el principio del capítulo
+ * hasta donde empieza el trozo, así que sale exacta sin adivinar nada.
  */
-export function anclajeDeSeleccion(
-  limites: { minimo: number; maximo: number } = { minimo: 3, maximo: 500 },
-): { ruta: string; texto: string; aparicion: number; rect: DOMRect } | null {
+export function anclajeDeSeleccion(): { piezas: Anclaje[]; rect: DOMRect } | null {
   const sel = window.getSelection();
   if (!sel || sel.isCollapsed || !sel.rangeCount) return null;
 
   const rango = sel.getRangeAt(0);
-  const texto = normalizarTexto(rango.toString());
-  if (texto.length < limites.minimo || texto.length > limites.maximo) return null;
+  if (!normalizarTexto(rango.toString())) return null;
 
-  const nodo = rango.startContainer;
-  const elemento = nodo instanceof Element ? nodo : nodo.parentElement;
-  const seccion = elemento?.closest<HTMLElement>("section[id]");
-  if (!seccion || !elemento?.closest(".prosa")) return null;
-
-  const antes = document.createRange();
-  antes.selectNodeContents(seccion);
-  antes.setEnd(rango.startContainer, rango.startOffset);
-
-  const aparicion = contarEn(normalizarTexto(antes.toString()), texto);
+  const inicio = rango.startContainer;
+  const elementoInicial = inicio instanceof Element ? inicio : inicio.parentElement;
+  if (!elementoInicial?.closest(".prosa")) return null;
 
   const rect = rango.getBoundingClientRect();
   if (!rect.width && !rect.height) return null;
 
-  return { ruta: seccion.id, texto, aparicion, rect };
+  const piezas: Anclaje[] = [];
+
+  for (const seccion of document.querySelectorAll<HTMLElement>("section[id]")) {
+    if (!rango.intersectsNode(seccion)) continue;
+
+    // El trozo de la selección que cae dentro de este capítulo.
+    const limite = document.createRange();
+    limite.selectNodeContents(seccion);
+
+    const trozo = rango.cloneRange();
+    if (trozo.compareBoundaryPoints(Range.START_TO_START, limite) < 0) {
+      trozo.setStart(limite.startContainer, limite.startOffset);
+    }
+    if (trozo.compareBoundaryPoints(Range.END_TO_END, limite) > 0) {
+      trozo.setEnd(limite.endContainer, limite.endOffset);
+    }
+
+    const texto = normalizarTexto(trozo.toString());
+    if (!texto) continue;
+
+    const antes = document.createRange();
+    antes.selectNodeContents(seccion);
+    antes.setEnd(trozo.startContainer, trozo.startOffset);
+
+    piezas.push({
+      ruta: seccion.id,
+      texto,
+      aparicion: contarEn(normalizarTexto(antes.toString()), texto),
+    });
+  }
+
+  return piezas.length ? { piezas, rect } : null;
 }
 
 function contarEn(pajar: string, aguja: string): number {

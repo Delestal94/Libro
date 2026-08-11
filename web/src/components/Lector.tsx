@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { COLORES, COLOR_POR_DEFECTO, type Anotacion, type Color } from "@/lib/anotaciones";
-import { anclajeDeSeleccion, despintar, pintar } from "@/lib/resaltado";
+import { anclajeDeSeleccion, despintar, pintar, type Anclaje } from "@/lib/resaltado";
 import {
   colaAnotaciones,
   desencolarAnotacion,
@@ -18,8 +18,11 @@ const CLAVE_TAMANO = "lector:tamano";
 const CLAVE_POSICION = "lector:posicion";
 const CLAVE_COLOR = "lector:color";
 
-/** Lo que hay seleccionado ahora mismo, listo para convertirse en anotación. */
-type Seleccion = { ruta: string; texto: string; aparicion: number; x: number; y: number };
+/**
+ * Lo que hay seleccionado ahora mismo. `piezas` es una por capítulo: subrayar
+ * a través de un salto de capítulo crea una anotación en cada uno.
+ */
+type Seleccion = { piezas: Anclaje[]; x: number; y: number };
 
 function nuevoId(): string {
   return Math.random().toString(36).slice(2, 10);
@@ -125,12 +128,21 @@ export default function Lector({
 
   // --- Pintar lo que falte por pintar --------------------------------------
 
-  useEffect(() => {
+  /**
+   * Pinta lo que no esté ya pintado, mirando el DOM en vez de fiarse de una
+   * lista en memoria. Es la diferencia entre una marca que desaparece para
+   * siempre y una que se recupera sola: si algo se lleva por delante el HTML
+   * del capítulo, la siguiente pasada lo vuelve a poner.
+   */
+  const sincronizarMarcas = useCallback(() => {
     const sinSitio: string[] = [];
+    let cambios = false;
+
     for (const a of anotaciones) {
-      if (pintadas.current.has(a.id)) continue;
+      if (document.querySelector(`mark[data-anotacion="${CSS.escape(a.id)}"]`)) continue;
       const seccion = document.getElementById(a.ruta);
       if (!seccion) continue;
+      cambios = true;
       const ok = pintar(seccion, {
         id: a.id,
         texto: a.texto,
@@ -138,18 +150,27 @@ export default function Lector({
         color: a.color,
         comentada: Boolean(a.comentario),
       });
-      if (ok) pintadas.current.add(a.id);
-      else sinSitio.push(a.id);
+      if (!ok) sinSitio.push(a.id);
     }
+
+    if (!cambios) return;
     setHuerfanas((prev) => {
-      const juntas = [...new Set([...prev, ...sinSitio])].filter((id) =>
-        anotaciones.some((a) => a.id === id),
-      );
-      return juntas.length === prev.length && juntas.every((id, i) => id === prev[i])
-        ? prev
-        : juntas;
+      const iguales = prev.length === sinSitio.length && prev.every((id, i) => id === sinSitio[i]);
+      return iguales ? prev : sinSitio;
     });
   }, [anotaciones]);
+
+  useEffect(() => {
+    sincronizarMarcas();
+  }, [sincronizarMarcas]);
+
+  // Red de seguridad: si algo repinta el capítulo (una recarga parcial, el
+  // navegador reordenando el árbol), las marcas vuelven solas en un segundo
+  // en vez de quedarse perdidas hasta recargar a mano.
+  useEffect(() => {
+    const t = setInterval(sincronizarMarcas, 1500);
+    return () => clearInterval(t);
+  }, [sincronizarMarcas]);
 
   // --- Cola: subrayar no puede perderse nunca ------------------------------
 
@@ -200,27 +221,33 @@ export default function Lector({
 
   const crear = useCallback(
     (sel: Seleccion, comentario: string, color: Color) => {
-      const anotacion: Anotacion = {
-        id: nuevoId(),
-        ruta: sel.ruta,
-        texto: sel.texto,
-        aparicion: sel.aparicion,
-        comentario: comentario.replace(/\s+/g, " ").trim(),
-        color,
-        fecha: new Date().toISOString(),
-      };
+      const limpio = comentario.replace(/\s+/g, " ").trim();
+      const fecha = new Date().toISOString();
 
-      // Se pinta ya: el resto ocurre por detrás y no se pierde aunque falle.
-      setAnotaciones((prev) => [...prev, anotacion]);
-      encolarYSincronizar({
-        tipo: "crear",
-        id: anotacion.id,
-        ruta: anotacion.ruta,
-        texto: anotacion.texto,
-        aparicion: anotacion.aparicion,
-        comentario: anotacion.comentario,
-        color: anotacion.color,
-      });
+      // Una anotación por capítulo tocado. Para quien lee fue un solo gesto.
+      const nuevas: Anotacion[] = sel.piezas.map((p) => ({
+        id: nuevoId(),
+        ruta: p.ruta,
+        texto: p.texto,
+        aparicion: p.aparicion,
+        comentario: limpio,
+        color,
+        fecha,
+      }));
+
+      // Se pintan ya: el resto ocurre por detrás y no se pierde aunque falle.
+      setAnotaciones((prev) => [...prev, ...nuevas]);
+      for (const a of nuevas) {
+        encolarYSincronizar({
+          tipo: "crear",
+          id: a.id,
+          ruta: a.ruta,
+          texto: a.texto,
+          aparicion: a.aparicion,
+          comentario: a.comentario,
+          color: a.color,
+        });
+      }
 
       const s = window.getSelection();
       s?.empty?.();
@@ -301,9 +328,7 @@ export default function Lector({
         return;
       }
       setSeleccion({
-        ruta: anclaje.ruta,
-        texto: anclaje.texto,
-        aparicion: anclaje.aparicion,
+        piezas: anclaje.piezas,
         x: anclaje.rect.left + anclaje.rect.width / 2,
         y: anclaje.rect.top,
       });
@@ -471,8 +496,14 @@ export default function Lector({
             onClick={(e) => e.stopPropagation()}
           >
             <p className="mb-3 max-h-24 overflow-y-auto border-l-2 border-acento pl-3 text-sm text-tenue italic">
-              «{seleccion.texto}»
+              «{seleccion.piezas.map((p) => p.texto).join(" ")}»
             </p>
+            {seleccion.piezas.length > 1 && (
+              <p className="mb-3 text-xs text-tenue">
+                Cruza {seleccion.piezas.length} capítulos: se guarda uno por capítulo, con el
+                mismo comentario.
+              </p>
+            )}
             <div className="mb-3">
               <PuntosDeColor elegido={colorElegido} onElegir={setColorElegido} />
             </div>

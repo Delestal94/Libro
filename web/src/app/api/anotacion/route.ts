@@ -12,13 +12,15 @@ import {
 } from "@/lib/anotaciones";
 import { RUTA_ANOTACIONES } from "@/lib/libro";
 
-const LIMITE_TEXTO = 500;
-const LIMITE_COMENTARIO = 1000;
 const REINTENTOS = 4;
 
-/** Las celdas de una tabla Markdown no admiten saltos de línea. */
-function limpiar(texto: string, maximo: number): string {
-  return texto.replace(/\s+/g, " ").trim().slice(0, maximo);
+/**
+ * Las celdas de una tabla Markdown no admiten saltos de línea, así que se
+ * colapsan. No se recorta: recortar aquí lo que el lector ya pintó haría que
+ * al recargar la marca saliera más corta de lo que se marcó.
+ */
+function limpiar(texto: string): string {
+  return texto.replace(/\s+/g, " ").trim();
 }
 
 function color(valor: unknown): Color {
@@ -89,7 +91,7 @@ export async function POST(req: Request) {
     color?: string;
   };
 
-  const texto = limpiar(cuerpo.texto ?? "", LIMITE_TEXTO);
+  const texto = limpiar(cuerpo.texto ?? "");
   if (!cuerpo.id || !cuerpo.ruta || !texto) {
     return NextResponse.json({ error: "Falta el id, el capítulo o el texto" }, { status: 400 });
   }
@@ -105,7 +107,7 @@ export async function POST(req: Request) {
       ruta: cuerpo.ruta!,
       texto,
       aparicion,
-      comentario: limpiar(cuerpo.comentario ?? "", LIMITE_COMENTARIO),
+      comentario: limpiar(cuerpo.comentario ?? ""),
       color: color(cuerpo.color),
     });
     return { contenido: nuevo, resultado: anotacion };
@@ -127,7 +129,7 @@ export async function PUT(req: Request) {
   if (!id) return NextResponse.json({ error: "Falta el id" }, { status: 400 });
 
   const cambios: { comentario?: string; color?: Color } = {};
-  if (comentario !== undefined) cambios.comentario = limpiar(comentario, LIMITE_COMENTARIO);
+  if (comentario !== undefined) cambios.comentario = limpiar(comentario);
   if (colorNuevo !== undefined) cambios.color = color(colorNuevo);
 
   const salida = await modificar<Anotacion>((contenido) => {
