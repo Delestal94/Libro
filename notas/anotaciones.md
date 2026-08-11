@@ -1,19 +1,11 @@
 # Anotaciones
 
-> Subrayados y comentarios hechos desde el lector. Cada fila es una cita
-> literal de un capítulo; si el capítulo cambia y la cita ya no aparece tal
-> cual, el subrayado simplemente deja de mostrarse — no hace falta borrarlo
-> a mano.
+> Subrayados y comentarios hechos desde el lector.
+>
+> Cada fila apunta a un trozo de un capítulo por su texto y por **cuál de sus
+> apariciones** es (desde 0). Si el capítulo se reescribe y ese texto deja de
+> existir, la anotación no se borra: se queda huérfana y el lector la enseña
+> aparte.
 
-| Id | Capítulo | Cita | Comentario | Color | Fecha |
-|---|---|---|---|---|---|
-| fr735qsy | manuscrito/01-el-brindis.md | Sel llevaba cuatro meses intentando que lo aceptaran los perros. En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaba |  | dorado | 2026-08-10T23:24:56.467Z |
-| ojnjrzho | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer. |  | rosa | 2026-08-10T23:45:47.656Z |
-| clm0d6u0 | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer. |  | celeste | 2026-08-10T23:46:28.361Z |
-| hnn6wv65 | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer. |  | celeste | 2026-08-10T23:49:36.292Z |
-| thb7w0ub | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer. |  | naranja | 2026-08-10T23:49:42.162Z |
-| 0ibodjkg | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acababan, se callaban todos a la vez y ya no se oía nada hasta el amanecer. |  | celeste | 2026-08-10T23:49:59.583Z |
-| cnus720s | manuscrito/01-el-brindis.md | En Keliun había nueve perros que no eran de nadie. Dormían de día debajo de lo que hubiera y al anochecer se ordenaban: aullaba primero el del molino, y cuando terminaba contestaba el de la era, y después el cojo, y después los demás, cada uno el suyo, siempre en el mismo orden, sin pisarse. Tardaban alrededor de un minuto. Cuando acab |  | verde | 2026-08-11T04:12:13.330Z |
-| wa5ghvzl | manuscrito/01-el-brindis.md | a gente lo usaba para saber la hora. |  | celeste | 2026-08-11T04:12:19.244Z |
-| pu68z2og | manuscrito/01-el-brindis.md | abía decidido que |  | celeste | 2026-08-11T04:12:24.514Z |
-| vc6cs985 | manuscrito/01-el-brindis.md | metía el suyo en el hueco |  | rosa | 2026-08-11T04:12:52.869Z |
+| Id | Capítulo | Texto | Comentario | Color | Aparición | Fecha |
+|---|---|---|---|---|---|---|
