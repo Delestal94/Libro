@@ -209,6 +209,94 @@ Casi todo.
 
 ---
 
+El olor llegó antes.
+
+Lo notó primero un hombre de los de arriba, uno que subía a la sierra a por leña dos veces
+al año, y lo que hizo fue soltar el saco que llevaba. Lo soltó en el agua, que es lo último
+que hace un hombre en una riada con un saco.
+
+—Fuera —dijo.
+
+Nadie le hizo caso, porque estaban todos ocupados.
+
+—¡Fuera del corral!
+
+Olía a piedra mojada, y debajo, a establo cerrado en invierno. Sel lo olió sin saber qué
+era y se le puso el vello del brazo de punta igual.
+
+Entonces se oyó respirar.
+
+No fue un rugido. Fue un fuelle: una cosa hondísima y lenta, dos veces, con el agua de por
+medio, y entre la primera y la segunda cabía una frase entera.
+
+—Es un saalu —dijo el de la leña—. Es un saalu, hay un saalu en el corral, es un saalu,
+está…
+
+—Cállate.
+
+—Sí.
+
+En la esquina del corral, donde tenía que haber pared, había un bulto que antes no estaba.
+
+Sel se lo quedó mirando pensando que era un montón de barro. En Keliun se les dice a los
+críos que las piedras del río alto no se tocan, y él nunca había entendido por qué hacía
+falta decirlo, y lo entendió ahí, mirando un montón de barro que subía y bajaba.
+
+Después el bulto se movió y se llevó por delante seis metros de tapia sin ningún ruido
+especial, como se lleva un codo un vaso de la mesa.
+
+Lo que vino después lo recordó siempre en trozos.
+
+Recordó que Tarin gritó que saliera todo el mundo y que no salió nadie. Recordó que alguien
+tiró una piedra, y que la piedra sonó al dar, y que el animal no hizo nada, ni siquiera
+girarse. Recordó a dos hombres empujando una puerta arrancada contra el bulto, los dos con
+todo el peso, y al bulto apoyándose un momento en la puerta y luego apartándose, y a los
+dos hombres cayéndose de espaldas al agua porque ya no había nada que empujar.
+
+Y recordó el silencio de después. Cincuenta personas de noche, con el agua por la cintura,
+sin gritar.
+
+Estaban esperando algo.
+
+Lo estaban esperando a él.
+
+No lo pensó con esas palabras. Sólo notó que muchas caras se habían girado hacia el escalón
+de la iglesia, que era donde estaba, y que ninguna de esas caras tenía una idea mejor.
+
+Sel miró de dónde venía el agua y hacia dónde iba, que era lo único que llevaba mirando
+cuarenta minutos. Miró la tapia rota. Miró la calleja de detrás, la que baja a la era, que
+no tiene casas a los lados porque ese suelo no aguanta nada.
+
+—No lo empujéis —dijo.
+
+Lo dijo bajo, y aun así lo oyeron.
+
+—Está buscando por dónde salir. Abrid abajo y quitaos de en medio.
+
+Y pasó lo que llevaba pasando toda la noche, pero esta vez con miedo dentro: hombres de
+cuarenta años, con el agua por el pecho, se movieron todos a la vez porque lo había dicho
+un niño de nueve.
+
+Tarin abrió abajo. Otros dos apartaron lo que había en la calleja. La gente se metió en los
+portales y en los escalones y encima de lo que hubiera, y la calle se quedó vacía y abierta,
+con el agua bajando por ella hacia la era.
+
+El saalu tardó en darse cuenta.
+
+Respiró tres veces más en el mismo sitio, tan despacio que a Sel le dio tiempo a pensar que
+se había equivocado. Después se movió hacia el hueco. Pasó rozando las dos paredes a la vez,
+y una soltó el revoque en una lámina entera, y siguió, y se metió en el agua de la era, y a
+los pocos metros ya no se oía más que el río.
+
+Nadie gritó. Se quedaron todos quietos oyendo cómo dejaba de oírse.
+
+—Ya está —dijo alguien.
+
+Y entonces oyeron al chico de la fragua, que llevaba un rato debajo de la tapia caída,
+diciendo que le habían pillado la pierna y pidiendo perdón por decirlo.
+
+---
+
 A las doce y media, con el agua ya bajando, quedaba un carro atascado con la mitad del
 grano del invierno. Estaba a veinte metros, con la corriente de lado, en el sitio donde
 el suelo se hunde y nadie lo sabe salvo el que se ha caído alguna vez.
@@ -249,8 +337,11 @@ palabra en toda la noche que no fuera *toma* o *siéntate*.
 A las cuatro y media se llevó los calderos, y a las cinco estaba amasando, porque al día
 siguiente había que comer igual y porque a esa hora ya no había nadie a quien contestar.
 
-No se murió nadie. Se perdió una casa, medio granero y una cabra, y todo el mundo estuvo
-de acuerdo en que había salido bien.
+No se murió nadie. Se perdió una casa, medio granero, una cabra y la tapia del corral, y al
+chico de la fragua le quedó una pierna que en invierno le dice cuándo va a llover. Todo el
+mundo estuvo de acuerdo en que había salido bien.
+
+Y lo estaba, además. Ésa es la parte que cuesta explicar.
 
 ---
 
@@ -378,9 +469,14 @@ hermanos.
 
 ---
 
-Al día siguiente, en la plaza, todo el mundo contaba lo mismo y todo el mundo lo contaba
-igual: que había sido una noche dura, que menos mal, y que el crío había estado muy
-espabilado con lo del portón.
+Al día siguiente, en la plaza, no se hablaba de otra cosa que del saalu.
+
+De lo grande que era —y cada uno lo hacía un poco más grande, y ninguno lo había visto
+entero—, de la tapia, del ruido que hacía al respirar. De que el abuelo de alguien había
+visto otro hacía cincuenta y tantos años y lo había contado toda la vida y ahora resultaba
+que era verdad.
+
+Y, de pasada, que el crío había estado muy espabilado con lo del portón.
 
 Nadie contó lo del carro. No porque lo escondieran: porque no lo tenían. El del molino
 se acordaba de haberse caído y se acordaba de que fue una tontería suya, y si le
