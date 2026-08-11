@@ -65,14 +65,29 @@ function resaltarCita(
     const nodo = n as Text;
     const bloque = nodo.parentElement?.closest(SELECTOR_BLOQUE) ?? null;
 
-    if (bloqueAnterior !== null && bloque !== bloqueAnterior && texto && !/\s$/.test(texto)) {
+    if (bloqueAnterior !== null && bloque !== bloqueAnterior && texto && !texto.endsWith(" ")) {
       texto += " ";
       mapa.push({ nodo, offset: 0, bloque });
     }
     bloqueAnterior = bloque;
 
     for (let i = 0; i < nodo.data.length; i++) {
-      texto += nodo.data[i];
+      const c = nodo.data[i];
+      // El markdown fuente parte los párrafos largos en varias líneas para
+      // que se editen cómodos; el HTML generado (`marked`, breaks:false)
+      // deja esos saltos como '\n' literales dentro del nodo de texto. El
+      // navegador los pinta como un espacio — pero `nodo.data` conserva el
+      // '\n' de verdad — así que hay que colapsarlos aquí igual que hace
+      // `selection.toString()`, o una cita nunca encontraba nada en cuanto
+      // cruzaba uno de esos saltos (casi cualquier párrafo largo tiene uno).
+      if (/\s/.test(c)) {
+        if (!texto.endsWith(" ")) {
+          texto += " ";
+          mapa.push({ nodo, offset: i, bloque });
+        }
+        continue;
+      }
+      texto += c;
       mapa.push({ nodo, offset: i, bloque });
     }
   }
