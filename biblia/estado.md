@@ -6,9 +6,10 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 2 · *El que ya estaba* — **cerrado**.
-Siguiente: capítulo 3 · *Trece* (probar el límite de las trece puertas de Adruin).
-**Momento:** primavera del 1200. Sexto día en Adruin.
+**Último capítulo escrito:** arco 2, capítulo 3 · *Trece* — **cerrado** (3.1, 3.2, 3.3).
+Siguiente: capítulo 4 · *La lámpara* — la imagen central del arco: Sel toma el papel del
+Guardador de lumbre.
+**Momento:** primavera del 1200. Un sábado de mercado en Adruin, y el día después.
 
 ---
 
@@ -42,6 +43,17 @@ le enseñe.
 Segunda vez que se lo pregunta —la primera fue Ila a él, en el lavadero, cap. 5 del arco
 1—, y ahora los dos saben ya lo que cuesta contestar (§ G). Ila no dijo nada; tampoco dijo
 que no. Queda sin cerrar.
+
+**Probó el papel con trece personas a la vez, a propósito, por primera vez.** Funcionó
+limpio: el límite no está en cuánta gente sostiene, está en que alguien, dentro del hueco,
+tome una decisión propia. Un chico se metió bajo un carro sin que se lo dijeran y se llevó
+por delante un puesto de cacharros — el primer daño de Sel a un desconocido, no a alguien
+que ya lo quería. **No supo decir «he sido yo»** delante del dueño; el chico cargó con la
+culpa en su lugar. Sel no se lo ha contado a nadie más que a Ila.
+
+**Ila entró un pie en la escuela de Adruin, por Diez.** El maestro le preguntó el nombre
+del perro, se rió al entender por qué se llama así, y le ofreció volver «a ayudar». Ila
+dijo que sí antes de terminar de pensarlo.
 
 Con ellos va **Diez**, el cachorro, con una correa que le dio la mujer que se lo había
 quitado.
@@ -148,12 +160,12 @@ olvidó. Levantó la mano cuando se iban.
 
 | | |
 |---|---|
-| Papeles que Sel sabe llevar | 1 · el Huérfano |
-| Veces que lo ha usado a propósito | 4 · el pozo, la riada, la plaza, la ronda de reparación (trece puertas) |
+| Papeles que Sel sabe llevar | 1 · el Huérfano (probado en Adruin: no funciona con quien no lo conoce) |
+| Veces que lo ha usado a propósito | 5 · el pozo, la riada, la plaza, la ronda de reparación (trece puertas), el carro del mercado de Adruin |
 | Cosas de la lista | 2 |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | volver · traer la frase |
-| Pistas pendientes | 41 de 51 |
+| Pistas pendientes | 67 de 80 |
 
 ---
 

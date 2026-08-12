@@ -29,7 +29,7 @@
 | «Dos no pueden llevar el mismo a la vez» — dicho una vez y negado | cap. 5 | — | pendiente |
 | A Miren Saal le deniegan volver a la comarca, y le dicen a quién se la han dado | cap. 5 | — | pendiente |
 | El papel funciona mientras estás. Al irte, se deshace | cap. 6 | cap. 6 | pendiente (marcada pagada por error: el propio cap. 6 la contradice con tres velocidades de deshecho distintas — inmediato con Oren, cinco días en la plaza, al doblar la esquina con las trece puertas) |
-| Sel puede hacerlo con trece personas a la vez, y no sabía que se podía | cap. 6 | — | pendiente |
+| Sel puede hacerlo con trece personas a la vez, y no sabía que se podía | cap. 6 | arco 2, cap. 3 | pagada (probado a propósito por primera vez, no descubierto de casualidad: funciona, y funciona limpio — el límite no está en cuánta gente, está en lo que la gente decide por su cuenta dentro del hueco) |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
@@ -85,4 +85,8 @@
 | **Aparece Bern.** Un chico de veinte años, huérfano hecho profesión, con remiendos del hilo que le dan y no del que tiene. A Sel le pasa en las tripas lo mismo que la noche que se equivocaron los perros — reconoce su propio papel puesto en otro antes de saberlo con la cabeza | arco 2, cap. 2 | — | pendiente |
 | **Bern sabe economizar el papel:** va antes de la salida de misa, no después, porque después hay cuatro más pidiendo. Sel todavía no sabe que eso también se puede aprender | arco 2, cap. 2 | — | pendiente |
 | Sel le pide *halumi ish* a Ila por segunda vez, sabiendo ya lo que cuesta preguntarlo (§ G) — y ella no contesta que no | arco 2, cap. 2 | — | pendiente |
+| **El límite del papel no es de gente, es de decisión.** Sel sostiene a trece personas discutiendo sobre un carro sin esfuerzo — el límite se rompe cuando alguien, dentro del hueco, toma una decisión propia que no estaba puesta ahí. Regla nueva para multitudes futuras | arco 2, cap. 3 | — | pendiente |
+| **Un puesto de cacharros destrozado por decisión de Sel, a un desconocido.** Primer daño colateral del libro a alguien que no lo quería ni lo conocía — distinto de todo el daño de Keliun, que era siempre íntimo | arco 2, cap. 3 | — | pendiente |
+| **Sel no sabe reparar sin el papel.** Se le traba la frase «he sido yo» y el chico del carro carga con la culpa en su lugar. Primera vez que se le pide dar la cara sin poder, y no sabe | arco 2, cap. 3 | — | pendiente (músculo que el arco tiene que enseñarle a usar antes del cap. 6) |
+| **Ila entra un pie en la escuela de Adruin**, por Diez: el maestro le pregunta el nombre del perro, se ríe cuando entiende por qué se llama Diez, y le ofrece volver mañana «a ayudar». Ila acepta antes de terminar de pensarlo | arco 2, cap. 3 | arco 2, cap. 6 | pendiente |
 | Sel cuenta puestos de mercado sin proponérselo, como contaba perros y luces. Cuarenta y uno, y la calle seguía | arco 2, cap. 1 | arco 2, cap. 7 | pendiente |
