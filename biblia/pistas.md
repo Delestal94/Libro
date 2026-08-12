@@ -82,4 +82,7 @@
 | «Es que mi abuela se…» — Sel monta la frase por dentro y no la dice, porque decirlo en voz alta sería pedir, y él nunca ha pedido nada. La diferencia entre **ser** huérfano y **decir** que lo eres | arco 2, cap. 1 | — | pendiente |
 | **El letrero del Guardador de lumbre**: una lámpara amarilla con un aro. «Alguien tiene que encenderla, chaval. Y alguien tiene que venir cuando se apaga» | arco 2, cap. 1 | arco 2, cap. 6 (Sel toma el papel) | pendiente |
 | **La escuela de escritura de Adruin.** Se aprende a cambio de trabajo, y se practica en pizarra porque el papel dura una vez. Ila se queda mirando las pizarras, no las letras, y dice «vale» sin preguntar nada más | arco 2, cap. 1 | arco 2, cap. 6 | pendiente |
+| **Aparece Bern.** Un chico de veinte años, huérfano hecho profesión, con remiendos del hilo que le dan y no del que tiene. A Sel le pasa en las tripas lo mismo que la noche que se equivocaron los perros — reconoce su propio papel puesto en otro antes de saberlo con la cabeza | arco 2, cap. 2 | — | pendiente |
+| **Bern sabe economizar el papel:** va antes de la salida de misa, no después, porque después hay cuatro más pidiendo. Sel todavía no sabe que eso también se puede aprender | arco 2, cap. 2 | — | pendiente |
+| Sel le pide *halumi ish* a Ila por segunda vez, sabiendo ya lo que cuesta preguntarlo (§ G) — y ella no contesta que no | arco 2, cap. 2 | — | pendiente |
 | Sel cuenta puestos de mercado sin proponérselo, como contaba perros y luces. Cuarenta y uno, y la calle seguía | arco 2, cap. 1 | arco 2, cap. 7 | pendiente |

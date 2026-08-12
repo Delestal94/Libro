@@ -6,9 +6,9 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 1 · *Lo que se compra hecho* — **cerrado**
-(1.1, 1.2 y 1.3). Siguiente: capítulo 2, escena 2.1 — aparece Bern.
-**Momento:** primavera del 1200. Cuarta noche de camino, llegando a Adruin.
+**Último capítulo escrito:** arco 2, capítulo 2 · *El que ya estaba* — **cerrado**.
+Siguiente: capítulo 3 · *Trece* (probar el límite de las trece puertas de Adruin).
+**Momento:** primavera del 1200. Sexto día en Adruin.
 
 ---
 
@@ -30,6 +30,18 @@ Todavía no conoce a Bern ni a Yeva, y no ha tocado la magia de aquí.
 **Ila ha visto la escuela de escritura** — se aprende a cambio de trabajo — y se quedó
 mirando las pizarras más rato del necesario. Dijo «vale» y no preguntó nada más. No se lo
 ha contado a Sel.
+
+**Ha aparecido Bern.** Veinte años, huérfano de Adruin hecho profesión, con chaqueta
+remendada del hilo que le dan y no del que tiene. Pide en la esquina del mercado, sabe
+economizar el papel (va antes de la salida de misa, no después), y a Sel le pasa en las
+tripas lo mismo que la noche que se equivocaron los perros: reconoce su propio papel
+puesto en otro, antes de entenderlo con la cabeza. Todavía no han hablado. Sel quiere que
+le enseñe.
+
+**Sel volvió a preguntarle a Ila *halumi ish*, de noche, sin que ella contestara que no.**
+Segunda vez que se lo pregunta —la primera fue Ila a él, en el lavadero, cap. 5 del arco
+1—, y ahora los dos saben ya lo que cuesta contestar (§ G). Ila no dijo nada; tampoco dijo
+que no. Queda sin cerrar.
 
 Con ellos va **Diez**, el cachorro, con una correa que le dio la mujer que se lo había
 quitado.
