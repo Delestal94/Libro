@@ -158,3 +158,210 @@ opinión.
 
 Detrás de ellos, la primera ventana seguía tapada, y debajo del postigo, por la rendija, se
 veía la raya de luz sin moverse.
+
+---
+
+La posada estaba al final de la calle y no tenía lámpara: tenía una vela detrás del cristal
+y una mancha negra encima, como Dios manda.
+
+Dentro olía a caldo y a ropa de mucha gente. Había cuatro hombres en una mesa y ninguno
+levantó la cabeza. El posadero estaba de espaldas, contando mantas.
+
+Las contaba de una en una, tocándolas, y volvía a empezar cuando alguien hablaba.
+
+—Buenas —dijo Ila.
+
+—Dos y el perro —dijo él, sin girarse—. Once.
+
+—No hemos dicho nada.
+
+—Habéis entrado.
+
+Se dio la vuelta. Era un hombre de unos cincuenta, con las cejas juntas y las manos
+enormes, y no miró a Ila a la cara: le miró las botas. Después le miró las botas a Sel.
+Después miró al perro.
+
+—Doce —dijo—. El perro va a mear dentro.
+
+—No mea dentro.
+
+—Todos mean dentro.
+
+Ila se pasó el hatillo al otro hombro, que es lo que hace cuando está a punto de decir un
+número, y Sel se le adelantó.
+
+Porque Sel había visto la cara de Ila las últimas cuatro noches, contando lo que quedaba,
+y porque llevaba once días sabiendo hacer una cosa que a él le parecía útil.
+
+Así que dio un paso, se quedó quieto delante del hombre, con las manos abiertas y sin poner
+ninguna cara.
+
+Y dejó el hueco.
+
+El posadero esperó.
+
+Sel siguió quieto.
+
+El posadero siguió esperando, con la manta doblada en el brazo, sin ninguna prisa y sin
+ninguna incomodidad, igual que habría esperado a que le dijeran cuántas camas.
+
+—¿Qué —dijo al fin.
+
+—Nada.
+
+—Doce.
+
+Y volvió a las mantas.
+
+Sel se quedó donde estaba dos segundos más, por si acaso.
+
+No pasó nada. No pasó absolutamente nada de nada, y lo raro fue que no había sido violento:
+el hombre no lo había echado, ni se había reído, ni le había dicho que se apartara. Le había
+preguntado qué quería, como se le pregunta a cualquiera que se te planta delante callado.
+
+—Doce —dijo Ila, y se puso a sacar monedas.
+
+---
+
+Subieron por una escalera que crujía en el cuarto escalón y en el noveno.
+
+—¿Qué hacías ahí abajo? —dijo Ila.
+
+—Nada.
+
+—Sel.
+
+—Lo de siempre.
+
+Ila no dijo nada durante tres escalones.
+
+—Aquí no te conocen.
+
+—Ya lo sé.
+
+—Digo que no saben nada de ti.
+
+—Que ya lo sé.
+
+En el cuarto había dos jergones, una palangana y una ventana con el postigo cerrado. Diez
+dio dos vueltas sobre sí mismo y se echó encima del jergón bueno.
+
+Sel se sentó en el otro y estuvo un rato con las botas puestas.
+
+En Keliun no había tenido que decírselo a nadie. Se había muerto Maara un jueves y el
+viernes el pueblo entero lo sabía, y a partir de ahí él sólo tenía que estar. Ni una vez en
+cuatro meses había tenido que abrir la boca para explicar quién era.
+
+Empezó a montar la frase por dentro. *Es que mi abuela se…*
+
+La dejó a medias, porque de repente le pareció que decirlo en voz alta a un hombre que
+estaba contando mantas era pedir algo, y él nunca había pedido nada.
+
+Abajo, el posadero volvió a empezar la cuenta desde el principio.
+
+---
+
+De día, Adruin era otra cosa.
+
+Keliun tenía una plaza en la que cabía el pueblo entero y sobraba sitio. Adruin tenía una
+calle larga con puestos a los dos lados, y en los puestos había cosas que Sel no sabía que
+se pudieran vender porque no sabía que se pudieran comprar.
+
+Cuerda hecha. Botones. Un puesto entero de mangos de herramienta, sin herramienta: sólo los
+palos, colocados por tamaños.
+
+—¿Quién compra un mango? —dijo Sel.
+
+—El que se le rompió el suyo.
+
+—Se hace uno.
+
+—Se tarda una tarde.
+
+Sel se quedó pensando en eso más rato del que hacía falta.
+
+Había también letreros colgados encima de las puertas, con dibujos, para los que no leen.
+Una bota. Un pan. Una mano abierta con tres dedos. Y en una casa de la mitad de la calle,
+una lámpara pintada de amarillo con un aro alrededor.
+
+—Ésa.
+
+—¿Qué.
+
+—¿Qué es ésa?
+
+Un hombre que pasaba con dos cestas se paró sin que nadie le preguntara, porque en los
+sitios con mercado la gente contesta a los forasteros por deporte.
+
+—Guardador de lumbre —dijo—. Ahí dentro. Con licencia y todo.
+
+—¿Guardador de qué?
+
+El hombre lo miró como se mira a alguien que pregunta qué es el pan.
+
+—De lumbre. De la luz —dijo, y luego, más despacio, porque le vio la cara—: la de las
+casas. Alguien tiene que encenderla, chaval. Y alguien tiene que venir cuando se apaga.
+
+—¿Se apagan?
+
+—Todo se apaga.
+
+Y siguió andando con sus cestas.
+
+Sel se quedó mirando la lámpara pintada. La calle olía a fritura y a cuerda nueva, y en la
+puerta de debajo del letrero no había nadie, y por la rendija salía una luz amarilla que no
+temblaba.
+
+---
+
+Se separaron sin decidirlo.
+
+Ila se paró en un puesto y Sel siguió tres puestos más adelante, y cuando volvió la cabeza
+ella seguía en el mismo sitio, así que él se puso a mirar unas jaulas de pájaros y ella se
+quedó donde estaba.
+
+Fue la primera vez desde Keliun que estuvieron a veinte pasos el uno del otro sin ir a
+ninguna parte.
+
+El puesto de Ila vendía hilo, agujas, papel y tinta, y a un lado tenía una tabla apoyada
+con letras pintadas y un cartel debajo que Sel no pudo leer.
+
+Detrás de la tabla había una mujer y cuatro críos sentados en el suelo con pizarras.
+
+En pizarra, no en papel. Se escribe, se borra con el dedo mojado y se vuelve a escribir, y
+así una pizarra dura años y una hoja dura una vez. Ila estuvo un rato largo mirando eso —
+las pizarras, no las letras.
+
+Uno de los críos borró mal y le quedó una raya, y le pasó el codo por encima, y siguió.
+
+—Se aprende a cambio de trabajo —dijo la mujer del puesto, que llevaba un rato viéndola
+mirar—. Mañanas aquí, tardes en la escuela. O al revés, según.
+
+Ila asintió con la cabeza.
+
+—Vale —dijo.
+
+Y no preguntó nada más, y no se movió.
+
+Sel volvió a los tres puestos y se puso a su lado.
+
+—¿Qué es?
+
+—Nada.
+
+—¿Compras algo?
+
+—No.
+
+—Vale.
+
+Se quedaron los dos ahí de pie. Uno de los críos de las pizarras levantó la vista, los vio,
+y volvió a lo suyo sin ningún interés, que es la manera en que un niño de un sitio le dice a
+un niño de fuera que no es nadie.
+
+—Vámonos —dijo Ila.
+
+Y se fue delante, como siempre, y Sel fue detrás contando puestos, porque los estaba
+contando desde el principio de la calle sin habérselo propuesto.
+
+Cuarenta y uno, y la calle seguía.
