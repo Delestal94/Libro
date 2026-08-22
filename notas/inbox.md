@@ -97,3 +97,7 @@ Vi una escena donde un hombre se prende fuego, y después un hombre le da la man
 ## 08/08/2026 · 19:15
 
 Escena donde, imaginas que nadie viene a salvarte y luego escuchar la voz de tu amigo.
+
+## 22/08/2026 · 19:25
+
+Me encanta esta frase, capaz podemos hacer alguna escena que se vaya desarrollando por fuera de la principal para que en algún punto salga a la luz "me estoy hundiendo para salvarte de la profundidad, para llevarte a lo mas alto para que nadie te pueda lastimar"
