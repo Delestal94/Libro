@@ -6,11 +6,12 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 5 · *Lo que cuesta* — **cerrado** (5.1, 5.2).
-Sin chiste a propósito, según marca la escaleta.
-Siguiente: capítulo 6 · *Lo que se queda cada uno* — el clímax: Sel toma el Guardador,
-Bern cede el Huérfano y entra de aprendiz con Yeva, Ila se compromete a quedarse.
-**Momento:** primavera del 1200. Al día siguiente de la lámpara, y esa misma tarde.
+**Último capítulo escrito:** arco 2, capítulo 6 · *Lo que se queda cada uno* — **cerrado**
+(6.1, 6.2, 6.3). Es el clímax del arco.
+Siguiente: capítulo 7 · *Adruin al fondo* — despedida, Sel continúa solo con Diez, imagen
+de cierre (contar luces en vez de perros, sabiendo su coste).
+**Momento:** primavera del 1200. El mismo día: tarde en el taller de Yeva, noche en la
+posada.
 
 ---
 
@@ -75,8 +76,21 @@ el papel del Huérfano, que lo ha dejado seis veces y ha vuelto las seis —una 
 el pueblo lo mire como al Huérfano «pesa más de lo que parece»— y que una vez intentó
 llevar dos a la vez (el suyo y ser aprendiz de carpintero) y a la semana no sabía a cuál
 oír. A la pregunta de si un papel nuevo podría ser mejor que el viejo, contestó: *«Sería la
-primera vez que oigo que existe esa opción. Y no sé si me lo creo.»* No sabe todavía que
-Sel está aprendiendo con Yeva.
+primera vez que oigo que existe esa opción. Y no sé si me lo creo.»*
+
+**El clímax ya pasó. Sel se quitó el Huérfano y se quedó con el Guardador de lumbre —
+segundo papel de su vida, y el primero elegido, no dado por un pueblo en un entierro.** Al
+soltar el Huérfano, el papel de Bern —que llevaba siete años sin poder dejar, y que había
+intentado dejar seis veces sin conseguirlo— se quedó libre de golpe. Bern no toma el
+Guardador: **entra de aprendiz con Yeva**, con contrato de gremio, tardará años, no le
+va a costar memoria, y al final será suyo de verdad. Ninguno de los dos lo dijo en voz
+alta. Sel se va de Adruin pudiendo hacer ya lo que a Bern le va a llevar años aprender;
+Bern se queda con algo que Sel no va a tener nunca.
+
+**Ila aceptó el sitio en la escuela de Adruin.** Sel se ofreció a quedarse también y ella
+le dijo que no: *«Tú tienes que llegar a algún sitio. Yo sólo tenía que salir de uno.»*
+Es la primera decisión del viaje que no cuesta memoria, sólo separación. **Falta la
+despedida en sí (cap. 7).**
 
 Con ellos va **Diez**, el cachorro, con una correa que le dio la mujer que se lo había
 quitado.
@@ -186,12 +200,12 @@ olvidó. Levantó la mano cuando se iban.
 
 | | |
 |---|---|
-| Papeles que Sel sabe llevar | 1 · el Huérfano (no funciona en Adruin con quien no lo conoce) — el Guardador de lumbre, sin formalizar, encendió una lámpara sin papel puesto de verdad |
-| Veces que lo ha usado a propósito | 5 · el pozo, la riada, la plaza, la ronda de reparación (trece puertas), el carro del mercado de Adruin |
+| Papeles que Sel sabe llevar | 1 · el Guardador de lumbre (dejó el Huérfano en el cap. 6 — sólo se lleva uno a la vez, § M) |
+| Veces que lo ha usado a propósito | 5 con el Huérfano (el pozo, la riada, la plaza, la ronda de reparación, el carro del mercado de Adruin) · 1 con el Guardador (la lámpara de Reta) |
 | Cosas de la lista | 3 · cómo sonaba, a qué olía, cómo eran sus manos |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | volver · traer la frase |
-| Pistas pendientes | 70 de 88 |
+| Pistas pendientes | 69 de 93 |
 
 ---
 
