@@ -13,7 +13,11 @@
 | El orden de los perros cambia cuando alguien se muere | cap. 1 | cap. 2 | pendiente (marcada pagada por error: el texto dice «Le habían hecho hueco a alguien. No a él», nunca explica qué es el orden ni por qué se reordena — es inferencia del lector) |
 | «Halumi ish…» sin terminar | cap. 2 | último capítulo | pendiente |
 | El papel cobra: Sel pierde el sonido de la voz de Maara | cap. 3 | — | pendiente |
-| Quien cede ante el papel encuentra una explicación que le queda corta | cap. 3 | — | pendiente |
+| Quien cede ante el papel encuentra una explicación que le queda corta | cap. 3 | arco 2, cap. 5 | pagada con giro — esta vez lo dice quien LLEVA el papel, no quien cede ante él: Bern explica que ha dejado el suyo seis veces y ha vuelto las seis, porque una semana sin que el pueblo lo mire como al Huérfano «pesa más de lo que parece» |
+| **El libro de cuentas de Yeva.** Cuánto puede dar cada casa antes de notarse, antes de doler, y lo que no se pide nunca porque no se cura. El sistema, escrito, no intuido — «esto no es gratis en ningún sitio» demostrado con números | arco 2, cap. 5 | arco 2, cap. 5 | pagada |
+| «No se puede llevar los dos.» Bern lo intentó una vez —su papel y ser aprendiz de carpintero a la vez— y a la semana no sabía a cuál de los dos oír. Confirma § M desde la experiencia de quien ya lo probó y fracasó | arco 2, cap. 5 | — | pendiente |
+| Bern, a la pregunta de si lo nuevo (el Guardador) podría ser mejor que lo viejo (el Huérfano): «Sería la primera vez que oigo que existe esa opción. Y no sé si me lo creo.» Siembra directa del capítulo 6 | arco 2, cap. 5 | arco 2, cap. 6 | pendiente |
+| Yeva, sobre si puede enseñarle a Sel: «Puede que sí se enseñe. Todavía no sé si a ti.» Primera puerta entreabierta hacia que Sel tome el papel de verdad | arco 2, cap. 5 | arco 2, cap. 6 | pendiente |
 | Existe un archivo con una ficha por cada caso como el de Sel | cap. 5 | — | pendiente |
 | Existe una nota al margen sobre qué pasa cuando se dejan crecer | cap. 5 | — | pendiente |
 | Miren Saal arranca las hojas y no abre ficha: «iba a arrepentirse» | cap. 5 | — | pendiente |

@@ -6,11 +6,11 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 4 · *La lámpara* — **cerrado**. Es la imagen
-del arco (estándar de 8 puntos, punto 1).
-Siguiente: capítulo 5 — el que se acepta sin chiste a propósito (el libro de cuentas de
-Yeva; ver `manuscrito/arco-2/00-escaleta.md`).
-**Momento:** primavera del 1200. Dos noches después del sábado de mercado, en casa de Reta.
+**Último capítulo escrito:** arco 2, capítulo 5 · *Lo que cuesta* — **cerrado** (5.1, 5.2).
+Sin chiste a propósito, según marca la escaleta.
+Siguiente: capítulo 6 · *Lo que se queda cada uno* — el clímax: Sel toma el Guardador,
+Bern cede el Huérfano y entra de aprendiz con Yeva, Ila se compromete a quedarse.
+**Momento:** primavera del 1200. Al día siguiente de la lámpara, y esa misma tarde.
 
 ---
 
@@ -63,8 +63,20 @@ encendida. Esta vez se pasó de dosis: la llama se puso de un color sin nombre, 
 primera vez en el libro alguien —Ila— vio el momento exacto en que Sel pierde algo**, no
 la consecuencia contada después. Se lo contó él mismo, en voz baja: perdió el tacto de las
 manos de su abuela, el dedo torcido que se le clavaba distinto. Ila ahora conoce la lista
-entera, de su boca. No se lo ha contado a nadie más —ni a Bern ni a Yeva saben que Sel hizo
-esto—, y la lámpara de Reta sigue encendida sin que ella sepa bien qué debe ni a quién.
+entera, de su boca. **Yeva se enteró al día siguiente —todo el pueblo lo sabe menos ella, y por eso lo manda
+llamar— y le enseñó su libro de cuentas**: cuánto puede dar cada casa antes de notarse,
+antes de doler, y lo que no se pide nunca. Le dijo, sin dureza, que anoche no sabía dónde
+estaba su propia raya, y que eso —no que saliera mal— era lo peligroso. Cuando Sel le pidió
+que le enseñara, no dijo que no: dijo *«Puede que sí se enseñe. Todavía no sé si a ti.»*
+La lámpara de Reta sigue encendida sin que ella sepa bien qué debe ni a quién.
+
+**Sel y Bern hablaron por primera vez de verdad.** Bern le contó que lleva siete años con
+el papel del Huérfano, que lo ha dejado seis veces y ha vuelto las seis —una semana sin que
+el pueblo lo mire como al Huérfano «pesa más de lo que parece»— y que una vez intentó
+llevar dos a la vez (el suyo y ser aprendiz de carpintero) y a la semana no sabía a cuál
+oír. A la pregunta de si un papel nuevo podría ser mejor que el viejo, contestó: *«Sería la
+primera vez que oigo que existe esa opción. Y no sé si me lo creo.»* No sabe todavía que
+Sel está aprendiendo con Yeva.
 
 Con ellos va **Diez**, el cachorro, con una correa que le dio la mujer que se lo había
 quitado.
@@ -179,7 +191,7 @@ olvidó. Levantó la mano cuando se iban.
 | Cosas de la lista | 3 · cómo sonaba, a qué olía, cómo eran sus manos |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | volver · traer la frase |
-| Pistas pendientes | 68 de 84 |
+| Pistas pendientes | 70 de 88 |
 
 ---
 
