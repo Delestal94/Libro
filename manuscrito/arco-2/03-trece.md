@@ -21,7 +21,8 @@ Contó las cabezas del grupo del carro.
 
 Trece.
 
-Se le puso la piel de gallina de un modo distinto al de Bern. Éste era el suyo, elegido.
+Se le puso la piel de gallina de un modo distinto al del chico del abrevadero. Éste era el
+suyo, elegido.
 
 ---
 
