@@ -57,7 +57,7 @@ El carro, ya en pie pero mal calzado, se vino un poco hacia el lado.
 
 No fue grave.
 
-Eso hay que decirlo primero, porque durante los tres segundos que duró, a Sel le pareció lo
+Eso hay que decirlo primero, porque durante lo que duró, apenas nada, a Sel le pareció lo
 contrario del mundo entero.
 
 El chico sacó el brazo a tiempo, medio a rastras, medio a empujones de dos hombres que

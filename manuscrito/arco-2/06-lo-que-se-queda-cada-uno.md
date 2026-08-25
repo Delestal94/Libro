@@ -153,11 +153,10 @@ nada que puedas perder.
 
 Bern miró a Sel. Sel miró a Bern.
 
-Ninguno de los dos dijo lo que los dos estaban pensando, y el narrador tampoco lo va a
-decir por ellos: que Sel salía de Adruin sabiendo hacer, ese mismo día, lo que a Bern le
-iban a hacer falta años en aprender; y que Bern se quedaba con una cosa que Sel no iba a
-tener jamás, por mucho que aprendiera rápido y por muchas lámparas que encendiera de aquí
-a que se muriera.
+Ninguno de los dos dijo lo que los dos estaban pensando: que Sel salía de Adruin sabiendo
+hacer, ese mismo día, lo que a Bern le iban a hacer falta años en aprender; y que Bern se
+quedaba con una cosa que Sel no iba a tener jamás, por mucho que aprendiera rápido y por
+muchas lámparas que encendiera de aquí a que se muriera.
 
 —¿Por qué a mí? —dijo Bern—. Podrías haberme dejado así, sin más.
 

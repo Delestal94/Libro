@@ -191,7 +191,7 @@ Ila se pasó el hatillo al otro hombro, que es lo que hace cuando está a punto 
 número, y Sel se le adelantó.
 
 Porque Sel había visto la cara de Ila las últimas cuatro noches, contando lo que quedaba,
-y porque llevaba once días sabiendo hacer una cosa que a él le parecía útil.
+y porque llevaba meses sabiendo hacer una cosa que a él le parecía útil.
 
 Así que dio un paso, se quedó quieto delante del hombre, con las manos abiertas y sin poner
 ninguna cara.

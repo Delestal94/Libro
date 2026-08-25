@@ -120,8 +120,8 @@ un lado, mirando el agua.
 Sel se sentó a dos pasos, sin decir nada, que era lo único que sabía hacer bien con
 desconocidos.
 
-—Te vi el primer día —dijo Bern, sin girarse—. Y el segundo. Y llevas una semana yendo a
-casa de Yeva.
+—Te vi el primer día —dijo Bern, sin girarse—. Y el segundo. Y llevas desde entonces
+rondando la casa de Yeva, y ahora encima entrando.
 
 —Sí.
 
@@ -138,7 +138,7 @@ Bern se rió, corto, sin alegría.
 
 —¿Por qué no?
 
-—Porque tú lo llevas puesto una semana. Yo llevo siete años.
+—Porque tú lo llevas puesto aquí una semana. Yo llevo siete años.
 
 ---
 

@@ -245,8 +245,6 @@ falta decirlo, y lo entendió ahí, mirando un montón de barro que subía y baj
 Después el bulto se movió y se llevó por delante seis metros de tapia sin ningún ruido
 especial, como se lleva un codo un vaso de la mesa.
 
-Lo que vino después lo recordó siempre en trozos.
-
 Recordó que Tarin gritó que saliera todo el mundo y que no salió nadie. Recordó que alguien
 tiró una piedra, y que la piedra sonó al dar, y que el animal no hizo nada, ni siquiera
 girarse. Recordó a dos hombres empujando una puerta arrancada contra el bulto, los dos con
