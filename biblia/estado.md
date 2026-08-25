@@ -6,10 +6,11 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 3 · *Trece* — **cerrado** (3.1, 3.2, 3.3).
-Siguiente: capítulo 4 · *La lámpara* — la imagen central del arco: Sel toma el papel del
-Guardador de lumbre.
-**Momento:** primavera del 1200. Un sábado de mercado en Adruin, y el día después.
+**Último capítulo escrito:** arco 2, capítulo 4 · *La lámpara* — **cerrado**. Es la imagen
+del arco (estándar de 8 puntos, punto 1).
+Siguiente: capítulo 5 — el que se acepta sin chiste a propósito (el libro de cuentas de
+Yeva; ver `manuscrito/arco-2/00-escaleta.md`).
+**Momento:** primavera del 1200. Dos noches después del sábado de mercado, en casa de Reta.
 
 ---
 
@@ -55,6 +56,16 @@ culpa en su lugar. Sel no se lo ha contado a nadie más que a Ila.
 del perro, se rió al entender por qué se llama así, y le ofreció volver «a ayudar». Ila
 dijo que sí antes de terminar de pensarlo.
 
+**Sel encendió la lámpara de Reta —una vecina sin dinero para un Guardador licenciado—
+sin que nadie se lo pidiera y sin papel formal, sólo mirando trabajar a Yeva de lejos.**
+Reta le pidió que la apagara, asustada, y él volvió de noche a escondidas a mantenerla
+encendida. Esta vez se pasó de dosis: la llama se puso de un color sin nombre, y **por
+primera vez en el libro alguien —Ila— vio el momento exacto en que Sel pierde algo**, no
+la consecuencia contada después. Se lo contó él mismo, en voz baja: perdió el tacto de las
+manos de su abuela, el dedo torcido que se le clavaba distinto. Ila ahora conoce la lista
+entera, de su boca. No se lo ha contado a nadie más —ni a Bern ni a Yeva saben que Sel hizo
+esto—, y la lámpara de Reta sigue encendida sin que ella sepa bien qué debe ni a quién.
+
 Con ellos va **Diez**, el cachorro, con una correa que le dio la mujer que se lo había
 quitado.
 
@@ -75,12 +86,15 @@ Lo que Sel se ha gastado, en la página, de su puño:
 > *Cosas que ya no tengo.*
 > *1. Cómo sonaba.*
 > *2. A qué olía.*
+> *3. Cómo eran sus manos.*
 
 **Esta lista es el contador del sistema.** Si una escena cobra, crece aquí. El «2» se
 descubre en la panadería de Anu, con el pan recién dado contra el pecho — no está dicho
-que la causa sea la puerta forzada del cap. 6, y no hace falta decirlo. **Regla deducible:
-el papel se lleva un canal sensorial entero cada vez que cobra** — primero el oído,
-después el olfato. Sin anotar en ningún sitio del texto; ver `pistas.md`.
+que la causa sea la puerta forzada del cap. 6, y no hace falta decirlo. El «3» es distinto
+en un sentido: es la primera vez que **alguien ve el momento en que se pierde**, no la
+consecuencia contada después (arco 2, cap. 4, la lámpara de Reta). **Regla del sistema:
+un canal sensorial entero cada vez que cobra** — oído, luego olfato, luego tacto. Quedan
+dos: gusto y vista, para cuatro arcos *(ver [[decisiones]] · K)*.
 
 ## Lo que Sel sabe
 
@@ -160,12 +174,12 @@ olvidó. Levantó la mano cuando se iban.
 
 | | |
 |---|---|
-| Papeles que Sel sabe llevar | 1 · el Huérfano (probado en Adruin: no funciona con quien no lo conoce) |
+| Papeles que Sel sabe llevar | 1 · el Huérfano (no funciona en Adruin con quien no lo conoce) — el Guardador de lumbre, sin formalizar, encendió una lámpara sin papel puesto de verdad |
 | Veces que lo ha usado a propósito | 5 · el pozo, la riada, la plaza, la ronda de reparación (trece puertas), el carro del mercado de Adruin |
-| Cosas de la lista | 2 |
+| Cosas de la lista | 3 · cómo sonaba, a qué olía, cómo eran sus manos |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | volver · traer la frase |
-| Pistas pendientes | 67 de 80 |
+| Pistas pendientes | 68 de 84 |
 
 ---
 
