@@ -48,10 +48,19 @@ un papel informado, no por accidente ni por urgencia ajena. Osane aceptó: empie
 aprender a parar, no a tocar flores. El plazo de la aduana se cumplió esa misma noche;
 Osane firmó como su patrona sin que nadie se lo pidiera. Sel y Diez tienen sitio en Yenal.
 
-Lleva el papel del **Guardador de lumbre** — el segundo de su vida, y el primero elegido
-por él y no dado por un pueblo en un entierro. Dejó el Huérfano en Adruin al tomarlo,
-porque sólo se lleva uno a la vez *([[decisiones]] · M)*. Todavía no domina el oficio de
-verdad: lo que sabe lo aprendió en una semana mirando a Yeva, no en años.
+**La imagen del arco ya pasó.** Nea no le quedaba nada para terminar la flor grande de
+Coren —cerrada a propósito un año entero para la Feria— y Sel la terminó por ella,
+sabiendo exactamente el precio y eligiéndolo igual. Se abrió de un color sin nombre.
+**Cuarta cosa de la lista: «A qué sabían las cosas.»** Sólo queda la vista — el límite real
+de la cuenta atrás de § K. Nea le dio la mitad de su pan esa misma noche, sabiendo lo que
+había pasado, sin necesitar que nadie se lo explicara. No le supo a nada. Se lo comió
+igual. Nea estuvo presente todo el tiempo —dudó, pero dejó que Sel pusiera las manos donde
+habían estado las suyas—; no es que no sepa lo que pasó, es que todavía no ha cargado con
+lo que significa (cap. 5).
+
+**Lleva dos papeles a la vez por primera vez:** Guardador de lumbre (Adruin) y ahora
+Jardinero (Yenal) — posible porque grado 2 es gremio, no hueco único *([[decisiones]] ·
+N)*. § M sigue exigiendo uno solo puesto por escena, no dos a la vez usándose juntos.
 
 **En Adruin quedó todo resuelto sin que nadie perdiera por la fuerza:** Bern —que llevaba
 siete años sin poder soltar el Huérfano— quedó libre al soltarlo Sel, y entró de aprendiz
@@ -84,12 +93,14 @@ Lo que Sel se ha gastado, en la página, de su puño:
 > *1. Cómo sonaba.*
 > *2. A qué olía.*
 > *3. Cómo eran sus manos.*
+> *4. A qué sabían las cosas.*
 
 **Regla del sistema:** un canal sensorial entero cada vez que el papel cobra de verdad —
-oído, luego olfato, luego tacto. Quedan dos, gusto y vista, para cuatro arcos: una cuenta
-atrás real, no retórica *([[decisiones]] · K)*. El «3» fue distinto en algo: por primera
-vez **alguien vio el momento exacto en que se pierde** (Ila, arco 2 cap. 4), no la
-consecuencia contada después.
+oído, olfato, tacto, y ahora gusto. **Sólo queda la vista.** Tal como avisaba § K, el
+arco 4 es el límite real de la cuenta atrás — hay que decidir ahí qué pasa cuando se
+agote. El «4» fue, como el «3», elegido con conocimiento —no un accidente ni una urgencia
+ajena forzada— y esta vez lo escribió él mismo en la hoja, en la página, delante de Nea:
+*«4. A qué sabían las cosas.»*
 
 ## Lo que Sel sabe
 
@@ -132,11 +143,11 @@ licenciada) · Reta (con una lámpara que no sabe bien qué le costó).
 
 | | |
 |---|---|
-| Papeles que Sel sabe llevar | 1 · el Guardador de lumbre (dejó el Huérfano en el cap. 6, § M) |
-| Cosas de la lista | 3 de 5 sentidos — quedan gusto y vista |
+| Papeles que Sel sabe llevar | Guardador de lumbre + Jardinero (grado 2 es gremio, § N — no hace falta soltar el primero para tomar el segundo) |
+| Cosas de la lista | 4 de 5 sentidos — sólo queda la vista |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | traer la frase · darle algo a Ila cuando sepa qué |
-| Pistas pendientes | 82 de 111 |
+| Pistas pendientes | 82 de 114 |
 
 ---
 
