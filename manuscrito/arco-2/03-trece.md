@@ -147,16 +147,44 @@ mirando a Sel comer un pan que en cualquier otra tarde habría sido suyo, con un
 no era de rabia —eso habría sido más fácil de entender— sino la cara de alguien haciendo
 una cuenta nueva y no gustándole el resultado.
 
-Sel dejó de comer.
+Se fue sin decir nada, calle abajo, con las manos en los bolsillos de la chaqueta
+remendada.
 
-—No lo sabía —dijo, desde el escalón, sin levantarse—. Lo del pan.
+---
 
-Bern no contestó enseguida.
+Sel volvió al mismo escalón tres tardes después.
 
-—Ya lo sé —dijo, al final—. Por eso es peor.
+No fue casualidad. Lo pensó igual que había pensado lo del posadero, sólo que esta vez no
+tuvo que dejar ningún hueco: le bastaba con estar. Se sentó a la hora en que Bern solía
+estar en el abrevadero y él no, con las rodillas juntas y el gorro puesto, en el sitio
+exacto donde una mujer con una cesta ya lo había visto una vez.
 
-Y se fue, sin prisa, calle abajo, con las manos en los bolsillos de la chaqueta remendada,
-y esa noche no ocupó su esquina del abrevadero, y tampoco la ocupó al día siguiente.
+Funcionó antes de que le diera tiempo a arrepentirse.
+
+Un hombre que pasaba con dos cestas —el mismo que le había hablado del Guardador de
+lumbre, la primera semana— se paró, lo miró, y se metió la mano en el bolsillo del
+delantal.
+
+—Toma —dijo, y le dio una manzana pequeña, de las que se caen antes de tiempo—. ¿Y el
+otro, hoy?
+
+—No sé —dijo Sel, que sí sabía.
+
+El hombre se fue sin darle más vueltas. Sel se quedó con la manzana en la mano, sabiendo
+exactamente lo que acababa de hacer, y comiéndosela de todas formas.
+
+Bern lo encontró allí una hora después, cuando llegó a su propia esquina y se la encontró
+ocupada.
+
+No dijo nada del sitio. Miró la manzana a medio comer.
+
+—Ésa no te la han dado —dijo—. Ésa la has ido a buscar.
+
+Sel no lo negó.
+
+Bern se quedó mirándolo comer, sin decir nada más, con la misma cara de antes, y al final
+se dio media vuelta y se fue calle abajo sin volver a ocupar su esquina esa tarde, ni la
+siguiente.
 
 ---
 

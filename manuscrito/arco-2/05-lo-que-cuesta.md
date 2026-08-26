@@ -140,17 +140,18 @@ Bern se rió, corto, sin alegría.
 
 —Porque tú lo llevas puesto aquí una semana. Yo llevo siete años.
 
-—Fue una vez. Lo del pan.
+—Lo de la manzana lo viste tú mismo.
 
-—Fueron cuatro —dijo Bern—. La del pan, el que te dejó dormir la siesta en su carro, la
-que te guardó un sitio en la cola del pozo delante de gente que llevaba desde antes del
-amanecer, y ayer alguien me preguntó a mí si el crío nuevo era mi hermano pequeño. Le dije
-que no. Se quedó esperando que le explicara qué era, entonces, y no supe qué decirle.
+—Por eso cuenta más que las otras —dijo Bern—. El que te dejó dormir la siesta en su
+carro. La que te guardó un sitio en la cola del pozo delante de gente que llevaba desde
+antes del amanecer. Y anteayer alguien me preguntó a mí si el crío nuevo era mi hermano
+pequeño. Le dije que no. Se quedó esperando que le explicara qué era, entonces, y no supe
+qué decirle.
 
 Sel no dijo nada.
 
 —No es que te lo hayan dado a ti en vez de a mí —dijo Bern—. Es que ya no saben a cuál de
-los dos dárselo. Y así lleva ya semanas, no un día.
+los dos dárselo. Y eso no lleva un día. Lleva la semana entera.
 
 ---
 
