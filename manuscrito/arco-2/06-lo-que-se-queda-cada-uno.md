@@ -71,9 +71,9 @@ los bolsillos de la chaqueta remendada.
 No había más que un banco. Se sentaron con Yeva de pie delante, y Diez se echó entre los
 dos, sin que nadie se lo pidiera, como si supiera que hacía falta algo en medio.
 
-—Llevo veintidós años en Adruin —dijo Yeva— y nunca había tenido dos Huérfanos a la vez.
-El pueblo lleva un mes sin saber a cuál de los dos creerle, y eso no es bueno para nadie,
-y menos para vosotros.
+—Llevo veintidós años en Adruin —dijo Yeva— y nunca había tenido dos críos huérfanos a la
+vez pidiéndole cosas al mismo pueblo. Llevan semanas sin saber a cuál de los dos ayudar, y
+eso no es bueno para ninguno de los dos.
 
 Bern no dijo nada. Miraba el suelo.
 

@@ -6,13 +6,14 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 7 · *Adruin al fondo* — **cerrado**. El arco
-2 tiene sus 7 capítulos, costuras y panel de cierre hechos (11 de agosto: 3,75/8 — ver
-`revisiones/2026-08-11-arco-2/resumen.md`). Tras el panel se corrigieron H22 (el conflicto
-con Bern no se dramatizaba: se añadió una escena en el cap. 3 y una confirmación en el
-cap. 5), H23 (aclarado el alcance de § K frente a § F), H26 y H27 — quedan abiertos H24
-(el cap. 5 explica el sistema con números) y H25 (el narrador toca la tesis en el clímax),
-a decidir si se tocan o se dejan así.
+**Arco 2 — cerrado del todo.** 7 capítulos, costuras, panel (11 de agosto: 3,75/8) y dos
+rondas de verificación. H22, H23, H26-H30 y R3 resueltos — ver `revisiones/README.md` para
+el detalle. La pieza final: el pueblo nunca reconoce a Sel como Huérfano (compite por
+caridad, no por creencia), así que se ajustó la línea de Yeva en el cap. 6 para que hable
+del conflicto real. Quedan abiertos, a propósito, H24 (el cap. 5 explica el sistema con
+números) y H25 (el narrador toca la tesis en el clímax) — decisiones de estilo, no bugs.
+
+**Siguiente:** arco 3. Sin escaleta todavía.
 
 **Momento:** fin de la primavera del 1200. Sel sale de Adruin solo con Diez, camino a un
 pueblo de grado 2 todavía sin nombre ni escaleta — el arco 3.
