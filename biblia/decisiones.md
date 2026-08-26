@@ -143,11 +143,12 @@ dos lecturas en todo momento.** Nunca una frase que sólo funcione si el lector 
 **Rige el papel usado sobre una persona. No rige la magia doméstica** — eso es § F, y son
 dos mecanismos distintos aunque compartan combustible. Aclarado el 11 de agosto de 2026,
 porque el panel del arco 2 lo encontró aplicado al revés a primera lectura, y hubo que
-precisar por qué no lo es. En el cap. 3 (trece personas, un carro), dos discuten entre
-ellas **cómo levantarlo** —no se resisten a Sel, ni siquiera saben que hay un papel de por
-medio—, y Sel se limita a inclinar la decisión hacia una de las dos opciones que ya
-estaban sobre la mesa: no hay nadie resistiéndose a él, así que § K no cobra nada, y es
-coherente. En el cap. 4 (una lámpara) tampoco hay nadie resistiéndose —no hay ninguna
+precisar por qué no lo es. En el cap. 3 (trece personas, un carro), tres discuten entre
+ellas **cómo levantarlo** —uno dice sacar la carga, otro que no, un tercero que sujeten de
+las varas—, sin resistirse a Sel en ningún momento, ni saber que hay un papel de por
+medio, y Sel no elige entre las dos que ya estaban en disputa: **amplifica la tercera**,
+la que nadie estaba discutiendo todavía. No hay nadie resistiéndose a él, así que § K no
+cobra nada, y es coherente. En el cap. 4 (una lámpara) tampoco hay nadie resistiéndose —no hay ninguna
 persona a la que forzar—, y aun así cobra un canal entero: eso es porque el cap. 4 no lo
 rige § K en absoluto, lo rige § F, que es una pregunta distinta:
 

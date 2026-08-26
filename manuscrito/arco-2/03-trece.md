@@ -152,42 +152,6 @@ remendada.
 
 ---
 
-Sel volvió al mismo escalón tres tardes después.
-
-No fue casualidad. Lo pensó igual que había pensado lo del posadero, sólo que esta vez no
-tuvo que dejar ningún hueco: le bastaba con estar. Se sentó a la hora en que Bern solía
-estar en el abrevadero y él no, con las rodillas juntas y el gorro puesto, en el sitio
-exacto donde una mujer con una cesta ya lo había visto una vez.
-
-Funcionó antes de que le diera tiempo a arrepentirse.
-
-Un hombre que pasaba con dos cestas —el mismo que le había hablado del Guardador de
-lumbre, la primera semana— se paró, lo miró, y se metió la mano en el bolsillo del
-delantal.
-
-—Toma —dijo, y le dio una manzana pequeña, de las que se caen antes de tiempo—. ¿Y el
-otro, hoy?
-
-—No sé —dijo Sel, que sí sabía.
-
-El hombre se fue sin darle más vueltas. Sel se quedó con la manzana en la mano, sabiendo
-exactamente lo que acababa de hacer, y comiéndosela de todas formas.
-
-Bern lo encontró allí una hora después, cuando llegó a su propia esquina y se la encontró
-ocupada.
-
-No dijo nada del sitio. Miró la manzana a medio comer.
-
-—Ésa no te la han dado —dijo—. Ésa la has ido a buscar.
-
-Sel no lo negó.
-
-Bern se quedó mirándolo comer, sin decir nada más, con la misma cara de antes, y al final
-se dio media vuelta y se fue calle abajo sin volver a ocupar su esquina esa tarde, ni la
-siguiente.
-
----
-
 Esa noche, en el cuarto de la posada, se lo contó a Ila con las palabras cambiadas de
 sitio tres veces antes de que le salieran bien.
 
@@ -226,7 +190,43 @@ sirvió igual.
 
 ---
 
-Al día siguiente, en la escuela de las pizarras, había un cachorro sentado en medio de
+Sel volvió al mismo escalón unos días después.
+
+No fue casualidad. Lo pensó igual que había pensado lo del posadero, sólo que esta vez no
+tuvo que dejar ningún hueco: le bastaba con estar. Se sentó a la hora en que Bern solía
+estar en el abrevadero y él no, con las rodillas juntas y el gorro puesto, en el sitio
+exacto donde una mujer con una cesta ya lo había visto una vez.
+
+Funcionó antes de que le diera tiempo a arrepentirse.
+
+Un hombre que pasaba con dos cestas —el mismo que le había hablado del Guardador de
+lumbre, la primera semana— se paró, lo miró, y se metió la mano en el bolsillo del
+delantal.
+
+—Toma —dijo, y le dio una manzana pequeña, de las que se caen antes de tiempo—. ¿Y el
+otro, hoy?
+
+—No sé —dijo Sel, que sí sabía.
+
+El hombre se fue sin darle más vueltas. Sel se quedó con la manzana en la mano, sabiendo
+exactamente lo que acababa de hacer, y comiéndosela de todas formas.
+
+Bern lo encontró allí una hora después, cuando llegó a su propia esquina y se la encontró
+ocupada.
+
+No dijo nada del sitio. Miró la manzana a medio comer.
+
+—Ésa no te la han dado —dijo—. Ésa la has ido a buscar.
+
+Sel no lo negó.
+
+Bern se quedó mirándolo comer, sin decir nada más, con la misma cara de antes, y al final
+se dio media vuelta y se fue calle abajo sin volver a ocupar su esquina esa tarde, ni la
+siguiente.
+
+---
+
+Unos días después, en la escuela de las pizarras, había un cachorro sentado en medio de
 cuatro niños, quieto, con la lengua fuera, mirando cómo la gente escribía cosas que no
 entendía.
 
