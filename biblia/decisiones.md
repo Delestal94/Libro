@@ -315,3 +315,26 @@ Y aparece la distinción que sostiene por qué la institución tiene razón:
 
 Sel sale de Adruin pudiendo hacer lo que Bern todavía no sabe hacer, y Bern se queda con lo
 único que Sel no va a tener nunca. Ninguno de los dos lo dice en voz alta.
+
+### Aclaración, tras el panel del 11 de agosto: la caridad no es el papel
+
+El panel encontró una tensión aparente entre el cap. 3 (Sel vuelve a propósito al sitio de
+Bern y consigue una manzana: *«Ésa no te la han dado. Ésa la has ido a buscar»*) y este
+clímax: si un estatus se puede **conseguir por acción propia**, ¿por qué el Guardador se
+libera **pasivamente**, con sólo soltar el Huérfano?
+
+**Son dos cosas distintas, y el propio texto ya las mantiene separadas: la palabra «papel»
+no aparece ni una vez en las escenas del pan o la manzana.** Lo que Sel consigue ahí no es
+el Huérfano — eso ya fracasó, sin ambigüedad, en la posada del cap. 1. Es la compasión
+corriente del pueblo hacia un crío que parece necesitarla, la misma que cualquier persona
+sensata sentiría por un niño solo. Que esa compasión sea limitada, y que dos niños
+huérfanos-de-aspecto la disputen sin saberlo, es un problema social de Adruin, no un
+problema de magia. **El papel es otra cosa: hace falta que el pueblo entero te reconozca
+como eso**, y eso nunca ocurre con Sel en Adruin — es justo lo que el cap. 1 dramatiza al
+fallar.
+
+Por eso el clímax puede seguir siendo pasivo sin contradecir nada: nadie «gana» el
+Guardador por mérito o por gestionar la simpatía de Adruin. Lo consigue como consiguió el
+Huérfano en Keliun — porque estaba, porque lo vio de cerca, porque el pueblo (aquí, Yeva)
+así lo permite. La caridad se busca. El papel se hereda o se cede. No hace falta que se
+parezcan.
