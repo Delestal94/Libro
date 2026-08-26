@@ -360,3 +360,51 @@ sobre «quién se queda con el papel» (eso ya se contó, en el 2) y más sentid
 sobre **qué cuesta ejercerlo a escala** — muchos Jardineros, muchos Ladrones, muchos
 Músicos, y la pregunta deja de ser de quién es el papel y pasa a ser de quién paga por él.
 Es exactamente el giro del arco 3: de la escasez (arco 2) a la complicidad (arco 3).
+
+---
+
+## O · Qué pasa cuando se agota la cuenta atrás · *(12 de agosto de 2026)*
+
+**No se agota en el arco 4. Casi se agota, y Sel elige que no.**
+
+§ K avisaba desde el arco 1 que había que decidir esto antes del arco 4 o 5, y daba tres
+salidas: que el poder se acabe, que empiece a cobrar de otro sitio, o que Sel deje de
+necesitar forzar a nadie antes de llegar a cero — «que es, otra vez, adonde apunta el
+arco 6». Decidido con autonomía completa, escaletando el arco 4: **la tercera.**
+
+### Por qué
+
+Las otras dos son mecánicas — cierran una regla del sistema. La tercera es la única que
+es también el final del libro: si Sel deja de necesitar forzar antes de llegar a cero, el
+libro entero es la historia de cómo llegó a no necesitarlo, y el arco 6 (tomar el papel
+del Padre, entender la frase) dejar de forzar es literalmente lo que hace falta para
+poder ser padre de nadie.
+
+### Cómo se usa en el arco 4
+
+Sel llega a Ossin (grado 3, Industrial) con **un solo sentido de reserva: la vista.**
+Gastar la vista no es como gastar el tacto o el gusto — es perder algo que necesita para
+seguir el resto del viaje, y el libro lo trata así: como la apuesta más alta que se puede
+hacer.
+
+El arco 4 lleva a Sel al borde exacto de gastarla — una situación donde forzar a alguien
+que se resiste (§ K) resolvería todo de inmediato, y nadie lo culparía por hacerlo — y el
+clímax es que **elige no hacerlo**, no porque no pueda, sino porque por primera vez
+entiende lo que Yeva, Osane y el propio brindis llevaban dos arcos diciéndole: que «ayuda
+siempre que puedas» **admite que hay veces en que no se puede**, y que forzar a alguien no
+es ayudarlo aunque el resultado se le parezca.
+
+**No es que aprenda la lección y se acabe el problema.** Sigue teniendo un solo sentido de
+reserva al cerrar el arco 4. La tensión no se resuelve — se pospone con conocimiento, que
+es distinto de posponerla por suerte. Es la primera vez que la cuenta atrás dejar de ser
+sólo una amenaza y pasa a ser una elección posible de tomar bien.
+
+### Lo que esto fija para los arcos 5 y 6
+
+- El arco 5 («aquí es donde Sel no puede ayudar») encaja mejor si ya sabemos, desde el
+  arco 4, que Sel *puede* forzar una solución y ha aprendido a no hacerlo — así que cuando
+  de verdad no pueda ayudar en el arco 5, no es porque le falte poder: es porque forzarlo
+  sería la misma traición que evitó en Ossin, y esta vez no hay ninguna otra salida.
+- El arco 6 puede gastar la vista **si hace falta**, en el momento de tomar el papel del
+  Padre — sería el precio más alto y el más justificado de todo el libro, pagado a
+  sabiendas, no arrebatado por accidente. Queda abierto, a decidir escaletando ese arco.
