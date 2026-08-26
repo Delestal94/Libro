@@ -211,6 +211,13 @@ Sabía que había existido. Sabía que la había tenido esa misma tarde, cuando 
 cosa que se podía tocar por dentro sin buscarla. Ahora había un sitio donde antes estaba
 eso, y el sitio estaba limpio, como la pared encima de la lámpara.
 
+Sacó la hoja del bolsillo, ahí mismo, sentado en el suelo de tierra. Debajo de *2. A qué
+olía* escribió, con la mano que todavía no le respondía del todo:
+
+*3. Cómo eran sus manos.*
+
+Se quedó mirando el número un rato largo.
+
 ---
 
 —¿Qué has perdido?
