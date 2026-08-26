@@ -338,3 +338,25 @@ Guardador por mérito o por gestionar la simpatía de Adruin. Lo consigue como c
 Huérfano en Keliun — porque estaba, porque lo vio de cerca, porque el pueblo (aquí, Yeva)
 así lo permite. La caridad se busca. El papel se hereda o se cede. No hace falta que se
 parezcan.
+
+---
+
+## N · Cuántos llevan el mismo papel, según el grado · *(12 de agosto de 2026)*
+
+**A más grado, menos escasez de papel y más escasez de otra cosa.** Decidido escaletando
+el arco 3, con autonomía completa.
+
+Keliun (grado 0) tiene un Huérfano porque es un pueblo: un hueco social, uno solo posible
+a la vez, y por eso el arco 2 podía ser sobre competir por él. Yenal (grado 2, «Artesana»)
+ya tiene clase profesional — un **gremio** entero de Jardineros, hereditario, con muchos
+practicando el mismo papel sin que la regla dura 4 (*«dos no pueden llevar el mismo papel a
+la vez»*) se rompa, porque esa regla es sobre **el mismo papel en el mismo hueco social
+concreto**, no sobre el nombre del oficio. Adruin (grado 1) era el punto medio: un
+Guardador con licencia por zona, ni un pueblo entero compitiendo por un solo hueco ni un
+gremio de muchos.
+
+**Consecuencia para arcos futuros:** cuanto más alto el grado, menos sentido tiene un arco
+sobre «quién se queda con el papel» (eso ya se contó, en el 2) y más sentido tiene un arco
+sobre **qué cuesta ejercerlo a escala** — muchos Jardineros, muchos Ladrones, muchos
+Músicos, y la pregunta deja de ser de quién es el papel y pasa a ser de quién paga por él.
+Es exactamente el giro del arco 3: de la escasez (arco 2) a la complicidad (arco 3).

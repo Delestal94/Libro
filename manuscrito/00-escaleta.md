@@ -88,6 +88,12 @@ por escaletar. Lo único fijo:
   *(La escaleta decía «la escuela flotante / el Payaso»; se cambió el 11 de agosto de 2026
   al escaletarlo en detalle, porque el conflicto con Bern es mejor motor y da la imagen
   del arco. El Payaso vuelve a la reserva para un arco posterior.)*
+- **Arco 3:** Yenal, la ciudad-jardín. Escaletado el 12 de agosto de 2026, con autonomía
+  completa. Decisión de fondo: **grado 2 no tiene un papel único, tiene un gremio** —
+  coherente con que «Artesana» ya es clase profesional, no necesidad de pueblo. El motor
+  deja de ser escasez (como el arco 2) y pasa a ser complicidad: Sel puede tomar el
+  Jardinero sin quitárselo a nadie, y el conflicto es si debe, sabiendo lo que cuesta y a
+  quién. Detalle completo en `manuscrito/arco-3/00-escaleta.md`.
 - **Arco 5:** aquí es donde Sel **no puede ayudar**. Es la escena que exige la cuarta
   línea del brindis.
 - **Arco 6:** toma el papel del Padre y completa la frase. El narrador habla por

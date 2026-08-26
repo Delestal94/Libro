@@ -13,17 +13,27 @@ caridad, no por creencia), así que se ajustó la línea de Yeva en el cap. 6 pa
 del conflicto real. Quedan abiertos, a propósito, H24 (el cap. 5 explica el sistema con
 números) y H25 (el narrador toca la tesis en el clímax) — decisiones de estilo, no bugs.
 
-**Siguiente:** arco 3. Sin escaleta todavía.
+**Arco 3 en marcha.** Escaleta completa en `manuscrito/arco-3/00-escaleta.md`. Capítulo 1
+(*Lo que se ve desde el camino*) cerrado. Escrito con autonomía completa — el usuario pidió
+decidir todo sin parar a preguntar; las decisiones de fondo quedan documentadas en
+`biblia/decisiones.md` (§ N esta vez: a más grado, el papel deja de ser escaso y se
+convierte en gremio).
 
-**Momento:** fin de la primavera del 1200. Sel sale de Adruin solo con Diez, camino a un
-pueblo de grado 2 todavía sin nombre ni escaleta — el arco 3.
+**Momento:** principios del otoño del 1200. Sel llega a Yenal, la ciudad-jardín, grado 2.
 
 ---
 
 ## Dónde están
 
-**Sel viaja solo con Diez**, por primera vez desde que salió de [[keliun]]. Ila se quedó
-en Adruin, en la escuela de escritura, a cambio de trabajo.
+**Sel está en Yenal**, la ciudad-jardín (grado 2 · Artesana), conocida por el Cerezal
+Eterno — un vergel que florece fuera de temporada, mantenido por familias hereditarias de
+Jardineros, pobres pese a sostener la riqueza de la ciudad. Viaja solo con Diez. Ila
+quedó en Adruin, en la escuela de escritura.
+
+**Ya vio, sin hablar con nadie todavía, a Nea** — una niña de once años, aprendiza de
+Jardinera, que se queda quieta con las manos en una flor exactamente como Sel se quedaba
+con la lámpara de Reta. No la conoce aún. Tiene tres días para conseguir un patrón que
+responda por él en la aduana, o lo echan de la ciudad.
 
 Lleva el papel del **Guardador de lumbre** — el segundo de su vida, y el primero elegido
 por él y no dado por un pueblo en un entierro. Dejó el Huérfano en Adruin al tomarlo,
@@ -113,7 +123,7 @@ licenciada) · Reta (con una lámpara que no sabe bien qué le costó).
 | Cosas de la lista | 3 de 5 sentidos — quedan gusto y vista |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | traer la frase · darle algo a Ila cuando sepa qué |
-| Pistas pendientes | 73 de 98 |
+| Pistas pendientes | 77 de 103 |
 
 ---
 

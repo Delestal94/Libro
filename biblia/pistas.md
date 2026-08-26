@@ -34,6 +34,10 @@
 | A Miren Saal le deniegan volver a la comarca, y le dicen a quién se la han dado | cap. 5 | — | pendiente |
 | El papel funciona mientras estás. Al irte, se deshace | cap. 6 | cap. 6 | pendiente (marcada pagada por error: el propio cap. 6 la contradice con tres velocidades de deshecho distintas — inmediato con Oren, cinco días en la plaza, al doblar la esquina con las trece puertas) |
 | Sel puede hacerlo con trece personas a la vez, y no sabía que se podía | cap. 6 | arco 2, cap. 3 | pagada (probado a propósito por primera vez, no descubierto de casualidad: funciona, y funciona limpio — el límite no está en cuánta gente, está en lo que la gente decide por su cuenta dentro del hueco) |
+| **Yenal se ve por su color, no por sus luces.** Sel se pregunta «¿quién lo paga?» antes de ver nada de cerca — primera vez que sospecha antes de maravillarse | arco 3, cap. 1 | — | pendiente |
+| **La aduana de Yenal: sin ficha, tres días.** Primer choque de burocracia del libro — «Porque somos muchos. En Keliun cabíais todos en una plaza. Aquí no.» Plazo que estructura la urgencia del capítulo | arco 3, cap. 1 | arco 3, cap. 3 | pendiente |
+| «Hay un armario con una ficha por cada niño como él, y él no tiene ficha» (arco 1) — la ausencia empieza a costarle algo concreto por primera vez | arco 1 | arco 3, cap. 1 (efecto) | pendiente (la causa sigue sin decirse) |
+| **Nea se queda quieta un segundo con las manos en una flor.** Sel reconoce el gesto —el mismo de la lámpara de Reta, el mismo que vio en Bern— antes de saber su nombre | arco 3, cap. 1 | arco 3, cap. 2 | pendiente |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
