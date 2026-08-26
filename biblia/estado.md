@@ -55,8 +55,17 @@ sabiendo exactamente el precio y eligiéndolo igual. Se abrió de un color sin n
 de la cuenta atrás de § K. Nea le dio la mitad de su pan esa misma noche, sabiendo lo que
 había pasado, sin necesitar que nadie se lo explicara. No le supo a nada. Se lo comió
 igual. Nea estuvo presente todo el tiempo —dudó, pero dejó que Sel pusiera las manos donde
-habían estado las suyas—; no es que no sepa lo que pasó, es que todavía no ha cargado con
-lo que significa (cap. 5).
+habían estado las suyas.
+
+**Ya cargó con lo que significa.** Intentó devolvérselo tres días seguidos (el mejor sitio,
+el pan, cargarle las herramientas) y Sel le pidió que parara: *«Hay cuentas que no se
+igualan devolviendo. Sólo se igualan siendo iguales.»* Nea aceptó, con una condición
+nueva: que la próxima vez que Sel quiera hacer «una tontería así», se lo diga antes, no
+después — le pide permiso, no gratitud. **Osane sabe lo de la flor** desde el día
+siguiente, sin que nadie se lo contara, y le confesó a Sel que lleva treinta años sabiendo
+todo el sistema sin haber podido cambiarlo — lo intentó una vez, hace veinte años, y no
+sirvió de nada. No promete que Sel vaya a poder, pero tampoco lo descarta: «Nunca lo he
+intentado con la cabeza que tienes tú.»
 
 **Lleva dos papeles a la vez por primera vez:** Guardador de lumbre (Adruin) y ahora
 Jardinero (Yenal) — posible porque grado 2 es gremio, no hueco único *([[decisiones]] ·
@@ -147,7 +156,7 @@ licenciada) · Reta (con una lámpara que no sabe bien qué le costó).
 | Cosas de la lista | 4 de 5 sentidos — sólo queda la vista |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | traer la frase · darle algo a Ila cuando sepa qué |
-| Pistas pendientes | 82 de 114 |
+| Pistas pendientes | 86 de 118 |
 
 ---
 

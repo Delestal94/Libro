@@ -296,7 +296,7 @@ medio — una niña de once años en un oficio de adultos da mucho margen de hum
 
 ---
 
-## Capítulo 5 · Lo que Nea no sabía
+## Capítulo 5 · Lo que pesa *(retitulado el 12-08: Nea estuvo presente en 4.2, no descubre nada — carga con lo que significa)*
 
 ### Escena 5.1
 - **Dónde/quién:** la casa de Osane, al día siguiente. Nea descubre lo que pasó.

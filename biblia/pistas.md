@@ -49,6 +49,10 @@
 | **La imagen del arco: Sel termina la flor de Coren por Nea, sabiendo exactamente el precio, y la elige de todas formas.** Se abre de un color sin nombre, como la lámpara de Reta — pero esta vez con conocimiento, no por accidente. Cumple el criterio 1 (imagen inédita causada por Sel) mejorando la versión accidental del arco 2 | arco 3, cap. 4 | arco 3, cap. 4 | pagada |
 | **Quinta cosa de la lista: «A qué sabían las cosas.»** Cuarta en total (van sonido, olor, tacto, ahora gusto) — sólo queda la vista. El arco 4 es, tal como avisaba § K, el límite real de la cuenta atrás | arco 3, cap. 4 | arco 3, cap. 4 | pagada |
 | Nea le da a Sel la mitad de su pan sabiendo exactamente lo que acaba de pasar, con el mismo gesto que la mujer de Adruin —pero esta vez sin necesitar que nadie lo explique. Sel no le sabe a nada, y se lo come igual | arco 3, cap. 4 | — | pendiente |
+| **«Hay cuentas que no se igualan devolviendo. Sólo se igualan siendo iguales.»** Sel se niega a que Nea le devuelva nada, no por orgullo — por lo aprendido en Adruin. La relación pasa de rescatador/rescatada a iguales | arco 3, cap. 5 | — | pendiente |
+| «La próxima vez que quieras hacer una tontería así, me lo dices antes. No después de habértela hecho.» — Nea le pide a Sel algo que nadie le había pedido nunca: permiso, no gratitud | arco 3, cap. 5 | — | pendiente |
+| **Osane: treinta años sabiendo el sistema, sin poder cambiarlo.** Lo intentó una vez, hace veinte años, y el patrocinador le contestó que el precio real «era problema del gremio, no suyo». Fija la escala real de lo que el arco puede resolver antes del clímax | arco 3, cap. 5 | arco 3, cap. 6 | pendiente |
+| Osane, sobre si algo concreto sí se puede cambiar: «Eso no lo sé. Nunca lo he intentado con la cabeza que tienes tú.» Abre la puerta al clímax sin prometerlo | arco 3, cap. 5 | arco 3, cap. 6 | pendiente |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
