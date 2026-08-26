@@ -91,11 +91,17 @@ elección es explícita y consciente, no una consecuencia descubierta después.
 
 ## Continuidad con los arcos 2 y 3
 
-- Sel sigue llevando Guardador de lumbre y Jardinero (§ N). No toma el Ladrón como papel
-  propio y permanente — lo prueba una vez, brevemente, para entender a Tobal (§ M exige
-  verlo de cerca; lo ve de más cerca de lo que le conviene), y lo suelta antes del clímax,
-  a propósito: **robar bien y forzar bien nacen del mismo músculo**, y el arco necesita que
-  Sel sienta la tentación en carne propia antes de negarse a usarla del todo.
+- **Corregido tras el panel del arco 3 (§ N no tocaba a § M — ver `decisiones.md`):** Sel
+  llega a Ossin llevando el Jardinero, tomado de verdad en Yenal. Para tomar el Ladrón
+  tiene que soltarlo, uno a la vez, sin excepción — y esta vez la escena de soltar sí se
+  escribe, temprano (cap. 3), no se da por hecha. Sale de Ossin llevando el Ladrón, o
+  habiéndolo soltado también si el capítulo 7 lo pide — decidir al escribirlo, pero
+  decidirlo **en escena**, no dejarlo implícito.
+- **El dilema del clímax (forzar a Dench o no) no depende de qué papel lleve puesto.**
+  `decisiones.md` § K es una técnica de presión social que Sel ya sabe hacer desde el
+  arco 1 (el hueco), no un poder exclusivo del Ladrón — así que la tentación de forzar a
+  Dench funciona lleve el papel que lleve, y no hace falta inventar una excepción a § M
+  para que el arco tenga clímax moral.
 - Ila sigue en Adruin. La semilla de Yenal ya viaja hacia ella; no hace falta tocarla este
   arco, salvo quizá una línea de eco al final.
 - La lista sigue en cuatro. **No se paga un quinto ítem en este arco — a propósito.**
@@ -202,17 +208,21 @@ elección es explícita y consciente, no una consecuencia descubierta después.
 - **Qué cambia:** Sel entiende que no hay victoria limpia posible.
 - **Largo:** ~900 palabras.
 
-### Escena 3.3
-- **Dónde/quién:** esa noche, Sel prueba el Ladrón por primera vez, con Yura vigilando,
-  sobre un objeto sin importancia.
-- **Qué entra:** el papel del Ladrón da lo que sabe hacer — sigilo, manos limpias, calma
-  bajo presión— y a Sel se le da bien, más rápido de lo que debería.
-- **Qué pasa:** roba una cosa pequeña sin que nadie lo note, y siente un placer que no
-  esperaba sentir.
+### Escena 3.3 · **toma el papel — con precio, en escena**
+- **Dónde/quién:** esa noche, Yura y Sel a solas, antes de nada más.
+- **Qué entra:** Yura le exige lo mismo que Osane, sin saber que ya se lo exigieron una
+  vez: que suelte lo que lleva puesto antes de tomar el suyo. § M no admite excepción de
+  ciudad.
+- **Qué pasa:** Sel suelta el Jardinero. Esta vez sabe lo que se siente —ya lo hizo una
+  vez, en Yenal— y aun así no es más fácil; es una despedida distinta, de un oficio que
+  había empezado a quererle. Toma el Ladrón. Roba una cosa pequeña sin que nadie lo note,
+  y siente un placer que no esperaba sentir.
 - **Qué cambia:** primera grieta — a Sel le gusta demasiado, y lo sabe.
+- **Qué se paga:** la escena que el arco 3 prometió y no cumplió a la primera — esta vez
+  se escribe sin dejarla implícita.
 - **Qué no puede pasar todavía:** que use ese gusto para algo grande. Es el aviso, no el
   acto.
-- **Largo:** ~800 palabras.
+- **Largo:** ~900 palabras.
 
 ---
 

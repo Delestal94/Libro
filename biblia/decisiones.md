@@ -361,6 +361,22 @@ sobre **qué cuesta ejercerlo a escala** — muchos Jardineros, muchos Ladrones,
 Músicos, y la pregunta deja de ser de quién es el papel y pasa a ser de quién paga por él.
 Es exactamente el giro del arco 3: de la escasez (arco 2) a la complicidad (arco 3).
 
+### Aclaración, tras el panel del arco 3: § N no toca a § M, y no hacía falta que lo hiciera
+
+§ N resuelve **cuántas personas** pueden llevar el mismo nombre de papel en Yenal.
+**No dice nada sobre cuántos papeles lleva Sel**, y no tenía por qué: eso ya lo dice § M,
+sin excepción — *«ponerse un papel es quitarse el que llevabas. No se acumulan.»* Sigue
+así, sin grado que lo ablande.
+
+El primer borrador del arco 3 quiso que Sel se quedara el Guardador de lumbre **y**
+tomara el Jardinero a la vez, citando § N como permiso. § N no da ese permiso, y el panel
+lo encontró: la escena donde Sel elige uno y suelta el otro estaba prometida en la
+escaleta y no se había escrito. **Corregido escribiéndola, no reinterpretando la regla.**
+Sel se quita el Guardador, con dolor de verdad —algo elegido con cuidado en Adruin,
+soltado en silencio—, y sólo entonces puede tomar el Jardinero. Un papel por vez, siempre,
+en cualquier grado. Lo que cambia con el grado no es esta regla: es cuánta gente más
+comparte el nombre del papel que Sel decide llevar.
+
 ---
 
 ## O · Qué pasa cuando se agota la cuenta atrás · *(12 de agosto de 2026)*

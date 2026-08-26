@@ -6,12 +6,15 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Arco 3 (Yenal) — cerrado.** 7 capítulos, ~7.600 palabras. Escrito con autonomía
-completa: el usuario pidió decidir todo sin parar a preguntar; las decisiones de fondo
-quedan documentadas en `biblia/decisiones.md` (§ N: a más grado, el papel es gremio, no
-escasez). Falta la pasada de costuras (en curso) y el panel de cierre.
+**Arco 3 (Yenal) — reparado tras el primer panel (3,5/8, luego revisiones el 12-08).**
+7 capítulos, ~8.200 palabras. El panel encontró el fallo de fondo — Sel nunca tomaba
+ningún papel, pese a ser «el arco del Jardinero» — y se corrigió reescribiendo la escena
+central del cap. 4 y el cierre del cap. 6 y el cap. 7. Pendiente: segunda verificación con
+el mismo crítico antes de dar el arco por cerrado del todo.
 
-**Siguiente:** arco 4. Sin escaleta todavía.
+**Siguiente, tras verificar:** arco 4. Escaleta ya escrita en
+`manuscrito/arco-4/00-escaleta.md` (Ossin, el Fondo) — a revisar si sigue encajando
+después de los cambios de hoy.
 
 **Momento:** otoño del 1200. Sel sale de Yenal solo con Diez, camino a grado 3.
 
@@ -19,28 +22,35 @@ escasez). Falta la pasada de costuras (en curso) y el panel de cierre.
 
 ## Dónde están
 
-**Sel viaja solo con Diez**, saliendo de Yenal. Lleva dos papeles a la vez por primera vez
-—Guardador de lumbre (Adruin) y Jardinero (Yenal)— posible porque grado 2 es gremio, no
-hueco único *([[decisiones]] · N)*. Ila sigue en Adruin, en la escuela de escritura.
+**Sel viaja solo con Diez**, saliendo de Yenal, **llevando el papel del Jardinero.**
+Dejó el Guardador de lumbre para tomarlo —uno a la vez, sin excepción, § M— en una escena
+real con Osane: *«Antes de nada, quítate lo que llevas puesto.»* Fue la primera vez que
+soltar algo elegido con cuidado (el Guardador, de Adruin) le costó de verdad, aunque no
+sintiera nada especial al hacerlo. Ila sigue en Adruin, en la escuela de escritura.
 
-**Yenal, resuelto sin que la institución cayera por la fuerza:** Sel descubrió que el
-Cerezal Eterno —el vergel que hace famosa y rica a la ciudad— se paga dos veces: en
-monedas, al patrocinador; en memoria, a quien lo cuida (las familias pobres de Jardineros,
-como Nea). *«La memoria siempre la pone quien la cuida. Nunca quien la paga»* (Osane).
-Sel terminó una flor imposible por Nea, sabiendo el precio y eligiéndolo — la imagen del
-arco. En la Feria, delante de todo el gremio, le pidió a Coren (el patrocinador principal,
-persona amable, no villano) que sostuviera con su mano la flor con su nombre un minuto
-antes de cortarla. Coren aguantó diez segundos, la soltó, y anunció que paga el doble en
-monedas por cada flor con su nombre — no arregla el sistema, cede una cosa concreta y
-visible. Quiere hablar con Osane esta semana (sin resolver qué).
+**Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
+vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
+patrocinador; en memoria, a quien lo cuida (las familias pobres de Jardineros, como Nea).
+*«La memoria siempre la pone quien la cuida. Nunca quien la paga»* (Osane). Sel terminó
+una flor imposible por Nea, con el Jardinero recién tomado, sabiendo el precio y
+eligiéndolo — la imagen del arco. En la Feria, delante de todo el gremio, le pidió a
+Coren (el patrocinador principal, persona amable, no villano) que sostuviera con su mano
+la flor con su nombre un minuto antes de cortarla — **arriesgando la ficha que Osane
+acababa de firmarle**, que Coren amenazó con quitarle en voz baja. Coren aguantó diez
+segundos, la soltó, y anunció que paga el doble en monedas por cada flor con su nombre —
+no arregla el sistema, cede una cosa concreta y visible. Quiere hablar con Osane esta
+semana; **a propósito, Sel se va sin saber qué le propuso** — hilo que Yenal no puede
+cerrar porque el protagonista se marcha.
 
 **Se despidió de Nea** (11 años, aprendiza de Jardinera) y de Osane (su maestra, 30 años
 en el oficio). Nea le dio una semilla del árbol de su abuela —«sólo florece si alguien la
 cuida sin esperar nada a cambio»— y Sel se la mandó a Ila con la primera carta que
 escribió en su vida, pagando la promesa pendiente del arco 2.
 
-**Probó *halumi ish* con método real por primera vez:** la mujer a la que se lo preguntó
-pensó la respuesta de verdad y le deseó suerte sin saber si la iba a necesitar.
+**Probó *halumi ish* con método real, al guardia de la aduana de Yenal** (no a un
+desconocido del camino, para no repetir la forma del arco 2) — cierra el hilo de la
+aduana abierto en el cap. 1. El guardia pensó la respuesta de verdad: que alguien más
+aprenda a llevar su libro antes de que él falte.
 
 ## Qué lleva encima
 
@@ -88,7 +98,7 @@ un testigo (Nea).
 
 | | |
 |---|---|
-| Papeles que Sel sabe llevar | Guardador de lumbre + Jardinero |
+| Papel que Sel lleva puesto | El Jardinero (soltó el Guardador de lumbre para tomarlo — uno a la vez, § M) |
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |

@@ -52,83 +52,63 @@ No tenía ninguna garantía de que llegara. Se lo entregó igual.
 
 ---
 
-Salió de Yenal por la tarde, con Diez suelto delante, oliendo cada piedra del camino como
-si no la hubiera olido nunca, aunque llevaban ya varias semanas pisando las mismas
-calles.
+En la aduana, el mismo hombre del libro grande le selló la salida sin mirarlo casi,
+hasta que le tocó a Diez.
 
-A media legua se cruzó con una mujer que llevaba dos cestas vacías, de vuelta del
-mercado.
+—Éste ya tiene ficha —dijo, buscando la página—. ¿Se la llevan también, o se queda?
 
-—Buenas —dijo la mujer.
+—Se lo lleva.
 
-—Buenas.
+El hombre tachó algo, escribió algo más, y le devolvió el papel doblado en cuatro.
 
-Anduvieron un rato al mismo paso.
+—*Halumi ish* —dijo Sel, antes de que el hombre mirara al siguiente de la fila.
 
-—*Halumi ish* —dijo Sel, sin rodeos, pero sin la torpeza de otras veces.
-
-La mujer lo miró, no con la cara de quien no ha entendido, sino con la cara de quien sí
-ha entendido y no esperaba que se lo preguntaran.
+El hombre levantó la vista, sorprendido de que le hablaran de algo que no fuera un
+papel.
 
 —¿Eso qué es?
 
-—Qué es lo que de verdad querés. Aunque suene raro. Sobre todo si suena raro.
+—Qué es lo que de verdad quiere. Se lo pregunto a la gente. No sé por qué. Se lo pregunto
+igual.
 
-La mujer siguió andando un rato sin contestar, y Sel no insistió, porque ya había
-aprendido que insistir espantaba la respuesta antes de que naciera.
+El hombre se quedó con el sello en la mano, sin usarlo, mirando la fila que tenía detrás
+y sin prisa por atenderla.
 
-—Que mi hija aprenda a leer antes que yo a olvidarme de por qué quiero que aprenda
-—dijo, al fin, despacio, como quien encuentra una piedra que llevaba mucho tiempo
-buscando en el fondo de un cajón—. ¿Te sirve eso?
+—Que alguien más se acuerde de contar así —dijo, al fin, señalando con la barbilla el
+libro grande—. Llevo catorce años siendo el único que sabe dónde está cada nombre. El día
+que falte, no sé quién los encuentra.
 
-—Me sirve.
+—¿Y eso qué tiene que ver conmigo?
 
-—¿Para qué te sirve?
+—Nada. Me lo has preguntado tú.
 
-—Todavía no lo sé.
-
-La mujer se quedó pensando en eso, de verdad, con la cara de alguien a quien le acaban de
-hacer una pregunta importante sobre la pregunta misma, y no dijo nada más hasta que sus
-caminos se separaron, en la siguiente bifurcación, y entonces sólo dijo:
-
-—Suerte, chico.
-
-Y a Sel le pareció que era la primera vez, desde Keliun, que alguien se lo decía sin
-saber ya de antemano si la iba a necesitar.
+Selló el papel de Sel con más fuerza de la necesaria, se lo devolvió, y llamó al
+siguiente sin decir nada más, pero Sel, saliendo ya por la puerta grande de Yenal, se
+llevó la sensación rara de haberle dado a un desconocido algo que no sabía que tenía
+guardado.
 
 ---
 
-Al anochecer llegó a un alto del camino desde donde se veía el valle entero, y Yenal
-detrás, ya lejos, con las luces de las casas empezando a encenderse una a una.
+Anduvo hasta que se hizo de noche sin pararse, con Diez trotando delante, y en algún
+momento del camino, sin proponérselo, se miró las manos.
 
-Se sentó en una piedra. Diez se tumbó a sus pies, cansado, con la nariz todavía manchada
-de un amarillo que no se le iba a ir hasta el próximo baño.
+Tenían un callo nuevo en la base de los dos pulgares, del sitio exacto donde se apoyan
+para sostener un tallo sin apretarlo. No le dolía. Sólo estaba ahí, duro y distinto,
+como una prueba que no le había pedido a nadie que le diera.
 
-Y entonces, como en Adruin, empezó a contar.
+Buscó, sin querer, el sitio donde antes llevaba el Guardador. No estaba, y no le dolió no
+encontrarlo —llevaba semanas sin él—, pero tampoco estaba vacío del todo. Era más bien
+como el hueco que deja un diente que se cae solo: la lengua vuelve ahí sin que se lo
+mandes, y encuentra otra cosa, y con el tiempo deja de sorprenderse.
 
-No las luces esta vez. Las flores —las que se veían desde ahí, manchas de color que el
-atardecer iba apagando poco a poco, y entre ellas, sabía, estaban las que llevaban placa,
-las que llevaban un nombre clavado en el tronco.
+Con el Jardinero pasaba lo mismo, sólo que al revés: ya se le había hecho costumbre,
+tanto que casi no notaba que estaba ahí.
 
-Contó las que llevaban su propia huella, aunque desde tan lejos no pudiera distinguir
-cuáles eran: la pequeña sin nombre del primer día, la grande de Coren, y todas las que
-había ayudado a abrir después, sin que nadie las contara nunca en ningún sitio salvo en
-su propia cabeza.
+No se paró a mirar atrás. No hizo falta. Adruin se lo había dejado escrito una vez: mirar
+atrás y contar es lo que se hace cuando todavía no se sabe cargar con lo que se lleva. Esta
+vez lo sabía.
 
-Y contó, también, las de Coren. Las que llevaban su nombre en la placa, pagadas ahora al
-doble, sostenidas ahora, aunque fuera un minuto, con su propia mano.
-
-Por primera vez, la cuenta le salió igual.
-
-No porque las dos cosas costaran lo mismo —sabía que no era así, que nunca iba a serlo
-del todo—, sino porque por primera vez las dos cuentas existían en la misma cabeza a la
-vez, la suya y la de Coren, sin que una tapara a la otra.
-
-—Vámonos —le dijo a Diez, en voz alta, como llevaba haciendo meses aunque fuera un
-perro.
-
-Se levantó. Se echó al hombro lo poco que llevaba —un poco menos, ahora, sin la semilla
-que ya viajaba hacia otro sitio— y antes de darle la espalda del todo a Yenal, miró una
-vez más hacia el valle, buscando, sin saber muy bien por qué, una luz o una flor que
-pudiera ser la de Nea, sabiendo que no la iba a encontrar desde tan lejos, y mirando
-igual.
+Siguió caminando, con Diez oliendo el camino nuevo como si fuera el primero de su vida, y
+en algún momento, sin darse cuenta, empezó a silbar algo que no era ninguna canción, sólo
+un ruido que le salía solo, del mismo sitio de donde le salían las cosas que todavía no
+sabía nombrar.

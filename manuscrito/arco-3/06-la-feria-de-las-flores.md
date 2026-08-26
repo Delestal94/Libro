@@ -63,13 +63,23 @@ habían oído la frase y se habían quedado quietas para oír la respuesta.
 —Ya sé lo que sostengo —dijo Coren, con la voz un poco más tensa que antes, pero
 todavía sin enfado—. Es mi flor. La pago yo.
 
-—Ya lo sé. Por eso se la puede sostener un minuto sin que le cueste nada.
+—Entonces sostenerla un minuto no le va a costar nada.
 
-Fue una frase calculada, y Sel lo sabía mientras la decía: le daba a Coren una salida
-fácil —claro que puede, no es nada, un minuto no es nada— y al mismo tiempo cerraba la
-otra salida, la de negarse sin más, porque negarse a sostener durante un minuto una cosa
-que decía no costarle nada iba a parecer, delante de todos los que ya miraban, exactamente
-lo que era.
+La sonrisa de Coren se apagó del todo por primera vez esa mañana.
+
+—¿Sabes lo que eres tú aquí? —dijo, bajando la voz, sólo para Sel—. Un aprendiz de tres
+semanas, con ficha firmada de favor. Yo he puesto dinero en esta ciudad treinta años. Una
+palabra mía y Osane tiene un problema con el gremio que no tenía esta mañana, y tú dejas
+de tener ficha antes de que anochezca.
+
+No era un farol. Sel lo sabía, y lo supo con el cuerpo entero, del mismo modo en que
+había sabido, semanas atrás, que soltar el Guardador iba a doler antes de sentir nada.
+
+Pudo callarse. Nadie se lo habría reprochado.
+
+—Ya lo sé —dijo, en cambio, sin bajar la voz como había hecho Coren, para que lo oyeran
+los mismos cuatro o cinco que ya estaban mirando—. Y se la puede sostener un minuto sin
+que le cueste nada de eso tampoco.
 
 ---
 
@@ -130,9 +140,9 @@ está acostumbrado a que se le escuche.
 Un murmullo recorrió el grupo. Alguien, al fondo, empezó a aplaudir y se paró en seco al
 ver que nadie más lo hacía.
 
-—No es suficiente —dijo Coren, antes de que nadie pudiera decirlo por él—. Ya lo sé. No
-voy a fingir que lo es. Pero es lo que puedo dar sin dejar de ser quien soy, y prefiero
-dar eso a seguir fingiendo que no cuesta nada.
+—No es suficiente —dijo Coren, antes de que nadie pudiera decirlo por él—. No voy a
+fingir que lo es. Pero es lo que puedo dar sin dejar de ser quien soy, y prefiero dar eso
+a seguir fingiendo que no cuesta nada.
 
 Miró a Nea una vez más.
 

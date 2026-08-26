@@ -1,7 +1,54 @@
 # Lo que ve de cerca
 
-El primer día se aprendió a parar, tal como había dicho Osane. El segundo, a tocar sin
-dar nada. El tercero, por fin, a dar un poco.
+Osane lo hizo esperar tres días más antes de darle una respuesta a lo que le había
+pedido en el porche, y al cuarto lo llamó al taller sin avisar de para qué.
+
+—Siéntate —dijo—. Antes de nada, quítate lo que llevas puesto.
+
+—¿Qué llevo puesto?
+
+—Ya lo sabes. Quítatelo.
+
+Sel se quedó quieto un momento, sin entender del todo, y después sí entendió, y no le
+gustó nada entender.
+
+—¿Por qué?
+
+—Porque no se lleva uno encima del otro —dijo Osane—. Eso no lo digo yo. Es así, y punto.
+Y porque si vas a tomar el mío, tienes que tomarlo entero, no a medias con otra cosa
+puesta debajo.
+
+—¿Y si lo suelto y no me sirve el nuevo?
+
+—Entonces te quedas sin ninguno. Es lo que hay.
+
+Sel se quedó pensando en Adruin. Pensó en Yeva enseñándole el libro de cuentas, en la
+semana entera mirándola trabajar, en la lámpara de Reta encendida por primera vez sin que
+él supiera lo que hacía. El Guardador de lumbre había sido el primero que había elegido
+él mismo, no el que le había caído encima en un entierro.
+
+—¿Cómo se suelta? —dijo, al fin.
+
+—Dejando de sostenerlo. Nada más. Es más fácil de lo que crees, y por eso asusta más.
+
+Cerró los ojos. Buscó el hueco donde llevaba el Guardador —una cosa tan acostumbrada ya
+que casi no la notaba, como no se nota un anillo que se lleva puesto desde hace meses— y
+dejó de sostenerlo, sin más ceremonia que ésa.
+
+No sintió nada especial al soltarlo. Eso fue lo que más le costó después: que algo que
+había elegido con tanto cuidado en Adruin se fuera tan en silencio.
+
+—Ya está —dijo Osane, mirándolo con esa atención suya de quien mide algo que no se ve—.
+Ya no llevas nada.
+
+Sel se sintió, por primera vez desde Keliun, como alguien sin nombre para nadie.
+
+—Ahora sí —dijo Osane—. Ahora te enseño el mío.
+
+---
+
+El primer día se aprendió a parar. El segundo, a tocar sin dar nada. El tercero, por fin,
+a dar un poco.
 
 —Ésta —dijo Osane, señalando una flor pequeña, sin placa, escondida detrás de una rama
 más grande—. Sin nombre, sin encargo, sin nadie esperándola. Si sale mal, no le importa a
@@ -19,9 +66,11 @@ la flor se quede a medias. Aunque parezca que está a punto.
 —Lo sabrás. Es como tragar algo por el lado que no es: no hace falta que nadie te lo
 explique.
 
-Sel cerró los ojos, encontró el mismo hueco de siempre —el mismo desde la primera vez con
-la lámpara, sólo que esta vez sabía nombrarlo— y dejó salir un poco, con cuidado, como
-quien vierte agua en un vaso sin mirar la marca pero sabiendo que hay una marca.
+Sel cerró los ojos y buscó el hueco nuevo, el del Jardinero, que todavía no conocía de
+memoria y tuvo que encontrar a tientas, más despacio que el otro, con la torpeza de quien
+prueba una llave distinta en la misma cerradura de siempre. Cuando lo encontró, dejó salir
+un poco, con cuidado, como quien vierte agua en un vaso sin mirar la marca pero sabiendo
+que hay una marca.
 
 Sintió el momento exacto en que empezaba a costar.
 
@@ -81,9 +130,9 @@ Lo intentó una segunda. Un pétalo se movió, apenas, y volvió a quedarse quie
 —No puedo —dijo Nea, al fin, con las manos todavía puestas encima, sin retirarlas,
 como si retirarlas fuera admitir algo peor que no conseguirlo—. Ya no me queda.
 
-Sel la miró. Sabía exactamente lo que estaba viendo, porque lo había visto antes, en un
-espejo, la noche de la lámpara de Reta: alguien que ha dado ya todo lo que tenía para dar
-sin hacerse daño de verdad, y todavía no ha decidido si va a dar más de eso.
+Sel la miró. No hacía falta que nadie le explicara lo que estaba viendo: alguien que ha
+dado ya todo lo que tenía para dar sin hacerse daño de verdad, y todavía no ha decidido si
+va a dar más de eso.
 
 —Aparta las manos —dijo.
 
@@ -97,15 +146,16 @@ sin hacerse daño de verdad, y todavía no ha decidido si va a dar más de eso.
 
 Nea dudó. Sel puso las manos donde habían estado las de ella, todavía calientes.
 
-Sabía exactamente lo que iba a costarle. No como con la lámpara de Reta, donde no tenía
-ni idea de lo que estaba haciendo. Esta vez sabía la forma exacta del precio, y la eligió
-de todas formas, empujando más allá del punto en que Osane le había enseñado a parar,
-porque parar significaba que Nea perdiera algo que ya no tenía que perder.
+Con el Guardador, alguna vez, había empujado sin saber lo que empujaba. Con esto era
+distinto: seis días llevaba ya el hueco del Jardinero puesto, lo bastante para conocerle
+la forma, y supo con precisión el punto exacto en que Osane le había enseñado a parar. Lo
+pasó de largo a propósito, porque parar significaba que Nea perdiera algo que ya no tenía
+que perder.
 
-La flor se abrió de golpe, entera, de un color que no estaba en ningún sitio entre el
-rosa y lo que fuera lo otro —el mismo tipo de color imposible que había visto en la
-lámpara de Reta, la noche que se quedó sin las manos de su abuela— y se quedó así,
-perfecta, enorme, con sitio de sobra para el nombre de Coren en la placa.
+La flor se abrió de golpe, entera, de un tono que Sel no había visto nunca en ningún
+pétalo de Yenal ni de ningún otro sitio —entre el fucsia y algo que no era color, algo más
+parecido a un sonido bajo que a un matiz— y se quedó así, perfecta, enorme, con sitio de
+sobra para el nombre de Coren en la placa.
 
 Sel se cayó de rodillas, no porque le doliera nada en el cuerpo, sino porque las piernas,
 otra vez, decidieron por su cuenta que no podían sostenerlo un momento más.

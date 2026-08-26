@@ -154,6 +154,21 @@ sido siempre en Yenal, y así va a seguir siendo mañana, y pasado. Eso no te lo
 que se te ocurra arreglarlo. Te lo cuento para que, si te quedas, sepas exactamente en qué
 te metes.
 
+—¿Y si un patrocinador la toca? —dijo Sel—. Después de abierta.
+
+—No la tocan. Nunca. Se la presentan cortada, en la mano de un Jardinero, con guante si
+hace frío. Es costumbre tan vieja que ya nadie sabe si empezó por respeto o por otra cosa.
+
+—¿Qué otra cosa?
+
+Osane se quedó un momento pensándolo, como quien decide si vale la pena decir algo que
+lleva años sin decir.
+
+—Una flor abierta se acuerda de quién la abrió —dijo—. No mucho. Un segundo, si acaso,
+y sólo con la piel, no con la cabeza. Yo lo he sentido dos veces en toda mi vida, las dos
+por accidente, y las dos me tuve que sentar. Por eso no se la damos a nadie en la mano
+desnuda si se puede evitar. No hace falta que lo sepan para que sea verdad.
+
 ---
 
 Esa noche, dentro de la casa, mientras Osane preparaba algo de cenar, Nea se sentó en el
