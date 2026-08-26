@@ -6,9 +6,13 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Último capítulo escrito:** arco 2, capítulo 7 · *Adruin al fondo* — **cerrado**. Con
-esto **el arco 2 tiene sus 7 capítulos escritos.** Falta la pasada de costuras y el panel
-de revisión antes de darlo por terminado del todo.
+**Último capítulo escrito:** arco 2, capítulo 7 · *Adruin al fondo* — **cerrado**. El arco
+2 tiene sus 7 capítulos, costuras y panel de cierre hechos (11 de agosto: 3,75/8 — ver
+`revisiones/2026-08-11-arco-2/resumen.md`). Tras el panel se corrigieron H22 (el conflicto
+con Bern no se dramatizaba: se añadió una escena en el cap. 3 y una confirmación en el
+cap. 5), H23 (aclarado el alcance de § K frente a § F), H26 y H27 — quedan abiertos H24
+(el cap. 5 explica el sistema con números) y H25 (el narrador toca la tesis en el clímax),
+a decidir si se tocan o se dejan así.
 
 **Momento:** fin de la primavera del 1200. Sel sale de Adruin solo con Diez, camino a un
 pueblo de grado 2 todavía sin nombre ni escaleta — el arco 3.

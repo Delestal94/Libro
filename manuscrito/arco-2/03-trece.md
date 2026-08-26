@@ -106,6 +106,60 @@ Sel se quedó ahí, mirándolo, sin decir la única frase que era verdad.
 
 ---
 
+La mujer del pan lo encontró a media tarde, sentado en el mismo escalón donde se había
+sentado a mirar a Bern la primera vez.
+
+—Tú eres el del carro —dijo. No era pregunta.
+
+—No sé de qué carro.
+
+—El de la rueda. El que dijo lo de sujetar de las dos varas.
+
+Sel no contestó. La mujer lo miró un rato, con la misma cara con la que Reta lo había
+mirado a través de la ventana la primera noche, y sacó de la cesta un pan del tamaño de
+los que no se venden, de los que se guardan.
+
+—Toma.
+
+—No tengo con qué pagarlo.
+
+—No te lo estoy vendiendo.
+
+Se lo puso en las manos sin esperar a que las abriera del todo, y se quedó un momento más,
+mirándolo comer el primer trozo, con la cara de alguien que acaba de resolver una cuenta
+que llevaba tiempo sin cerrarle.
+
+—Eres bueno con la gente —dijo—. Como el otro.
+
+—¿Qué otro?
+
+—El del abrevadero. Bern.
+
+Lo dijo sin maldad, sin comparar a propósito, del mismo modo en que se dice que dos
+hermanos se parecen. Y siguió su camino con la cesta, sin darse cuenta de lo que acababa
+de hacer.
+
+Sel se quedó con el pan en las manos, mirando hacia la esquina donde solía estar Bern.
+
+Bern estaba allí. Llevaba un rato allí, con el zurrón al hombro, y había visto exactamente
+lo mismo que Sel: la mujer, el pan, la comparación. No se acercó. No dijo nada. Se quedó
+mirando a Sel comer un pan que en cualquier otra tarde habría sido suyo, con una cara que
+no era de rabia —eso habría sido más fácil de entender— sino la cara de alguien haciendo
+una cuenta nueva y no gustándole el resultado.
+
+Sel dejó de comer.
+
+—No lo sabía —dijo, desde el escalón, sin levantarse—. Lo del pan.
+
+Bern no contestó enseguida.
+
+—Ya lo sé —dijo, al final—. Por eso es peor.
+
+Y se fue, sin prisa, calle abajo, con las manos en los bolsillos de la chaqueta remendada,
+y esa noche no ocupó su esquina del abrevadero, y tampoco la ocupó al día siguiente.
+
+---
+
 Esa noche, en el cuarto de la posada, se lo contó a Ila con las palabras cambiadas de
 sitio tres veces antes de que le salieran bien.
 

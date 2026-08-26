@@ -140,10 +140,22 @@ dos lecturas en todo momento.** Nunca una frase que sólo funcione si el lector 
 
 ## K · Si el papel cobra o no — no cuánto
 
-**No es una escala. Es un umbral.** O la persona se resistía y el papel lo revierte, y
-entonces cobra un canal sensorial entero de Sel (la unidad que ya usa `pistas.md`: el
-oído, después el olfato) — o no se resistía, y no cobra nada. No hay término medio, y
-«caro» o «barato» no es el vocabulario correcto: es **sí o no**.
+**Rige el papel usado sobre una persona. No rige la magia doméstica** — eso es § F, y son
+dos mecanismos distintos aunque compartan combustible. Aclarado el 11 de agosto de 2026,
+porque el panel del arco 2 lo encontró aplicado al revés: cap. 3 (trece personas, dos
+resistiéndose) no cobra nada, cap. 4 (una lámpara, nadie resistiéndose) cobra un canal
+entero, y sin esta frase parece una contradicción. No lo es — son dos preguntas distintas:
+
+| | **§ K — el papel sobre alguien** | **§ F — la magia doméstica (Guardadores, lámparas)** |
+|---|---|---|
+| ¿Qué decide si cobra? | Si la persona se resistía en ese momento | Cuánto se saca, no de quién |
+| Forma del coste | Umbral: sí o no, sin término medio | Proporcional, y el umbral de cada uno es **un oficio que se aprende** — Yeva lo mide en su libro de cuentas (arco 2, cap. 5); un novato no sabe dónde está el suyo |
+| Por qué la lámpara de Reta cobró | No aplica — no hay nadie a quien forzar | Sel no conocía su propio umbral y se pasó de dosis. Es exactamente lo que Yeva le explica al día siguiente |
+
+**No es una escala. Es un umbral — para § K.** O la persona se resistía y el papel lo
+revierte, y entonces cobra un canal sensorial entero de Sel (la unidad que ya usa
+`pistas.md`: el oído, después el olfato) — o no se resistía, y no cobra nada. No hay
+término medio, y «caro» o «barato» no es el vocabulario correcto: es **sí o no**.
 
 **Esto es distinto de H10 (`revisiones/README.md`), que sigue abierto.** H10 es cuánto
 *dura* la obediencia antes de deshacerse — Oren minutos, la plaza cinco días, las trece
