@@ -39,6 +39,32 @@ panel que los agentes pueden escribir**, lanzando uno solo primero.
 | 2026-08-02 | Arco 1 · Keliun · 15.418 palabras | 20 | **4,25 / 8** | [resumen](2026-08-02-arco-1/resumen.md) |
 | 2026-08-09 | Arco 1 · tras pasadas 4-6 | 8 (panel reducido) + 2 (verificación) | **5,2 / 8** (estructura·personajes·sistema) | [resumen](2026-08-09-arco-1/resumen.md) |
 | 2026-08-10 | Arco 1 · tras retoques post-verificación | 8 (panel reducido) + 14 verificaciones | **≈5,7-6,0 / 8** (estructura 5,5-6,0 · personajes 5,5 · sistema 6,1 — cifra exacta pendiente de panel de cierre) | [resumen](2026-08-10-arco-1/resumen.md) |
+| 2026-08-11 | **Arco 2 · Adruin · ~9.800 palabras · panel de cierre (primera vez)** | 9 (panel reducido) | **3,75 / 8** (estructura 3,5 · personajes 3,5 · sistema 4 · mercado 4) | [resumen](2026-08-11-arco-2/resumen.md) |
+
+### 2026-08-11 · panel de cierre, arco 2 (primera vez)
+
+Muy por debajo del 5,3/8 con el que cerró el arco 1. **Los cuatro críticos, desde ángulos
+distintos, llegan a la misma causa**: el suceso del que depende el clímax del arco —que
+Adruin lleva un mes sin saber a cuál de los dos Huérfanos creerle— **no está dramatizado en
+ningún capítulo**, sólo se afirma en la escena que lo resuelve. El capítulo 1 muestra el
+papel fallando por completo con el posadero; el capítulo 6 (Yeva) da por hecho un mes de
+crisis de creencia que ningún capítulo intermedio escribió. El crítico de sistema añade la
+pieza que lo explica: `decisiones.md` § K se aplica al revés dentro del mismo arco —no
+cobra nada con dos personas resistiéndose (cap. 3) y cobra un sentido entero sin nadie
+resistiéndose (cap. 4)— porque **§ K nunca se decidió para la magia doméstica**, sólo para
+el papel usado sobre personas.
+
+Segundo hallazgo con tres fuentes independientes, esta vez de lectores: **el capítulo 5
+("Lo que cuesta") es el primer sitio del libro donde el sistema se explica en vez de
+vivirse** — dos adultos y un niño de trece años, sin coordinarse, señalan la misma tabla de
+números de Yeva. Y un tercer hallazgo, relacionado: el narrador enuncia la tesis del libro
+en el clímax (cap. 6), justo donde `decisiones.md` § M decía que no debía. Durante la
+propia espera del panel se corrigieron dos errores objetivos confirmados por tres perfiles
+cada uno (el nombre de Bern citado antes de presentarse, y la lista *Cosas que ya no tengo*
+sin crecer en la página del cap. 4) — no hizo falta esperar al agregado para arreglarlos.
+2/2 lectores niño terminan el arco; 2/2 adultos comprarían el siguiente, pero los cuatro
+dicen alguna versión de "engancha menos que el arco 1". Ver
+[resumen](2026-08-11-arco-2/resumen.md) para el detalle y la lista de qué pide esta pasada.
 
 ### 2026-08-10 · panel reducido
 
@@ -124,6 +150,21 @@ no antes: que yo crea haberlo arreglado no es que esté arreglado.
 | **H21** | Nueve perros, nueve promesas rotas en el haranu y los nueve años de Sel se reúnen en el cap. 7 sin que el narrador le deje al lector ni un parpadeo de la resonancia con el título del libro | Editor de mesa |
 
 **Los tres, reparados en la pasada 5.** H15 a medias: quedan seis prolepsis.
+
+### Hallazgos nuevos, hijos del panel del 11 de agosto (arco 2)
+
+| # | Hallazgo | Coincidencias | Estado |
+|---|---|---|---|
+| **H22** | El motor del arco 2 —dos Huérfanos, un mes de crisis de creencia en el pueblo— nunca se dramatiza. El cap. 1 muestra el papel fallando por completo; el cap. 6 afirma un mes de conflicto que ningún capítulo intermedio escribió | 4 críticos (estructura, personajes, sistema, mercado) | 🔴 decisión de fondo — requiere escribir la escena que falta (probablemente el taller de Yeva, cap. 2) |
+| **H23** | `decisiones.md` § K se aplica al revés dentro del mismo arco: no cobra con resistencia real (cap. 3, trece personas) y cobra un sentido entero sin ninguna persona resistiéndose (cap. 4, una lámpara) | 1 crítico (sistema), con auditoría textual de ambos capítulos | 🔴 decisión de fondo — § K nunca se decidió para la magia doméstica, sólo para el papel usado sobre personas |
+| **H24** | El capítulo 5 explica el sistema con una tabla de números en vez de vivirlo en escena — primer sitio del libro entero donde pasa esto | 3 lectores (2 adultos, 1 niño de 13), sin coordinarse | 🔴 abierto |
+| **H25** | El narrador enuncia la tesis del libro en el clímax (cap. 6), donde `decisiones.md` § M decía expresamente que no debía | 2 críticos (estructura, mercado) + editor de mesa | 🟡 la contradicción lógica de la frase ya se cortó en la pasada de costuras; el contenido señalado sigue ahí |
+| **H26** | El nombre «Bern» se cita en el cap. 3 antes de presentarse (recién en el cap. 5) | 3 lectores (2 niño, 1 adulto), independientes | 🟢 **cerrado el mismo día**, corregido durante la espera del panel |
+| **H27** | La lista *Cosas que ya no tengo* no crece en la página del cap. 4 pese a que ahí se pierde la tercera cosa — viola la obligación 5 de `voz.md` | 1 escritor (editor de mesa) | 🟢 **cerrado el mismo día**, corregido durante la espera del panel |
+
+**Leyenda igual que arriba.** H22-H25 son del arco 2 y decisión del usuario, no de un
+panel — ver "Lo que esto pide, en orden" en
+[resumen del 11-08](2026-08-11-arco-2/resumen.md).
 
 ### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
 
