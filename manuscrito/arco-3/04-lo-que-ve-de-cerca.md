@@ -42,7 +42,8 @@ Nea llevaba dos días sin dormir bien, y se le notaba en cómo cargaba los hombr
 la cara, que seguía siendo la misma cara de siempre.
 
 —Es la del señor Coren —dijo, esa tarde, sentada en el suelo del taller con la espalda
-contra un tronco—. La grande. La tiene que dar mañana, para la Feria.
+contra un tronco—. La grande. La tiene que dar antes de la Feria, y la Feria es en unos
+días.
 
 —¿Cuánto llevas ya?
 

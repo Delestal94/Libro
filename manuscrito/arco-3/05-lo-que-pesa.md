@@ -107,8 +107,8 @@ tienes tú.
 ---
 
 Encontraron a Diez con medio cuerpo metido dentro de un saco de semillas, en el puesto
-del final del mercado, estornudando cada tres segundos con una regularidad que ya
-empezaba a llamar la atención de los vendedores de alrededor.
+del final del mercado, estornudando con una regularidad de reloj que ya empezaba a llamar
+la atención de los vendedores de alrededor.
 
 —¡Diez!
 
@@ -133,7 +133,8 @@ de un perro que no se arrepiente de nada.
 
 —Con eso me basta para saber que es el más tonto.
 
-Sel se rió también, de verdad, la segunda vez en Yenal, y por un rato, con el vendedor
-todavía estornudando detrás de ellos y Diez oliendo el siguiente saco con una
-determinación que no auguraba nada bueno, ninguno de los dos pensó en flores, ni en
-Coren, ni en cuentas que no se pueden igualar del todo.
+Sel se rió también. Iba ya por la segunda vez en Yenal, y llevaba la cuenta sin haberlo
+decidido, de la misma forma en que contaba perros, luces, flores.
+
+Detrás de ellos, el vendedor seguía estornudando. Diez ya tenía el hocico metido en el
+saco de al lado, con la determinación de quien no ha aprendido nada y no piensa hacerlo.

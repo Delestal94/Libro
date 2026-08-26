@@ -57,6 +57,10 @@
 | **La institución no cae por la fuerza — Coren no cae.** Aguanta diez segundos, la suelta, no se disculpa ni finge que arregla todo: paga el doble en monedas, en público, y se va «un poco más despacio». Cede una cosa concreta y visible sin dejar de ser quien es | arco 3, cap. 6 | arco 3, cap. 6 | pagada |
 | «La memoria siempre la pone quien la cuida. Nunca quien la paga» (Osane, cap. 2) | arco 3, cap. 2 | arco 3, cap. 6 | pagada — sigue siendo así, pero ahora cuesta más caro serlo. Osane: «El doble de monedas no le devuelve a Nea el gusto por las mañanas ni te devuelve a ti lo que hayas perdido» |
 | Coren le pide a Nea que le diga a Osane que quiere hablar con ella esa semana | arco 3, cap. 6 | — | pendiente |
+| **La semilla de Nea, del árbol de su abuela, que sólo florece si alguien la cuida sin esperar nada.** Sel la manda a Ila con la primera carta que escribe en su vida | arco 3, cap. 7 | — | pendiente (destino: Adruin, con Ila) |
+| **Paga la promesa del arco 2: «dame algo cuando sepas qué.»** Sel decide, sin dudar, que la semilla es para Ila | arco 2, cap. 7 | arco 3, cap. 7 | pagada |
+| *Halumi ish* con método real, no con torpeza — la mujer del camino piensa de verdad la respuesta («que mi hija aprenda a leer antes que yo a olvidarme de por qué quiero que aprenda») y le desea suerte a Sel sin saber si la va a necesitar. Primera vez desde Keliun | arco 3, cap. 7 | — | pendiente |
+| **Cierre del arco: Sel cuenta flores con nombre en vez de perros o luces, y por primera vez la cuenta le sale igual** —la suya y la de Coren, las dos en la misma cabeza sin que una tape a la otra | arco 3, cap. 7 | arco 3, cap. 7 | pagada |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
