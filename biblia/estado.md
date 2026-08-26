@@ -30,10 +30,13 @@ Eterno — un vergel que florece fuera de temporada, mantenido por familias here
 Jardineros, pobres pese a sostener la riqueza de la ciudad. Viaja solo con Diez. Ila
 quedó en Adruin, en la escuela de escritura.
 
-**Ya vio, sin hablar con nadie todavía, a Nea** — una niña de once años, aprendiza de
-Jardinera, que se queda quieta con las manos en una flor exactamente como Sel se quedaba
-con la lámpara de Reta. No la conoce aún. Tiene tres días para conseguir un patrón que
-responda por él en la aduana, o lo echan de la ciudad.
+**Conoció a Nea** (11 años, tres generaciones de Jardineras en la familia) **y a Osane**
+(su abuela, la maestra Jardinera de Yenal). Osane le explicó el sistema completo sin
+adornarlo: cada flor con placa se paga dos veces — en monedas, al patrocinador; en
+memoria, a quien la abre, casi siempre Nea o su madre. *«La memoria siempre la pone quien
+la cuida. Nunca quien la paga.»* No se lo contó para que Sel lo arregle — se lo contó para
+que sepa en qué se mete si se queda. Sel todavía tiene que conseguir un patrón que
+responda por él en la aduana antes de que se cumplan los tres días, o lo echan.
 
 Lleva el papel del **Guardador de lumbre** — el segundo de su vida, y el primero elegido
 por él y no dado por un pueblo en un entierro. Dejó el Huérfano en Adruin al tomarlo,
@@ -123,7 +126,7 @@ licenciada) · Reta (con una lámpara que no sabe bien qué le costó).
 | Cosas de la lista | 3 de 5 sentidos — quedan gusto y vista |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | traer la frase · darle algo a Ila cuando sepa qué |
-| Pistas pendientes | 77 de 103 |
+| Pistas pendientes | 79 de 107 |
 
 ---
 

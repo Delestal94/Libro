@@ -37,7 +37,11 @@
 | **Yenal se ve por su color, no por sus luces.** Sel se pregunta «¿quién lo paga?» antes de ver nada de cerca — primera vez que sospecha antes de maravillarse | arco 3, cap. 1 | — | pendiente |
 | **La aduana de Yenal: sin ficha, tres días.** Primer choque de burocracia del libro — «Porque somos muchos. En Keliun cabíais todos en una plaza. Aquí no.» Plazo que estructura la urgencia del capítulo | arco 3, cap. 1 | arco 3, cap. 3 | pendiente |
 | «Hay un armario con una ficha por cada niño como él, y él no tiene ficha» (arco 1) — la ausencia empieza a costarle algo concreto por primera vez | arco 1 | arco 3, cap. 1 (efecto) | pendiente (la causa sigue sin decirse) |
-| **Nea se queda quieta un segundo con las manos en una flor.** Sel reconoce el gesto —el mismo de la lámpara de Reta, el mismo que vio en Bern— antes de saber su nombre | arco 3, cap. 1 | arco 3, cap. 2 | pendiente |
+| **Nea se queda quieta un segundo con las manos en una flor.** Sel reconoce el gesto —el mismo de la lámpara de Reta, el mismo que vio en Bern— antes de saber su nombre | arco 3, cap. 1 | arco 3, cap. 2 | pagada — «Yo hago lo mismo. Cuando cobra.» / «¿Tú también?» |
+| **«La memoria siempre la pone quien la cuida. Nunca quien la paga.»** Osane, la tesis del arco, dicha sin adornarla y sin pedir que nadie la arregle: «Eso no te lo cuento para que se te ocurra arreglarlo» | arco 3, cap. 2 | — | sembrada, pendiente de pagarse en el clímax (cap. 6) |
+| **Cada flor con placa se paga dos veces**: en monedas (al patrocinador) y en memoria (a quien la abre). Las dos van a sitios distintos y nadie iguala la cuenta | arco 3, cap. 2 | — | sembrada |
+| Osane reconoce a Sel como alguien que ya sabe que las cosas se pagan en cuanto le oye decir qué papel lleva puesto — «Eso ahorra media conversación» | arco 3, cap. 2 | — | pendiente |
+| Nea, sobre Diez: «Un perro que se llama así tiene que llevarle la contraria a todo el mundo alguna vez, o si no ¿de qué le sirve el nombre?» | arco 3, cap. 2 | — | pendiente |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
