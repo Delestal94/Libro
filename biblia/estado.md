@@ -67,6 +67,16 @@ todo el sistema sin haber podido cambiarlo — lo intentó una vez, hace veinte 
 sirvió de nada. No promete que Sel vaya a poder, pero tampoco lo descarta: «Nunca lo he
 intentado con la cabeza que tienes tú.»
 
+**El clímax ya pasó.** En la Feria, delante de todo el gremio, Sel le pidió a Coren que
+sostuviera con su propia mano, un minuto, la flor con su nombre antes de cortarla — no una
+acusación, una petición calculada para que negarse pareciera peor que aceptar. Coren
+aguantó diez segundos y la soltó. No se disculpó ni fingió arreglarlo todo: anunció en
+público que paga el doble en monedas por cada flor con su nombre, «lo que puedo dar sin
+dejar de ser quien soy». **La institución no cayó — cedió una cosa concreta y visible.**
+Le pidió a Nea que le diga a Osane que quiere hablar con ella esa semana (sin resolver
+qué). Osane: «Es la primera vez, en treinta años, que uno de ellos sostiene la flor con su
+propia mano. Eso vale algo que las monedas no valen.»
+
 **Lleva dos papeles a la vez por primera vez:** Guardador de lumbre (Adruin) y ahora
 Jardinero (Yenal) — posible porque grado 2 es gremio, no hueco único *([[decisiones]] ·
 N)*. § M sigue exigiendo uno solo puesto por escena, no dos a la vez usándose juntos.
@@ -156,7 +166,7 @@ licenciada) · Reta (con una lámpara que no sabe bien qué le costó).
 | Cosas de la lista | 4 de 5 sentidos — sólo queda la vista |
 | Nudos atados en el haranu | 2 (y sólo aguanta los que se puedan cumplir) |
 | Promesas | traer la frase · darle algo a Ila cuando sepa qué |
-| Pistas pendientes | 86 de 118 |
+| Pistas pendientes | 86 de 122 |
 
 ---
 

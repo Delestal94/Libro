@@ -52,7 +52,11 @@
 | **«Hay cuentas que no se igualan devolviendo. Sólo se igualan siendo iguales.»** Sel se niega a que Nea le devuelva nada, no por orgullo — por lo aprendido en Adruin. La relación pasa de rescatador/rescatada a iguales | arco 3, cap. 5 | — | pendiente |
 | «La próxima vez que quieras hacer una tontería así, me lo dices antes. No después de habértela hecho.» — Nea le pide a Sel algo que nadie le había pedido nunca: permiso, no gratitud | arco 3, cap. 5 | — | pendiente |
 | **Osane: treinta años sabiendo el sistema, sin poder cambiarlo.** Lo intentó una vez, hace veinte años, y el patrocinador le contestó que el precio real «era problema del gremio, no suyo». Fija la escala real de lo que el arco puede resolver antes del clímax | arco 3, cap. 5 | arco 3, cap. 6 | pendiente |
-| Osane, sobre si algo concreto sí se puede cambiar: «Eso no lo sé. Nunca lo he intentado con la cabeza que tienes tú.» Abre la puerta al clímax sin prometerlo | arco 3, cap. 5 | arco 3, cap. 6 | pendiente |
+| Osane, sobre si algo concreto sí se puede cambiar: «Eso no lo sé. Nunca lo he intentado con la cabeza que tienes tú.» Abre la puerta al clímax sin prometerlo | arco 3, cap. 5 | arco 3, cap. 6 | pagada |
+| **El clímax: Sel le pide a Coren que sostenga su propia flor un minuto antes de cortarla.** No es una acusación, es una petición calculada para que negarse parezca peor que aceptar — «Ya lo sé. Por eso se la puede sostener un minuto sin que le cueste nada.» Duelo de papeles según § L: se gana por quién aguanta | arco 3, cap. 6 | arco 3, cap. 6 | pagada |
+| **La institución no cae por la fuerza — Coren no cae.** Aguanta diez segundos, la suelta, no se disculpa ni finge que arregla todo: paga el doble en monedas, en público, y se va «un poco más despacio». Cede una cosa concreta y visible sin dejar de ser quien es | arco 3, cap. 6 | arco 3, cap. 6 | pagada |
+| «La memoria siempre la pone quien la cuida. Nunca quien la paga» (Osane, cap. 2) | arco 3, cap. 2 | arco 3, cap. 6 | pagada — sigue siendo así, pero ahora cuesta más caro serlo. Osane: «El doble de monedas no le devuelve a Nea el gusto por las mañanas ni te devuelve a ti lo que hayas perdido» |
+| Coren le pide a Nea que le diga a Osane que quiere hablar con ella esa semana | arco 3, cap. 6 | — | pendiente |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |
 | Ila ve el lasharil del cementerio y sabe lo que significa. No se lo dice | cap. 7 | — | pendiente |
