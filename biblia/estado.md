@@ -27,6 +27,14 @@ sólo la muerte de Vessa (maestra de sarand) y el cierre del Conservatorio — n
 dos cosas resoluble con papeles ni con coste. Decisión de fondo: la lista de los cinco
 sentidos **no se toca** en este arco — lo que se pierde aquí es mortalidad, no magia.
 
+**Capítulo 1 cerrado.** Adalur no tiene aduana con guardias: una caja automática registra
+la entrada, las calles se limpian solas, y la música sale de «cajas de eco» que reproducen
+cualquier pieza sin fallo ni costura — Sel desconfía de que nada cueste nada. Conoció a
+**Talia** (14 años, toca el sarand en la calle, sin público, mientras una caja de eco a
+quince pasos junta gente que sólo mira). Se rió de verdad por primera vez desde Ossin, con
+Diez de único público fiel de Talia. Ella lo lleva al **Conservatorio**: catorce aulas
+cerradas con llave, tres alumnos, una maestra — **Vessa** —, y un cierre sin fecha.
+
 ---
 
 ## Dónde están
