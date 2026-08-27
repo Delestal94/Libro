@@ -65,6 +65,10 @@
 | **El rescoldo, visto sin nombrarlo:** un frasco de color apagado pasando de mano en mano, deprisa, con miedo. Sel reconoce el patrón de «alguien lo está pagando» antes de saber qué es | arco 4, cap. 1 | arco 4, cap. 2 | pendiente |
 | **Sel sonríe de verdad por primera vez desde Yenal**, sin que nadie se lo provoque a propósito, con el único chiste de todo el capítulo («El perro no cuenta si no muerde a nadie») | arco 4, cap. 1 | — | pendiente (H38, corregido a propósito) |
 | **Mira y Tobal.** Ella con piedras pintadas de colores en vez de muñecas; él calculando qué quiere todo el que llega. «Eso es querer algo» — primera línea de Tobal, y ya dice quién es | arco 4, cap. 1 | — | pendiente |
+| **El rescoldo, explicado sin sentarse, en movimiento (cargando cubos de agua).** «Memoria de otro. Embotellada.» Sale de la fábrica de Dench, que saca memoria en vez de dinero a quien debe más de lo que puede pagar | arco 4, cap. 2 | — | pendiente |
+| **Tobal roba rescoldo ya producido para dárselo a quien no puede pagarlo** — «No arreglamos nada. Sólo repartimos mejor lo que ya se gastó mal» — y así Mira no ha tenido que producir el suyo. Le quedan uno o dos años | arco 4, cap. 2 | — | pendiente |
+| El padre de Tobal se lo enseñó a robar, «antes de que se lo llevaran a él por robar de más» | arco 4, cap. 2 | — | pendiente |
+| Tobal se ríe de verdad dos veces en la misma tarde, por primera vez desde que Sel lo conoce — con Mira y la piedra que se come Diez | arco 4, cap. 2 | — | pendiente |
 | **Cierre del arco, reescrito el 12-08 (H33): Sel no mira atrás a contar, por primera vez.** Se palpa el callo nuevo de las manos (el Jardinero) y busca el hueco donde llevaba el Guardador — no vacío, sólo distinto, «como el hueco que deja un diente que se cae solo». Sigue caminando hacia delante en vez de detenerse: «mirar atrás y contar es lo que se hace cuando todavía no se sabe cargar con lo que se lleva. Esta vez lo sabía» | arco 3, cap. 7 | arco 3, cap. 7 | pagada |
 | Lo que Anu le dice a Ila al oído al despedirse | cap. 7 | — | pendiente |
 | Ila entiende lo del `-in` y `-esh` mejor que Sel, y calla | cap. 7 | — | pendiente |

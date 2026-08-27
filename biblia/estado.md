@@ -29,12 +29,14 @@ Jardinero** (tomado en Yenal, soltando el Guardador de lumbre — uno a la vez, 
 sigue en Adruin, en la escuela de escritura; le mandó una semilla con la primera carta que
 escribió en su vida.
 
-**Capítulo 1 cerrado.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
+**Capítulos 1-2 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
 donde nadie mira a los guardias a la cara — miedo real a la autoridad, no papeleo molesto.
-Vio, sin nombrarlo, el primer trato de rescoldo (un frasco de color apagado pasando de
-mano en mano con miedo). Conoció a **Mira** (6-7 años, juega con piedras pintadas) y
-**Tobal** (14-15, su hermano, receloso: «Eso es querer algo»). Tres días para conseguir
-patrón, o lo echan — mismo plazo que Yenal, dicho ya con cansancio, no con sorpresa.
+Conoció a **Mira** (6-7 años, piedras pintadas) y **Tobal** (14-15, su hermano). **Tobal
+le explicó el rescoldo** —memoria de otro, embotellada, sacada por la fábrica de Dench a
+quien debe más de lo que puede pagar— sin sentarse, cargando cubos de agua. **Roba
+rescoldo ya producido para dárselo a quien no puede pagarlo**, y así Mira, que tiene seis,
+no ha tenido que producir el suyo — le quedan uno o dos años. Sel lo vio robar de verdad:
+oficio (paciencia, manos rápidas), no magia. Tres días para conseguir patrón, o lo echan.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -110,7 +112,7 @@ un testigo (Nea).
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 93 de 131 |
+| Pistas pendientes | 97 de 135 |
 
 ---
 
