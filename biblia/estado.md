@@ -10,94 +10,52 @@
 `revisiones/2026-08-12-arco-3/resumen.md`). El fallo de fondo (Sel nunca tomaba el papel
 del Jardinero) quedó reparado y verificado.
 
-**Arco 4 (Ossin) — cerrado en primera escritura**, siete capítulos, pendiente de costuras
-y panel. § O demostrado: al borde exacto de poder forzar a Dench para salvar a Tobal
-(§ K cobraría la vista, el único sentido de reserva que quedaba), Sel elige no hacerlo y
-encuentra otra salida. La vista sigue intacta. Lección aplicada antes de escribir el
-arco 5: tres revisores del arco 3 vieron la fórmula «pueblo → rival → mentor sentado que
-explica el coste → poderoso que se ablanda» repetida por tercera vez — el arco 4 ya rompió
-esa forma (Yura enseña en movimiento, el clímax es una decisión interna, no una escena
-pública); el arco 5 necesita su propia forma distinta, decidida al escaletarlo.
+**Arco 4 (Ossin) — cerrado del todo**, dos rondas de corrección tras el panel (4/8 de
+media; ver `revisiones/2026-08-27-arco-4/resumen.md`). § O demostrado: al borde exacto de
+poder forzar a Dench para salvar a Tobal, Sel elige no hacerlo y encuentra otra salida.
 
-**Momento:** otoño del 1200, entrando en Adalur. Sel viaja solo con Diez, grado 4, hacia el
-arco 5 — «Adalur, el Conservatorio», tema «arte a mano donde ya no hace falta», papel el
-Músico, grado 4 · Saturada. Escaleta completa en `manuscrito/arco-5/00-escaleta.md`. Es el
-arco donde, por diseño, **Sel no puede ayudar**: no hay villano ni institución que ceda,
-sólo la muerte de Vessa (maestra de sarand) y el cierre del Conservatorio — ninguna de las
-dos cosas resoluble con papeles ni con coste. Decisión de fondo: la lista de los cinco
-sentidos **no se toca** en este arco — lo que se pierde aquí es mortalidad, no magia.
+**Arco 5 (Adalur, el Conservatorio) — cerrado en primera escritura**, siete capítulos,
+pendiente de costuras y panel. Es el arco donde, por diseño, **Sel no puede ayudar**: no
+hay villano ni institución que ceda, sólo la muerte de Vessa (maestra de sarand) y el
+cierre económico del Conservatorio, ninguna de las dos cosas resoluble con papeles ni con
+coste. Sel tomó el Músico (soltando el Ladrón) y lo soltó de nuevo en el clímax, sin
+dárselo a nadie, para que Talia tocara su propia versión imperfecta — coste real y visible
+en la escena. Vessa murió esa noche, después del concierto. **Sel sale sin ningún papel
+puesto, primera vez en el libro.** Le preguntó qué soñaba (variación de *halumi ish*) y no
+supo contestar — pregunta abierta para el arco 6. La lista de sentidos no se tocó: la
+pérdida de este arco es mortalidad, no magia. Detalle completo en
+`manuscrito/arco-5/00-escaleta.md`.
 
-**Capítulo 1 cerrado.** Adalur no tiene aduana con guardias: una caja automática registra
-la entrada, las calles se limpian solas, y la música sale de «cajas de eco» que reproducen
-cualquier pieza sin fallo ni costura — Sel desconfía de que nada cueste nada. Conoció a
-**Talia** (14 años, toca el sarand en la calle, sin público, mientras una caja de eco a
-quince pasos junta gente que sólo mira). Se rió de verdad por primera vez desde Ossin, con
-Diez de único público fiel de Talia. Ella lo lleva al **Conservatorio**: catorce aulas
-cerradas con llave, tres alumnos, una maestra — **Vessa** —, y un cierre sin fecha.
-
-**Capítulo 2 cerrado.** Vessa toca fallando siempre la misma nota, a propósito («no está
-mal, está puesta ahí»). Conoció a **Farel**, el director — no hay villano que convencer, el
-Conservatorio cierra porque ya no entra nadie a matricularse, sin decisión de nadie que
-tomar. Esa noche vio a Vessa toser y apoyarse en una pared: **se está muriendo** («despacio,
-que es la única velocidad en que se puede»), y el temblor de las manos «va antes que el
-resto». El reloj del arco deja de ser el Conservatorio y pasa a ser ella.
-
-**Capítulo 3 cerrado. Sel soltó el Ladrón y tomó el Músico** (verificado en texto: «Así se
-lleva el Músico», Vessa) — variante nueva de la fórmula de soltar/tomar, sin repetir las
-palabras de Osane ni de Yura. Tocó en la plaza con el papel puesto, perfecto, y se dejó
-llevar por la atención sin darse cuenta de que le quitaba a Talia su único público esa
-tarde — **fallo real, por su propia culpa, sin disculparse en la misma frase.** Talia no lo
-perdonó del todo: «Mañana toco yo sola en esa esquina. Tú puedes tocar en otra.»
-
-**Capítulo 4 cerrado.** Sel se ganó el sitio con Talia en gesto, no en palabras. Se reveló
-de quién es la nota que Vessa falla a propósito: su hermano, que se equivocó ahí una noche
-y a la gente le gustó más así — establece por qué ningún papel ni caja de eco puede
-sustituirla (da la técnica, no la razón). Vessa le preguntó a Sel qué sueña, variación de
-*halumi ish*; no supo contestar. **Farel anunció el cierre: en cinco días, con concierto de
-despedida.** Vessa insiste en tocar ella misma, pese al temblor.
-
-**Capítulo 5 cerrado. Vessa colapsó de verdad**, físicamente — el corazón cansado, sin cura
-posible: ningún papel ni hueco sirve para esto (§ F: memoria, no vida). Sel le pidió a
-Farel una manera de salvar el Conservatorio y no la hay — se fue sin haber vencido a nadie,
-por primera vez sin palanca que mover. Decidió no tocar con el papel en el concierto,
-aprendiendo del error del cap. 3: sonaría perfecto, pero no sabe qué hace falta esta vez, y
-sabe que no es eso.
-
-**Capítulo 6 cerrado — el clímax.** Sel soltó el Músico entre bastidores, sin dárselo a
-nadie (§ M no permite pasar un papel de mano en mano — queda sin dueño), para que Talia
-tocara su propia versión. El coste fue real y visible en la escena: el vacío le llegó a las
-manos mientras todavía las necesitaba, y tuvo que contenerse físicamente —uñas clavadas en
-la palma— sin poder arreglar nada si algo salía mal, por primera vez sin ninguna
-herramienta que usar. Talia tocó imperfecta, de verdad, sin red mágica; no fue un triunfo.
-**Vessa murió esa noche, después del concierto, no durante** — nadie la salvó, no había
-manera. Sel sale del arco **sin ningún papel puesto, la primera vez en el libro.**
+**Momento:** otoño del 1200, saliendo de Adalur. Sel viaja solo con Diez, grado 4, hacia el
+arco 6 — **«Casa»**, tema «seguir vivo», papel **el Padre**, grado 0 · Yerma
+(`manuscrito/00-escaleta.md`) — el cierre del círculo de grados (0→1→2→3→4→0). «Casa» es,
+por diseño del mapa maestro, **Keliun**: el pueblo del que salió, donde queda uno de los
+dos nudos del haranu sin cumplir todavía («volver»). Escaleta del arco 6 sin escribir.
 
 ---
 
 ## Dónde están
 
-**Sel viaja lejos de Ossin**, solo con Diez, grado 3, **llevando el papel del Ladrón**
-(soltó el Jardinero para tomarlo, uno a la vez, § M) — con una grieta abierta y conocida:
-le gusta demasiado robar, y lo sabe. Ila sigue en Adruin, en la escuela de escritura; le
-mandó una semilla con la primera carta que escribió en su vida.
+**Sel viaja lejos de Adalur**, solo con Diez, grado 4, **sin ningún papel puesto** — la
+primera vez en el libro. Ila sigue en Adruin, en la escuela de escritura.
+
+**Adalur, resuelto sin que nada se salve (arco 5, 7 capítulos):** conoció a **Talia** (14
+años, música callejera) y a **Vessa** (maestra de sarand, muriéndose). Tomó el Músico,
+falló por vanidad opacando a Talia (regla 3, por su propia culpa), se ganó su sitio de
+vuelta en gesto. Vessa murió tras el concierto de despedida — Sel soltó el Músico para que
+Talia tocara su propia versión imperfecta, sin poder arreglar nada si salía mal. El
+Conservatorio cerró sin ninguna concesión: la primera derrota del libro que no es culpa de
+Sel y tampoco se arregla por eso. Se despidió con un trozo de cuerda rota, inútil a
+propósito, y con la pregunta de Vessa sin contestar: *¿qué sueña?*
 
 **Ossin, resuelto sin que la mafia cayera por la fuerza (arco 4, 7 capítulos):** conoció a
-**Mira** (6-7 años, piedras pintadas) y **Tobal** (14-15, su hermano, roba rescoldo —
-memoria de otro, embotellada, sacada por la fábrica de Dench a quien debe más de lo que
-puede pagar— para que Mira no tenga que producir el suyo). Conoció a **Yura**, jefa del
-gremio de Ladrones. Vio de cerca cómo se produce el rescoldo y a **el hombre del cordón
-negro** perdiendo su memoria en tiempo real. Su propia grieta causó un daño real: presumió
-del golpe y eso llevó a que atraparan a Tobal (fallo por su propia culpa, regla 3). En el
-clímax, con Dench resistiéndose con toda su voluntad y § K a punto de cobrar la vista, Sel
-eligió no forzarlo — robó los libros de cuentas de Dench y se los enseñó a sus propios
-hombres, que soltaron a Tobal por decisión propia. Dench sigue siendo dueño de su fábrica,
-y deja una amenaza abierta sobre Yura y su gremio, no sobre Sel («esto no se acaba aquí […]
-me acuerdo de las caras») — Sel se lo cuenta a Yura esa misma noche, sin poder hacer más.
-**La vista sigue intacta.** Tobal se enteró (por Yura) de que fue Sel quien filtró el golpe
-en el mercado, y no lo perdonó del todo antes de la despedida — «todavía no. Puede que en
-un año. Hoy no» — aunque le creyó lo de Dench. Se
-despidió con una piedra sin pintar de Mira y una pregunta de Tobal contestada: «Porque
-entonces yo sería la fábrica.»
+**Mira** (6-7 años, piedras pintadas) y **Tobal** (14-15, su hermano, roba rescoldo para
+que Mira no tenga que producir el suyo). Conoció a **Yura**, jefa del gremio de Ladrones.
+Presumió del golpe y eso llevó a que atraparan a Tobal (fallo por su propia culpa). En el
+clímax, con Dench resistiéndose con toda su voluntad, Sel eligió no forzarlo — robó los
+libros de cuentas y se los enseñó a los propios hombres de Dench, que soltaron a Tobal por
+decisión propia. Dench sigue dueño de su fábrica y deja una amenaza abierta sobre Yura y su
+gremio. **La vista sigue intacta.** Tobal no lo perdonó del todo antes de la despedida.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -126,7 +84,8 @@ aprenda a llevar su libro antes de que él falte.
 ## Qué lleva encima
 
 **Sel** (9 años) — gorro, cuchillo de Tarin, pan de Anu (ya no le sabe a nada) · la hoja
-de frases tachadas · la página de Ila, doblada, sin leer.
+de frases tachadas · la página de Ila, doblada, sin leer · la piedra sin pintar de Mira ·
+un trozo de cuerda rota de Vessa, guardado por no servir para nada.
 
 ## La lista
 
@@ -165,6 +124,7 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 **Adruin:** Ila (escuela) · Bern (aprendiz de Yeva) · Yeva · Reta.
 **Yenal:** Nea · Osane · Coren (pagando el doble, hablando con Osane esta semana).
 **Ossin:** Mira · Tobal · Yura · el hombre del cordón negro · Dench, dueño de su fábrica.
+**Adalur:** Talia (sigue tocando en la calle) · Farel · Vessa (muerta).
 
 ## Contadores
 
@@ -174,7 +134,7 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 102 de 154 |
+| Pistas pendientes | 111 de 178 |
 
 ---
 

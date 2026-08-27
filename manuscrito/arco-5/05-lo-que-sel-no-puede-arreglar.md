@@ -1,7 +1,7 @@
 # Lo que Sel no puede arreglar
 
-Vessa estaba a mitad de una frase —«pon el arco más recto, no dejes que caiga solo»—
-cuando dejó de terminarla.
+Dos días antes del concierto, Vessa estaba a mitad de una frase —«pon el arco más recto,
+no dejes que caiga solo»— cuando dejó de terminarla.
 
 No se cayó de golpe, como se cae alguien en las historias. Se dobló despacio, primero por
 la cintura, después por las rodillas, con el sarand todavía sujeto contra el pecho como si
