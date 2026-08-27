@@ -49,6 +49,13 @@ llevar por la atención sin darse cuenta de que le quitaba a Talia su único pú
 tarde — **fallo real, por su propia culpa, sin disculparse en la misma frase.** Talia no lo
 perdonó del todo: «Mañana toco yo sola en esa esquina. Tú puedes tocar en otra.»
 
+**Capítulo 4 cerrado.** Sel se ganó el sitio con Talia en gesto, no en palabras. Se reveló
+de quién es la nota que Vessa falla a propósito: su hermano, que se equivocó ahí una noche
+y a la gente le gustó más así — establece por qué ningún papel ni caja de eco puede
+sustituirla (da la técnica, no la razón). Vessa le preguntó a Sel qué sueña, variación de
+*halumi ish*; no supo contestar. **Farel anunció el cierre: en cinco días, con concierto de
+despedida.** Vessa insiste en tocar ella misma, pese al temblor.
+
 ---
 
 ## Dónde están
