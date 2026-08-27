@@ -42,6 +42,13 @@ tomar. Esa noche vio a Vessa toser y apoyarse en una pared: **se está muriendo*
 que es la única velocidad en que se puede»), y el temblor de las manos «va antes que el
 resto». El reloj del arco deja de ser el Conservatorio y pasa a ser ella.
 
+**Capítulo 3 cerrado. Sel soltó el Ladrón y tomó el Músico** (verificado en texto: «Así se
+lleva el Músico», Vessa) — variante nueva de la fórmula de soltar/tomar, sin repetir las
+palabras de Osane ni de Yura. Tocó en la plaza con el papel puesto, perfecto, y se dejó
+llevar por la atención sin darse cuenta de que le quitaba a Talia su único público esa
+tarde — **fallo real, por su propia culpa, sin disculparse en la misma frase.** Talia no lo
+perdonó del todo: «Mañana toco yo sola en esa esquina. Tú puedes tocar en otra.»
+
 ---
 
 ## Dónde están
@@ -140,7 +147,7 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 
 | | |
 |---|---|
-| Papel que Sel lleva puesto | El Ladrón (soltó el Jardinero para tomarlo — uno a la vez, § M) |
+| Papel que Sel lleva puesto | El Músico (soltó el Ladrón para tomarlo — uno a la vez, § M) |
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
