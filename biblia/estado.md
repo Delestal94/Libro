@@ -6,27 +6,28 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Arco 3 (Yenal) — reparado tras el primer panel (3,5/8, luego revisiones el 12-08).**
-7 capítulos, ~8.200 palabras. El panel encontró el fallo de fondo — Sel nunca tomaba
-ningún papel, pese a ser «el arco del Jardinero» — y se corrigió reescribiendo la escena
-central del cap. 4 y el cierre del cap. 6 y el cap. 7. Pendiente: segunda verificación con
-el mismo crítico antes de dar el arco por cerrado del todo.
+**Arco 3 (Yenal) — cerrado**, tras tres rondas de panel (3,5 → ~4,4/8 de media; ver
+`revisiones/2026-08-12-arco-3/resumen.md`). El fallo de fondo (Sel nunca tomaba el papel
+del Jardinero) quedó reparado y verificado. Lección aplicada al arco 4 antes de escribirlo:
+tres revisores independientes vieron la fórmula «pueblo → rival → mentor sentado que
+explica el coste → poderoso que se ablanda» repetida por tercera vez — la escaleta del
+arco 4 ya se ajustó para no repetirla (ver nota del 12-08 ahí dentro).
 
-**Siguiente, tras verificar:** arco 4. Escaleta ya escrita en
-`manuscrito/arco-4/00-escaleta.md` (Ossin, el Fondo) — a revisar si sigue encajando
-después de los cambios de hoy.
+**Arco 4 en marcha.** Escaleta completa en `manuscrito/arco-4/00-escaleta.md` (Ossin, el
+Fondo; grado 3, Industrial; papel el Ladrón). Decisión de fondo ya tomada: § O — Sel no
+gasta el quinto sentido (la vista) en este arco; llega al borde de tener que forzar a
+alguien y elige no hacerlo.
 
-**Momento:** otoño del 1200. Sel sale de Yenal solo con Diez, camino a grado 3.
+**Momento:** otoño del 1200. Sel llega a Ossin solo con Diez, grado 3.
 
 ---
 
 ## Dónde están
 
-**Sel viaja solo con Diez**, saliendo de Yenal, **llevando el papel del Jardinero.**
-Dejó el Guardador de lumbre para tomarlo —uno a la vez, sin excepción, § M— en una escena
-real con Osane: *«Antes de nada, quítate lo que llevas puesto.»* Fue la primera vez que
-soltar algo elegido con cuidado (el Guardador, de Adruin) le costó de verdad, aunque no
-sintiera nada especial al hacerlo. Ila sigue en Adruin, en la escuela de escritura.
+**Sel acaba de llegar a Ossin**, solo con Diez, **llevando el papel del Jardinero**
+(tomado en Yenal, soltando el Guardador de lumbre — uno a la vez, § M). Ila sigue en
+Adruin, en la escuela de escritura; le mandó una semilla con la primera carta que
+escribió en su vida.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
