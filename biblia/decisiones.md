@@ -410,6 +410,13 @@ entiende lo que Yeva, Osane y el propio brindis llevaban dos arcos diciéndole: 
 siempre que puedas» **admite que hay veces en que no se puede**, y que forzar a alguien no
 es ayudarlo aunque el resultado se le parezca.
 
+**Ejecutado, cap. 6.** Dench se resiste con toda su voluntad, en voz alta, sin ninguna
+duda — el caso más claro posible de que § K cobraría. Sel deja el hueco, lo siente ceder,
+y lo suelta sin empujar. Encuentra la salida real fuera de § K por completo: roba los
+libros de cuentas de Dench y se los enseña a sus propios hombres, que sueltan a Tobal por
+decisión propia. § K queda pagado del todo — la primera vez que la no-elección es
+consciente y no una casualidad — y la vista sigue intacta al cerrar el arco.
+
 **No es que aprenda la lección y se acabe el problema.** Sigue teniendo un solo sentido de
 reserva al cerrar el arco 4. La tensión no se resuelve — se pospone con conocimiento, que
 es distinto de posponerla por suerte. Es la primera vez que la cuenta atrás dejar de ser

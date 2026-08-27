@@ -30,7 +30,7 @@ para tomarlo, uno a la vez, § M, y esta vez la despedida le dolió más porque 
 sí había llegado a quererle. Ila sigue en Adruin, en la escuela de escritura; le mandó una
 semilla con la primera carta que escribió en su vida.
 
-**Capítulos 1-5 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
+**Capítulos 1-6 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
 donde nadie mira a los guardias a la cara. Conoció a **Mira** (6-7 años, piedras pintadas)
 y **Tobal** (14-15, su hermano, roba rescoldo cada semana para que Mira no tenga que
 producir el suyo — le quedan uno o dos años). **Rescoldo:** memoria de otro, embotellada,
@@ -62,6 +62,15 @@ asustada de verdad por primera vez, le preguntó a Sel si a ella le va a tocar a
 supo mentirle ni decirle la verdad. Yura, sin saber lo que pide de verdad, le dijo a Sel
 que si tiene un modo de forzar a Dench a soltarlo, es esta misma noche. **Sel va camino de
 la fábrica** — el clímax queda planteado como decisión suya, no como pelea.
+
+**El clímax, resuelto (cap. 6): Sel no fuerza a Dench.** Dench se resiste con toda su
+voluntad, en voz alta — el caso más claro posible de que § K cobraría un canal entero (la
+vista, el único que quedaba) — y Sel deja el hueco, lo siente ceder, y lo suelta sin
+empujar. En vez de eso, roba los libros de cuentas de Dench y se los enseña a sus propios
+hombres delante de él: ven sus deudas reales, se niegan a seguir pagando, y sueltan a
+Tobal por decisión propia esa misma noche. Dench no cae por la fuerza —sigue siendo dueño
+de la fábrica al día siguiente— pero pierde a Tobal y la lealtad de sus hombres esa noche.
+**La vista sigue intacta.** § K queda pagado del todo; § O, demostrado.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -137,7 +146,7 @@ un testigo (Nea).
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 103 de 147 |
+| Pistas pendientes | 101 de 142 |
 
 ---
 
