@@ -8,69 +8,44 @@
 
 **Arco 3 (Yenal) — cerrado**, tras tres rondas de panel (3,5 → ~4,4/8 de media; ver
 `revisiones/2026-08-12-arco-3/resumen.md`). El fallo de fondo (Sel nunca tomaba el papel
-del Jardinero) quedó reparado y verificado. Lección aplicada al arco 4 antes de escribirlo:
-tres revisores independientes vieron la fórmula «pueblo → rival → mentor sentado que
-explica el coste → poderoso que se ablanda» repetida por tercera vez — la escaleta del
-arco 4 ya se ajustó para no repetirla (ver nota del 12-08 ahí dentro).
+del Jardinero) quedó reparado y verificado.
 
-**Arco 4 en marcha.** Escaleta completa en `manuscrito/arco-4/00-escaleta.md` (Ossin, el
-Fondo; grado 3, Industrial; papel el Ladrón). Decisión de fondo ya tomada: § O — Sel no
-gasta el quinto sentido (la vista) en este arco; llega al borde de tener que forzar a
-alguien y elige no hacerlo.
+**Arco 4 (Ossin) — cerrado en primera escritura**, siete capítulos, pendiente de costuras
+y panel. § O demostrado: al borde exacto de poder forzar a Dench para salvar a Tobal
+(§ K cobraría la vista, el único sentido de reserva que quedaba), Sel elige no hacerlo y
+encuentra otra salida. La vista sigue intacta. Lección aplicada antes de escribir el
+arco 5: tres revisores del arco 3 vieron la fórmula «pueblo → rival → mentor sentado que
+explica el coste → poderoso que se ablanda» repetida por tercera vez — el arco 4 ya rompió
+esa forma (Yura enseña en movimiento, el clímax es una decisión interna, no una escena
+pública); el arco 5 necesita su propia forma distinta, decidida al escaletarlo.
 
-**Momento:** otoño del 1200. Sel llega a Ossin solo con Diez, grado 3.
+**Momento:** otoño del 1200, saliendo de Ossin. Sel viaja solo con Diez, grado 3, hacia el
+arco 5 — «El conservatorio», tema «arte a mano donde ya no hace falta», papel el Músico,
+grado 4 · Saturada (`manuscrito/00-escaleta.md`). Es el arco donde, por diseño, **Sel no
+puede ayudar** — la escena que exige la cuarta línea del brindis. Escaleta todavía sin
+escribir.
 
 ---
 
 ## Dónde están
 
-**Sel está en Ossin**, grado 3 (Industrial), solo con Diez, **llevando el papel del
-Ladrón** (verificado en texto: «El Ladrón te queda bien», cap. 3) — soltó el Jardinero
-para tomarlo, uno a la vez, § M, y esta vez la despedida le dolió más porque el Jardinero
-sí había llegado a quererle. Ila sigue en Adruin, en la escuela de escritura; le mandó una
-semilla con la primera carta que escribió en su vida.
+**Sel viaja lejos de Ossin**, solo con Diez, grado 3, **llevando el papel del Ladrón**
+(soltó el Jardinero para tomarlo, uno a la vez, § M) — con una grieta abierta y conocida:
+le gusta demasiado robar, y lo sabe. Ila sigue en Adruin, en la escuela de escritura; le
+mandó una semilla con la primera carta que escribió en su vida.
 
-**Capítulos 1-6 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
-donde nadie mira a los guardias a la cara. Conoció a **Mira** (6-7 años, piedras pintadas)
-y **Tobal** (14-15, su hermano, roba rescoldo cada semana para que Mira no tenga que
-producir el suyo — le quedan uno o dos años). **Rescoldo:** memoria de otro, embotellada,
-sacada por la fábrica de Dench a quien debe más de lo que puede pagar.
-
-**Conoció a Yura**, jefa del gremio de Ladrones — enseña en movimiento, nunca sentada.
-Sel le pidió aprender a robar «para entender, no para vender». **Soltó el Jardinero y
-tomó el Ladrón esa misma noche**, con precio real: la despedida dolió más que la del
-Guardador, porque el Jardinero sí había llegado a quererle. Le roba a Yura un frasco vacío
-sin que ella lo note — primera prueba real del papel nuevo. **Primera grieta:** le gusta
-demasiado robar, y lo sabe. En el cap. 4 lo dice en voz alta, a Tobal.
-
-**Vio de cerca cómo se produce el rescoldo**, en un robo real con Tobal dentro de la
-fábrica de Dench: trabajadores marcados con un cordón según su deuda (rojo, gris, negro —
-el negro ya no sabe cuánto debe). **El hombre del cordón negro, fila tres**, pierde el
-nombre de una herramienta en tiempo real, sin drama, sin que el capataz se gire — su frasco
-es el que se llevan esa noche, y reaparece en el clímax. Tobal admite, en voz alta por
-primera vez, que odia robar y que lo seguirá haciendo igual, por Mira: «No es una decisión
-que se tome una vez. Es una que se toma todas las noches.» De madrugada, solo, Sel está a
-punto de probar el frasco robado —saber qué se siente, sólo una vez— y no lo hace: lo
-vierte en la tierra, que brilla un segundo con un color sin nombre y luego se pierde del
-todo. Primera vez que elige no usar algo que tiene en la mano sin que nadie lo esté
-mirando — la imagen del arco, y el gesto que se repite invertido en el clímax.
-
-**Tobal ha caído.** Sel presumió del golpe delante de un desconocido en el mercado —la
-primera grieta causando un daño real, por su propia culpa (regla 3)— y los hombres de
-Dench cambiaron la ronda de guardia esa semana y lo atraparon en pleno robo. Mira,
-asustada de verdad por primera vez, le preguntó a Sel si a ella le va a tocar ahora; él no
-supo mentirle ni decirle la verdad. Yura, sin saber lo que pide de verdad, le dijo a Sel
-que si tiene un modo de forzar a Dench a soltarlo, es esta misma noche. **Sel va camino de
-la fábrica** — el clímax queda planteado como decisión suya, no como pelea.
-
-**El clímax, resuelto (cap. 6): Sel no fuerza a Dench.** Dench se resiste con toda su
-voluntad, en voz alta — el caso más claro posible de que § K cobraría un canal entero (la
-vista, el único que quedaba) — y Sel deja el hueco, lo siente ceder, y lo suelta sin
-empujar. En vez de eso, roba los libros de cuentas de Dench y se los enseña a sus propios
-hombres delante de él: ven sus deudas reales, se niegan a seguir pagando, y sueltan a
-Tobal por decisión propia esa misma noche. Dench no cae por la fuerza —sigue siendo dueño
-de la fábrica al día siguiente— pero pierde a Tobal y la lealtad de sus hombres esa noche.
-**La vista sigue intacta.** § K queda pagado del todo; § O, demostrado.
+**Ossin, resuelto sin que la mafia cayera por la fuerza (arco 4, 7 capítulos):** conoció a
+**Mira** (6-7 años, piedras pintadas) y **Tobal** (14-15, su hermano, roba rescoldo —
+memoria de otro, embotellada, sacada por la fábrica de Dench a quien debe más de lo que
+puede pagar— para que Mira no tenga que producir el suyo). Conoció a **Yura**, jefa del
+gremio de Ladrones. Vio de cerca cómo se produce el rescoldo y a **el hombre del cordón
+negro** perdiendo su memoria en tiempo real. Su propia grieta causó un daño real: presumió
+del golpe y eso llevó a que atraparan a Tobal (fallo por su propia culpa, regla 3). En el
+clímax, con Dench resistiéndose con toda su voluntad y § K a punto de cobrar la vista, Sel
+eligió no forzarlo — robó los libros de cuentas de Dench y se los enseñó a sus propios
+hombres, que soltaron a Tobal por decisión propia. Dench sigue siendo dueño de su fábrica.
+**La vista sigue intacta.** Se despidió con una piedra sin pintar de Mira y una pregunta de
+Tobal contestada: «Porque entonces yo sería la fábrica.»
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -106,10 +81,10 @@ de frases tachadas · la página de Ila, doblada, sin leer.
 > *Cosas que ya no tengo.*
 > *1. Cómo sonaba. 2. A qué olía. 3. Cómo eran sus manos. 4. A qué sabían las cosas.*
 
-**Sólo queda la vista.** Tal como avisaba `decisiones.md` § K, el arco 4 es el límite
-real de la cuenta atrás — hay que decidir ahí qué pasa cuando se agote. El «4» se pagó
-igual que el «3»: elegido con conocimiento, escrito en la hoja en el momento, delante de
-un testigo (Nea).
+**Sólo queda la vista, y sigue intacta.** El arco 4 la llevó al borde exacto de gastarse
+(§ O) y Sel eligió no hacerlo — la cuenta atrás sigue en pie, sin resolverse, pero
+demostrada manejable. Queda por decidir, al escribir los arcos 5 y 6, si el libro llega a
+gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 
 ## Lo que Sel sabe
 
@@ -137,6 +112,7 @@ un testigo (Nea).
 **Keliun:** Anu · Tarin · los hermanos de Ila con su padre · el del molino · Oren.
 **Adruin:** Ila (escuela) · Bern (aprendiz de Yeva) · Yeva · Reta.
 **Yenal:** Nea · Osane · Coren (pagando el doble, hablando con Osane esta semana).
+**Ossin:** Mira · Tobal · Yura · el hombre del cordón negro · Dench, dueño de su fábrica.
 
 ## Contadores
 
@@ -146,7 +122,7 @@ un testigo (Nea).
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 101 de 142 |
+| Pistas pendientes | 102 de 146 |
 
 ---
 
