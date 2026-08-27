@@ -25,18 +25,23 @@ alguien y elige no hacerlo.
 ## Dónde están
 
 **Sel está en Ossin**, grado 3 (Industrial), solo con Diez, **llevando el papel del
-Jardinero** (tomado en Yenal, soltando el Guardador de lumbre — uno a la vez, § M). Ila
-sigue en Adruin, en la escuela de escritura; le mandó una semilla con la primera carta que
-escribió en su vida.
+Ladrón** (verificado en texto: «El Ladrón te queda bien», cap. 3) — soltó el Jardinero
+para tomarlo, uno a la vez, § M, y esta vez la despedida le dolió más porque el Jardinero
+sí había llegado a quererle. Ila sigue en Adruin, en la escuela de escritura; le mandó una
+semilla con la primera carta que escribió en su vida.
 
-**Capítulos 1-2 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
-donde nadie mira a los guardias a la cara — miedo real a la autoridad, no papeleo molesto.
-Conoció a **Mira** (6-7 años, piedras pintadas) y **Tobal** (14-15, su hermano). **Tobal
-le explicó el rescoldo** —memoria de otro, embotellada, sacada por la fábrica de Dench a
-quien debe más de lo que puede pagar— sin sentarse, cargando cubos de agua. **Roba
-rescoldo ya producido para dárselo a quien no puede pagarlo**, y así Mira, que tiene seis,
-no ha tenido que producir el suyo — le quedan uno o dos años. Sel lo vio robar de verdad:
-oficio (paciencia, manos rápidas), no magia. Tres días para conseguir patrón, o lo echan.
+**Capítulos 1-3 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
+donde nadie mira a los guardias a la cara. Conoció a **Mira** (6-7 años, piedras pintadas)
+y **Tobal** (14-15, su hermano, roba rescoldo cada semana para que Mira no tenga que
+producir el suyo — le quedan uno o dos años). **Rescoldo:** memoria de otro, embotellada,
+sacada por la fábrica de Dench a quien debe más de lo que puede pagar.
+
+**Conoció a Yura**, jefa del gremio de Ladrones — enseña en movimiento, nunca sentada.
+Sel le pidió aprender a robar «para entender, no para vender». **Soltó el Jardinero y
+tomó el Ladrón esa misma noche**, con precio real: la despedida dolió más que la del
+Guardador, porque el Jardinero sí había llegado a quererle. Le roba a Yura un frasco vacío
+sin que ella lo note — primera prueba real del papel nuevo. **Primera grieta:** le gusta
+demasiado robar, y lo sabe.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -108,11 +113,11 @@ un testigo (Nea).
 
 | | |
 |---|---|
-| Papel que Sel lleva puesto | El Jardinero (soltó el Guardador de lumbre para tomarlo — uno a la vez, § M) |
+| Papel que Sel lleva puesto | El Ladrón (soltó el Jardinero para tomarlo — uno a la vez, § M) |
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 97 de 135 |
+| Pistas pendientes | 99 de 138 |
 
 ---
 
