@@ -24,10 +24,17 @@ alguien y elige no hacerlo.
 
 ## Dónde están
 
-**Sel acaba de llegar a Ossin**, solo con Diez, **llevando el papel del Jardinero**
-(tomado en Yenal, soltando el Guardador de lumbre — uno a la vez, § M). Ila sigue en
-Adruin, en la escuela de escritura; le mandó una semilla con la primera carta que
+**Sel está en Ossin**, grado 3 (Industrial), solo con Diez, **llevando el papel del
+Jardinero** (tomado en Yenal, soltando el Guardador de lumbre — uno a la vez, § M). Ila
+sigue en Adruin, en la escuela de escritura; le mandó una semilla con la primera carta que
 escribió en su vida.
+
+**Capítulo 1 cerrado.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
+donde nadie mira a los guardias a la cara — miedo real a la autoridad, no papeleo molesto.
+Vio, sin nombrarlo, el primer trato de rescoldo (un frasco de color apagado pasando de
+mano en mano con miedo). Conoció a **Mira** (6-7 años, juega con piedras pintadas) y
+**Tobal** (14-15, su hermano, receloso: «Eso es querer algo»). Tres días para conseguir
+patrón, o lo echan — mismo plazo que Yenal, dicho ya con cansancio, no con sorpresa.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -103,7 +110,7 @@ un testigo (Nea).
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 88 de 126 |
+| Pistas pendientes | 93 de 131 |
 
 ---
 
