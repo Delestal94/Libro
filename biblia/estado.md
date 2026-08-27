@@ -19,11 +19,13 @@ explica el coste → poderoso que se ablanda» repetida por tercera vez — el a
 esa forma (Yura enseña en movimiento, el clímax es una decisión interna, no una escena
 pública); el arco 5 necesita su propia forma distinta, decidida al escaletarlo.
 
-**Momento:** otoño del 1200, saliendo de Ossin. Sel viaja solo con Diez, grado 3, hacia el
-arco 5 — «El conservatorio», tema «arte a mano donde ya no hace falta», papel el Músico,
-grado 4 · Saturada (`manuscrito/00-escaleta.md`). Es el arco donde, por diseño, **Sel no
-puede ayudar** — la escena que exige la cuarta línea del brindis. Escaleta todavía sin
-escribir.
+**Momento:** otoño del 1200, entrando en Adalur. Sel viaja solo con Diez, grado 4, hacia el
+arco 5 — «Adalur, el Conservatorio», tema «arte a mano donde ya no hace falta», papel el
+Músico, grado 4 · Saturada. Escaleta completa en `manuscrito/arco-5/00-escaleta.md`. Es el
+arco donde, por diseño, **Sel no puede ayudar**: no hay villano ni institución que ceda,
+sólo la muerte de Vessa (maestra de sarand) y el cierre del Conservatorio — ninguna de las
+dos cosas resoluble con papeles ni con coste. Decisión de fondo: la lista de los cinco
+sentidos **no se toca** en este arco — lo que se pierde aquí es mortalidad, no magia.
 
 ---
 

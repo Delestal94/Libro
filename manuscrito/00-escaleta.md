@@ -94,7 +94,12 @@ por escaletar. Lo único fijo:
   deja de ser escasez (como el arco 2) y pasa a ser complicidad: Sel puede tomar el
   Jardinero sin quitárselo a nadie, y el conflicto es si debe, sabiendo lo que cuesta y a
   quién. Detalle completo en `manuscrito/arco-3/00-escaleta.md`.
-- **Arco 5:** aquí es donde Sel **no puede ayudar**. Es la escena que exige la cuarta
-  línea del brindis.
+- **Arco 5:** Adalur, el Conservatorio. Escaletado el 27 de agosto de 2026, con autonomía
+  completa. Aquí es donde Sel **no puede ayudar**: no hay institución que ceda ni villano
+  que convencer, sólo la muerte de Vessa (maestra del sarand) y el cierre económico del
+  Conservatorio, ninguna de las dos cosas resoluble con papeles, coerción ni coste. Sel
+  toma y suelta el Músico dentro del propio arco, y sale sin ningún papel puesto — primera
+  vez en el libro. La lista de los cinco sentidos no se toca: lo que se pierde aquí es
+  mortalidad, no magia. Detalle completo en `manuscrito/arco-5/00-escaleta.md`.
 - **Arco 6:** toma el papel del Padre y completa la frase. El narrador habla por
   primera vez como él mismo, y sólo en la última línea.
