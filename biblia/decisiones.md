@@ -422,6 +422,30 @@ reserva al cerrar el arco 4. La tensión no se resuelve — se pospone con conoc
 es distinto de posponerla por suerte. Es la primera vez que la cuenta atrás dejar de ser
 sólo una amenaza y pasa a ser una elección posible de tomar bien.
 
+---
+
+## P · El rescoldo es § F, y por eso no se puede devolver · *(27 de agosto de 2026)*
+
+El panel del arco 4 (crítico de sistema) encontró una grieta real: si «la memoria no se
+olvida de quién era, aunque esté embotellada», eso sugiere que el rescoldo se le podría
+devolver a quien se lo sacaron — lo cual convertiría el gesto central del arco (Sel
+vertiendo un frasco robado en la tierra en vez de intentar devolverlo) en una opción entre
+varias, no en la única salida decente.
+
+**No se puede devolver. Nunca.** El rescoldo es exactamente la tecnología de § F —memoria
+de gente recordada, gastada al usarla— robada de la fábrica de Dench y sin control de
+dosis, y § F ya tenía la regla dura 2 desde `mundo.md`: **todo cuesta memoria, y lo
+gastado no vuelve.** Eso no cambia porque el gasto sea robado en vez de legítimo. Lo único
+que puede hacerse con un frasco de rescoldo es beberlo (dárselo a otra persona, que sentirá
+un rato lo que no es suyo) o verterlo sin que nadie lo beba (perderlo del todo, sin que
+nadie reciba nada). No existe una tercera opción donde vuelve a su dueño.
+
+La línea de Yura en el cap. 3 se reescribió para no sugerir lo contrario: ya no habla de
+«devolverlo si alguien lo reclama», habla de **saber en nombre de quién se reparte** —
+que alguien, algún día, pueda confirmar que se acordaron de esa persona mientras su
+memoria circulaba, no que la memoria misma vaya a volver. Es la misma lógica que sostiene
+*halumi ish*: no se arregla la pérdida, se atestigua que hubo alguien.
+
 ### Lo que esto fija para los arcos 5 y 6
 
 - El arco 5 («aquí es donde Sel no puede ayudar») encaja mejor si ya sabemos, desde el

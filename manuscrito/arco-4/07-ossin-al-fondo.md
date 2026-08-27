@@ -24,24 +24,52 @@ Tobal salió con dos tazas, sin ofrecer una explicación de dónde las había sa
 sentó en el escalón sin decir nada durante un rato largo, mirando a Sel de una manera que
 no había usado antes con él.
 
-—Yura me lo contó —dijo, al final—. Lo que hiciste. Lo que casi hiciste.
+—Yura me lo contó —dijo, al final—. Todo. Lo del mercado también.
 
-Sel no contestó enseguida. Se quedó con la taza entre las manos, sin beber, notando el
-calor a través del barro.
+Sel no dijo nada. Llevaba dos días evitando pensar en cómo iba a sonar eso dicho en voz
+alta por otra persona.
 
-—No hizo falta —dijo.
+—Se lo contaste a un desconocido —dijo Tobal, sin levantar la voz, lo cual era peor que
+si la hubiera levantado—. Y esa semana me atraparon. Esa cuenta la sé hacer yo solo.
 
-—Eso no es lo que te estoy preguntando. —Tobal dejó la taza en el escalón, entre los dos—.
-Tenías el poder de forzarlo. De hacer que me soltara sin más vueltas. ¿Por qué no lo
-hiciste?
+—Lo sé.
+
+—No te pregunté si lo sabes. Ya sé que lo sabes. Te estoy diciendo que lo sé yo.
+
+Se quedaron los dos callados un rato largo, con las tazas enfriándose entre las manos.
+Sel no encontró ninguna frase que arreglara eso, y Tobal tampoco dijo que estuviera bien,
+porque no lo estaba.
+
+—No te voy a decir que te perdono —dijo Tobal, al final—. Todavía no. Puede que en un
+año. Hoy no.
+
+—Está bien.
+
+—No, no está bien. Pero te vas de todas formas, así que da lo mismo.
+
+---
+
+—¿Y lo de Dench? —preguntó Tobal, al rato, con la voz ya un poco más baja—. Eso también
+me lo contó. Que tenías el poder de forzarlo y no lo usaste.
+
+—No hizo falta.
+
+—Ésa no es la pregunta. Tenías el poder. ¿Por qué no lo usaste?
 
 Sel pensó en el hueco. En Dench diciendo que no con toda la voluntad que tenía. En el
 hombre del cordón negro olvidando el nombre de una herramienta sin que nadie se girara.
 
 —Porque entonces yo sería la fábrica —dijo.
 
-Tobal no le pidió que se lo explicara mejor, y Sel se lo agradeció, porque no estaba
-seguro de poder hacerlo sin que sonara peor de lo que era.
+Tobal se quedó mirándolo un momento largo, y algo en su cara se movió, no del todo hacia
+el perdón, pero sí hacia otro sitio distinto de donde había estado el resto de la
+conversación.
+
+—Eso no arregla lo del mercado —dijo.
+
+—No.
+
+—Pero te creo —dijo Tobal, y fue lo más parecido a una tregua que le dio esa mañana.
 
 ---
 
@@ -53,12 +81,12 @@ Mira se había ido a buscar más piedras a algún sitio que sólo ella conocía.
 —Ya lo sé. Te lo pregunto por Dench.
 
 —Sigue en su fábrica. Va a seguir sacando lo mismo mañana. —Sel se quedó mirando el humo
-de las chimeneas, que a esa hora del día se veía casi blanco—. No arreglé nada. Sólo salvé
-una cosa.
+de las chimeneas, que a esa hora del día se veía casi blanco—. No arreglé nada. Salvé una
+cosa. Debería sentirse más grande de lo que se siente.
 
-—Yura dice lo mismo de lo que hacemos nosotros —dijo Tobal, y por primera vez desde que
-Sel lo conocía, sonó a alguien que había hecho las paces con eso, no a alguien resignado—.
-No arreglamos nada. Repartimos mejor lo que ya se gastó mal.
+—Así se siente siempre —dijo Tobal, y por primera vez desde que Sel lo conocía sonó a
+alguien que había hecho las paces con eso, no a alguien resignado—. Yo llevo tres años
+sintiéndome así. Se le coge el gusto a que sea suficiente, aunque no lo sea del todo.
 
 —¿Y te basta con eso?
 
@@ -112,8 +140,8 @@ segundo de más—, y no lo había hecho, y por primera vez desde que empezó a 
 sintió que le sobraba algo, no por no haber pagado, sino por haber podido pagar y elegir no
 hacerlo.
 
-Se guardó la mano en el bolsillo, junto a la piedra sin pintar, y siguió mirando las luces
-hasta que el sueño le ganó antes que el camino.
+Se guardó la mano en el bolsillo, junto a la piedra sin pintar, y pensó que una piedra sin
+pintar y unos ojos que todavía veían las dos luces de una ciudad eran, esa noche,
+exactamente la misma cosa: algo que podría haberse gastado y no se había gastado.
 
-Cuatro cosas perdidas y una entera de sobra: así se lleva un libro cuando ya se sabe
-llevarlo.
+Se quedó mirando las luces hasta que el sueño le ganó antes que el camino.

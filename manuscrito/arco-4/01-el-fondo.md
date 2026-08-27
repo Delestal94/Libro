@@ -94,22 +94,28 @@ Caminó hasta que las calles rectas empezaron a torcerse, a estrecharse, a oler 
 y entendió, sin que nadie se lo dijera, que había llegado al sitio donde vivía la gente
 que hacía funcionar Ossin sin que Ossin la mirara.
 
-En una esquina, dos personas se pasaron algo pequeño de una mano a otra, deprisa, casi sin
-tocarse, mirando a los dos lados de la calle antes y después.
+En una esquina, un hombre le pasó algo pequeño a una chica que no tendría más de trece
+años, deprisa, casi sin tocarse, mirando a los dos lados de la calle antes y después.
 
 Sel no llegó a ver bien qué era. Un frasco, quizás, pequeño, con algo dentro que no
 brillaba como el color de las flores de Yenal ni como nada que hubiera visto encender
 nunca. Un color apagado, casi triste, como si a la luz misma le diera vergüenza estar ahí.
 
-Las dos personas se separaron sin decirse nada más, cada una para su lado, con la misma
-prisa con la que se separa la gente que acaba de hacer algo que no quiere que nadie haya
-visto.
+La chica no esperó a llegar a ningún sitio. Se lo bebió ahí mismo, de espaldas a la calle,
+y durante un momento —tres respiraciones, cuatro— puso una cara que no era la suya: los
+ojos entornados de otra persona, la boca sonriendo de un modo que a la chica no le
+pertenecía. Después el frasco se le cayó de la mano, vacío, y volvió a ser ella, con una
+cara mucho más cansada que antes de beberlo.
 
-Sel se quedó mirando el sitio donde ya no estaban.
+El hombre ya se había ido. Ella se quedó un momento apoyada en la pared, respirando, y
+luego siguió su camino con la misma prisa con la que se separa la gente que acaba de
+hacer algo que no quiere que nadie haya visto.
+
+Sel se quedó mirando el sitio donde ya no estaba.
 
 No sabía qué acababa de ver. Sabía, con la misma certeza vieja de la pared limpia encima
 de una lámpara, que fuera lo que fuera, alguien lo estaba pagando, y que el que pagaba no
-era el que se lo había vendido a la niña de la calle.
+era la que se lo acababa de beber.
 
 ---
 

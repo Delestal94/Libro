@@ -18,7 +18,7 @@ nunca se acaba el sitio.
 | `biblia/voz.md` | **Entero, siempre.** Es el contrato. Sin esto la escena no suena al libro |
 | `biblia/estado.md` | Dónde está todo. Sustituye a leerse lo anterior |
 | `biblia/personajes/<los que salgan>.md` | Sólo los que aparecen. Dos o tres |
-| `biblia/pistas.md` | **Sólo las filas de este capítulo y las pendientes que toquen** |
+| `biblia/pistas.md` | **Sólo las filas de este capítulo y las pendientes que toquen** — usa Grep por «cap. N» / «arco X», no lo leas entero: la tabla crece con cada arco |
 | El final del texto anterior | Los últimos ~40 renglones. Para que la juntura pegue |
 
 **No cargues el manuscrito entero.** Si crees que lo necesitas, es que la hoja de escena

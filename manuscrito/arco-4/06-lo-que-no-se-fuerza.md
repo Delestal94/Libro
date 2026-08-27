@@ -88,32 +88,27 @@ costados, sin apretar nada, sin poner ninguna cara, y dejó el hueco.
 ---
 
 Dench lo notó. Sel se dio cuenta de que lo notaba por cómo cambió la respiración, un poco
-más corta, un poco más rápida, la misma que había visto en Oren, en la plaza, en Coren
-delante de la flor de Nea.
+más corta, un poco más rápida, la misma que había visto en Oren, y en la plaza, aquel
+domingo de las trece puertas.
 
 Pero esta vez fue distinto. Dench no dudó. No buscó ninguna salida en la cara de Sel. Se
 quedó plantado donde estaba, con toda la voluntad puesta en un solo sitio, y dijo, en voz
 alta, clara, sin ninguna grieta:
 
-—No. No voy a soltarlo. Y sé exactamente lo que estás intentando hacer, y no va a
-funcionar, porque lo estoy pensando con toda la cabeza que tengo: no.
+—No. No voy a soltarlo. No.
 
 Sel sintió el filo de la balanza justo ahí, tan cerca que le pareció que podía tocarlo con
 la mano que tenía suelta a un costado. Un empujón más. Uno solo. Dench cedería, porque
 nadie que se resiste con tanta fuerza consciente puede sostenerlo mucho más, y Tobal
-saldría esa misma noche, y nadie en el mundo sabría nunca que Sel había tenido que forzar
-nada, porque el hueco no deja marca en quien lo recibe, sólo en quien lo usa.
+saldría esa misma noche. Y Dench se iría a dormir sin saber nunca del todo por qué había
+cambiado de idea, cargando una decisión que no entendería y de la que se avergonzaría un
+poco, cada vez que pensara en ella, el resto de su vida.
 
 Pensó en el hombre del cordón negro, olvidando el nombre de una herramienta sin que nadie
 se girara a mirarlo. Pensó en la tierra, brillando un segundo con un color sin nombre,
 tragándose lo que ya no era de nadie.
 
-Y entendió, con la claridad completa que sólo llega en el peor momento posible, que forzar
-a Dench ahora mismo, con Dench resistiéndose así, sería exactamente lo que la fábrica
-llevaba tres años haciéndoles a sus trabajadores: sacarles algo sin su permiso porque quien
-lo saca tiene con qué y quien lo pierde no tiene cómo impedirlo.
-
-Cerró las manos. Dejó de sostener el hueco.
+No hizo falta pensar nada más. Cerró las manos. Dejó de sostener el hueco.
 
 —Ya —dijo, en voz baja, y no supo si se lo decía a Dench o a sí mismo—. Tienes razón. No
 va a funcionar.
@@ -128,10 +123,14 @@ sobre las mismas paredes de siempre, y pensó que tenía todavía una cosa que D
 había ofrecido y que él no le había pedido: tiempo, y un oficio que se le estaba dando
 demasiado bien.
 
-Encontró el despacho de Dench vacío —había bajado a comprobar algo abajo, se oían sus
-pasos en la escalera de metal, lejos todavía— y encima de la mesa, sin ninguna cerradura
-que valiera nada contra unas manos como las suyas, tres libros gruesos, con tapas de cuero
-gastado por el uso, no por los años.
+Abajo, alguien gritó algo sobre un carro que se había quedado atascado en la puerta de
+carga, y Dench bajó a resolverlo él mismo, como resolvía todo lo que en su fábrica salía
+de lo previsto. Sel oyó sus pasos alejarse por la escalera de metal y contó, sin
+proponérselo, cuánto tiempo le daba eso.
+
+El despacho quedó vacío. Encima de la mesa, sin ninguna cerradura que valiera nada contra
+unas manos como las suyas, había tres libros gruesos, con tapas de cuero gastado por el
+uso, no por los años.
 
 Los abrió. No hizo falta más de una página para entender lo que eran: cada nombre, cada
 deuda, cada fecha, y una columna al lado, más estrecha, con una marca que Sel reconoció
@@ -144,8 +143,15 @@ El hombre del cordón negro estaba ahí. Debía, según la última columna, meno
 había debido dos años antes. Debía, según la columna de al lado, ya no lo bastante para
 que le sirviera de nada saberlo.
 
-Sel cerró el libro, se lo metió bajo la camisa, y bajó las escaleras detrás de los pasos de
-Dench, contando los escalones sin darse cuenta de que los estaba contando otra vez.
+Sel cerró el libro y se lo metió bajo la camisa justo cuando los pasos de Dench volvían a
+subir, más rápido de lo que habían bajado. No le dio tiempo a salir por donde había
+entrado: se quedó quieto detrás de la puerta, con el libro contra el pecho, notando el
+propio corazón más alto que los pasos, hasta que Dench cruzó el despacho sin mirar la
+mesa —dos veces vacía esa noche, dos veces sin que él lo notara— y siguió de largo hacia
+otra parte de la fábrica.
+
+Sólo entonces bajó, contando los escalones sin darse cuenta de que los estaba contando
+otra vez.
 
 ---
 
@@ -174,7 +180,7 @@ entendió que lo que pasaba ahí ya no lo necesitaba a él para seguir pasando.
 
 ---
 
-Dench no gritó. No amenazó a nadie. Se quedó en la puerta, viendo a sus propios hombres
+Dench no gritó delante de sus hombres. Se quedó en la puerta, viendo a sus propios hombres
 hacer cuentas que él llevaba años haciendo por ellos y para él, y cuando el joven del
 principio dijo, sin mirarlo, «yo no voy a vigilar nada esta noche», nadie lo contradijo.
 
@@ -182,10 +188,18 @@ Tobal salió del sótano media hora después, sin que nadie se lo pidiera a Denc
 escoltado —si es que se le podía llamar así— por los mismos hombres que lo habían atrapado
 esa tarde, que ahora no parecían tener ninguna prisa en devolverlo a su sitio de guardia.
 
-Dench seguía en la puerta de su despacho, arriba, mirando el patio, sin decir nada. Al día
-siguiente iba a seguir siendo el dueño de la fábrica. Las máquinas iban a seguir sacando lo
-mismo que sacaban. Nadie de los que estaban ahí esa noche iba a contárselo a la ciudad como
-una victoria, porque no lo era.
+Dench esperó a que sus hombres se dispersaran para hablarle a Sel, y lo hizo bajo, sólo
+para él, con la voz otra vez tranquila.
+
+—Esto no se acaba aquí. No esta noche, quizá no este año. Pero me acuerdo de las caras.
+—No había ninguna amenaza gritada en cómo lo dijo, y por eso mismo sonó más cierto—. La
+próxima vez que alguien de tu gremio se cruce conmigo, no va a tener la suerte de que
+esté yo delante para negociar.
+
+Al día siguiente Dench iba a seguir siendo el dueño de la fábrica. Las máquinas iban a
+seguir sacando lo mismo que sacaban. Nadie de los que estaban ahí esa noche iba a
+contárselo a la ciudad como una victoria, porque no lo era, y ahora había, además, una
+cuenta abierta que Sel se llevaba de Ossin sin haber podido cerrarla.
 
 Pero Tobal caminaba, y Sel tenía los dos ojos intactos, y eso, esa noche, era todo lo que
 había ido a buscar.

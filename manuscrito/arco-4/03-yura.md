@@ -44,16 +44,17 @@ molesta más que todo lo demás junto.
 
 —¿Por qué te molesta más?
 
-—Porque si no sé de quién es, no sé a quién dárselo si algún día alguien lo reclama. Y
-alguien siempre reclama, tarde o temprano. La memoria no se olvida de quién era, aunque
-esté embotellada.
+—Porque no sé en nombre de quién lo estoy repartiendo. Eso no se devuelve, ¿eh? No hay
+manera de meterlo otra vez donde estaba. Pero algún día alguien pregunta por él, y yo
+quiero poder decir que sí, que alguien se acordó, aunque sea un desconocido bebiéndoselo
+en una noche mala.
 
 Siguió trabajando, repartiendo frascos en montones que a Sel le costaba entender, hasta
 que se detuvo un momento, con uno en la mano, y lo miró de verdad por primera vez desde
 que había entrado.
 
-—Nosotros no arreglamos nada robando esto —dijo—. No creas que sí. Sólo repartimos mejor
-lo que ya se gastó mal. Dench sigue sacando lo mismo mañana, con o sin nosotros.
+—Esto no arregla nada, si es lo que estás pensando —dijo—. Dench sigue sacando lo mismo
+mañana, con o sin nosotros.
 
 —¿Entonces para qué sirve?
 
@@ -108,6 +109,18 @@ Esta vez sí sintió algo: un vacío concreto, del tamaño de una flor que no ib
 abrir con esas manos.
 
 —Ya está —dijo Yura, sin necesidad de que Sel se lo confirmara—. Ahora sí.
+
+Le puso las dos manos en los hombros, un segundo, no más, con la misma seriedad con la
+que había clasificado frascos toda la tarde.
+
+—Esto es lo que sé hacer —dijo—. Tómalo si lo quieres tomar. No va a servirte de nada si
+lo llevas puesto sin querer llevarlo.
+
+Sel buscó el mismo hueco donde antes estaba el Jardinero, todavía tibio de haberlo
+vaciado, y esta vez, en lugar de sólo notar lo que faltaba, alcanzó hacia lo que Yura le
+ofrecía y lo dejó asentarse ahí. No fue como aprender. Fue más parecido a que una
+herramienta encajara en una mano que nunca la había sostenido y aun así supiera cerrarse
+alrededor del mango.
 
 ---
 

@@ -41,6 +41,34 @@ panel que los agentes pueden escribir**, lanzando uno solo primero.
 | 2026-08-10 | Arco 1 · tras retoques post-verificación | 8 (panel reducido) + 14 verificaciones | **≈5,7-6,0 / 8** (estructura 5,5-6,0 · personajes 5,5 · sistema 6,1 — cifra exacta pendiente de panel de cierre) | [resumen](2026-08-10-arco-1/resumen.md) |
 | 2026-08-11 | **Arco 2 · Adruin · ~9.800 palabras · panel de cierre (primera vez)** | 9 (panel reducido) | **3,75 / 8** (estructura 3,5 · personajes 3,5 · sistema 4 · mercado 4) | [resumen](2026-08-11-arco-2/resumen.md) |
 | 2026-08-12 | **Arco 3 · Yenal · ~8.500 palabras · panel de cierre, tres rondas** | 9 (panel reducido) × 2 rondas + arreglos de criterio propio | **≈4,4 / 8** (estructura 3,5→4,5 · personajes 4 · sistema 5,5 · mercado 3,75) | [resumen](2026-08-12-arco-3/resumen.md) |
+| 2026-08-27 | **Arco 4 · Ossin, el Fondo · ~7.700 palabras · panel de cierre, una ronda** | 9 (panel reducido) + una ronda de corrección de criterio propio | **4 / 8** (estructura 3 · personajes 4,5 · sistema 5 · mercado 3,5) | [resumen](2026-08-27-arco-4/resumen.md) |
+
+### 2026-08-27 · panel de cierre, arco 4 (una ronda)
+
+**El hallazgo más fuerte de todo el proyecto hasta ahora, por unanimidad casi total:** 8 de
+9 perfiles, sin coordinarse, señalaron la misma causa raíz — **Sel no pierde nada en todo
+el arco.** Llega a Ossin con todo y sale con todo: su fallo (presumir del golpe, causa real
+de la caída de Tobal) se disculpa en la misma frase que lo acusa, Yura lo absuelve en
+cuatro réplicas, Tobal no se entera de que fue él quien filtró la información, y el clímax
+(robar los libros de cuentas de Dench) se resolvía en media página sin fricción, después de
+anunciarse como imposible durante siete capítulos. El crítico de mercado lo dijo más claro
+que nadie: «en siete capítulos no hay una sola cosa que Sel tenga al llegar a Ossin y no
+tenga al salir». Nota inicial: **4/8** de media.
+
+A diferencia del arco 3, que necesitó tres rondas porque los primeros arreglos introdujeron
+fallos nuevos, esta vez la convergencia fue tan alta y tan específica que permitió cerrarlo
+en una sola ronda dirigida a la causa exacta: se reescribió el cierre para que Tobal se
+entere del todo de la traición del mercado y no perdone del todo en la despedida («todavía
+no. Puede que en un año. Hoy no»); Dench deja, antes de que Sel se vaya, una amenaza abierta
+y sin cerrar sobre el gremio; y se cortó la línea de Dench reconociendo «el hueco», apoyando
+la decisión de no forzarlo en una regla ya establecida (`mundo.md`, regla dura 3) en vez de
+en un mecanismo inventado sobre la marcha. También se corrigió una grieta de sistema real
+—el rescoldo, tal como estaba descrito, sugería que la memoria se le podía devolver a quien
+se la sacaron, lo cual contradice § F— con una decisión nueva (`decisiones.md` § P: el
+rescoldo es § F robado, y lo gastado no vuelve, nunca). Ver
+[resumen del 27-08](2026-08-27-arco-4/resumen.md) para el detalle completo, incluidos los
+hilos que quedaron abiertos a propósito (qué significa que Dench «use» a quien atrapa; el
+deseo propio de Tobal de robar sin la rabia de su padre).
 
 ### 2026-08-12 · panel de cierre, arco 3 (tres rondas)
 
@@ -219,6 +247,24 @@ de un panel. Ver "Lo que esto pide, en orden" en
 **Leyenda igual que arriba.** H35, H38 y H39 son decisiones de diseño o ambigüedades
 dejadas abiertas a propósito, no bugs pendientes de arreglar. Ver
 [resumen del 12-08](2026-08-12-arco-3/resumen.md) para el detalle completo.
+
+### Hallazgos nuevos, hijos del panel del 27 de agosto (arco 4)
+
+| # | Hallazgo | Coincidencias | Estado |
+|---|---|---|---|
+| **H40** | Sel no pierde nada en todo el arco — llega a Ossin con todo y sale con todo; su fallo se disculpa en la misma frase que lo acusa y Tobal nunca se entera de la traición del mercado; el clímax se resuelve en media página sin fricción | 8 de 9 perfiles (los 4 críticos, el escritor y los 4 lectores, en alguna forma) | 🟢 **cerrado.** Cap. 7 reescrito: Tobal se entera del todo y no perdona en la despedida. Cap. 6: fricción real en el robo de los libros y amenaza abierta de Dench que Sel se lleva sin cerrar |
+| **H41** | «Sólo repartimos mejor lo que ya se gastó mal» repetida casi literal en boca de Tobal (cap. 2), Yura (cap. 3) y Tobal otra vez (cap. 7) | 6 perfiles (2 críticos, escritor implícito, 3 lectores) | 🟢 **cerrado.** Queda una sola vez, cap. 2; caps. 3 y 7 reescritos con voz propia |
+| **H42** | Dench reconoce «el hueco» sin justificación previa («sé exactamente lo que estás intentando hacer»), rompiendo credibilidad | lector-adulto-01 | 🟢 **cerrado**, línea cortada |
+| **H43** | El rescoldo, tal como estaba descrito («la memoria no se olvida de quién era»), sugería que se le podía devolver a quien se la sacaron — contradice § F (lo gastado no vuelve) | crítico de sistema | 🟢 **cerrado.** `decisiones.md` § P añadido; línea de Yura (cap. 3) reescrita |
+| **H44** | Cap. 3 escribía el soltar del Jardinero pero no el tomar del Ladrón — H31 del arco 3, en forma más suave | crítico de sistema | 🟢 **cerrado**, escena de toma añadida |
+| **H45** | Referente roto en cap. 1: «la niña de la calle» sin que la escena describiera a ninguna niña | escritor (editor de mesa) | 🟢 **cerrado**, y aprovechado para añadir la primera consumidora de rescoldo vista de cerca del arco |
+| **H46** | Última línea del arco («así se lleva un libro cuando ya se sabe llevarlo») rompía el contrato de voz — el narrador llamando «libro» a la propia historia | escritor (editor de mesa) | 🟢 **cerrado**, reescrita en la cabeza de Sel, sin narrador de más |
+| **H47** | Cero consumidores de rescoldo en escena, en un arco de tema «mafia y adicción» — contra la regla 2 de `el-protagonista.md` | crítico de personajes | 🟢 **cerrado** junto con H45 |
+| **H48** | «Dench no mata a los que atrapa, los usa. Eso puede ser peor» — promesa que el arco no llega a cobrar; Tobal sale sin marcas | crítico de mercado, crítico de personajes | 🔴 **abierto a propósito** — hilo para más adelante, como Coren/Osane en el arco 3 |
+| **H49** | El deseo propio de Tobal («ser otra clase de ladrón que su padre, sin su rabia») no vuelve a tocarse dentro del arco | crítico de personajes | 🔴 **abierto a propósito** — semilla, no resto |
+
+**Leyenda igual que arriba.** H48 y H49 son hilos dejados abiertos a propósito. Ver
+[resumen del 27-08](2026-08-27-arco-4/resumen.md) para el detalle completo.
 
 ### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
 

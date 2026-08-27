@@ -43,9 +43,13 @@ negro** perdiendo su memoria en tiempo real. Su propia grieta causó un daño re
 del golpe y eso llevó a que atraparan a Tobal (fallo por su propia culpa, regla 3). En el
 clímax, con Dench resistiéndose con toda su voluntad y § K a punto de cobrar la vista, Sel
 eligió no forzarlo — robó los libros de cuentas de Dench y se los enseñó a sus propios
-hombres, que soltaron a Tobal por decisión propia. Dench sigue siendo dueño de su fábrica.
-**La vista sigue intacta.** Se despidió con una piedra sin pintar de Mira y una pregunta de
-Tobal contestada: «Porque entonces yo sería la fábrica.»
+hombres, que soltaron a Tobal por decisión propia. Dench sigue siendo dueño de su fábrica,
+y se queda con una amenaza abierta sobre el gremio de Yura («esto no se acaba aquí»), coste
+real que Sel se lleva sin poder cerrarlo. **La vista sigue intacta.** Tobal se enteró (por
+Yura) de que fue Sel quien filtró el golpe en el mercado, y no lo perdonó del todo antes de
+la despedida — «todavía no. Puede que en un año. Hoy no» — aunque le creyó lo de Dench. Se
+despidió con una piedra sin pintar de Mira y una pregunta de Tobal contestada: «Porque
+entonces yo sería la fábrica.»
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -122,7 +126,7 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 102 de 146 |
+| Pistas pendientes | 102 de 154 |
 
 ---
 
