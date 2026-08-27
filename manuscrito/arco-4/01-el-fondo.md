@@ -97,9 +97,9 @@ que hacía funcionar Ossin sin que Ossin la mirara.
 En una esquina, un hombre le pasó algo pequeño a una chica que no tendría más de trece
 años, deprisa, casi sin tocarse, mirando a los dos lados de la calle antes y después.
 
-Sel no llegó a ver bien qué era. Un frasco, quizás, pequeño, con algo dentro que no
-brillaba como el color de las flores de Yenal ni como nada que hubiera visto encender
-nunca. Un color apagado, casi triste, como si a la luz misma le diera vergüenza estar ahí.
+Sel no llegó a ver bien qué era. Un frasco, quizás, pequeño, con algo dentro de un color
+que no supo nombrar en ese momento ni después: apagado, casi avergonzado, como si no
+quisiera que nadie se fijara en él.
 
 La chica no esperó a llegar a ningún sitio. Se lo bebió ahí mismo, de espaldas a la calle,
 y durante un momento —tres respiraciones, cuatro— puso una cara que no era la suya: los

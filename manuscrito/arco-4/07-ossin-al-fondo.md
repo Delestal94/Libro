@@ -80,9 +80,11 @@ Mira se había ido a buscar más piedras a algún sitio que sólo ella conocía.
 
 —Ya lo sé. Te lo pregunto por Dench.
 
-—Sigue en su fábrica. Va a seguir sacando lo mismo mañana. —Sel se quedó mirando el humo
-de las chimeneas, que a esa hora del día se veía casi blanco—. No arreglé nada. Salvé una
-cosa. Debería sentirse más grande de lo que se siente.
+—Sigue en su fábrica. Va a seguir sacando lo mismo mañana, y dijo que esto no se acaba
+aquí. —Sel se quedó mirando el humo de las chimeneas, que a esa hora del día se veía casi
+blanco—. Se lo dije a Yura anoche mismo, antes de venir aquí. No sé si sirve de algo saber
+que alguien se acuerda de tu cara, pero es lo único que tenía para darle. No arreglé nada.
+Salvé una cosa. Debería sentirse más grande de lo que se siente.
 
 —Así se siente siempre —dijo Tobal, y por primera vez desde que Sel lo conocía sonó a
 alguien que había hecho las paces con eso, no a alguien resignado—. Yo llevo tres años
@@ -134,11 +136,16 @@ pierna, a esperar a que las piernas dejaran de dolerle antes de seguir.
 Se llevó la mano a la cara, sin necesidad, y se tapó un ojo, y luego el otro, comprobando
 que las luces de Ossin seguían ahí con los dos, exactamente iguales, exactamente enteras.
 
-No había gastado nada. Podría haberlo hecho —lo había tenido tan cerca que todavía sentía
-el filo de esa cercanía en la mano, como el mango de una herramienta que se sostiene un
+No había gastado la vista. Eso sí lo tenía intacto. Se llevaba otras cosas de Ossin que no
+estaban en esa lista y no se veían tapándose un ojo: un hermano que todavía no lo
+perdonaba del todo, un hombre que se acordaba de su cara y de la de Yura. Ninguna de las
+dos se borraba tapándose nada.
+
+Pero la vista sí. Podría haberla gastado —la había tenido tan cerca que todavía sentía el
+filo de esa cercanía en la mano, como el mango de una herramienta que se sostiene un
 segundo de más—, y no lo había hecho, y por primera vez desde que empezó a perder cosas
-sintió que le sobraba algo, no por no haber pagado, sino por haber podido pagar y elegir no
-hacerlo.
+sintió que en algo, al menos, le sobraba: no por no haber pagado nunca, sino por haber
+podido pagar esa vez y elegir no hacerlo.
 
 Se guardó la mano en el bolsillo, junto a la piedra sin pintar, y pensó que una piedra sin
 pintar y unos ojos que todavía veían las dos luces de una ciudad eran, esa noche,

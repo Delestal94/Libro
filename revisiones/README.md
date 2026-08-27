@@ -41,7 +41,7 @@ panel que los agentes pueden escribir**, lanzando uno solo primero.
 | 2026-08-10 | Arco 1 · tras retoques post-verificación | 8 (panel reducido) + 14 verificaciones | **≈5,7-6,0 / 8** (estructura 5,5-6,0 · personajes 5,5 · sistema 6,1 — cifra exacta pendiente de panel de cierre) | [resumen](2026-08-10-arco-1/resumen.md) |
 | 2026-08-11 | **Arco 2 · Adruin · ~9.800 palabras · panel de cierre (primera vez)** | 9 (panel reducido) | **3,75 / 8** (estructura 3,5 · personajes 3,5 · sistema 4 · mercado 4) | [resumen](2026-08-11-arco-2/resumen.md) |
 | 2026-08-12 | **Arco 3 · Yenal · ~8.500 palabras · panel de cierre, tres rondas** | 9 (panel reducido) × 2 rondas + arreglos de criterio propio | **≈4,4 / 8** (estructura 3,5→4,5 · personajes 4 · sistema 5,5 · mercado 3,75) | [resumen](2026-08-12-arco-3/resumen.md) |
-| 2026-08-27 | **Arco 4 · Ossin, el Fondo · ~7.700 palabras · panel de cierre, una ronda** | 9 (panel reducido) + una ronda de corrección de criterio propio | **4 / 8** (estructura 3 · personajes 4,5 · sistema 5 · mercado 3,5) | [resumen](2026-08-27-arco-4/resumen.md) |
+| 2026-08-27 | **Arco 4 · Ossin, el Fondo · ~7.800 palabras · panel de cierre, dos rondas** | 9 (panel reducido) + 3 verificadores + 2 rondas de corrección | **4 / 8** inicial → verificado 5/8 (personajes), 3/8 (estructura, mitad del hallazgo cerrada en 2ª ronda) | [resumen](2026-08-27-arco-4/resumen.md) |
 
 ### 2026-08-27 · panel de cierre, arco 4 (una ronda)
 

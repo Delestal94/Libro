@@ -6,12 +6,14 @@ rápido que había aprendido, lo poco que le había costado ya la segunda vez.
 
 No se lo contó a Tobal. Se lo contó a un desconocido que vendía cordones y agujas en un
 puesto pequeño, porque el hombre le había preguntado de dónde había sacado las manos tan
-rápidas y a Sel, que llevaba tres arcos entero perdiendo cosas, le gustó tener algo que
-contar en vez de algo que callar.
+rápidas, y a Sel nadie le había preguntado nunca eso con esa admiración, y no hizo falta
+más para que se le soltara la lengua. No tenía ninguna necesidad de contestar. Contestó
+porque le gustó cómo sonaba.
 
 El hombre de los cordones sonrió, le dijo que tenía buena mano, y siguió cosiendo.
 
-Sel no volvió a pensar en él hasta que fue demasiado tarde para que sirviera de algo.
+Sel no volvió a pensar en él hasta que fue demasiado tarde para que sirviera de algo, y
+para entonces ya no había ninguna excusa que buscarle: nadie lo había obligado a hablar.
 
 ---
 

@@ -44,10 +44,11 @@ del golpe y eso llevó a que atraparan a Tobal (fallo por su propia culpa, regla
 clímax, con Dench resistiéndose con toda su voluntad y § K a punto de cobrar la vista, Sel
 eligió no forzarlo — robó los libros de cuentas de Dench y se los enseñó a sus propios
 hombres, que soltaron a Tobal por decisión propia. Dench sigue siendo dueño de su fábrica,
-y se queda con una amenaza abierta sobre el gremio de Yura («esto no se acaba aquí»), coste
-real que Sel se lleva sin poder cerrarlo. **La vista sigue intacta.** Tobal se enteró (por
-Yura) de que fue Sel quien filtró el golpe en el mercado, y no lo perdonó del todo antes de
-la despedida — «todavía no. Puede que en un año. Hoy no» — aunque le creyó lo de Dench. Se
+y deja una amenaza abierta sobre Yura y su gremio, no sobre Sel («esto no se acaba aquí […]
+me acuerdo de las caras») — Sel se lo cuenta a Yura esa misma noche, sin poder hacer más.
+**La vista sigue intacta.** Tobal se enteró (por Yura) de que fue Sel quien filtró el golpe
+en el mercado, y no lo perdonó del todo antes de la despedida — «todavía no. Puede que en
+un año. Hoy no» — aunque le creyó lo de Dench. Se
 despidió con una piedra sin pintar de Mira y una pregunta de Tobal contestada: «Porque
 entonces yo sería la fábrica.»
 

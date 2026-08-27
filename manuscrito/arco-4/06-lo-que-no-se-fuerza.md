@@ -114,7 +114,10 @@ No hizo falta pensar nada más. Cerró las manos. Dejó de sostener el hueco.
 va a funcionar.
 
 Dench lo miró un momento de más, sin entender del todo lo que acababa de pasar delante de
-él, y se giró hacia la puerta de su despacho sin decir nada más.
+él, y se giró hacia la puerta de su despacho sin decir nada más. Iba tranquilo, con el paso
+de alguien que acaba de ganar una discusión, no de alguien al que le hayan sacado algo sin
+pedirlo — y esa misma tranquilidad, Sel lo entendió después, era lo único que le iba a
+hacer falta.
 
 ---
 
@@ -124,9 +127,12 @@ había ofrecido y que él no le había pedido: tiempo, y un oficio que se le est
 demasiado bien.
 
 Abajo, alguien gritó algo sobre un carro que se había quedado atascado en la puerta de
-carga, y Dench bajó a resolverlo él mismo, como resolvía todo lo que en su fábrica salía
-de lo previsto. Sel oyó sus pasos alejarse por la escalera de metal y contó, sin
-proponérselo, cuánto tiempo le daba eso.
+carga, y Dench bajó a resolverlo él mismo, sin prisa de más, como resolvía todo lo que en
+su fábrica salía de lo previsto — un hombre seguro de haber dicho que no y de que nadie
+había podido hacer nada al respecto no se para a comprobar cerraduras al bajar. Un hombre
+al que le hubieran sacado ese mismo «no» sin preguntarle habría bajado dudando de todo,
+mirando atrás, cerrando con llave lo que normalmente dejaba abierto. Sel oyó sus pasos
+alejarse por la escalera de metal y contó, sin proponérselo, cuánto tiempo le daba eso.
 
 El despacho quedó vacío. Encima de la mesa, sin ninguna cerradura que valiera nada contra
 unas manos como las suyas, había tres libros gruesos, con tapas de cuero gastado por el
@@ -146,9 +152,9 @@ que le sirviera de nada saberlo.
 Sel cerró el libro y se lo metió bajo la camisa justo cuando los pasos de Dench volvían a
 subir, más rápido de lo que habían bajado. No le dio tiempo a salir por donde había
 entrado: se quedó quieto detrás de la puerta, con el libro contra el pecho, notando el
-propio corazón más alto que los pasos, hasta que Dench cruzó el despacho sin mirar la
-mesa —dos veces vacía esa noche, dos veces sin que él lo notara— y siguió de largo hacia
-otra parte de la fábrica.
+propio corazón más alto que los pasos, hasta que Dench cruzó el despacho sin mirar la mesa
+ni una sola vez —el mismo hombre tranquilo de hacía un minuto, sin ninguna razón para
+desconfiar de su propio despacho— y siguió de largo hacia otra parte de la fábrica.
 
 Sólo entonces bajó, contando los escalones sin darse cuenta de que los estaba contando
 otra vez.
@@ -198,8 +204,9 @@ esté yo delante para negociar.
 
 Al día siguiente Dench iba a seguir siendo el dueño de la fábrica. Las máquinas iban a
 seguir sacando lo mismo que sacaban. Nadie de los que estaban ahí esa noche iba a
-contárselo a la ciudad como una victoria, porque no lo era, y ahora había, además, una
-cuenta abierta que Sel se llevaba de Ossin sin haber podido cerrarla.
+contárselo a la ciudad como una victoria, porque no lo era, y la amenaza no era para Sel
+—Sel se iba a ir de Ossin— sino para Yura, para Tobal, para todos los que se quedaban.
+Dench se acordaba de las caras, y las caras que se quedaban no eran la suya.
 
 Pero Tobal caminaba, y Sel tenía los dos ojos intactos, y eso, esa noche, era todo lo que
 había ido a buscar.

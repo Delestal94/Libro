@@ -107,14 +107,44 @@ critico-01, critico-02, critico-04, lector-nino-01, lector-nino-05, lector-adult
   de lo planeado. Se documenta como patrón a vigilar en el arco 5, no se alarga
   artificialmente aquí.
 
+## Ronda de verificación (mismo día) y segunda corrección
+
+Se lanzaron 3 verificadores (critico-01-estructura, critico-02-personajes, lector-nino-01),
+cada uno releyendo sólo su informe anterior y los capítulos tocados. El lector niño confirmó
+el cierre sin reservas. Los dos críticos confirmaron la mitad del hallazgo central (Tobal se
+entera y no perdona del todo) pero encontraron que **la otra mitad seguía sin cerrarse**:
+
+- El clímax seguía pasando la prueba del tachado — la escena del hueco (6.2) no era
+  necesaria para que el plan de los libros de cuentas funcionara.
+- El cierre del arco («no había gastado nada... sintió que le sobraba algo») contradecía,
+  treinta líneas después, los costes que la propia ronda acababa de introducir.
+- El cap. 5 (el fallo de Sel) seguía sin tocarse: seguía exculpándose en la misma frase que
+  lo enunciaba.
+- La amenaza de Dench era un hilo suelto sin que Sel hiciera nada al respecto.
+- Un eco entre la descripción del rescoldo en el cap. 1 y la imagen central del cap. 4
+  (misma construcción: «ni como las flores de Yenal ni como nada que hubiera visto») le
+  restaba fuerza a la imagen del arco.
+- Dos filas de `pistas.md` quedaron desactualizadas por la primera ronda de correcciones.
+
+**Segunda corrección, aplicada de inmediato:** se reescribió el cap. 5 para que el fallo de
+Sel no se disculpe en la misma frase que lo cuenta; se añadió causalidad explícita al cap. 6
+(Dench se va tranquilo porque no lo forzaron, y esa misma calma —no la resistencia, sino la
+ausencia de sospecha— es lo que le da a Sel la ventana para robar los libros; si lo hubiera
+forzado, Dench habría bajado desconfiado y cerrado con llave); se corrigió a quién cae la
+amenaza de Dench (a Yura y su gremio, no a Sel) y se añadió que Sel se lo cuenta a Yura esa
+misma noche; se reescribió el cierre del cap. 7 para que «le sobra algo» se refiera
+específicamente a la vista, no a un balance general falso; se varió la descripción del
+rescoldo en el cap. 1; y se corrigieron las dos filas de `pistas.md`.
+
 ## Decisión de cierre
 
-**Se hace una sola ronda de corrección, no tres, y se cierra aquí.** A diferencia del
-arco 3 (que necesitó tres rondas porque el primer y segundo intento de arreglo
-introdujeron fallos nuevos), esta vez la convergencia del panel fue tan alta y tan
-específica —8 de 9 perfiles señalando la misma causa raíz— que permitió un solo paquete de
-correcciones dirigido directamente a esa causa (el coste cero) y a los hallazgos de más
-señal del resto. Verificado con `grep` que no quedan residuos de inglés y que la frase
-repetida sólo aparece una vez. No se relanza el panel completo: se documenta esta decisión
-y se sigue adelante con el arco 5, siguiendo el mismo criterio de «no buscar perfección»
-aplicado en el arco 3.
+**Dos rondas de corrección, no tres, y se cierra aquí.** La segunda ronda resolvió la mitad
+estructural que la primera había dejado abierta —el porqué de la elección ahora determina el
+resultado, no sólo lo acompaña— y las dos verificaciones que la señalaron eran, en su propio
+texto, cada vez más específicas y de menor alcance que el hallazgo original, señal de
+convergencia real y no de un problema sin fondo. **No se relanza una tercera verificación.**
+Queda, a propósito, sin pulir del todo: el cierre del cap. 7 sigue terminando en un fundido
+suave («hasta que el sueño le ganó») en vez de en la línea más dura del capítulo, que llega
+antes; y el hilo de la amenaza de Dench queda abierto de verdad —Sel avisa, pero no puede
+protegerlos desde donde va. Documentado aquí en vez de perseguido con una tercera ronda,
+siguiendo el mismo criterio del arco 3. Se sigue adelante con el arco 5.
