@@ -63,6 +63,15 @@ por primera vez sin palanca que mover. Decidió no tocar con el papel en el conc
 aprendiendo del error del cap. 3: sonaría perfecto, pero no sabe qué hace falta esta vez, y
 sabe que no es eso.
 
+**Capítulo 6 cerrado — el clímax.** Sel soltó el Músico entre bastidores, sin dárselo a
+nadie (§ M no permite pasar un papel de mano en mano — queda sin dueño), para que Talia
+tocara su propia versión. El coste fue real y visible en la escena: el vacío le llegó a las
+manos mientras todavía las necesitaba, y tuvo que contenerse físicamente —uñas clavadas en
+la palma— sin poder arreglar nada si algo salía mal, por primera vez sin ninguna
+herramienta que usar. Talia tocó imperfecta, de verdad, sin red mágica; no fue un triunfo.
+**Vessa murió esa noche, después del concierto, no durante** — nadie la salvó, no había
+manera. Sel sale del arco **sin ningún papel puesto, la primera vez en el libro.**
+
 ---
 
 ## Dónde están
@@ -161,7 +170,7 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 
 | | |
 |---|---|
-| Papel que Sel lleva puesto | El Músico (soltó el Ladrón para tomarlo — uno a la vez, § M) |
+| Papel que Sel lleva puesto | Ninguno (soltó el Músico en el clímax del arco 5 — primera vez sin ninguno puesto) |
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
