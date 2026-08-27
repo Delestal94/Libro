@@ -35,6 +35,13 @@ quince pasos junta gente que sólo mira). Se rió de verdad por primera vez desd
 Diez de único público fiel de Talia. Ella lo lleva al **Conservatorio**: catorce aulas
 cerradas con llave, tres alumnos, una maestra — **Vessa** —, y un cierre sin fecha.
 
+**Capítulo 2 cerrado.** Vessa toca fallando siempre la misma nota, a propósito («no está
+mal, está puesta ahí»). Conoció a **Farel**, el director — no hay villano que convencer, el
+Conservatorio cierra porque ya no entra nadie a matricularse, sin decisión de nadie que
+tomar. Esa noche vio a Vessa toser y apoyarse en una pared: **se está muriendo** («despacio,
+que es la única velocidad en que se puede»), y el temblor de las manos «va antes que el
+resto». El reloj del arco deja de ser el Conservatorio y pasa a ser ella.
+
 ---
 
 ## Dónde están
