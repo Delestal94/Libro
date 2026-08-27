@@ -30,7 +30,7 @@ para tomarlo, uno a la vez, § M, y esta vez la despedida le dolió más porque 
 sí había llegado a quererle. Ila sigue en Adruin, en la escuela de escritura; le mandó una
 semilla con la primera carta que escribió en su vida.
 
-**Capítulos 1-3 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
+**Capítulos 1-4 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
 donde nadie mira a los guardias a la cara. Conoció a **Mira** (6-7 años, piedras pintadas)
 y **Tobal** (14-15, su hermano, roba rescoldo cada semana para que Mira no tenga que
 producir el suyo — le quedan uno o dos años). **Rescoldo:** memoria de otro, embotellada,
@@ -41,7 +41,19 @@ Sel le pidió aprender a robar «para entender, no para vender». **Soltó el Ja
 tomó el Ladrón esa misma noche**, con precio real: la despedida dolió más que la del
 Guardador, porque el Jardinero sí había llegado a quererle. Le roba a Yura un frasco vacío
 sin que ella lo note — primera prueba real del papel nuevo. **Primera grieta:** le gusta
-demasiado robar, y lo sabe.
+demasiado robar, y lo sabe. En el cap. 4 lo dice en voz alta, a Tobal.
+
+**Vio de cerca cómo se produce el rescoldo**, en un robo real con Tobal dentro de la
+fábrica de Dench: trabajadores marcados con un cordón según su deuda (rojo, gris, negro —
+el negro ya no sabe cuánto debe). **El hombre del cordón negro, fila tres**, pierde el
+nombre de una herramienta en tiempo real, sin drama, sin que el capataz se gire — su frasco
+es el que se llevan esa noche, y reaparece en el clímax. Tobal admite, en voz alta por
+primera vez, que odia robar y que lo seguirá haciendo igual, por Mira: «No es una decisión
+que se tome una vez. Es una que se toma todas las noches.» De madrugada, solo, Sel está a
+punto de probar el frasco robado —saber qué se siente, sólo una vez— y no lo hace: lo
+vierte en la tierra, que brilla un segundo con un color sin nombre y luego se pierde del
+todo. Primera vez que elige no usar algo que tiene en la mano sin que nadie lo esté
+mirando — la imagen del arco, y el gesto que se repite invertido en el clímax.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -117,7 +129,7 @@ un testigo (Nea).
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 99 de 138 |
+| Pistas pendientes | 100 de 142 |
 
 ---
 
