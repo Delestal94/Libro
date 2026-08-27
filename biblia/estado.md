@@ -30,7 +30,7 @@ para tomarlo, uno a la vez, § M, y esta vez la despedida le dolió más porque 
 sí había llegado a quererle. Ila sigue en Adruin, en la escuela de escritura; le mandó una
 semilla con la primera carta que escribió en su vida.
 
-**Capítulos 1-4 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
+**Capítulos 1-5 cerrados.** Ossin es la primera ciudad donde huele mal (humo de fábrica) y
 donde nadie mira a los guardias a la cara. Conoció a **Mira** (6-7 años, piedras pintadas)
 y **Tobal** (14-15, su hermano, roba rescoldo cada semana para que Mira no tenga que
 producir el suyo — le quedan uno o dos años). **Rescoldo:** memoria de otro, embotellada,
@@ -54,6 +54,14 @@ punto de probar el frasco robado —saber qué se siente, sólo una vez— y no 
 vierte en la tierra, que brilla un segundo con un color sin nombre y luego se pierde del
 todo. Primera vez que elige no usar algo que tiene en la mano sin que nadie lo esté
 mirando — la imagen del arco, y el gesto que se repite invertido en el clímax.
+
+**Tobal ha caído.** Sel presumió del golpe delante de un desconocido en el mercado —la
+primera grieta causando un daño real, por su propia culpa (regla 3)— y los hombres de
+Dench cambiaron la ronda de guardia esa semana y lo atraparon en pleno robo. Mira,
+asustada de verdad por primera vez, le preguntó a Sel si a ella le va a tocar ahora; él no
+supo mentirle ni decirle la verdad. Yura, sin saber lo que pide de verdad, le dijo a Sel
+que si tiene un modo de forzar a Dench a soltarlo, es esta misma noche. **Sel va camino de
+la fábrica** — el clímax queda planteado como decisión suya, no como pelea.
 
 **Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
 vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
@@ -129,7 +137,7 @@ un testigo (Nea).
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 100 de 142 |
+| Pistas pendientes | 103 de 147 |
 
 ---
 
