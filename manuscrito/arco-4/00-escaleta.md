@@ -186,29 +186,32 @@ elección es explícita y consciente, no una consecuencia descubierta después.
 
 ## Capítulo 3 · Yura
 
-### Escena 3.1
-- **Dónde/quién:** la sede del gremio de Ladrones, un sótano bajo una lavandería.
-- **Qué entra:** Yura, la que dirige el gremio. Adulta que conoce el sistema entero.
-- **Qué pasa:** Sel le pide, directo, que le enseñe a robar rescoldo — no para venderlo,
-  para entender.
-- **Qué cambia:** Yura acepta con una condición: que aprenda primero por qué se roba, no
-  cómo.
+> **Nota del 12-08, antes de escribir:** la escaleta original tenía aquí una escena de
+> Yura sentada explicando el sistema completo, «igual que Osane en el arco 3». El panel
+> del arco 3 encontró, con tres fuentes independientes, que esa forma —mentor de treinta
+> años que explica la economía del sacrificio, sentado— ya se repitió con Yeva (arco 2) y
+> Osane (arco 3), y es visible como fórmula a la tercera vez. **Se reescribe entera para
+> que la información llegue en movimiento, no en un porche.**
+
+### Escena 3.1 · **fusión de lo que eran 3.1 y 3.2 — en movimiento, no sentados**
+- **Dónde/quién:** la sede del gremio de Ladrones, un sótano bajo una lavandería, y luego
+  la calle — Yura no deja de moverse en toda la escena: clasifica frascos robados,
+  reparte turnos, cierra tratos por una ventana, todo mientras habla con Sel, que tiene
+  que seguirle el paso literal para no perderse la conversación.
+- **Qué entra:** Sel le pide que le enseñe a robar rescoldo, no para venderlo — para
+  entender. El sistema completo llega en frases sueltas, entre tareas, nunca en un
+  párrafo seguido: «Éste es de la fila tres. Un canal entero, por un endeudado que no
+  podía decir que no. […] Ayúdame con esto» — y le pasa una caja sin dejar de hablar.
+- **Qué pasa:** Yura acepta enseñarle, con una condición dicha de pasada, casi sin mirarlo:
+  que primero entienda por qué se roba, no cómo. «Nosotros no arreglamos nada robando.
+  Sólo repartimos mejor lo que ya se gastó mal» — dicho cargando un frasco, no sentada.
+- **Qué cambia:** Sel entiende que no hay victoria limpia posible, y lo entiende
+  trabajando con las manos, no escuchando un discurso.
 - **Qué se siembra:** la lección real del capítulo 4.
-- **Largo:** ~700 palabras.
+- **Largo:** ~1.000 palabras (sustituye a las antiguas 3.1 + 3.2, ahorra ~600 palabras
+  respecto a la escaleta original).
 
-### Escena 3.2
-- **Dónde/quién:** Yura y Sel, esa misma tarde.
-- **Qué entra:** el sistema completo, sin adornarlo: cada frasco de rescoldo cuesta un
-  canal entero de memoria a quien lo produce, casi siempre por la fuerza —trabajadores de
-  la fábrica de Dench, endeudados, sin otra salida— y Dench lo vende a quien puede pagar
-  sentir algo prestado.
-- **Qué pasa:** «Nosotros no arreglamos nada robando. Sólo repartimos mejor lo que ya se
-  gastó mal.» Fija la escala real de lo que el arco puede resolver, igual que Osane en el
-  arco 3.
-- **Qué cambia:** Sel entiende que no hay victoria limpia posible.
-- **Largo:** ~900 palabras.
-
-### Escena 3.3 · **toma el papel — con precio, en escena**
+### Escena 3.2 · **toma el papel — con precio, en escena**
 - **Dónde/quién:** esa noche, Yura y Sel a solas, antes de nada más.
 - **Qué entra:** Yura le exige lo mismo que Osane, sin saber que ya se lo exigieron una
   vez: que suelte lo que lleva puesto antes de tomar el suyo. § M no admite excepción de
@@ -267,11 +270,17 @@ elección es explícita y consciente, no una consecuencia descubierta después.
 
 ### Escena 5.1
 - **Dónde/quién:** el Fondo, de día. Todo cambia de golpe.
-- **Qué entra:** los hombres de Dench atrapan a Tobal en pleno robo — una trampa, no mala
-  suerte: alguien lo delató.
-- **Qué pasa:** Sel lo ve desde lejos, sin poder hacer nada a tiempo.
-- **Qué cambia:** la apuesta del arco deja de ser hipotética.
-- **Largo:** ~700 palabras.
+- **Qué entra:** los hombres de Dench atrapan a Tobal en pleno robo — una trampa, y una de
+  las dos cosas que la hicieron posible fue de Sel: presumió del golpe del capítulo 4
+  delante de alguien equivocado, embriagado del gusto nuevo por robar bien (3.2), y esa
+  presunción llegó a los oídos que no debía. **No es la única causa —Dench ya sospechaba—,
+  pero sí una real, y Sel lo sabe en cuanto lo ve.**
+- **Qué pasa:** Sel lo ve desde lejos, sin poder hacer nada a tiempo, y con la certeza
+  añadida de haber puesto algo de su parte.
+- **Qué cambia:** la apuesta del arco deja de ser hipotética, y Sel falla de verdad por
+  primera vez en el arco — por su culpa, no por mala suerte ajena (regla 3 de
+  `el-protagonista.md`).
+- **Largo:** ~750 palabras.
 
 ### Escena 5.2
 - **Dónde/quién:** el patio, esa noche. Mira, sola, esperando a un hermano que no vuelve.
@@ -371,6 +380,19 @@ elección es explícita y consciente, no una consecuencia descubierta después.
 
 21 escenas, ~14.000 palabras estimadas. Más corto que el arco 2, similar al 3 — coherente
 con que el clímax es una decisión interna y no una escena pública larga.
+
+## Nota del 12-08, aprendida del panel del arco 3 (H38)
+
+El crítico de personajes del arco 3 encontró que Sel no sonríe, no falla de verdad y no
+bromea en los siete capítulos de Yenal — contra `el-protagonista.md` («sonríe en lo bueno
+y lo malo», «tiene que fracasar de verdad, al menos dos veces, una por su culpa»). Al
+escribir este arco, vigilar activamente:
+
+- **Al menos una sonrisa real de Sel**, no de otro personaje sobre él.
+- **Un fallo suyo, no de mala suerte ajena** — candidato natural: que le guste demasiado
+  robar (3.2, «primera grieta») lo lleve a un exceso de confianza que contribuya, aunque
+  sea en parte, a que atrapen a Tobal (cap. 5) — no sólo «alguien lo delató», también algo
+  que Sel hizo de más y no debía.
 
 ## Autocomprobación contra el estándar
 

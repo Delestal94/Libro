@@ -115,9 +115,9 @@ sentado a mirar a Bern la primera vez.
 
 —El de la rueda. El que dijo lo de sujetar de las dos varas.
 
-Sel no contestó. La mujer lo miró un rato, con la misma cara con la que Reta lo había
-mirado a través de la ventana la primera noche, y sacó de la cesta un pan del tamaño de
-los que no se venden, de los que se guardan.
+Sel no contestó. La mujer lo miró un rato, con la misma cara con la que lo había mirado
+la de la ventana, la primera noche, antes de cerrar el postigo, y sacó de la cesta un pan
+del tamaño de los que no se venden, de los que se guardan.
 
 —Toma.
 

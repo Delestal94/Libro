@@ -40,6 +40,38 @@ panel que los agentes pueden escribir**, lanzando uno solo primero.
 | 2026-08-09 | Arco 1 · tras pasadas 4-6 | 8 (panel reducido) + 2 (verificación) | **5,2 / 8** (estructura·personajes·sistema) | [resumen](2026-08-09-arco-1/resumen.md) |
 | 2026-08-10 | Arco 1 · tras retoques post-verificación | 8 (panel reducido) + 14 verificaciones | **≈5,7-6,0 / 8** (estructura 5,5-6,0 · personajes 5,5 · sistema 6,1 — cifra exacta pendiente de panel de cierre) | [resumen](2026-08-10-arco-1/resumen.md) |
 | 2026-08-11 | **Arco 2 · Adruin · ~9.800 palabras · panel de cierre (primera vez)** | 9 (panel reducido) | **3,75 / 8** (estructura 3,5 · personajes 3,5 · sistema 4 · mercado 4) | [resumen](2026-08-11-arco-2/resumen.md) |
+| 2026-08-12 | **Arco 3 · Yenal · ~8.500 palabras · panel de cierre, tres rondas** | 9 (panel reducido) × 2 rondas + arreglos de criterio propio | **≈4,4 / 8** (estructura 3,5→4,5 · personajes 4 · sistema 5,5 · mercado 3,75) | [resumen](2026-08-12-arco-3/resumen.md) |
+
+### 2026-08-12 · panel de cierre, arco 3 (tres rondas)
+
+**El hallazgo más grave de todo el libro hasta ahora: el arco titulado «el Jardinero» no
+contenía ninguna toma de ese papel.** Sel abría flores con «el mismo hueco de siempre» del
+Guardador de lumbre del arco 2 — nunca lo soltaba, nunca tomaba el nuevo, y la escena que
+la propia escaleta prometía por escrito («hay una escena donde tiene que elegir cuál lleva
+puesto») nunca se había escrito. Nota inicial: **3,5/8**, con la advertencia explícita de
+que la tendencia bajaba por tercer arco consecutivo y esta vez no por ejecución floja sino
+porque «el acto que da nombre al arco no está escrito».
+
+Reparado con una escena nueva en el cap. 4 (Osane exige a Sel soltar el Guardador antes de
+enseñarle el Jardinero, cumpliendo § M sin ablandar la regla) y reescrituras en los caps.
+2, 6 y 7. Verificado con el mismo crítico: **4,5/8**, con un hallazgo residual — el clímax
+seguía sin costarle nada a Sel en la propia escena, y la frase exacta que el primer panel
+señaló como el problema («sin que le cueste nada») seguía en el manuscrito, ahora en boca
+de Sel. Confirmado además por el crítico de mercado, relanzado junto con seis agentes más
+que habían fallado por límite de sesión la primera vez. Una tercera pasada, con criterio
+propio sobre las citas ya confirmadas por dos rondas de agentes, le da a Nea agencia real
+en el clímax, sitúa a Osane observando la Feria, y corta la línea que anulaba el riesgo.
+
+**El hallazgo que más importa para lo que viene:** tres fuentes independientes —los dos
+lectores adultos y el escritor, sin coordinarse— describen la misma fórmula visible a la
+tercera repetición: pueblo nuevo → rival con don parecido → mentor que explica el coste
+sentado → poderoso que se ablanda → despedida con objeto-recuerdo. *«En Keliun no se
+notaba, en Adruin se intuía, en Yenal el esqueleto queda a la vista.»* No se repara en el
+arco 3 — se repara no repitiéndolo en el arco 4, cuya escaleta se revisó antes de escribir
+una sola escena para quitar la escena de mentor explicando y sustituirla por revelación en
+acción. Ver [resumen del 12-08](2026-08-12-arco-3/resumen.md) para el detalle completo,
+incluidos los hallazgos que quedaron abiertos a propósito (Sel no sonríe ni falla en todo
+el arco; la ambigüedad sin marcar de «la corta Nea»).
 
 ### 2026-08-11 · panel de cierre, arco 2 (primera vez)
 
@@ -169,6 +201,24 @@ no antes: que yo crea haberlo arreglado no es que esté arreglado.
 **Leyenda igual que arriba.** H22, H24, H25 y R3 son del arco 2 y decisión del usuario, no
 de un panel. Ver "Lo que esto pide, en orden" en
 [resumen del 11-08](2026-08-11-arco-2/resumen.md).
+
+### Hallazgos nuevos, hijos del panel del 12 de agosto (arco 3)
+
+| # | Hallazgo | Coincidencias | Estado |
+|---|---|---|---|
+| **H31** | El arco titulado «el Jardinero» no contenía ninguna toma de ese papel — Sel abría flores con el hueco del Guardador de lumbre del arco 2, sin soltarlo ni tomar uno nuevo | 4 críticos (estructura, personajes, sistema, mercado) | 🟢 **cerrado y verificado.** Escena nueva en el cap. 4: Osane exige soltar el Guardador antes de enseñar el Jardinero. «Jardinero» pasa de 0 a 4 apariciones |
+| **H32** | El clímax (cap. 6) no le costaba nada a Sel en la propia escena — la frase «sin que le cueste nada» seguía en el manuscrito tras el primer arreglo, ahora en boca de Sel | 1 verificador + crítico de mercado + lector adulto (35) | 🟢 **cerrado en tercera pasada.** Cortada la línea; el coste de la amenaza de Coren se confirma esa noche sin escribirse en ningún sitio (retira en silencio un encargo al gremio) |
+| **H33** | El cap. 7 era casi una plantilla del cap. 7 del arco 2 — trece coincidencias estructurales, dos líneas idénticas palabra por palabra | 1 verificador (estructura) | 🟢 **cerrado, con 2/13 coincidencias funcionales aceptadas como textura recurrente.** Cierre reescrito: *halumi ish* al guardia de la aduana (cierra hilo propio del cap. 1), sin «mirar atrás y contar» |
+| **H34** | Nea, la persona por la que ocurre el clímax, no dice una palabra durante toda la escena | crítico de personajes + crítico de mercado | 🟢 **cerrado.** Coren le pregunta directamente si sabía del plan; ella lo respalda en voz alta |
+| **H35** | Fatiga de fórmula: pueblo nuevo → rival con don parecido → mentor que explica el coste sentado → poderoso que se ablanda → objeto-recuerdo, visible a la tercera repetición | 2 lectores adultos + escritor (20 comparaciones explícitas con personajes de arcos anteriores en 8.000 palabras) | 🔴 **no se repara en el arco 3** — se aplica como restricción de diseño al escaletar el arco 4, antes de escribir ninguna escena |
+| **H36** | Dos errores factuales de continuidad encontrados por el escritor: «delante de otra flor» (Ila se sentó delante de una lámpara, arco 2) y la imagen «se cayó de rodillas» repetida casi verbatim del arco 2 | 1 escritor | 🟢 **cerrados**, corregidos directamente sin nueva ronda |
+| **H37** | «Reta» citada por nombre en el cap. 3 del arco 2 antes de presentarse (cap. 4) — mismo tipo de error que H26, encontrado tarde | 1 lector (niño, 13 años), en lectura de calibración del arco 2 | 🟢 **cerrado**, corregido a «la de la ventana, la primera noche» |
+| **H38** | Sel no sonríe, no falla de verdad y no bromea en los siete capítulos del arco 3, contra `el-protagonista.md` («sonríe en lo bueno y lo malo», «tiene que fracasar al menos dos veces») | crítico de personajes | 🔴 **abierto a propósito** — exigiría tocar varias escenas, no una línea; queda para una pasada de personaje más adelante |
+| **H39** | «—Usted no la corta. La corta Nea» — quien abrió esa flor fue Sel, no Nea; puede ser una manipulación consciente de Sel con una verdad torcida, pero queda sin marcar como intencional | crítico de sistema | 🔴 **abierto a propósito** — se deja ambiguo; marcarlo explícitamente lo estropearía |
+
+**Leyenda igual que arriba.** H35, H38 y H39 son decisiones de diseño o ambigüedades
+dejadas abiertas a propósito, no bugs pendientes de arreglar. Ver
+[resumen del 12-08](2026-08-12-arco-3/resumen.md) para el detalle completo.
 
 ### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
 

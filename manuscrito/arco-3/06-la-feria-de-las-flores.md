@@ -9,6 +9,10 @@ Sel se colocó donde le había dicho Osane: cerca del árbol grande, el de la fl
 nombre de color, con Nea a un lado y Diez atado a una estaca porque un perro suelto entre
 tanta seda no era buena idea.
 
+Osane se quedó tres árboles más allá, con otros Jardineros, sin acercarse ni una sola
+vez —no era su sitio, y lo sabía— pero sin quitarles la vista de encima en toda la
+mañana.
+
 —¿Estás seguro? —dijo Nea, por tercera vez esa mañana.
 
 —No.
@@ -77,18 +81,23 @@ había sabido, semanas atrás, que soltar el Guardador iba a doler antes de sent
 
 Pudo callarse. Nadie se lo habría reprochado.
 
-—Ya lo sé —dijo, en cambio, sin bajar la voz como había hecho Coren, para que lo oyeran
-los mismos cuatro o cinco que ya estaban mirando—. Y se la puede sostener un minuto sin
-que le cueste nada de eso tampoco.
+—Puede —dijo, en cambio, sin bajar la voz como había hecho Coren, para que lo oyeran los
+mismos cuatro o cinco que ya estaban mirando—. O puede sostenerla un minuto.
 
 ---
 
 Coren se quedó un momento mirando la flor. Después miró a Sel. Después, más despacio, a
-Nea, que no había dicho una palabra en todo ese rato y que ahora tampoco la decía, sólo
-miraba, con las manos quietas a los costados, del mismo modo en que Sel la había visto
-mirar una vez, subida a un árbol, aguantando algo sin toser.
+Nea, que hasta entonces no había dicho una palabra.
 
-—Está bien —dijo Coren, al fin—. Un minuto.
+—Tú sabías que iba a pedirme esto —dijo Coren. No era pregunta.
+
+—Me lo dijo antes —contestó Nea, con la misma voz seca con la que hablaba de repartos y
+turnos—. Le dije que lo hiciera.
+
+Coren se quedó mirándola un momento más de lo que había mirado a Sel, con la cara de
+quien acaba de descubrir que la decisión no era de uno solo.
+
+—Está bien —dijo, al fin—. Un minuto.
 
 Puso las dos manos alrededor de la flor, con cuidado, como quien coge algo que le han
 dicho que es frágil sin del todo creérselo.
@@ -156,13 +165,23 @@ quien lleva encima algo que antes no llevaba.
 Osane los recibió esa noche en el porche, con las manos quietas por una vez, sin tierra
 de color ni ramas secas entre los dedos.
 
-Sel le contó lo que había pasado. Nea añadió los detalles que a Sel se le habían
+Lo había visto todo desde sus tres árboles de distancia, pero dejó que Sel se lo
+contara igual, con sus propias palabras, y Nea añadió los detalles que a él se le habían
 escapado —la cara exacta de Coren, el segundo silencio antes del aplauso fallido.
 
 Osane se quedó callada un rato largo, mirando hacia el Cerezal, que de noche era sólo una
 mancha oscura contra un cielo un poco menos oscuro.
 
 —Treinta años —dijo, al fin—. Y no se me había ocurrido pedírselo así.
+
+—Me amenazó con quitarme la ficha —dijo Sel—. Delante de todos, antes de aceptar.
+
+—Ya me lo han contado. Coren no olvida una humillación pública aunque la haya
+provocado él solo. No te va a quitar la ficha —ya le costaría más quedar mal quitándola
+que dejándola—, pero el pedido grande que tenía pensado hacerle al gremio para el año que
+viene, el que iba a pagarnos la mitad de las herramientas nuevas, ya no lo va a hacer.
+Eso no lo vas a ver nunca escrito en ningún sitio. Sólo lo vamos a notar el año que viene,
+cuando falten las herramientas.
 
 —No es que se acabara nada —dijo Sel—. Sigue pagando en monedas.
 

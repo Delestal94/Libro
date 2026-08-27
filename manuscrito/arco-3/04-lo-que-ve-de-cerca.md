@@ -1,7 +1,6 @@
 # Lo que ve de cerca
 
-Osane lo hizo esperar tres días más antes de darle una respuesta a lo que le había
-pedido en el porche, y al cuarto lo llamó al taller sin avisar de para qué.
+Al día siguiente, tal como había dicho, Osane lo llamó al taller sin avisar de para qué.
 
 —Siéntate —dijo—. Antes de nada, quítate lo que llevas puesto.
 
@@ -157,8 +156,9 @@ pétalo de Yenal ni de ningún otro sitio —entre el fucsia y algo que no era c
 parecido a un sonido bajo que a un matiz— y se quedó así, perfecta, enorme, con sitio de
 sobra para el nombre de Coren en la placa.
 
-Sel se cayó de rodillas, no porque le doliera nada en el cuerpo, sino porque las piernas,
-otra vez, decidieron por su cuenta que no podían sostenerlo un momento más.
+A Sel se le fue el color de la cara, y tuvo que sentarse en la tierra donde estaba, entre
+las raíces, con la respiración corta, como quien acaba de subir una cuesta que no sabía
+que era tan larga.
 
 ---
 
@@ -189,8 +189,8 @@ poco temblorosa todavía:
 Se quedó mirando el número más rato del que había mirado ninguno de los otros.
 
 —¿Qué has perdido? —dijo Nea, sentándose a su lado, sin tocarlo, con las rodillas contra
-el pecho, exactamente como se había sentado Ila una vez, en otra ciudad, delante de otra
-flor.
+el pecho, exactamente como se había sentado Ila una vez, en otra ciudad, delante de una
+lámpara.
 
 —A qué sabían las cosas.
 
