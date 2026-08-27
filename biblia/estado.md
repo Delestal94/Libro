@@ -56,6 +56,13 @@ sustituirla (da la técnica, no la razón). Vessa le preguntó a Sel qué sueña
 *halumi ish*; no supo contestar. **Farel anunció el cierre: en cinco días, con concierto de
 despedida.** Vessa insiste en tocar ella misma, pese al temblor.
 
+**Capítulo 5 cerrado. Vessa colapsó de verdad**, físicamente — el corazón cansado, sin cura
+posible: ningún papel ni hueco sirve para esto (§ F: memoria, no vida). Sel le pidió a
+Farel una manera de salvar el Conservatorio y no la hay — se fue sin haber vencido a nadie,
+por primera vez sin palanca que mover. Decidió no tocar con el papel en el concierto,
+aprendiendo del error del cap. 3: sonaría perfecto, pero no sabe qué hace falta esta vez, y
+sabe que no es eso.
+
 ---
 
 ## Dónde están
