@@ -124,16 +124,18 @@ Entonces te creo. —Se quedó un momento callado, buscando algo, y cuando lo en
 dijo sin ninguna ceremonia, como quien no sabe que acaba de decir la cosa más importante
 de la conversación—: Avanin.
 
-No «avanesh». Sel se acordó, oyéndolo, de aquella tarde en Keliun, antes de irse la primera
-vez, cuando un viejo sentado al sol había dicho esa misma palabra de Tarin sin que nadie se
-lo pidiera, y él había preguntado qué quería decir el «-esh», sin haberlo oído nunca hasta
-entonces. *¿Y si haces de algo mucho tiempo?*, había preguntado también, y el viejo le
-había contestado que entonces la gente empezaba a decírtelo con la otra, y que ése era el
-problema. A Sel, con nueve años, aquello le había parecido lo mejor que había oído en su
-vida. Ahora entendía, por fin, por qué el viejo lo había llamado problema: porque
-significaba que ya no había vuelta atrás. Toma no pareció darse cuenta de lo que había
-hecho. Lo dijo como quien nombra algo que ya era verdad antes de decirlo, que
-es, exactamente, la única manera en que esa palabra se puede decir sin mentir.
+No «avanesh». Sel se acordó, oyéndolo, de aquel día en Keliun, antes de irse la primera
+vez, cuando un viejo sentado al sol había dicho esa palabra —avanesh— de Tarin sin que
+nadie se lo pidiera, y él había preguntado qué quería decir el «-esh», sin haberlo oído
+nunca hasta entonces. *¿Y si haces de algo mucho tiempo?*, había preguntado también, y el
+viejo le había contestado que entonces la gente empezaba a decírtelo con la otra, y que
+ése era el problema. Le había parecido, entonces, lo mejor que había oído en su vida. Ahora
+entendía, por fin, por qué el viejo lo había llamado problema: porque significaba que ya
+no había vuelta atrás.
+
+Toma no pareció darse cuenta de lo que había hecho. Lo dijo como quien nombra algo que ya
+era verdad antes de decirlo, que es, exactamente, la única manera en que esa palabra se
+puede decir sin mentir.
 
 No dijo que confiara en él del todo, ni que lo quisiera, ni ninguna de las frases grandes
 que a veces dicen los adultos entre ellos. Dijo que le creía, que era exactamente la

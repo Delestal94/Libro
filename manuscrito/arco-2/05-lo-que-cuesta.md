@@ -12,13 +12,13 @@ El taller de Yeva estaba detrás de la casa del letrero, la de la lámpara amari
 aro. Dentro olía a cera y a algo metálico, y había estantes con lámparas apagadas, unas
 encima de otras, esperando turno.
 
-Yeva estaba sentada en un banco bajo, con un cuenco de agua y un trapo al lado, sin lámpara
-encendida todavía a esa hora de la mañana, con la luz de la puerta.
+Yeva estaba sentada en un banco bajo, delante de una mesa con un cuenco de agua y un trapo
+encima, sin lámpara encendida todavía a esa hora de la mañana, con la luz de la puerta.
 
 —Siéntate.
 
-Sel se sentó. No había otra silla, así que se sentó en el suelo, junto al banco, y a Yeva
-no pareció importarle.
+Sel se sentó. No había ninguna silla, así que se sentó en el suelo, junto al banco, y a
+Yeva no pareció importarle.
 
 ---
 
@@ -42,8 +42,8 @@ La tercera la dejó casi al borde de la mesa, como si no le gustara tenerla tan 
 
 —Y ésta la pidió, una sola vez, un hombre que se quedó despierto toda una noche cuidando
 a un hijo con fiebre. El niño se puso bien. Pero el padre, con los años, se dio cuenta de
-que ya no se acordaba de qué cara tenía ese hijo el día que nació, sólo de que un día
-existió esa cara y ya no la tenía. Eso no tiene raya de vuelta.
+que ya no se acordaba de qué cara tenía ese hijo el día que nació. Eso no tiene raya de
+vuelta.
 
 Sel se quedó mirando las tres lámparas frías, en fila, y sintió que ya sabía, sin que
 nadie se lo explicara, en cuál de los tres escalones habría estado la suya, la de anoche.
@@ -72,9 +72,10 @@ lo dio gratis, porque no sabía que había un precio que poner.
 —Porque me la enseñaron, y porque llevo veintidós años equivocándome un poco cada vez
 hasta que dejé de hacerlo.
 
-Sel se quedó mirando las tres lámparas como se había quedado mirando la pared limpia
-encima de la de Reta, el primer día: sabiendo que había algo importante ahí y sin poder
-nombrarlo del todo.
+Sel se quedó pensando en eso —en los veintidós años, en equivocarse hasta dejar de
+hacerlo— con la misma sensación que había tenido delante de la pared limpia encima de la
+lámpara de Reta, el primer día: que había algo importante ahí, sin poder nombrarlo del
+todo.
 
 —Tú anoche no sabías dónde estaba tu propia raya —dijo Yeva—. Y encima la de Reta no la
 conocías ni un poco.

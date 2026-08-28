@@ -30,13 +30,21 @@ dijo nada sobre lo raro que era: el que sabía enseñando al que no sabía, sin 
 falta ningún papel de por medio para que la lección funcionara.
 
 Como pago por la lección, Sel le enseñó a Toma unas pocas palabras en veresh: *una*, agua;
-*tor*, camino; *kel*, casa; *avan*, padre —la misma que un viejo del pueblo le había dicho
-una vez, sin querer, de Tarin, delante de todo Keliun, antes de que Sel se fuera la primera
-vez—. Le enseñó también las dos formas de esa última, *avanin* y *avanesh*, sin
-explicarle mucho más que lo necesario para que sonaran distintas.
+*tor*, camino; *kel*, casa; *avan*, padre —la misma que un viejo del pueblo había dicho
+una vez de Tarin, en voz baja, hacía ya toda una vida, antes de que Sel se fuera la primera
+vez—.
 
-Toma las repitió detrás de él, una vez cada una, más pendiente del nudo que tenía entre
-los dedos que de las palabras, y no volvió a mencionarlas.
+—Ésa tiene dos formas —dijo Sel—. *Avanin* es el que de verdad lo es. *Avanesh* es el que
+sólo hace de eso.
+
+—¿Como Tarin, con vosotros? —dijo Toma, más pendiente del nudo que tenía entre los dedos
+que de la lengua vieja.
+
+—Algo así.
+
+—Vale.
+
+Y no volvió a mencionarlo.
 
 ---
 
