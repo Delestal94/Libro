@@ -46,8 +46,10 @@ Una por una, **en cadena**, con la skill [[escena]].
 > Lo que sí va en paralelo son capítulos que no se tocan — y sobre todo **los revisores**,
 > que es donde de verdad está el gasto.
 
-Después de cada capítulo cerrado, **actualiza `biblia/estado.md`**. Si no, el siguiente
-agente escribe a ciegas.
+Después de cada capítulo cerrado, **actualiza `biblia/estado.md`** y lanza **`/compact`**.
+Si no actualizas el estado, el siguiente agente escribe a ciegas; si no compactas, la
+sesión sigue arrastrando el contexto de todo lo ya escrito y cerrado, que es justo para lo
+que existe `estado.md`.
 
 ---
 
@@ -76,6 +78,10 @@ fichero**; si no puede, el registro de agentes está antiguo y hay que reiniciar
 
 Después, agrega en `resumen.md` por número de coincidencias y actualiza la tabla de
 seguimiento de `revisiones/README.md`.
+
+Con el arco cerrado y `estado.md` al día, **lanza `/clear`** antes de empezar el siguiente.
+No hace falta arrastrar la sesión: el siguiente arco arranca leyendo `estado.md`, no
+recordando esta conversación.
 
 ---
 
