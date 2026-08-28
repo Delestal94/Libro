@@ -41,7 +41,9 @@ sin querer nada a cambio. Yo creo que tú sabes hacer eso mejor que nadie que co
 Todavía no encontré la frase. Sigo. Sel.*
 
 La leyó dos veces antes de doblarla, y le pareció corta, y torpe, y exactamente lo que
-tenía que decir.
+tenía que decir, y sonrió, un poco, sin que nadie lo viera —la primera sonrisa de verdad
+que se permitía desde el primer día, viendo a Nea quedarse quieta en un árbol—, porque
+las dos cosas, lo de Nea y la carta, cabían a la vez y no se estorbaban.
 
 Envolvió la semilla en la carta, y la carta en un trozo de tela que Osane le dio sin
 preguntar para qué, y se lo entregó a un carretero que iba hacia el oeste y que, por
