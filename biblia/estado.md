@@ -23,6 +23,13 @@ Se completa *halumi ish alun*.
 **Momento:** otoño del 1200, llegando a Keliun. Sel viaja solo con Diez, grado 0, casi un
 año después de haberse ido.
 
+**Capítulo 1 cerrado.** Keliun no ha cambiado casi nada — cruzó el arco de piedra sin que
+nadie lo viera, cumpliendo sin anunciarlo el nudo del haranu «volver». **Anu** le dio un
+pan sin que se lo pidiera ni lo robara: el primero de todo el libro que no le cuesta nada.
+Esa noche encontró a **Toma** (9, hermano mayor de Ila) y **Pell** (6) solos en un portal,
+vestidos como se viste un niño al que nadie ayuda — Toma lo reconoció sin alegrarse ni
+sorprenderse, sin esperar nada de un adulto que vuelve.
+
 ---
 
 ## Dónde están
