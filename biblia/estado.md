@@ -37,6 +37,14 @@ tentación de usar el hueco con nadie del pueblo. Esa noche, Pell reclamó a Die
 y Toma se rió de verdad por primera vez desde que Sel volvió — primera grieta de
 confianza.
 
+**Capítulo 3 cerrado.** El oficio del Padre en marcha, sin ningún papel: lleva a Pell al
+río, remienda redes con Toma, va a buscarlos cada noche — la primera vez que llega tarde,
+Toma lo espera de pie. Fue a la casa del **padre de Ila**: le dijo sin rodeos que va a
+seguir viniendo, se lo permita o no. El padre no cambia ni se redime — se le rodea. **El
+pueblo entero arrima el hombro sin ningún acuerdo mágico** (Anu guarda pan «porque
+sobra», el molino manda harina) — la promesa real, cumplida bien esta vez, a diferencia
+de la plaza del arco 1.
+
 ---
 
 ## Dónde están
