@@ -62,6 +62,12 @@ lejos»— sabiendo exactamente lo que compraba. **La lista está completa: cinc
 forzado. Esa noche, mirando el cielo, comprobó que las estrellas lejanas ya no se
 distinguen — no le dolió tanto como pensaba; lo cercano lo ve con una claridad nueva.
 
+**Capítulo 6 cerrado.** Anu le hizo la pregunta que nadie le hacía desde Maara: qué es lo
+que sueña. **Sel completó *halumi ish alun*, en voz alta, sin que nadie lo tradujera** —
+se cumple el segundo nudo del haranu, «traer la frase», terminándola él mismo, no
+trayéndola de vuelta a nadie. Toma le pidió pruebas, no palabras; Sel le contó lo de la
+vista, y Toma lo entendió: «Nadie paga algo así para irse al día siguiente. […] Te creo.»
+
 ---
 
 ## Dónde están
@@ -136,8 +142,8 @@ quedarse (§ R). Sel ve perfectamente de cerca; ya no distingue las estrellas le
 |---|---|
 | Papel que Sel lleva puesto | El Padre (asentado solo, tras el oficio real — no dado ni tomado de nadie) |
 | Cosas de la lista | 5 de 5 — completa |
-| Nudos atados en el haranu | 2 |
-| Promesas | traer la frase · (pagada: algo a Ila) |
+| Nudos atados en el haranu | 2, ambos cumplidos (volver — cap. 1; traer la frase — cap. 6) |
+| Promesas | traer la frase (pagada, cap. 6) · algo a Ila (pagada) |
 | Pistas pendientes | 112 de 181 |
 
 ---
