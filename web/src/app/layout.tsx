@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import NavInferior from "@/components/NavInferior";
 import Conexion from "@/components/Conexion";
+import ModoTema from "@/components/ModoTema";
 
 export const metadata: Metadata = {
   title: "Escritorio",
@@ -11,21 +12,32 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#12100e",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#faf7f0" },
+    { media: "(prefers-color-scheme: dark)", color: "#12100e" },
+  ],
   // `cover` permite usar el área bajo el notch; el padding seguro lo compensa.
   viewportFit: "cover",
   width: "device-width",
   initialScale: 1,
 };
 
+// Aplica el tema guardado antes de pintar: sin esto habría un parpadeo del
+// color por defecto (oscuro) al cargar una página en modo claro forzado.
+const SCRIPT_TEMA = `try{var t=localStorage.getItem("tema");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}`;
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es">
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: SCRIPT_TEMA }} />
+      </head>
       <body className="min-h-dvh bg-fondo text-texto">
         <Conexion />
         {/* pb-28 reserva el hueco de la barra inferior fija. */}
         <main className="mx-auto w-full max-w-2xl px-4 pb-28 pt-segura">{children}</main>
         <NavInferior />
+        <ModoTema />
       </body>
     </html>
   );

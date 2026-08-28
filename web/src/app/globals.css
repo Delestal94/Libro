@@ -27,8 +27,9 @@
   --font-interfaz: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
+/* Sigue al sistema mientras nadie haya elegido tema a mano (ver ModoTema). */
 @media (prefers-color-scheme: light) {
-  @theme {
+  :root:not([data-theme="dark"]) {
     --color-fondo: #faf7f0;
     --color-superficie: #ffffff;
     --color-superficie-alta: #f2ede3;
@@ -37,6 +38,17 @@
     --color-tenue: #6b6459;
     --color-acento: #8a6d1f;
   }
+}
+
+/* Claro forzado a mano, sin importar el sistema. */
+:root[data-theme="light"] {
+  --color-fondo: #faf7f0;
+  --color-superficie: #ffffff;
+  --color-superficie-alta: #f2ede3;
+  --color-borde: #e0d8c8;
+  --color-texto: #2a2622;
+  --color-tenue: #6b6459;
+  --color-acento: #8a6d1f;
 }
 
 html {
