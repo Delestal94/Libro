@@ -472,3 +472,49 @@ verdad es suyo, que nunca necesitó papel para existir.
 - El arco 6 puede gastar la vista **si hace falta**, en el momento de tomar el papel del
   Padre — sería el precio más alto y el más justificado de todo el libro, pagado a
   sabiendas, no arrebatado por accidente. Queda abierto, a decidir escaletando ese arco.
+
+---
+
+## R · El Padre se gana, no se toma — y el precio es la vista, elegida · *(27 de agosto de 2026)*
+
+Al escaletar el arco 6, con autonomía completa: **sí, se gasta la vista, y no por § K ni
+por § F.**
+
+### Por qué el Padre no funciona como los demás papeles
+
+Todo papel anterior se tomó mirando de cerca (§ M) y usando el atajo mágico **antes** de
+hacer el trabajo real — es la distinción de Bern (arco 2), aplicada siempre desde el lado
+de Sel, nunca al revés. El Padre se invierte a propósito: Sel cuida de verdad, sin magia,
+durante semanas, y el papel se asienta **solo**, al final, cuando el oficio ya está hecho.
+Es la primera vez que el atajo llega después del trabajo, no en su lugar — y por eso es el
+único papel del libro que no hace falta que nadie se lo entregue ni se lo enseñe.
+
+### Por qué el precio no es § K ni § F
+
+- **No es § K** porque nadie se resiste. No hay ninguna voluntad que forzar: Toma y Pell
+  quieren que Sel se quede, el padre de Ila no es a quien se le está tomando nada.
+- **No es § F** porque no hay ningún efecto que sostener con memoria de un muerto — nadie
+  ha muerto, no hay luz que encender ni flor que abrir.
+- **Es un precio nuevo, del tamaño exacto de la decisión.** Elegir quedarse para siempre,
+  sabiendo lo que eso cierra (el camino, la posibilidad de seguir viajando, todo lo que el
+  resto del libro ha sido) cuesta lo mismo que costó, en el arco 1, elegir irse. La vista
+  —lo que deja ver lejos— es literalmente lo que ya no hace falta cuando se elige quedarse
+  cerca de dos personas concretas. El precio no lo pone ninguna regla del sistema: lo pone
+  la propia decisión, y por eso hacía falta esta ficha, no una excepción a § K o a § F.
+
+### Cómo se paga
+
+Sel lo escribe en la hoja, con testigo, sabiendo exactamente lo que compra, en el momento
+de tomar el papel — no antes, no después, no en una escena aparte del clímax. La quinta
+cosa de la lista: **«Cómo se ve de lejos».** Sólo le queda ver bien lo que tiene cerca, que
+es, exactamente, lo único que ha elegido seguir mirando.
+
+### Cierra § K/§ O para siempre
+
+§ K avisaba desde el arco 1 que había que decidir qué pasa cuando se agota la cuenta atrás,
+y daba tres salidas: que el poder se acabe, que empiece a cobrar de otro lado, o que Sel
+deje de necesitar forzar a nadie antes de llegar a cero. El arco 4 demostró la tercera. El
+arco 6 la completa del todo: la cuenta atrás no se agota **por accidente ni por fuerza** —
+se completa por una elección que Sel hace con los ojos abiertos, sabiendo el precio entero,
+el único final que tiene sentido para un libro que lleva seis arcos insistiendo en que lo
+que de verdad cuesta algo es lo que se elige.

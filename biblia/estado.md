@@ -6,83 +6,44 @@
 >
 > Corto a propósito. Si crece de dos páginas, está mal usado.
 
-**Arco 3 (Yenal) — cerrado**, tras tres rondas de panel (3,5 → ~4,4/8 de media; ver
-`revisiones/2026-08-12-arco-3/resumen.md`). El fallo de fondo (Sel nunca tomaba el papel
-del Jardinero) quedó reparado y verificado.
+**Arcos 1-5, todos cerrados** (arco 1 y 3 con panel completo, arco 4 y 5 con panel de 9 y
+ronda de corrección — ver `revisiones/README.md` para el detalle de cada uno). Sel sale del
+arco 5 sin ningún papel puesto, por primera vez en el libro, con la lista en cuatro de
+cinco (sólo falta la vista) y una pregunta sin contestar: qué es lo que sueña.
 
-**Arco 4 (Ossin) — cerrado del todo**, dos rondas de corrección tras el panel (4/8 de
-media; ver `revisiones/2026-08-27-arco-4/resumen.md`). § O demostrado: al borde exacto de
-poder forzar a Dench para salvar a Tobal, Sel elige no hacerlo y encuentra otra salida.
+**Arco 6 (Casa = Keliun) — en marcha, último arco del libro.** Escaleta completa en
+`manuscrito/arco-6/00-escaleta.md`. Papel **el Padre**, grado 0 · Yerma — cierra el círculo
+0→1→2→3→4→0. Decisión de fondo ya tomada (§ R): el Padre no se toma mirando de cerca como
+los demás papeles — se gana haciendo de padre de verdad, sin magia, durante semanas (los
+hermanos pequeños de Ila, hilo abierto desde el arco 1), y sólo entonces se asienta solo.
+El precio es la quinta y última cosa de la lista —la vista—, elegida a sabiendas, no
+forzada por § K ni cobrada por § F. El narrador se revela en el último capítulo: es Ila.
+Se completa *halumi ish alun*.
 
-**Arco 5 (Adalur, el Conservatorio) — cerrado del todo**, tras panel de 9 y una ronda de
-corrección (ver `revisiones/2026-08-27-arco-5/resumen.md`). Es el arco donde, por diseño,
-**Sel no puede ayudar**: no hay villano ni institución que ceda, sólo la muerte de Vessa
-(maestra de sarand) y el cierre económico del Conservatorio, ninguna de las dos cosas
-resoluble con papeles ni con coste. Vessa falla de verdad tocando junto a una caja de eco
-—la imagen del arco— y por primera y única vez se enfada de verdad («treinta años. Y ahora
-esto. No es justo»). Sel tomó el Músico (soltando el Ladrón; § Q aclara que Vessa nunca
-«llevó» el papel, tiene el oficio real) y, en el clímax, con Talia pidiéndoselo en persona,
-eligió de nuevo no usarlo — coste real y visible, notando el paralelismo con su propio
-fallo del cap. 3. Talia tocó su propia versión imperfecta, por decisión propia. Vessa murió
-esa noche, después del concierto. **Sel sale sin ningún papel puesto, primera vez en el
-libro.** Le preguntó qué soñaba (variación de *halumi ish*) y no supo contestar — pregunta
-abierta para el arco 6. La lista de sentidos no se tocó: la pérdida de este arco es
-mortalidad, no magia. Detalle completo en `manuscrito/arco-5/00-escaleta.md`.
-
-**Momento:** otoño del 1200, saliendo de Adalur. Sel viaja solo con Diez, grado 4, hacia el
-arco 6 — **«Casa»**, tema «seguir vivo», papel **el Padre**, grado 0 · Yerma
-(`manuscrito/00-escaleta.md`) — el cierre del círculo de grados (0→1→2→3→4→0). «Casa» es,
-por diseño del mapa maestro, **Keliun**: el pueblo del que salió, donde queda uno de los
-dos nudos del haranu sin cumplir todavía («volver»). Escaleta del arco 6 sin escribir.
+**Momento:** otoño del 1200, llegando a Keliun. Sel viaja solo con Diez, grado 0, casi un
+año después de haberse ido.
 
 ---
 
 ## Dónde están
 
-**Sel viaja lejos de Adalur**, solo con Diez, grado 4, **sin ningún papel puesto** — la
-primera vez en el libro. Ila sigue en Adruin, en la escuela de escritura.
+**Sel llega a Keliun**, solo con Diez, grado 0, **sin ningún papel puesto** — casi un año
+después de haberse ido. Ila sigue en Adruin, en la escuela de escritura.
 
-**Adalur, resuelto sin que nada se salve (arco 5, 7 capítulos):** conoció a **Talia** (14
-años, música callejera) y a **Vessa** (maestra de sarand, muriéndose). Tomó el Músico,
-falló por vanidad opacando a Talia (regla 3, por su propia culpa), se ganó su sitio de
-vuelta en gesto. Vessa murió tras el concierto de despedida — Sel soltó el Músico para que
-Talia tocara su propia versión imperfecta, sin poder arreglar nada si salía mal. El
-Conservatorio cerró sin ninguna concesión: la primera derrota del libro que no es culpa de
-Sel y tampoco se arregla por eso. Se despidió con un trozo de cuerda rota, inútil a
-propósito, y con la pregunta de Vessa sin contestar: *¿qué sueña?*
+**Resumen de las cuatro ciudades recorridas** (detalle completo en `revisiones/README.md`
+y en cada `manuscrito/arco-N/00-escaleta.md`):
 
-**Ossin, resuelto sin que la mafia cayera por la fuerza (arco 4, 7 capítulos):** conoció a
-**Mira** (6-7 años, piedras pintadas) y **Tobal** (14-15, su hermano, roba rescoldo para
-que Mira no tenga que producir el suyo). Conoció a **Yura**, jefa del gremio de Ladrones.
-Presumió del golpe y eso llevó a que atraparan a Tobal (fallo por su propia culpa). En el
-clímax, con Dench resistiéndose con toda su voluntad, Sel eligió no forzarlo — robó los
-libros de cuentas y se los enseñó a los propios hombres de Dench, que soltaron a Tobal por
-decisión propia. Dench sigue dueño de su fábrica y deja una amenaza abierta sobre Yura y su
-gremio. **La vista sigue intacta.** Tobal no lo perdonó del todo antes de la despedida.
-
-**Yenal, resuelto sin que la institución cayera por la fuerza:** el Cerezal Eterno —el
-vergel que hace famosa y rica a la ciudad— se paga dos veces: en monedas, al
-patrocinador; en memoria, a quien lo cuida (las familias pobres de Jardineros, como Nea).
-*«La memoria siempre la pone quien la cuida. Nunca quien la paga»* (Osane). Sel terminó
-una flor imposible por Nea, con el Jardinero recién tomado, sabiendo el precio y
-eligiéndolo — la imagen del arco. En la Feria, delante de todo el gremio, le pidió a
-Coren (el patrocinador principal, persona amable, no villano) que sostuviera con su mano
-la flor con su nombre un minuto antes de cortarla — **arriesgando la ficha que Osane
-acababa de firmarle**, que Coren amenazó con quitarle en voz baja. Coren aguantó diez
-segundos, la soltó, y anunció que paga el doble en monedas por cada flor con su nombre —
-no arregla el sistema, cede una cosa concreta y visible. Quiere hablar con Osane esta
-semana; **a propósito, Sel se va sin saber qué le propuso** — hilo que Yenal no puede
-cerrar porque el protagonista se marcha.
-
-**Se despidió de Nea** (11 años, aprendiza de Jardinera) y de Osane (su maestra, 30 años
-en el oficio). Nea le dio una semilla del árbol de su abuela —«sólo florece si alguien la
-cuida sin esperar nada a cambio»— y Sel se la mandó a Ila con la primera carta que
-escribió en su vida, pagando la promesa pendiente del arco 2.
-
-**Probó *halumi ish* con método real, al guardia de la aduana de Yenal** (no a un
-desconocido del camino, para no repetir la forma del arco 2) — cierra el hilo de la
-aduana abierto en el cap. 1. El guardia pensó la respuesta de verdad: que alguien más
-aprenda a llevar su libro antes de que él falte.
+- **Adruin (arco 2):** perdió a Bern por escasez de papel (el Huérfano, un solo hueco);
+  tomó el Guardador de lumbre. Ila se quedó aquí, en la escuela de escritura.
+- **Yenal (arco 3):** tomó el Jardinero con Osane; el Cerezal Eterno se paga dos veces
+  (monedas al patrocinador, memoria a quien lo cuida). Coren cede una cosa concreta sin
+  arreglar el sistema.
+- **Ossin (arco 4):** tomó el Ladrón con Yura; su propia grieta (presumir del golpe) hizo
+  que atraparan a Tobal. En el clímax no forzó a Dench — robó sus libros de cuentas.
+  **La vista seguía intacta.** Tobal no lo perdonó del todo.
+- **Adalur (arco 5):** tomó el Músico con Vessa; falló por vanidad opacando a Talia. En el
+  clímax soltó el papel para que Talia tocara su propia versión — Vessa murió esa noche.
+  Primera derrota que no es culpa de Sel y no se arregla. Salió sin ningún papel puesto.
 
 ## Qué lleva encima
 
@@ -95,10 +56,9 @@ un trozo de cuerda rota de Vessa, guardado por no servir para nada.
 > *Cosas que ya no tengo.*
 > *1. Cómo sonaba. 2. A qué olía. 3. Cómo eran sus manos. 4. A qué sabían las cosas.*
 
-**Sólo queda la vista, y sigue intacta.** El arco 4 la llevó al borde exacto de gastarse
-(§ O) y Sel eligió no hacerlo — la cuenta atrás sigue en pie, sin resolverse, pero
-demostrada manejable. Queda por decidir, al escribir los arcos 5 y 6, si el libro llega a
-gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
+**Sólo queda la vista, y sigue intacta.** Última cuenta del libro. Decidido (§ R): se paga
+en el clímax del arco 6, elegida a sabiendas, al tomar el papel del Padre — no por § K ni
+por § F, por el tamaño de la propia decisión de quedarse.
 
 ## Lo que Sel sabe
 
@@ -121,9 +81,10 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 - Que Ila entendió lo de `-in`/`-esh` y no dijo nada. Todavía
 - Que el narrador estuvo en Adruin también
 
-## Quién queda atrás
+## Quién queda atrás (o le espera)
 
-**Keliun:** Anu · Tarin · los hermanos de Ila con su padre · el del molino · Oren.
+**Keliun (llegando):** Anu · Tarin (y sus dos hijos) · los hermanos de Ila (Toma, 9; Pell,
+6) con su padre, sin resolver desde el arco 1 · el del molino · Oren.
 **Adruin:** Ila (escuela) · Bern (aprendiz de Yeva) · Yeva · Reta.
 **Yenal:** Nea · Osane · Coren (pagando el doble, hablando con Osane esta semana).
 **Ossin:** Mira · Tobal · Yura · el hombre del cordón negro · Dench, dueño de su fábrica.

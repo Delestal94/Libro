@@ -101,5 +101,11 @@ por escaletar. Lo único fijo:
   toma y suelta el Músico dentro del propio arco, y sale sin ningún papel puesto — primera
   vez en el libro. La lista de los cinco sentidos no se toca: lo que se pierde aquí es
   mortalidad, no magia. Detalle completo en `manuscrito/arco-5/00-escaleta.md`.
-- **Arco 6:** toma el papel del Padre y completa la frase. El narrador habla por
-  primera vez como él mismo, y sólo en la última línea.
+- **Arco 6:** Casa = Keliun. Escaletado el 27 de agosto de 2026, con autonomía completa.
+  El Padre no se toma mirando de cerca como los demás papeles: se gana haciendo de padre
+  de verdad, sin magia, durante semanas (los hermanos pequeños de Ila, hilo abierto desde
+  el arco 1), y sólo entonces se asienta solo. El precio es la vista, elegida a sabiendas
+  (`decisiones.md` § R) — no por § K ni por § F, sino por el tamaño de la propia decisión
+  de quedarse. El narrador se revela: es Ila, escribiendo el libro entero como registro
+  para Sel. Se completa *halumi ish alun*. Detalle completo en
+  `manuscrito/arco-6/00-escaleta.md`.
