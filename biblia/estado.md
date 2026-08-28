@@ -52,6 +52,16 @@ precio que esta vez pone él mismo — sin decirlo aún en voz alta. El padre de
 borracho a reclamar a los niños; Sel se interpuso sin usar el hueco («sería como él») —
 único momento de amenaza física real del arco.
 
+**Capítulo 5 cerrado — el clímax del libro entero.** Toma puso a prueba a Sel en persona
+(«¿Me la vas a decir tú también? ¿O me vas a decir la de verdad?») y Sel contestó en voz
+alta, por primera vez, que se queda para siempre. **En ese momento se asentó el Padre**,
+solo, sin que nadie se lo diera — el único papel del libro que llega después del oficio,
+no antes. Delante de Anu, escribió la quinta y última cosa de la lista —«Cómo se ve de
+lejos»— sabiendo exactamente lo que compraba. **La lista está completa: cinco de cinco.**
+§ K y § O quedan cerrados del todo: la cuenta atrás termina en una elección, no en un
+forzado. Esa noche, mirando el cielo, comprobó que las estrellas lejanas ya no se
+distinguen — no le dolió tanto como pensaba; lo cercano lo ve con una claridad nueva.
+
 ---
 
 ## Dónde están
@@ -84,10 +94,11 @@ un trozo de cuerda rota de Vessa, guardado por no servir para nada.
 
 > *Cosas que ya no tengo.*
 > *1. Cómo sonaba. 2. A qué olía. 3. Cómo eran sus manos. 4. A qué sabían las cosas.*
+> *5. Cómo se ve de lejos.*
 
-**Sólo queda la vista, y sigue intacta.** Última cuenta del libro. Decidido (§ R): se paga
-en el clímax del arco 6, elegida a sabiendas, al tomar el papel del Padre — no por § K ni
-por § F, por el tamaño de la propia decisión de quedarse.
+**Completa. Cinco de cinco.** Pagada en el clímax del arco 6, elegida a sabiendas, al
+tomar el papel del Padre — no por § K ni por § F, por el tamaño de la propia decisión de
+quedarse (§ R). Sel ve perfectamente de cerca; ya no distingue las estrellas lejanas.
 
 ## Lo que Sel sabe
 
@@ -123,8 +134,8 @@ por § F, por el tamaño de la propia decisión de quedarse.
 
 | | |
 |---|---|
-| Papel que Sel lleva puesto | Ninguno (soltó el Músico en el clímax del arco 5 — primera vez sin ninguno puesto) |
-| Cosas de la lista | 4 de 5 — sólo queda la vista |
+| Papel que Sel lleva puesto | El Padre (asentado solo, tras el oficio real — no dado ni tomado de nadie) |
+| Cosas de la lista | 5 de 5 — completa |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
 | Pistas pendientes | 112 de 181 |
