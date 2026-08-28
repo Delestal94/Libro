@@ -22,28 +22,38 @@ no pareció importarle.
 
 ---
 
-Ella no dijo nada al principio. Giró el libro para que Sel lo viera, aunque Sel no sabía
-leer del todo, y le señaló una columna de números pequeños, todos escritos con la misma
-letra apretada.
+Ella no dijo nada al principio. Se levantó, cogió tres lámparas del estante —apagadas las
+tres, idénticas por fuera— y las puso en fila sobre la mesa, una al lado de la otra.
 
 —¿Sabes qué es esto?
 
-—No.
+—Lámparas.
 
-—Es lo que le pedí a cada casa esta semana. —Fue pasando el dedo, línea por línea—. A la
-herrería, una noche entera, porque encienden a las cuatro. A la posada, media, porque
-cierran temprano. A la viuda de la esquina, nada, porque no puede pagarlo y hace tres años
-que se lo doy yo de mi bolsillo.
+—Son lo que le pasa a tres casas por pedir de más. —Empujó la primera hacia Sel—. Ésta la
+ha usado una casa una vez esta semana. Nadie en esa casa nota nada raro todavía.
 
-Sel miró los números sin entenderlos.
+Dejó la segunda un poco más lejos.
+
+—Ésta la ha usado la misma casa tres veces. Ahora hay una hija que se queja de un
+cansancio que no sabe de dónde le viene, y nadie en esa familia ha atado los dos cabos
+todavía.
+
+La tercera la dejó casi al borde de la mesa, como si no le gustara tenerla tan cerca.
+
+—Y ésta la pidió, una sola vez, un hombre que lleva treinta años andando el mismo camino
+al molino. Una mañana salió de su casa y no supo, durante casi una hora entera, hacia
+dónde quedaba. Eso no tiene raya de vuelta.
+
+Sel se quedó mirando las tres lámparas frías, en fila, sin entender todavía por qué le
+importaban tanto.
 
 —¿Y a Reta?
 
 —A Reta nada. Porque Reta no me lo pidió a mí.
 
-Se quedó callada un momento, con el dedo quieto sobre la página, y Sel entendió que aquel
-silencio no era casualidad: era el espacio que Yeva le estaba dejando para que dijera algo,
-igual que él dejaba huecos para que la gente hiciera cosas.
+Se quedó callada un momento, con la mano quieta sobre la tercera lámpara, y Sel entendió
+que aquel silencio no era casualidad: era el espacio que Yeva le estaba dejando para que
+dijera algo, igual que él dejaba huecos para que la gente hiciera cosas.
 
 No dijo nada.
 
@@ -56,25 +66,14 @@ lo dio gratis, porque no sabía que había un precio que poner.
 
 —Ya lo sé. Lo sabes tú también, ahora. La pregunta es otra.
 
-Se levantó, cogió tres lámparas del estante —apagadas las tres, idénticas por fuera— y las
-puso en fila sobre la mesa, una al lado de la otra.
-
-—Ésta la ha usado una casa una vez esta semana. —La empujó hacia Sel—. Nadie en esa casa
-nota nada raro todavía. —La segunda la dejó un poco más lejos—. Ésta la ha usado la misma
-casa tres veces. Ahora hay una hija que se queja de un cansancio que no sabe de dónde le
-viene, y nadie en esa familia ha atado los dos cabos todavía. —La tercera la dejó casi al
-borde de la mesa, como si no le gustara tenerla tan cerca—. Y ésta la pidió una sola vez
-una casa que no sabía medir. La abuela de esa casa ya no reconoce a sus nietos cuando
-vienen a verla. Eso no tiene raya de vuelta.
-
 —¿Cómo sabes dónde está la raya?
 
 —Porque me la enseñaron, y porque llevo veintidós años equivocándome un poco cada vez
 hasta que dejé de hacerlo.
 
-Sel se quedó mirando la hoja como se había quedado mirando la pared limpia encima de la
-lámpara, el primer día: sabiendo que había algo importante ahí y sin poder nombrarlo del
-todo.
+Sel se quedó mirando las tres lámparas como se había quedado mirando la pared limpia
+encima de la de Reta, el primer día: sabiendo que había algo importante ahí y sin poder
+nombrarlo del todo.
 
 —Tú anoche no sabías dónde estaba tu propia raya —dijo Yeva—. Y encima la de Reta no la
 conocías ni un poco.
@@ -83,8 +82,8 @@ conocías ni un poco.
 
 —No. Perdiste tú.
 
-Lo dijo sin dureza, casi con la misma voz con la que había leído los números, y a Sel eso
-le costó más que si hubiera gritado.
+Lo dijo sin dureza, casi con la misma voz con la que había puesto las lámparas en fila, y
+a Sel eso le pesó más de lo que le habría pesado un grito.
 
 —¿Y si hubiera perdido ella? —dijo Yeva—. Tú no lo sabías. Eso es lo que hace que fuera
 peligroso, no que saliera mal.
@@ -95,7 +94,7 @@ peligroso, no que saliera mal.
 
 —¿El qué.
 
-—Esto. Los números. Cómo se sabe dónde está la raya.
+—Esto. Las lámparas. Cómo se sabe dónde está la raya.
 
 Yeva cerró el libro despacio, con las dos manos, como quien no quiere que se le escape una
 página.

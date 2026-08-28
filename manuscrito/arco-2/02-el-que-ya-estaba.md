@@ -236,9 +236,8 @@ Sel se asomó por la puerta abierta, sin entrar, con las manos quietas a los cos
 —¿Por qué me deja? —preguntó, porque le pareció raro que nadie de Adruin lo hubiera
 tratado así todavía.
 
-—Porque mirar no cuesta nada —dijo la mujer, sin volverse—. Lo caro viene después. —Cerró
-el libro un momento, sólo para mirarlo bien—. Esto no es gratis en ningún sitio, chaval.
-Ni en el tuyo, digas de dónde digas que vienes.
+—Porque un crío quieto en una puerta no rompe nada —dijo la mujer, sin volverse—. Y porque
+si te echo, vuelves al agujero, y el agujero sí que me va a romper la pared.
 
 No le preguntó de dónde venía. No le preguntó el nombre. Volvió a su libro, y Bern siguió
 limpiando lámparas frías, y Sel se quedó en la puerta, mirando, hasta que se hizo de

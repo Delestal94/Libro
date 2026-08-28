@@ -59,9 +59,10 @@ Y volvió adentro.
 
 Sel se quedó fuera, con Diez sentado a su lado, mirando la lámpara desde la puerta.
 
-Llevaba nueve días volviendo a esa puerta, quedándose de pie donde Yeva le había dicho que
-mirara la primera vez, y algunos días también la había visto de lejos por el mercado, con
-su bolsa gastada, entrando en una casa a oscuras y saliendo con la puerta ya encendida por
+Llevaba días volviendo a la casa de Reta sin que ella se lo pidiera ni una sola vez, y en
+los ratos libres seguía haciendo lo mismo que desde aquella tarde en el taller de Yeva:
+mirar. A Bern encendiendo lámparas de verdad, alguna vez de lejos por el mercado, con su
+bolsa gastada, entrando en una casa a oscuras y saliendo con la puerta ya encendida por
 dentro, sin ceremonia, como quien entrega un pedido. Había hecho, con todo eso junto, una
 cosa que en Keliun le funcionaba con casi todo: mirar hasta que le pareciera fácil.
 
@@ -75,8 +76,8 @@ Entró sin que nadie lo llamara.
 —Nada.
 
 Se puso delante de la lámpara. La tocó con dos dedos, como había visto hacer a Yeva aquella
-mañana en el taller, desde la puerta, con el cuenco de agua todavía goteando en las manos
-de Bern. Fría. De barro frío, y nada más.
+tarde en el taller, por el agujero de la madera, con Bern detrás llenando un cuenco de
+agua sin que nadie se lo pidiera. Fría. De barro frío, y nada más.
 
 Y entonces hizo lo único que sabía hacer con cualquier cosa que no entendía: se quedó
 quieto, dejó el hueco, y esperó a ver qué pasaba.
@@ -171,8 +172,7 @@ de un globo cuando se suelta del todo.
 
 Ila dio un paso hacia dentro y se paró.
 
-No sabía qué se rompe si interrumpe algo así. Y por primera vez en el libro, tampoco Sel lo
-sabía.
+No sabía qué se rompe si interrumpe algo así. Y esta vez tampoco Sel lo sabía.
 
 El color raro se apagó de golpe, no despacio. La llama volvió a ser una llama normal,
 amarilla y quieta, del tamaño justo para una cocina, y se quedó ardiendo así, sin más, como
