@@ -521,3 +521,28 @@ arco 6 la completa del todo: la cuenta atrás no se agota **por accidente ni por
 se completa por una elección que Sel hace con los ojos abiertos, sabiendo el precio entero,
 el único final que tiene sentido para un libro que lleva seis arcos insistiendo en que lo
 que de verdad cuesta algo es lo que se elige.
+
+## S · Miren Saal queda sin cerrar, a propósito · *(28 de agosto de 2026)*
+
+La auditoría de `biblia/pistas.md` del 28-08 (`revisiones/auditoria-pistas-28-08.md`)
+señaló que Miren Saal —la inspectora de la institución, arco 1, cap. 5— desaparece de la
+novela con unas quince pistas sembradas y ninguna retomada: la bolsa que suena a metal, el
+archivo de fichas, «un día no vas a poder dejar de hacerlo», que se borre de la memoria de
+sesenta y cinco personas, a quién le dieron la comarca, entre otras.
+
+**Se deja así, con criterio propio, sin escena nueva.** Tres razones:
+
+1. **No hay ya arco donde pagarlo** sin forzarlo — los seis arcos están cerrados y
+   verificados; insertar a Miren Saal en cualquiera de ellos ahora sería una costura
+   visible, no una que estuviera ya cosida desde el principio.
+2. **La institución que representa ya tiene su cierre temático**, aunque no el suyo
+   personal: el hilo de «una institución entera dedicada a impedir esto, y tiene razón»
+   queda igual de abierto (ver el resumen del arco 6), y los dos vacíos son el mismo
+   vacío, no dos.
+3. **Un personaje que desaparece sin que el libro cierre su expediente es, él mismo, el
+   tema del libro.** Sel también deja atrás gente sin que sus historias se resuelvan del
+   todo — Coren, Osane, Dench, el padre de Ila. Miren Saal es la versión más grande de
+   ese mismo patrón, no una excepción a corregir.
+
+Documentado aquí para que quede claro que es una decisión revisada y no un despiste — la
+misma lógica que ya se aplicó a Coren/Osane (arco 3) y a la amenaza de Dench (arco 4).
