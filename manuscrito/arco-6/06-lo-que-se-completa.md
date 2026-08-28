@@ -44,14 +44,12 @@ No la tradujo. No hacía falta explicarle a Anu lo que significaba, porque Anu n
 veresh y aun así entendió algo en la cara de Sel al decirla que no necesitaba ninguna
 palabra más. Y no hacía falta explicárselo a nadie que hubiera seguido a Sel desde
 Keliun hasta Keliun otra vez, por cinco ciudades y cinco papeles y una lista que ya estaba
-completa, y que ahora sabía en quién estaba pensando al decir *selmi* —mi hijo— sin que
-nadie tuviera que preguntárselo.
+completa.
 
-Mi sueño es que mi hijo sea feliz. No lo dijo de sí mismo. Lo dijo pensando en Toma,
-dormido ya con Pell al otro lado de la pared, y entendió, diciéndolo, que ésa era
-exactamente la frase que Maara le había querido decir a él la noche que se le acabó el
-tiempo, y que la única manera de terminarla de verdad no era recibirla, sino volver a
-decirla, entera, sobre alguien más.
+La dijo pensando en Toma, dormido ya con Pell al otro lado de la pared, y entendió,
+diciéndola, que ésa era exactamente la frase que Maara le había querido decir aquella
+noche, la que se le cortó cuando se le acabó el tiempo — y que la única manera de
+terminarla de verdad no era recibirla, sino volver a decirla, entera, sobre alguien más.
 
 ---
 
@@ -105,17 +103,25 @@ Toma se quedó mirándolo, callado, con una atención distinta a la de un rato a
 ---
 
 —Entonces sí te vas a quedar —dijo Toma, no como pregunta, como una conclusión a la que
-había llegado él solo—. Nadie paga algo así para irse al día siguiente.
+había llegado él solo—. Nadie se queda ciego para irse al día siguiente. Eso no lo hace ni
+el más tonto.
 
 —No.
 
-Toma asintió, despacio, con la clase de seriedad que a Sel le pareció mucho más vieja de
-lo que le correspondía a un niño de nueve años, y que probablemente tenía que ver con
-todo lo que ese mismo niño ya sabía sobre pagar cosas sin que nadie se lo hubiera
-enseñado.
+Toma asintió, despacio, con una seriedad que a Sel le pareció venir de más lejos de lo que
+debería venir la seriedad de nadie tan pequeño, y que probablemente tenía que ver con todo
+lo que ese mismo niño ya sabía sobre pagar cosas sin que nadie se lo hubiera enseñado.
 
 —Vale —dijo, otra vez, la misma palabra corta que había usado la noche del escalón—.
-Entonces te creo.
+Entonces te creo. —Se quedó un momento callado, buscando algo, y cuando lo encontró se lo
+dijo sin ninguna ceremonia, como quien no sabe que acaba de decir la cosa más importante
+de la conversación—: Avanin.
+
+No «avanesh». Sel conocía la diferencia desde que tenía memoria, y llevaba toda la vida
+oyendo la segunda dicha de él a otros y nunca la primera dicha a él por nadie. Toma no
+pareció darse cuenta de lo que había hecho. Lo dijo como quien nombra algo que ya era
+verdad antes de decirlo, que es, exactamente, la única manera en que esa palabra se puede
+decir sin mentir.
 
 No dijo que confiara en él del todo, ni que lo quisiera, ni ninguna de las frases grandes
 que a veces dicen los adultos entre ellos. Dijo que le creía, que era exactamente la

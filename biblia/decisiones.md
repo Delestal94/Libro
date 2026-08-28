@@ -502,6 +502,16 @@ Es la primera vez que el atajo llega después del trabajo, no en su lugar — y 
   cerca de dos personas concretas. El precio no lo pone ninguna regla del sistema: lo pone
   la propia decisión, y por eso hacía falta esta ficha, no una excepción a § K o a § F.
 
+### Aclaración, tras el panel del arco 6: sigue siendo memoria de Maara
+
+El crítico de sistema señaló, con razón, que la vista parecía una moneda nueva —fisiología
+pura, no memoria de gente recordada— contra la regla dura 2 de `mundo.md`. Se ancló en el
+propio capítulo 5: lo que Sel pierde no es la vista en general, es **la manera exacta en
+que Maara le enseñó a mirar lejos**, señalándole el camino desde la colina la única vez
+que se lo enseñó entero. Sigue siendo memoria de un muerto, como los cuatro pagos
+anteriores — sólo que ésta se paga por decisión propia, no por un canal de la lista que
+alguien más gasta.
+
 ### Cómo se paga
 
 Sel lo escribe en la hoja, con testigo, sabiendo exactamente lo que compra, en el momento

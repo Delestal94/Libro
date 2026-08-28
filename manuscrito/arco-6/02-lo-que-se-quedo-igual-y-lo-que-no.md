@@ -94,8 +94,8 @@ muchas vueltas a esas cosas.
 
 Sel se quedó callado un momento, notando algo raro en el propio pecho: la vieja
 tentación —el hueco, tan fácil de dejar, tan conocido ya— ni siquiera se le pasó por la
-cabeza como posibilidad. No hizo falta contenerse. Simplemente no estaba ahí, esperando a
-que la usara.
+cabeza como posibilidad, porque no había nada aquí que de verdad necesitara forzar. No
+hizo falta contenerse esta vez. No todas las tardes hacía falta.
 
 —No es nada —dijo—. Me alegro de que estés bien.
 

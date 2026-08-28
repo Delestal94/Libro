@@ -26,8 +26,8 @@ días.
 —Mejor. Todavía mal, pero mejor.
 
 Trabajaron en silencio un rato largo, con el sol bajando despacio, y ninguno de los dos
-dijo nada sobre lo raro que era —un niño de nueve años enseñándole a otro cómo se hacía
-algo, sin que hiciera falta ningún papel de por medio para que la lección funcionara.
+dijo nada sobre lo raro que era: el que sabía enseñando al que no sabía, sin que hiciera
+falta ningún papel de por medio para que la lección funcionara.
 
 ---
 
@@ -52,6 +52,16 @@ Sel no dijo nada tampoco. No hacía falta. Había pasado algo entre los dos esa 
 dos lo sabían, y ninguno necesitaba ponerle nombre para que fuera verdad.
 
 ---
+
+Antes de ir, se paró un momento a pensarlo, porque una parte de él —la que llevaba dos
+años aprendiendo cómo funcionaban estas cosas— le decía que aquí había un problema del
+tamaño del que había tenido con Bern en Adruin: un solo hueco, y ya ocupado. El padre de
+Toma y Pell seguía vivo, seguía en el pueblo, seguía siendo, sobre el papel, el suyo.
+
+Pero cuanto más lo pensaba, menos se parecía al caso de Bern. Bern quería el Huérfano y lo
+hacía bien; sólo le faltaba tiempo. Esto era distinto: un hombre que tenía el sitio y no
+lo ocupaba, vacío desde hacía tanto que ya ni él mismo se molestaba en fingir que estaba
+ahí. No se puede quitarle a nadie un sitio que ya dejó vacío él solo.
 
 La casa del padre de Ila estaba al final de la misma calle de siempre, con la puerta medio
 descolgada de una bisagra que nadie había arreglado en años.
@@ -85,7 +95,8 @@ de otro, adelante. No voy a ser yo quien te lo impida. Tampoco voy a ser yo quie
 las gracias.
 
 Sel no dijo nada más. No había ninguna frase que fuera a cambiar a ese hombre, y llevaba
-cinco arcos aprendiendo que no todo lo que está mal tiene una frase que lo arregle. Salió
+ya mucho camino recorrido aprendiendo que no todo lo que está mal tiene una frase que lo
+arregle. Salió
 de la casa sin dar un portazo, y sin llevarse nada de esa conversación más que la
 certeza tranquila de que no hacía falta ganarla para que lo demás siguiera siendo verdad.
 

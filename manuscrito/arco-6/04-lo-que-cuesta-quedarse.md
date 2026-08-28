@@ -130,11 +130,22 @@ segundo.
 
 Sel se quedó pensando la respuesta un momento, con Pell todavía apretado contra el costado
 de Toma, y contestó lo único verdadero que tenía, aunque supiera que sonaba raro dicho en
-voz alta a un niño de nueve años.
+voz alta a alguien tan pequeño.
 
 —Porque entonces sería como él —dijo—. Y no quiero ser como él con nadie, ni siquiera con
 él.
 
 Toma no dijo que lo entendiera del todo. Pero asintió, despacio, y se sentó otra vez en el
-escalón, con Pell contra el hombro, dejando que la noche siguiera su curso sin que nadie
-tuviera que decir nada más.
+escalón, con Pell contra el hombro.
+
+Pell, que llevaba todo el rato fingiendo dormir para no tener que entender lo que acababa
+de pasar, se había quedado dormido de verdad a mitad del fingimiento, con la cabeza floja
+y una mano todavía cerrada sobre la manga de Toma.
+
+—Pesa más de lo que parece —dijo Toma, sin soltarlo, con los brazos ya cansados.
+
+Sel se acercó y lo cogió él, con cuidado de no despertarlo, notando el peso concreto y
+tibio de un niño dormido contra el pecho por primera vez en su vida, y le pareció que ese
+peso, más que ninguna palabra dicha esa noche, era lo único que hacía falta para saber lo
+que estaba eligiendo. Lo llevó dentro, despacio, con Toma detrás y Diez pegado a sus
+talones, y lo dejó en la cama sin que se despertara del todo.

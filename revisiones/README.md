@@ -43,6 +43,39 @@ panel que los agentes pueden escribir**, lanzando uno solo primero.
 | 2026-08-12 | **Arco 3 · Yenal · ~8.500 palabras · panel de cierre, tres rondas** | 9 (panel reducido) × 2 rondas + arreglos de criterio propio | **≈4,4 / 8** (estructura 3,5→4,5 · personajes 4 · sistema 5,5 · mercado 3,75) | [resumen](2026-08-12-arco-3/resumen.md) |
 | 2026-08-27 | **Arco 4 · Ossin, el Fondo · ~7.800 palabras · panel de cierre, dos rondas** | 9 (panel reducido) + 3 verificadores + 2 rondas de corrección | **4 / 8** inicial → verificado 5/8 (personajes), 3/8 (estructura, mitad del hallazgo cerrada en 2ª ronda) | [resumen](2026-08-27-arco-4/resumen.md) |
 | 2026-08-27 | **Arco 5 · Adalur, el Conservatorio · ~7.900 palabras · panel de cierre, una ronda** | 9 (panel reducido, variado: 3 lectores niño + 2 adulto) + una ronda de corrección | **3,1 / 8** de media (estructura 2,5 · personajes 3 · sistema 4,5 · mercado 2,5) — recepción emocional unánime y muy positiva pese a la nota técnica más baja del proyecto | [resumen](2026-08-27-arco-5/resumen.md) |
+| 2026-08-27 | **Arco 6 · Casa (Keliun) · ~8.400 palabras · panel de cierre, una ronda · ÚLTIMO ARCO DEL LIBRO** | 9 (panel reducido) + una ronda de corrección | **3,4 / 8** de media (estructura 3,5 · personajes 4 · sistema 3 · mercado 3) — incluye la corrección de un error real contra `biblia/idioma.md` en la frase final del libro | [resumen](2026-08-27-arco-6/resumen.md) |
+
+### 2026-08-27 · panel de cierre, arco 6 (una ronda) — ÚLTIMO ARCO DEL LIBRO
+
+El panel encontró, con cita exacta, **un error real contra `biblia/idioma.md`**: la
+frase final del libro decía `Halumi ish alun` cuando la biblia fija `Halumi ish selmi
+alun` («mi sueño es que mi hijo sea feliz») — faltaba `selmi` («mi hijo»), la palabra
+que carga el título del protagonista. Corregido de inmediato, con un efecto positivo:
+la frase dejó de ser el sueño de Sel sobre sí mismo y pasó a ser el sueño que Maara le
+dejó a medias, que él completa diciéndolo sobre Toma y Pell — e Ila cierra el libro
+diciendo su propia versión sobre los hermanos que crió.
+
+**Hallazgo central, 6 de 9 perfiles:** nada se oponía de verdad a lo que Sel quería en
+todo el arco — el padre de Ila cedía sin fricción, el pueblo ayudaba sin coste, la escena
+del precio (el quinto y último ítem de la lista) era tachable. Un lector lo resumió así:
+«el precio es magia, no vida […] el mismo truco que el arco dice estar evitando».
+Confirmado además que **la imagen declarada del arco (Sel cargando a Pell dormido) no
+existía en el manuscrito** — 4 de 9 perfiles, con cita y línea exactas cada uno.
+
+Corregido en una sola ronda: escena nueva en el cap. 4 (Sel carga a Pell, la imagen del
+arco, por fin en escena); la escena del precio (cap. 5) reescrita con Anu dudando de
+verdad, usando su propio tic; el conflicto de `regla dura 4` (Sel toma «el Padre» con el
+padre biológico vivo) resuelto en escena con un paralelo explícito a Bern (arco 2); el
+mecanismo `-in`/`-esh` de `idioma.md`, prometido desde el principio del libro y nunca
+pagado, cobrado por fin («Toma le dice a Sel "avanin"»); el quinto pago de la lista
+anclado a una memoria concreta de Maara para no romper la regla dura 2; y una traducción
+explícita que la propia corrección del idioma había introducido, cortada, dejando que la
+escena hable sola. Ver [resumen del 27-08](2026-08-27-arco-6/resumen.md) para el detalle
+completo, incluido lo que queda abierto a propósito: el hilo de la institución de la
+premisa, sin arco donde pagarlo ya.
+
+**Con esto, El décimo perro está completo: seis arcos, primera escritura terminada,
+panel de cierre en cada uno, correcciones aplicadas donde el panel encontró causa real.**
 
 ### 2026-08-27 · panel de cierre, arco 5 (una ronda)
 
@@ -310,6 +343,25 @@ dejadas abiertas a propósito, no bugs pendientes de arreglar. Ver
 
 **Leyenda igual que arriba.** H59 y H60 son hilos dejados abiertos a propósito. Ver
 [resumen del 27-08](2026-08-27-arco-5/resumen.md) para el detalle completo.
+
+### Hallazgos nuevos, hijos del panel del 27 de agosto (arco 6, último arco)
+
+| # | Hallazgo | Coincidencias | Estado |
+|---|---|---|---|
+| **H61** | Error real contra `biblia/idioma.md`: la frase final decía «Halumi ish alun», faltaba «selmi» («mi hijo») | critico-01-estructura | 🟢 **cerrado**, y mejora el sentido de la frase (de Maara para Sel, completada hacia adelante) |
+| **H62** | Nada se opone de verdad a lo que Sel quiere en todo el arco; la escena del precio era tachable | critico-01, critico-02, critico-03, critico-04, lector-nino-01, lector-nino-05, lector-adulto-03 (7 perfiles) | 🟢 **cerrado**, fricción real añadida (Anu duda, el paralelo con Bern se resuelve en escena) |
+| **H63** | La imagen declarada del arco (Sel cargando a Pell dormido) no existía en el manuscrito | critico-01, critico-02, critico-03, critico-04 | 🟢 **cerrado**, escena añadida en el cap. 4 |
+| **H64** | La corrección de H61 introdujo una traducción explícita de la frase, rompiendo la propia promesa de no traducirla | lector-adulto-02, escritor-04-editor | 🟢 **cerrado**, traducción cortada |
+| **H65** | Última línea real del libro debía ser «…crié igual», no la frase explicativa detrás | escritor-04-editor | 🟢 **cerrado** |
+| **H66** | «Tenía nueve años» tras actos maduros de Toma, tres veces — prohibición 6 de `voz.md` | escritor-04-editor | 🟢 **cerrado** en los tres puntos |
+| **H67** | Contradicción factual: el narrador se atribuye privilegio exclusivo sobre la cabeza de Sel e Ila, contra la escena de Tarin del arco 1 | critico-02-personajes | 🟢 **cerrado**, afirmación suavizada |
+| **H68** | Contradicción de tiempos: «tres años» en Adruin no cuadraba con el «casi un año» del resto del libro; «crié igual» de Ila sonaba a presente | critico-04-mercado, critico-02-personajes | 🟢 **cerrado** |
+| **H69** | § K contradictorio entre capítulos sobre si la tentación del hueco «desaparece» o sigue disponible | critico-03-sistema | 🟢 **cerrado**, reformulado |
+| **H70** | El quinto pago de la lista rompía la regla dura 2 (no memoria de nadie); el mecanismo `-in`/`-esh` de `idioma.md`, prometido, nunca cobrado | critico-03-sistema | 🟢 **cerrado**, ambos |
+| **H71** | El hilo de la institución de la premisa queda sin resolver, sin arco donde pagarlo | critico-02-personajes (fuera de su encargo) | 🔴 **abierto a propósito** — no hay ya arco donde cerrarlo |
+
+**Leyenda igual que arriba.** H71 es un hilo dejado abierto a propósito, el único que
+queda sin resolver al cerrar el libro entero.
 
 ### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
 

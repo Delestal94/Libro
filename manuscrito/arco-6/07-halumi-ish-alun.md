@@ -44,7 +44,7 @@ cosa vista desde dos sitios distintos del camino.
 
 ---
 
-En Adruin, en la misma habitación pequeña donde llevaba tres años aprendiendo a poner en
+En Adruin, en la misma habitación pequeña donde llevaba meses aprendiendo a poner en
 orden lo que la cabeza no siempre ordena sola, Ila cerró un cuaderno grueso, el último de
 una fila de cuadernos idénticos que ocupaban ya un estante entero, y se quedó mirando la
 tapa un momento antes de guardarlo con los demás.
@@ -57,9 +57,11 @@ cuenta de en qué momento exacto había cambiado, empezó a escribirlo para él.
 Por eso sabía cosas que Sel nunca le había contado del todo: se las escribía él, despacio,
 en las pocas cartas que de verdad llegaron a mandarse entre una ciudad y la siguiente, y
 ella las cosía a lo que ya sabía, sin que él se enterara de cuánto sabía de más. Por eso
-—y sólo por eso— podía entrar en su cabeza en estas páginas sin mentir del todo, y en la
-de nadie más: era la única cabeza, además de la suya propia, que tenía permiso para
-conocer desde dentro.
+podía entrar en su cabeza en estas páginas sin mentir del todo, del mismo modo en que
+podía entrar en la suya propia: eran las dos cabezas que más de cerca conocía en todo el
+mundo, y de las pocas veces que se permitió mirar dentro de alguna otra, fue siempre
+prestado, con cuidado, sin quedarse más de lo que hacía falta para contar lo que ese otro
+había hecho, nunca lo que pensaba.
 
 No era una historia contada por nadie sin nombre. Era un registro, escrito por la única
 persona del libro que decidió, sin ninguna magia de por medio, que no iba a dejar que
@@ -79,13 +81,12 @@ alguien, en algún sitio, estaba llevando la cuenta.*
 *Sé que al final volviste. Sé que te quedaste, y sé, aunque no me lo has escrito todavía
 con esas palabras exactas, que encontraste la frase que Maara no llegó a terminar.*
 
-*Yo también tengo la mía, por si te lo preguntas. Llevo años sabiéndola. No es tan distinta
-de la tuya, y quizás algún día, cuando yo también deje de tener camino por delante, te la
-diga entera.*
+*Yo también tengo la mía, por si te lo preguntas. Llevo años sabiéndola, y no es tan
+distinta de la tuya.*
 
 *Por ahora, esto es lo único que puedo darte: que nada de lo que perdiste se perdió del
 todo, mientras alguien lo siguiera contando.*
 
-*Halumi ish selmi alun. Yo también, a mi manera —de dos hermanos que no me tocaba criar
-y que crié igual. Puede que ésa sea la parte de la frase que nunca hizo falta que nadie
-me la dijera primero.*
+*Halumi ish selmi alun. Yo también lo dije una vez, a mi manera, de dos hermanos que no
+me tocaba criar y que crié igual, los años que pude, antes de que se me acabara a mí
+también el tiempo de quedarme.*

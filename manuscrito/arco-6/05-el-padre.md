@@ -76,7 +76,7 @@ escalón, en un silencio que no necesitaba que nadie lo rellenara.
 —No —dijo Sel—. Ya había terminado.
 
 Toma se levantó para entrar, dejándolos solos sin que nadie se lo pidiera, con la clase de
-tacto que un niño de nueve años no debería tener que haber aprendido tan pronto.
+tacto que nadie debería tener que aprender tan pronto, y que él ya tenía de sobra.
 
 ---
 
@@ -93,9 +93,13 @@ queda una.
 
 Sel se quedó un momento con la mano quieta sobre el papel, notando el peso exacto de lo
 que estaba a punto de escribir. No había nadie resistiéndose a nada. No había ningún hueco
-que sostener, ninguna voluntad ajena que doblegar. Había, sólo, el tamaño concreto de la
-decisión que acababa de tomar en voz alta un minuto antes, y el precio que esa decisión,
-por su cuenta, sin que ninguna regla se lo exigiera, había traído consigo.
+que sostener, ninguna voluntad ajena que doblegar. Pensó, sin querer, en Maara señalando
+el camino desde la colina, la única vez que se lo enseñó entero, diciéndole que un día
+tendría que verlo así, de lejos, para saber cuándo era hora de irse. Eso era lo que estaba
+a punto de perder: no sólo la vista, sino la manera exacta en que ella se la había
+enseñado. Había, además, el tamaño concreto de la decisión que acababa de tomar en voz
+alta un minuto antes, y el precio que esa decisión, por su cuenta, sin que ninguna regla
+se lo exigiera, había traído consigo.
 
 —Cómo se ve de lejos —dijo, y lo escribió.
 
@@ -108,15 +112,37 @@ con el mismo cuidado con el que Anu guardaba el pan del día siguiente—. Un pa
 toda la vida no es gratis sólo porque a nadie le duela dármelo. Alguien tiene que pagarlo,
 y esta vez el único que puede pagarlo soy yo.
 
-—¿Y lo vale?
+Anu se quedó mirando la hoja un momento de más, y después hizo lo que hacía siempre que
+no sabía qué hacer con las manos: se giró hacia la mesa y empezó a mover panes que ya
+estaban en su sitio, uno hacia la izquierda, otro hacia la derecha, sin que la fila
+cambiara en nada.
 
-Sel pensó en Toma, en Pell dormido dentro, en la fragua de Tarin y en la pregunta que
-Vessa le había hecho una noche entera de camino desde entonces.
+—Tienes nueve años —dijo, sin mirarlo, con la voz más tirante de lo que Sel la había oído
+nunca—. Nadie tenía que dejarte pagar esto. Yo podría haberte dicho que no, esta misma
+noche, antes de que lo escribieras.
 
-—Sí —dijo, sin ninguna duda esta vez, la primera respuesta de todo el libro que no le
-hizo falta pensar dos veces—. Lo vale.
+—Pero no lo hizo.
 
-No lo dijo para convencer a Anu. Lo dijo porque, al decirlo, terminó de ser verdad.
+—No. —Movió otro pan que no necesitaba que lo movieran—. Y no sé todavía si hice bien.
+Puede que dentro de diez años me odies un poco por no haberte dicho que esperaras. Puede
+que no. No lo voy a saber hasta entonces, y aun así te dejé firmarlo esta noche, así que
+no me preguntes si lo vale como si yo tuviera la respuesta seca lista para dártela.
+
+—¿Y usted qué cree?
+
+Anu dejó por fin quietas las manos sobre el mostrador, y cuando habló otra vez lo hizo
+mirándolo de frente, sin ninguna de sus frases cortas de siempre.
+
+—Creo que si te digo que no lo vale, te vas a quedar igual, con la mitad de la certeza
+que tienes ahora. Y eso sí que sería un despilfarro. —Se apartó el pelo de la cara, un
+gesto que a Sel no le había visto hacer nunca—. Así que sí. Lo vale. Pero que sea la
+última vez que un crío de nueve años paga algo tan grande delante de mí sin que yo intente
+pararlo primero.
+
+Sel no dijo nada más. No hacía falta convencer a nadie de una cosa que, al decirla en voz
+alta la primera vez, ya había terminado de ser verdad para él — pero le quedó claro, por
+la manera en que Anu volvió a los panes con las manos todavía inseguras, que para ella no
+había sido tan fácil de aceptar.
 
 ---
 

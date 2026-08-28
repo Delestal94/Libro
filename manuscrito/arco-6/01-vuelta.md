@@ -81,8 +81,8 @@ cocido— y se lo puso en las manos a Sel sin preguntarle si tenía hambre.
 molesta—. Te lo estoy dando. Es distinto.
 
 Sel se quedó con el pan entre las manos, caliente todavía, y pensó, sin decirlo en voz
-alta, que era la primera vez en todo el libro que tenía un pan en las manos sin haberlo
-robado ni haberlo pagado con nada que le costara. Sólo se lo habían dado.
+alta, que era la primera vez que tenía un pan en las manos sin haberlo robado ni haberlo
+pagado con nada que le costara. Sólo se lo habían dado.
 
 —Gracias —dijo, y no supo añadir nada más que sonara a la altura de lo que sentía.
 

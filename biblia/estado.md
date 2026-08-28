@@ -71,14 +71,22 @@ vista, y Toma lo entendió: «Nadie paga algo así para irse al día siguiente. 
 **Capítulo 7 cerrado — CIERRE DEL LIBRO ENTERO.** Sel leyó por fin «la página de Ila,
 doblada, sin leer», llevada desde Adruin por todo el libro: la primera carta de Ila,
 escrita antes de que él se fuera. **El narrador se reveló: es Ila** — lleva escribiendo el
-libro entero, cada arco, desde que decidió llevar la cuenta de lo que se pierde (por eso
-el narrador sólo tenía privilegio sobre su cabeza y la de Sel). Ila tiene su propia frase,
-y dice que algún día se la contará entera — hilo dejado abierto a propósito, fuera del
-libro.
+libro entero, cada arco, desde que decidió llevar la cuenta de lo que se pierde. Ila
+completa su propia versión de la frase en la última línea, sobre los hermanos que crió
+antes de irse a Adruin.
+
+**Panel de 9 y ronda de corrección ya aplicados** (ver `revisiones/2026-08-27-arco-6/`):
+se corrigió la frase final en veresh (tenía un error contra `biblia/idioma.md`, luego el
+propio arreglo introdujo una traducción explícita que se cortó después); se añadió la
+imagen declarada del arco (Sel carga a Pell dormido, cap. 4); se le dio a Anu una duda
+real ante el precio, usando su tic establecido; se resolvió la tensión del hueco con el
+padre biológico (paralelo con Bern, arco 2); se pagó el mecanismo `-in`/`-esh` de
+`idioma.md`, nunca cobrado hasta este arco (Toma le dice a Sel «avanin»); se ligó el
+quinto pago de la lista a una memoria concreta de Maara, para no romper la regla dura 2.
 
 **El décimo perro, completo: seis arcos, seis papeles, la lista cerrada en cinco de
-cinco, los dos nudos del haranu cumplidos, *halumi ish alun* completada, y el narrador
-nombrado en la última página.**
+cinco, los dos nudos del haranu cumplidos, *halumi ish selmi alun* completada, y el
+narrador nombrado en la última página.**
 
 ---
 
@@ -156,7 +164,7 @@ quedarse (§ R). Sel ve perfectamente de cerca; ya no distingue las estrellas le
 | Cosas de la lista | 5 de 5 — completa |
 | Nudos atados en el haranu | 2, ambos cumplidos (volver — cap. 1; traer la frase — cap. 6) |
 | Promesas | traer la frase (pagada, cap. 6) · algo a Ila (pagada) |
-| Pistas pendientes | 119 de 203 (varias abiertas a propósito, como es tradición del libro) |
+| Pistas pendientes | 117 de 207 (varias abiertas a propósito, como es tradición del libro) |
 
 ---
 
