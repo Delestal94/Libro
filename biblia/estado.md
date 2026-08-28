@@ -30,6 +30,13 @@ Esa noche encontró a **Toma** (9, hermano mayor de Ila) y **Pell** (6) solos en
 vestidos como se viste un niño al que nadie ayuda — Toma lo reconoció sin alegrarse ni
 sorprenderse, sin esperar nada de un adulto que vuelve.
 
+**Capítulo 2 cerrado.** Vio de cerca, por primera vez y durante un rato largo, a alguien
+siendo padre sin que nadie se lo pida ni lo pague: **Tarin** con sus dos hijos en la
+fragua. Cerró en silencio el hilo de **Oren** y la riada (arco 1) — no siente ninguna
+tentación de usar el hueco con nadie del pueblo. Esa noche, Pell reclamó a Diez como suyo
+y Toma se rió de verdad por primera vez desde que Sel volvió — primera grieta de
+confianza.
+
 ---
 
 ## Dónde están
