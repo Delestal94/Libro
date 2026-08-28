@@ -170,3 +170,78 @@ posadero cerrando cosas.
 
 Y Sel se durmió, contento, porque él le había preguntado una cosa y ella no le había dicho
 que no.
+
+---
+
+Al día siguiente siguió al chico en vez de hablarle. Le pareció más sencillo, y además no
+se le ocurrió qué decirle a alguien que no conocía sin haber decidido antes qué era lo que
+quería de verdad preguntarle.
+
+Lo siguió hasta una casa con un letrero de lámpara pintada, amarilla, con un aro alrededor,
+y lo vio entrar por la puerta de atrás con un fardo de leña bajo el brazo, sin llamar,
+como quien entra en su propia casa sin serlo del todo.
+
+Sel se quedó un momento en la calle. Después rodeó la casa despacio, buscando algún hueco
+en la madera, y encontró uno —un nudo saltado, del tamaño de un ojo— a la altura justa
+para mirar sin tener que agacharse.
+
+---
+
+Dentro había una mujer de cuarenta y tantos, sentada ante una mesa baja con un libro
+grueso abierto, y detrás de ella, en estantes que llegaban hasta el techo, lámparas de
+barro apagadas, unas encima de otras, esperando su turno.
+
+El chico —Bern, aunque Sel todavía no sabía su nombre— dejó la leña junto a la puerta sin
+que nadie se lo pidiera, cogió un trapo, y empezó a limpiar el hollín de una lámpara que ya
+estaba fría, con un cuidado que a Sel le pareció exagerado para algo que no daba luz.
+
+—Ésa no se enciende hasta la semana que viene —dijo la mujer, sin levantar la vista del
+libro—. Puedes dejarla.
+
+—Ya lo sé. Me gusta dejarlas listas antes.
+
+La mujer no contestó a eso. Pasó una página, mojó la pluma, y anotó algo con una letra tan
+apretada que desde el agujero de la madera a Sel le pareció más un dibujo que una palabra.
+
+---
+
+Sel se quedó ahí más tiempo del que pretendía, con el ojo pegado al nudo de la madera,
+viendo cómo el chico llenaba un cuenco de agua, cómo la mujer revisaba una lámpara con dos
+dedos antes de decir si servía o no, cómo entre los dos pasaba todo un oficio entero sin
+que nadie levantara la voz ni una sola vez.
+
+No entendió casi nada de lo que hacían. Pero entendió que era un oficio, con reglas
+propias y con años detrás, del mismo modo en que Tarin tenía un oficio en la fragua, y eso
+le pareció, de pronto, mucho más grande que lo que él mismo llevaba haciendo cuatro meses
+sin que nadie se lo hubiera enseñado.
+
+La madera crujió bajo su peso, un crujido pequeño, y la mujer levantó la cabeza.
+
+---
+
+Miró directamente al agujero, como si lo hubiera sabido ahí desde el principio.
+
+—Sal de ahí antes de que te caigas la pared encima —dijo, sin ningún enfado en la voz,
+como quien avisa de una cosa práctica.
+
+Sel se apartó de un salto, con el corazón yéndosele, y esperó a que alguien saliera a
+echarlo. Nadie salió.
+
+Al rato oyó la voz de la mujer, más alta, para que le llegara desde dentro:
+
+—Si quieres mirar, mira por la puerta. Se ve mejor y no se te cae la casa encima.
+
+Sel se asomó por la puerta abierta, sin entrar, con las manos quietas a los costados.
+
+—¿Por qué me deja? —preguntó, porque le pareció raro que nadie de Adruin lo hubiera
+tratado así todavía.
+
+—Porque mirar no cuesta nada —dijo la mujer, sin volverse—. Lo caro viene después. —Cerró
+el libro un momento, sólo para mirarlo bien—. Esto no es gratis en ningún sitio, chaval.
+Ni en el tuyo, digas de dónde digas que vienes.
+
+No le preguntó de dónde venía. No le preguntó el nombre. Volvió a su libro, y Bern siguió
+limpiando lámparas frías, y Sel se quedó en la puerta, mirando, hasta que se hizo de
+noche y alguien —no supo quién— le puso en la mano un trozo de pan sin decir nada, de la
+misma manera práctica con la que en Keliun se le daba de comer a un perro que se había
+portado bien quedándose quieto.

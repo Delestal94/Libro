@@ -151,12 +151,10 @@ nada que puedas perder.
 
 ---
 
-Bern miró a Sel. Sel miró a Bern.
+Bern miró a Sel. Sel miró a Bern, y bajó la vista a sus propias manos, todavía lisas por
+dentro, sin ningún callo que no fuera de cargar leña o de dormir mal.
 
-Ninguno de los dos dijo lo que los dos estaban pensando: que Sel salía de Adruin sabiendo
-hacer, ese mismo día, lo que a Bern le iban a hacer falta años en aprender; y que Bern se
-quedaba con una cosa que Sel no iba a tener jamás, por mucho que aprendiera rápido y por
-muchas lámparas que encendiera de aquí a que se muriera.
+Bern tenía las suyas agrietadas de años de trapo y de agua fría, y no las escondió.
 
 —¿Por qué a mí? —dijo Bern—. Podrías haberme dejado así, sin más.
 
@@ -167,8 +165,7 @@ Bern se quedó mirando sus propias manos un rato largo.
 
 —Vale —dijo.
 
-Nada más. Ni gracias, ni ceremonia. Y a Sel esa palabra sola, dicha así, le pareció la cosa
-más parecida a un final feliz que había visto en todo el viaje.
+Nada más. Ni gracias, ni ceremonia.
 
 ---
 

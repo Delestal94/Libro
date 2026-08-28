@@ -59,10 +59,11 @@ Y volvió adentro.
 
 Sel se quedó fuera, con Diez sentado a su lado, mirando la lámpara desde la puerta.
 
-Llevaba nueve días viendo trabajar a Yeva de lejos —cruzando el mercado con su bolsa
-gastada, entrando en una casa a oscuras y saliendo con la puerta ya encendida por dentro,
-sin ceremonia, como quien entrega un pedido— y había hecho una cosa que en Keliun le
-funcionaba con casi todo: mirar hasta que le pareciera fácil.
+Llevaba nueve días volviendo a esa puerta, quedándose de pie donde Yeva le había dicho que
+mirara la primera vez, y algunos días también la había visto de lejos por el mercado, con
+su bolsa gastada, entrando en una casa a oscuras y saliendo con la puerta ya encendida por
+dentro, sin ceremonia, como quien entrega un pedido. Había hecho, con todo eso junto, una
+cosa que en Keliun le funcionaba con casi todo: mirar hasta que le pareciera fácil.
 
 No era fácil. Eso ya lo sabía. Pero tampoco le había parecido imposible, y esa diferencia
 era la única que a Sel le importaba de verdad.
@@ -73,8 +74,9 @@ Entró sin que nadie lo llamara.
 
 —Nada.
 
-Se puso delante de la lámpara. La tocó con dos dedos, como había visto hacer a Yeva una
-vez, desde la calle, por la ventana. Fría. De barro frío, y nada más.
+Se puso delante de la lámpara. La tocó con dos dedos, como había visto hacer a Yeva aquella
+mañana en el taller, desde la puerta, con el cuenco de agua todavía goteando en las manos
+de Bern. Fría. De barro frío, y nada más.
 
 Y entonces hizo lo único que sabía hacer con cualquier cosa que no entendía: se quedó
 quieto, dejó el hueco, y esperó a ver qué pasaba.

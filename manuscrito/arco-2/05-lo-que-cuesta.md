@@ -56,12 +56,16 @@ lo dio gratis, porque no sabía que había un precio que poner.
 
 —Ya lo sé. Lo sabes tú también, ahora. La pregunta es otra.
 
-Sacó de un cajón una hoja distinta, más vieja, con manchas de cera en las esquinas, y la
-puso encima del libro.
+Se levantó, cogió tres lámparas del estante —apagadas las tres, idénticas por fuera— y las
+puso en fila sobre la mesa, una al lado de la otra.
 
-—Esto es lo que puede dar una casa antes de que se note. —Señaló un número—. Esto es lo
-que puede dar antes de que duela. —Otro, más abajo—. Y esto —el último, subrayado dos
-veces— es lo que no se le pide a nadie, ni una vez, porque no se cura.
+—Ésta la ha usado una casa una vez esta semana. —La empujó hacia Sel—. Nadie en esa casa
+nota nada raro todavía. —La segunda la dejó un poco más lejos—. Ésta la ha usado la misma
+casa tres veces. Ahora hay una hija que se queja de un cansancio que no sabe de dónde le
+viene, y nadie en esa familia ha atado los dos cabos todavía. —La tercera la dejó casi al
+borde de la mesa, como si no le gustara tenerla tan cerca—. Y ésta la pidió una sola vez
+una casa que no sabía medir. La abuela de esa casa ya no reconoce a sus nietos cuando
+vienen a verla. Eso no tiene raya de vuelta.
 
 —¿Cómo sabes dónde está la raya?
 

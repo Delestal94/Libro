@@ -30,8 +30,12 @@ decían nada y que le importaban más que si hubiera podido leerlas.
 a valer más.
 
 Sel se guardó la página doblada en cuatro, en el mismo sitio donde llevaba la hoja de las
-veintiséis frases tachadas, y se dio cuenta, guardándola, de que no tenía nada que darle
-a cambio.
+veintiséis frases tachadas, y pensó que la primera vez que había visto a Ila mirar algo con
+esa cara había sido delante de una pizarra, no de una hoja: algo que se borra y se vuelve a
+escribir, que dura años porque no cuesta nada perderlo. Esto no. Esto era de las que sólo se
+podían escribir una vez, y ella se la había dado igual.
+
+Se dio cuenta, guardándola, de que no tenía nada que darle a cambio.
 
 Buscó en los bolsillos. El cuchillo de Tarin, no. El gorro, no. No había nada suyo que no
 necesitara él más de lo que ella necesitaría tenerlo.
