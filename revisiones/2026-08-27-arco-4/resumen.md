@@ -143,8 +143,11 @@ estructural que la primera había dejado abierta —el porqué de la elección a
 resultado, no sólo lo acompaña— y las dos verificaciones que la señalaron eran, en su propio
 texto, cada vez más específicas y de menor alcance que el hallazgo original, señal de
 convergencia real y no de un problema sin fondo. **No se relanza una tercera verificación.**
-Queda, a propósito, sin pulir del todo: el cierre del cap. 7 sigue terminando en un fundido
-suave («hasta que el sueño le ganó») en vez de en la línea más dura del capítulo, que llega
-antes; y el hilo de la amenaza de Dench queda abierto de verdad —Sel avisa, pero no puede
-protegerlos desde donde va. Documentado aquí en vez de perseguido con una tercera ronda,
-siguiendo el mismo criterio del arco 3. Se sigue adelante con el arco 5.
+Quedaba, a propósito, sin pulir del todo el cierre del cap. 7, que terminaba en un fundido
+suave («hasta que el sueño le ganó») en vez de en la línea más dura del capítulo, que
+llegaba antes. **Corregido el 28-08**, dentro de la pasada de pulido general de todos los
+arcos: se cortó la frase del sueño y el capítulo cierra ahora en «algo que podría haberse
+gastado y no se había gastado». El hilo de la amenaza de Dench sigue abierto de verdad a
+propósito —Sel avisa, pero no puede protegerlos desde donde va—, siguiendo el mismo
+criterio del arco 3 (Coren/Osane): no todo hilo abierto es un defecto. Se sigue adelante
+con el arco 5.

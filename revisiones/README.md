@@ -360,6 +360,16 @@ dejadas abiertas a propósito, no bugs pendientes de arreglar. Ver
 | **H70** | El quinto pago de la lista rompía la regla dura 2 (no memoria de nadie); el mecanismo `-in`/`-esh` de `idioma.md`, prometido, nunca cobrado | critico-03-sistema | 🟢 **cerrado**, ambos |
 | **H71** | El hilo de la institución de la premisa queda sin resolver, sin arco donde pagarlo | critico-02-personajes (fuera de su encargo) | 🔴 **abierto a propósito** — no hay ya arco donde cerrarlo |
 
+### Hallazgos cerrados en la pasada de pulido general del 28 de agosto (todos los arcos)
+
+| # | Hallazgo | Coincidencias | Estado |
+|---|---|---|---|
+| **H72** | Arco 2: § M contradicho en el propio texto — «viendo trabajar a Yeva de lejos… desde la calle, por la ventana», cuando § M exige haberlo visto de cerca; causa raíz en que la escena del taller de Yeva prevista por la escaleta (cap. 2) nunca se escribió | crítico de mercado (11-08) | 🟢 **cerrado.** Escena nueva en el cap. 2 (Sel mira por un nudo de la madera, lo pillan, Yeva lo deja seguir mirando desde la puerta); dos frases corregidas en el cap. 4 |
+| **H24** | (arco 2) El capítulo 5 explica el sistema con una tabla de números en vez de vivirlo en escena | 3 lectores (2 adultos, 1 niño de 13) | 🟢 **cerrado.** La hoja de cifras de Yeva sustituida por tres lámparas físicas en fila, cada una un escalón de coste — pendiente de verificación por el mismo crítico y el mismo lector niño |
+| **H25** | (arco 2) El narrador enuncia la tesis del libro en el clímax (cap. 6) | 2 críticos + editor de mesa | 🟢 **cerrado.** Cortada la frase final del narrador tras «—Vale —dijo»; el párrafo de la tesis explícita sustituido por un gesto físico (manos de Sel y de Bern) — pendiente de verificación |
+| — | (arco 2) Hilo pizarra-dura-años/hoja-dura-una-vez (cap. 1) nunca recogido en la despedida (cap. 7) — señalado por el editor de mesa en «lo demás que aportó cada informe», sin H propio | editor de mesa (11-08) | 🟢 **cerrado.** Párrafo nuevo en el cap. 7 conecta la página que regala Ila con la pizarra del cap. 1 |
+| **H73** | (arco 4) Cierre del cap. 7 terminaba en un fundido suave («hasta que el sueño le ganó») en vez de en la línea más dura del capítulo, que llegaba antes | decisión de cierre documentada en [resumen del 27-08](2026-08-27-arco-4/resumen.md) | 🟢 **cerrado.** Cortada la frase del sueño; el capítulo cierra en «algo que podría haberse gastado y no se había gastado» |
+
 **Leyenda igual que arriba.** H71 es un hilo dejado abierto a propósito, el único que
 queda sin resolver al cerrar el libro entero.
 

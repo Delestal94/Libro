@@ -147,8 +147,7 @@ segundo de más—, y no lo había hecho, y por primera vez desde que empezó a 
 sintió que en algo, al menos, le sobraba: no por no haber pagado nunca, sino por haber
 podido pagar esa vez y elegir no hacerlo.
 
-Se guardó la mano en el bolsillo, junto a la piedra sin pintar, y pensó que una piedra sin
-pintar y unos ojos que todavía veían las dos luces de una ciudad eran, esa noche,
-exactamente la misma cosa: algo que podría haberse gastado y no se había gastado.
-
-Se quedó mirando las luces hasta que el sueño le ganó antes que el camino.
+Se guardó la mano en el bolsillo, junto a la piedra sin pintar, y se quedó mirando las
+luces de Ossin, sin dormirse todavía, pensando que una piedra sin pintar y unos ojos que
+todavía veían las dos luces de una ciudad eran, esa noche, exactamente la misma cosa: algo
+que podría haberse gastado y no se había gastado.
