@@ -18,7 +18,7 @@ los demás papeles — se gana haciendo de padre de verdad, sin magia, durante s
 hermanos pequeños de Ila, hilo abierto desde el arco 1), y sólo entonces se asienta solo.
 El precio es la quinta y última cosa de la lista —la vista—, elegida a sabiendas, no
 forzada por § K ni cobrada por § F. El narrador se revela en el último capítulo: es Ila.
-Se completa *halumi ish alun*.
+Se completa *halumi ish selmi alun*.
 
 **Momento:** otoño del 1200, llegando a Keliun. Sel viaja solo con Diez, grado 0, casi un
 año después de haberse ido.
@@ -63,7 +63,7 @@ forzado. Esa noche, mirando el cielo, comprobó que las estrellas lejanas ya no 
 distinguen — no le dolió tanto como pensaba; lo cercano lo ve con una claridad nueva.
 
 **Capítulo 6 cerrado.** Anu le hizo la pregunta que nadie le hacía desde Maara: qué es lo
-que sueña. **Sel completó *halumi ish alun*, en voz alta, sin que nadie lo tradujera** —
+que sueña. **Sel completó *halumi ish selmi alun*, en voz alta, sin que nadie lo tradujera** —
 se cumple el segundo nudo del haranu, «traer la frase», terminándola él mismo, no
 trayéndola de vuelta a nadie. Toma le pidió pruebas, no palabras; Sel le contó lo de la
 vista, y Toma lo entendió: «Nadie paga algo así para irse al día siguiente. […] Te creo.»

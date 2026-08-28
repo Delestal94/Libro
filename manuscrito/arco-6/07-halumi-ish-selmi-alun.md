@@ -1,4 +1,4 @@
-# Halumi ish alun
+# Halumi ish selmi alun
 
 Encontró la página una mañana de las que ya no contaba, buscando otra cosa entre las
 pocas cosas que llevaba encima: doblada en cuatro, con los bordes ablandados de haber
@@ -64,8 +64,8 @@ prestado, con cuidado, sin quedarse más de lo que hacía falta para contar lo q
 había hecho, nunca lo que pensaba.
 
 No era una historia contada por nadie sin nombre. Era un registro, escrito por la única
-persona del libro que decidió, sin ninguna magia de por medio, que no iba a dejar que
-nada de esto se perdiera del todo.
+persona de todo el viaje que decidió, sin ninguna magia de por medio, que no iba a dejar
+que nada de esto se perdiera del todo.
 
 ---
 

@@ -148,3 +148,50 @@ los cinco arcos anteriores.
 
 **El décimo perro está completo: seis arcos, primera escritura terminada, panel de
 cierre hecho en cada uno, correcciones aplicadas donde el panel encontró causa real.**
+
+## Verificación y segunda ronda, 28 de agosto (pasada de pulido general de todos los arcos)
+
+Con el libro ya completo, se relanzaron critico-01-estructura y critico-03-sistema en
+modo verificación sobre esta misma ronda, con muchos cambios simultáneos repartidos por
+casi todo el arco y nunca comprobados después. Encontraron que casi todos los arreglos
+habían corregido la intención pero dejado fósiles o huecos de lógica:
+
+- **H61 (la frase de idioma) no se había cerrado del todo:** el cuerpo del texto (caps.
+  6-7) estaba bien, pero el título del propio cap. 7, el nombre del fichero,
+  `biblia/estado.md` (2 sitios) y la escaleta (4 sitios) seguían con la frase vieja. Y la
+  corrección introdujo un problema nuevo: el lector llega a la frase final con dos
+  palabras nunca glosadas en el texto (`selmi`, además de `alun`) en vez de una.
+- **El `avanin` del cap. 6 contradecía el propio arco 1:** la línea decía que Sel llevaba
+  «toda la vida» oyendo `avanesh` dicho de él a otros, cuando `07-el-camino.md` establece
+  que ésa fue la primera vez que Sel oyó el sufijo en su vida, y se dijo de Tarin, no de
+  él. Además nada en el arco establecía que Toma conociera una sola palabra de veresh, y
+  el mecanismo exige que el hablante sepa lo que dice.
+- **El anclaje del quinto pago a la memoria de Maara (§ R) se declaraba pero no se
+  ejecutaba:** la escena de pago sólo verificaba el borrón de las estrellas, nunca la
+  pérdida del recuerdo concreto que se suponía que pagaba; y `decisiones.md` § R conservaba
+  a la vez la vieja frase («el precio no lo pone ninguna regla») y la nueva aclaración
+  («sigue siendo memoria de Maara») sin reconciliarlas.
+- **El párrafo nuevo del cap. 3 (regla dura 4, el padre biológico) usaba un criterio
+  inventado** —«diligencia»: quien no cuida, deja vacío el hueco— que el propio cap. 4
+  contradecía al mostrar al mismo hombre reclamando autoridad sobre sus hijos, con la
+  escena certificando que «no había cambiado nada en él».
+- **La fricción de Anu antes del quinto pago (cap. 5) llegaba después de que Sel ya
+  hubiera escrito el precio**, así que no podía haber cambiado nada — la escena dejaba de
+  ser tachable por dependencia de lo que viene después, no por resistencia real dentro de
+  ella misma.
+- Restos menores: «ciego» en boca de Toma cuando Sel sólo pierde la vista de lejos; dos
+  tics de «en el libro entero»/«del libro»; una fecha redundante («casi un año antes con
+  nueve meses menos encima»).
+
+**Corregido de inmediato, sin relanzar un tercer verificador:** fichero del cap. 7
+renombrado y su título corregido, junto con `estado.md` y la escaleta; añadido un gloss
+orgánico de `selmi` en el propio cap. 6 (Sel recuerda que su nombre significa «hijo»);
+reescrito el recuerdo del `avanesh` para que sea, con precisión, el recuerdo de la escena
+exacta del arco 1; añadida una escena breve en el cap. 3 donde Sel le enseña a Toma un
+puñado de palabras veresh, incluida la distinción `avan`/`avanin`/`avanesh`, meses antes
+de que la use; reconciliado § R en `decisiones.md` para que la decisión sea lo que dispara
+el precio y la memoria de Maara sea lo que efectivamente se paga, y añadida la ejecución
+de esa pérdida en la escena de las estrellas; reescrito el párrafo del cap. 3 con el
+criterio real de § M (reconocimiento social, el mismo de Bern en el arco 2); movida la
+objeción de Anu a antes de que Sel escriba el precio, con un momento real en que podría
+haberlo parado. Ver H61, H70, H82-H85 en `revisiones/README.md`.

@@ -43,7 +43,7 @@ libro cambia de plano: la voz que ha contado los seis arcos se nombra a sí mism
 primera persona, dirigiéndose a Sel directamente — este libro es el registro que ella
 prometió llevar, escrito para él, para cuando pueda leerlo.
 
-**Se completa *halumi ish alun*.** La respuesta de Sel no es un lugar ni una aventura: es
+**Se completa *halumi ish selmi alun*.** La respuesta de Sel no es un lugar ni una aventura: es
 quedarse, ser necesitado por alguien concreto, cerca. Se dice una sola vez, sin adorno, y
 es la frase que cierra el libro.
 
@@ -122,7 +122,7 @@ contando esta historia todo el tiempo.
   sino en un pago elegido y consciente — la tercera opción que § K dejó abierta desde el
   arco 1, cumplida del todo.
 - **El haranu:** el nudo de «volver» se cumple al llegar a Keliun (cap. 1). El nudo de
-  «traer la frase» se cumple al completar *halumi ish alun* (cap. 7) — los dos nudos
+  «traer la frase» se cumple al completar *halumi ish selmi alun* (cap. 7) — los dos nudos
   atados en el arco 1 se cumplen, uno por capítulo, en el último arco.
 - **Diez** llega con Sel, y se queda, por primera vez en el libro, en un sitio donde no
   hace falta que seguir caminando.
@@ -323,7 +323,7 @@ contando esta historia todo el tiempo.
 - **Qué entra:** la pregunta de Maara (cap. 1, arco 1), la de Vessa (arco 5), llegando
   juntas a la misma persona por tercera y última vez.
 - **Qué pasa:** Sel contesta. No es una frase larga. Es exactamente lo que ha estado
-  haciendo las últimas semanas, dicho en voz alta por primera vez: *halumi ish alun* —
+  haciendo las últimas semanas, dicho en voz alta por primera vez: *halumi ish selmi alun* —
   completado, sin traducirlo el narrador, dejando que el lector que ha seguido el libro
   entero lo entienda solo.
 - **Qué cambia:** se cumple el segundo nudo del haranu — «traer la frase» — no trayéndola
@@ -342,7 +342,7 @@ contando esta historia todo el tiempo.
 
 ---
 
-## Capítulo 7 · Halumi ish alun
+## Capítulo 7 · Halumi ish selmi alun
 
 ### Escena 7.1 · cierre del libro, cambio de narrador
 - **Dónde/quién:** fuera de la historia de Sel. Una habitación en Adruin, la escuela de

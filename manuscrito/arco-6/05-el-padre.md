@@ -2,8 +2,7 @@
 
 Esa noche, con Toma y Pell ya lavados y las últimas voces del pueblo apagándose calle
 abajo, Sel se quedó sentado en el escalón del portal, mirando hacia el camino que salía de
-Keliun hacia el norte, el mismo por el que había entrado casi un año antes con nueve
-meses menos encima.
+Keliun hacia el norte, el mismo por el que había entrado casi un año antes.
 
 Se dio cuenta de que llevaba un rato mirándolo sin proponérselo, con la misma atención con
 la que antes miraba los caminos que salían de cada ciudad nueva, calculando cuánto le
@@ -57,8 +56,8 @@ No se lo había dado nadie. No se lo había quitado a nadie tampoco. Llevaba sem
 haciendo el trabajo entero sin saber que el trabajo, hecho lo bastante tiempo y de verdad,
 también tenía nombre.
 
-El Padre. Así se llamaba lo que acababa de asentarse, y por primera vez en el libro
-entero el nombre le llegó después de saber ya, con el cuerpo entero, lo que significaba.
+El Padre. Así se llamaba lo que acababa de asentarse, y por primera vez desde que salió
+de Keliun el nombre le llegó después de saber ya, con el cuerpo entero, lo que significaba.
 
 Toma no dijo nada. Se quedó mirándolo, con una expresión que no era del todo confianza
 todavía, pero que ya no era la desconfianza de la primera noche.
@@ -89,17 +88,28 @@ estaba ahí.
 —Una lista de lo que ya no tengo. —Sel no levantó la vista de la hoja—. Cuatro cosas. Me
 queda una.
 
-—¿Y qué es la quinta?
+Anu se quedó mirando el espacio en blanco un momento más de lo normal, y algo en su cara
+cambió, como quien ve venir una cuenta antes de que se la digan.
+
+—No hace falta que la escribas esta noche —dijo—. Puede esperar a mañana. A la semana que
+viene. No tiene por qué ser ahora mismo, delante de mí, sólo porque acabas de decirle a un
+crío que te quedas.
+
+—Sí tiene que ser ahora —dijo Sel—. Si espero, va a parecer que lo dudo. Y no lo dudo.
+
+Anu no insistió más, pero tampoco se apartó, y se quedó ahí, con los brazos cruzados, el
+tiempo justo para que Sel supiera que si de verdad hubiera querido pararlo, ése era el
+momento.
+
+—¿Y qué es la quinta? —preguntó, al fin, más baja.
 
 Sel se quedó un momento con la mano quieta sobre el papel, notando el peso exacto de lo
 que estaba a punto de escribir. No había nadie resistiéndose a nada. No había ningún hueco
 que sostener, ninguna voluntad ajena que doblegar. Pensó, sin querer, en Maara señalando
 el camino desde la colina, la única vez que se lo enseñó entero, diciéndole que un día
 tendría que verlo así, de lejos, para saber cuándo era hora de irse. Eso era lo que estaba
-a punto de perder: no sólo la vista, sino la manera exacta en que ella se la había
-enseñado. Había, además, el tamaño concreto de la decisión que acababa de tomar en voz
-alta un minuto antes, y el precio que esa decisión, por su cuenta, sin que ninguna regla
-se lo exigiera, había traído consigo.
+a punto de perder: no la vista entera, sino la manera exacta en que ella se la había
+enseñado — ese día concreto, esa colina, ese dedo señalando el camino desde arriba.
 
 —Cómo se ve de lejos —dijo, y lo escribió.
 
@@ -153,6 +163,11 @@ que ya sabía que iba a encontrar.
 Las estrellas de siempre, las que llenaban el cielo entero cuando era más pequeño, ya no
 se distinguían del todo: un borrón tenue donde antes había puntos concretos, un cielo que
 se le había quedado un poco más corto de lo que recordaba.
+
+Buscó, sin querer, la colina de Maara señalando el camino, ese día concreto, ese dedo
+levantado. No estaba. Sabía que había existido, del mismo modo en que sabía que había
+existido cada una de las otras cuatro cosas de la lista, pero el sitio donde antes podía
+volver a mirarlo estaba limpio, sin nada que buscar ahí dentro.
 
 No le dolió tanto como había pensado que le iba a doler.
 

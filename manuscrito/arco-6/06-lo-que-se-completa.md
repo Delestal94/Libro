@@ -36,6 +36,12 @@ y lo único que le tocaba a Sel no era terminarla por ella, sino aprender a deci
 mismo, de su propia boca, sobre alguien que fuera suyo del mismo modo en que él había sido
 de ella.
 
+Se dio cuenta, además, de una cosa en la que nunca se había parado a pensar: la palabra
+que le faltaba ya la llevaba encima desde siempre, puesta delante de todo lo que decía o
+hacía, sin que nadie se la hubiera tenido que traducir nunca. *Sel.* Hijo. Bastaba con
+ponerle detrás lo que se pone cuando algo deja de ser de uno mismo y pasa a ser de otro,
+para que la misma palabra que lo nombraba a él nombrara, en cambio, a quien él quisiera.
+
 ---
 
 —Halumi ish selmi alun —dijo Sel, en voz alta, completa, por primera vez en su vida.
@@ -103,8 +109,8 @@ Toma se quedó mirándolo, callado, con una atención distinta a la de un rato a
 ---
 
 —Entonces sí te vas a quedar —dijo Toma, no como pregunta, como una conclusión a la que
-había llegado él solo—. Nadie se queda ciego para irse al día siguiente. Eso no lo hace ni
-el más tonto.
+había llegado él solo—. Nadie deja de ver lo de lejos para irse al día siguiente. Eso no
+lo hace ni el más tonto.
 
 —No.
 
@@ -117,11 +123,13 @@ Entonces te creo. —Se quedó un momento callado, buscando algo, y cuando lo en
 dijo sin ninguna ceremonia, como quien no sabe que acaba de decir la cosa más importante
 de la conversación—: Avanin.
 
-No «avanesh». Sel conocía la diferencia desde que tenía memoria, y llevaba toda la vida
-oyendo la segunda dicha de él a otros y nunca la primera dicha a él por nadie. Toma no
-pareció darse cuenta de lo que había hecho. Lo dijo como quien nombra algo que ya era
-verdad antes de decirlo, que es, exactamente, la única manera en que esa palabra se puede
-decir sin mentir.
+No «avanesh». Sel se acordó, oyéndolo, de un viejo sentado al sol en Keliun, hacía ya toda
+una vida, diciendo esa misma palabra de Tarin sin que nadie se lo pidiera —la primera vez
+que había oído que existían las dos, y que nadie que hablara de verdad podía decir una por
+la otra sin que se notara. Entonces la palabra había sido para Tarin. Ahora, por primera
+vez en su vida, alguien la decía de él, y era la buena. Toma no pareció darse cuenta de lo
+que había hecho. Lo dijo como quien nombra algo que ya era verdad antes de decirlo, que
+es, exactamente, la única manera en que esa palabra se puede decir sin mentir.
 
 No dijo que confiara en él del todo, ni que lo quisiera, ni ninguna de las frases grandes
 que a veces dicen los adultos entre ellos. Dijo que le creía, que era exactamente la

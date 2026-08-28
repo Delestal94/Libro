@@ -29,6 +29,21 @@ Trabajaron en silencio un rato largo, con el sol bajando despacio, y ninguno de 
 dijo nada sobre lo raro que era: el que sabía enseñando al que no sabía, sin que hiciera
 falta ningún papel de por medio para que la lección funcionara.
 
+Como pago por la lección, Sel le enseñó a Toma un puñado de palabras de la lengua vieja
+que había ido recogiendo por el camino: agua, camino, casa, padre. Toma las repitió una
+vez cada una, sin demasiado interés, salvo la última, que tenía dos formas, una cerrada y
+otra abierta.
+
+—¿Por qué dos? —dijo Toma.
+
+—Según de quién sea de verdad, y de quién sólo hace de eso.
+
+—Qué raro. —Se quedó pensándolo un momento, con el nudo a medio hacer entre los dedos—.
+Que la misma palabra signifique dos cosas distintas según quién la diga.
+
+No volvió a mencionarlo, y Sel tampoco, pero la frase se le quedó rondando mucho después
+de que se hiciera de noche.
+
 ---
 
 Fue a buscarlos cada noche al mismo portal, a la misma hora más o menos, sin que nadie se
@@ -53,15 +68,17 @@ dos lo sabían, y ninguno necesitaba ponerle nombre para que fuera verdad.
 
 ---
 
-Antes de ir, se paró un momento a pensarlo, porque una parte de él —la que llevaba dos
-años aprendiendo cómo funcionaban estas cosas— le decía que aquí había un problema del
+Antes de ir, se paró un momento a pensarlo, porque una parte de él —la que llevaba casi un
+año aprendiendo cómo funcionaban estas cosas— le decía que aquí había un problema del
 tamaño del que había tenido con Bern en Adruin: un solo hueco, y ya ocupado. El padre de
 Toma y Pell seguía vivo, seguía en el pueblo, seguía siendo, sobre el papel, el suyo.
 
-Pero cuanto más lo pensaba, menos se parecía al caso de Bern. Bern quería el Huérfano y lo
-hacía bien; sólo le faltaba tiempo. Esto era distinto: un hombre que tenía el sitio y no
-lo ocupaba, vacío desde hacía tanto que ya ni él mismo se molestaba en fingir que estaba
-ahí. No se puede quitarle a nadie un sitio que ya dejó vacío él solo.
+Pero cuanto más lo pensaba, menos se parecía al caso de Bern. Bern quería el Huérfano, lo
+hacía bien, y todo Adruin lo miraba y lo trataba como al Huérfano cada vez que alguien
+llamaba a su puerta. Esto era distinto: llevaba años sin que nadie en Keliun mirara a ese
+hombre como el padre de nadie, ni siquiera sus propios hijos. Un papel es lo que eres a
+ojos de los demás, y a esos ojos ya no era nada de eso desde mucho antes de que Sel
+volviera. No hacía falta que él lo soltara para que el hueco estuviera, de hecho, vacío.
 
 La casa del padre de Ila estaba al final de la misma calle de siempre, con la puerta medio
 descolgada de una bisagra que nadie había arreglado en años.

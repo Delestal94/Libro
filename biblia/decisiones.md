@@ -489,28 +489,21 @@ durante semanas, y el papel se asienta **solo**, al final, cuando el oficio ya e
 Es la primera vez que el atajo llega después del trabajo, no en su lugar — y por eso es el
 único papel del libro que no hace falta que nadie se lo entregue ni se lo enseñe.
 
-### Por qué el precio no es § K ni § F
+### Por qué el precio no es § K ni § F, y por qué sigue siendo memoria de un muerto
 
 - **No es § K** porque nadie se resiste. No hay ninguna voluntad que forzar: Toma y Pell
   quieren que Sel se quede, el padre de Ila no es a quien se le está tomando nada.
 - **No es § F** porque no hay ningún efecto que sostener con memoria de un muerto — nadie
-  ha muerto, no hay luz que encender ni flor que abrir.
-- **Es un precio nuevo, del tamaño exacto de la decisión.** Elegir quedarse para siempre,
-  sabiendo lo que eso cierra (el camino, la posibilidad de seguir viajando, todo lo que el
-  resto del libro ha sido) cuesta lo mismo que costó, en el arco 1, elegir irse. La vista
-  —lo que deja ver lejos— es literalmente lo que ya no hace falta cuando se elige quedarse
-  cerca de dos personas concretas. El precio no lo pone ninguna regla del sistema: lo pone
-  la propia decisión, y por eso hacía falta esta ficha, no una excepción a § K o a § F.
-
-### Aclaración, tras el panel del arco 6: sigue siendo memoria de Maara
-
-El crítico de sistema señaló, con razón, que la vista parecía una moneda nueva —fisiología
-pura, no memoria de gente recordada— contra la regla dura 2 de `mundo.md`. Se ancló en el
-propio capítulo 5: lo que Sel pierde no es la vista en general, es **la manera exacta en
-que Maara le enseñó a mirar lejos**, señalándole el camino desde la colina la única vez
-que se lo enseñó entero. Sigue siendo memoria de un muerto, como los cuatro pagos
-anteriores — sólo que ésta se paga por decisión propia, no por un canal de la lista que
-alguien más gasta.
+  ha muerto esa noche, no hay luz que encender ni flor que abrir.
+- **Lo nuevo es lo que lo dispara, no lo que se paga.** Lo que activa el precio es el
+  tamaño exacto de la decisión —elegir quedarse para siempre cuesta lo mismo que costó, en
+  el arco 1, elegir irse—, y no un canal de la lista que otra persona gasta por su cuenta;
+  por eso hacía falta esta ficha, no una excepción a § K o a § F. Pero lo que efectivamente
+  se pierde, igual que en los cuatro pagos anteriores, sigue siendo memoria de un muerto
+  (regla dura 2 de `mundo.md`): no la vista en general, sino la manera exacta en que Maara
+  le enseñó a mirar lejos, señalándole el camino desde la colina la única vez que se lo
+  enseñó entero. La decisión abre la puerta; lo que se lleva por ella, como siempre, es
+  memoria de alguien recordado.
 
 ### Cómo se paga
 
