@@ -117,9 +117,38 @@ prueba del tachado en el peor sentido: si se tachaba, la historia seguía exacta
 
 ## Decisión de cierre
 
-**Una sola ronda de corrección.** La convergencia era muy alta y apuntaba, en casi todos
-los casos, a una única causa raíz compartida (la decisión resuelta demasiado pronto, la
-imagen prometida no escrita) que un solo paquete de cambios pudo atender de raíz. No se
-relanza el panel completo ni se busca una segunda verificación exhaustiva: se documenta
-aquí, con transparencia, lo corregido y lo que queda abierto, y se sigue adelante con el
-arco 6 — el último del libro.
+**Una sola ronda de corrección el 27-08.** La convergencia era muy alta y apuntaba, en casi
+todos los casos, a una única causa raíz compartida (la decisión resuelta demasiado pronto,
+la imagen prometida no escrita) que un solo paquete de cambios pudo atender de raíz. No se
+relanzó el panel completo ni se buscó una segunda verificación exhaustiva en su momento: se
+siguió adelante con el arco 6 — el último del libro.
+
+## Verificación y segunda ronda, 28 de agosto (pasada de pulido general de todos los arcos)
+
+Con el libro ya completo, se relanzaron los dos críticos que peor habían puntuado
+(estructura, mercado) en modo verificación sobre esta misma ronda, nunca comprobada.
+Encontraron que la corrección del 27-08 había arreglado el mecanismo pero no del todo la
+ejecución:
+
+- Un **fósil del borrador viejo sobrevivía en el propio clímax** (6.2): una línea afirmaba
+  que Sel ya había decidido «dos noches antes», justo lo contrario de lo que 5.3 se había
+  reescrito para dejar abierto.
+- La **imagen nueva del cap. 5 no era la prometida**: Vessa dejaba de tocar sin más, en vez
+  de fallar la nota exacta que llevaba treinta años fallando a propósito (la nota de su
+  hermano, revelada en el cap. 4) — la escena perdía su conexión con el resto del arco.
+- El **motor seguía en cero**: el único intento activo de Sel se abandonaba sin insistir,
+  narrado como buena educación en vez de como límite real.
+- Restos menores: «nadie» en once apariciones en el cap. 6; el narrador volvía a enunciar
+  una diferencia que la imagen ya mostraba sola; una coincidencia cómoda («alguien —un
+  vecino, o quizás el médico—» cargó a Vessa); «cuatro arcos» meta-textual en el cap. 2;
+  Diez seguía sin aparecer en el propio concierto, su único público establecido desde el
+  cap. 1.
+
+**Corregido de inmediato, sin relanzar un tercer verificador:** escena nueva en el cap. 5
+(Sel sigue al médico a la calle y le pide que vuelva a mirar a Vessa; el médico no se
+resiste — no hay voluntad que forzar, sólo un oficio agotado — y ahí queda el intento real
+y fallido que faltaba); la escena de la nota reescrita para que Vessa falle la nota exacta,
+no una cualquiera; cortado el fósil de 6.2; reducido «nadie» de once a ocho apariciones en
+el cap. 6; recortada la frase del narrador a la sola imagen física; Farel (ya en escena)
+sustituye a la coincidencia cómoda; «cuatro arcos» corregido a «cuatro pueblos»; Diez
+añadido al borde del escenario mientras toca Talia. Ver H74-H80 en `revisiones/README.md`.

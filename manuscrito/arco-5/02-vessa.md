@@ -87,8 +87,8 @@ enemigo, aunque te vaya a sonar raro no tener ninguno.
 
 ---
 
-Sel se quedó un momento en el pasillo vacío, buscando, por la costumbre de cuatro arcos, la
-cara de alguien a quien convencer, alguien que se estuviera resistiendo, alguna voluntad
+Sel se quedó un momento en el pasillo vacío, buscando, por la costumbre de cuatro pueblos,
+la cara de alguien a quien convencer, alguien que se estuviera resistiendo, alguna voluntad
 contra la que empujar.
 
 No había nadie así. Farel no mentía ni ocultaba nada. No había ningún hueco que dejar,

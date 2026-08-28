@@ -8,30 +8,39 @@ Se sentó a quince pasos de la misma caja de eco de siempre, con el sarand apoya
 rodillas, y levantó el arco para empezar la pieza que llevaba treinta años tocando de
 memoria.
 
-No le salió nada. La mano no encontró la primera cuerda. Lo intentó otra vez, más despacio,
-y el arco resbaló entero, sin sonido, como si el instrumento hubiera dejado de reconocer
-la mano que lo sostenía.
+Llegó bien hasta la mitad de la frase. Ahí, en el mismo sitio exacto donde siempre dejaba
+caer esa nota un poco corta, a propósito, porque «no está mal, está puesta ahí», la nota
+volvió a salir baja.
+
+Pero no fue la misma nota.
+
+Sel, que la había oído fallar esa frase cien veces desde el primer día, lo supo antes de
+que Vessa terminara de bajar el arco: la de siempre sonaba a mancha querida, algo puesto
+ahí adrede. Ésta sonó a otra cosa. A una cuerda que ya no respondía igual. A una mano que
+ya no sabía cuánto apretar.
 
 ---
 
 Diez, que se había sentado delante de ella con la misma seriedad de siempre, ladeó la
-cabeza al no oír nada.
+cabeza al notar que algo había cambiado en el sonido, sin saber qué.
 
-Vessa lo intentó una tercera vez. La caja de eco, a quince pasos, seguía reproduciendo su
-melodía perfecta, sin enterarse de nada, y la diferencia entre las dos cosas —una máquina
-que no podía fallar y una mujer que ya no podía no fallar— se quedó ahí, en medio de la
-plaza, sin que nadie tuviera que señalarla.
+Vessa lo intentó una segunda vez, la misma nota, despacio, con todo el cuidado que treinta
+años de tocarla mal a propósito le habían enseñado a poner exactamente ahí. Volvió a salir
+distinta. La caja de eco, a quince pasos, seguía reproduciendo su copia perfecta de la nota
+de siempre —la buena, la de antes de que Vessa empezara a estropearla adrede—, y ahora ni
+siquiera la máquina sabía tocar la que a Vessa ya no le salía.
 
 —Vessa... —empezó Talia.
 
 —No. —La palabra le salió seca, la primera vez que Sel la oía hablarle así a alguien—.
-No me digas que está bien. No está bien.
+No me digas que está bien. No está bien. Y esta vez lo sé de verdad, que es peor.
 
 Tiró el arco al suelo, con una fuerza que a Sel le sorprendió que todavía tuviera, y se
 quedó con las manos abiertas sobre el regazo, mirándolas como si fueran de otra persona.
 
-—Treinta años —dijo, más baja—. Y ahora esto. No es justo, y no me hace falta que nadie me
-diga que la vida no lo es. Ya lo sé. Me sigue pareciendo injusto igual.
+—Treinta años fallando esa nota a propósito —dijo, más baja—. Y ahora me la quita ella
+sola, sin pedirme permiso. No es justo, y no hace falta que nadie me diga que la vida no
+lo es. Ya lo sé. Me sigue pareciendo injusto igual.
 
 Nadie le contestó. No hacía falta.
 
@@ -84,9 +93,31 @@ le acaba el tiempo, y el tiempo no lo cura nadie, se cobre como se cobre.
 
 —No lo sé. Días. Quizás menos.
 
-Sel se quedó en el pasillo cuando el médico se fue, con la espalda contra la pared,
-pensando en Yeva, en su libro de cuentas, en cada regla que había aprendido sobre lo que
-costaba usar un papel. Todas esas reglas hablaban de memoria. Ninguna hablaba de esto.
+Sel se quedó en el pasillo un momento cuando el médico se fue. Después lo siguió hasta la
+calle.
+
+—Vuelva a mirarla —dijo, plantándose delante de él—. Otra vez. Despacio.
+
+—Ya la he mirado.
+
+—Mírela otra vez.
+
+El médico se paró y lo miró de arriba abajo, no con enfado, con la calma de alguien que ha
+visto ya a demasiada gente pedirle lo mismo con esas mismas palabras exactas.
+
+—Sé lo que eres —dijo—. Y sé lo que llevas puesto. Y no, no voy a dejar que me lo pongas
+encima para que se me ocurra algo que no se me haya ocurrido en veinte años de oficio. Lo
+que tiene esa mujer no es que yo no la haya mirado bien. Es que no hay nada que mirar
+mejor.
+
+No hubo hueco que dejar contra eso. El médico no se estaba resistiendo a nada: no había
+ninguna voluntad ahí que forzar, sólo un oficio entero, agotado antes de que Sel abriera la
+boca, y Sel se quedó en la calle sin nada que empujar, descubriendo que había cosas para
+las que ni siquiera hacía falta que alguien dijera que no.
+
+Volvió adentro, con la espalda contra la pared del pasillo, pensando en Yeva, en su libro
+de cuentas, en cada regla que había aprendido sobre lo que costaba usar un papel. Todas
+esas reglas hablaban de memoria. Ninguna hablaba de esto.
 
 Memoria de gente recordada. Eso era lo único que la magia sabía tocar, se pagara con
 monedas o con recuerdos. Vessa no se estaba quedando sin memoria: se estaba quedando sin
