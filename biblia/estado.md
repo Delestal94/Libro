@@ -68,6 +68,18 @@ se cumple el segundo nudo del haranu, «traer la frase», terminándola él mism
 trayéndola de vuelta a nadie. Toma le pidió pruebas, no palabras; Sel le contó lo de la
 vista, y Toma lo entendió: «Nadie paga algo así para irse al día siguiente. […] Te creo.»
 
+**Capítulo 7 cerrado — CIERRE DEL LIBRO ENTERO.** Sel leyó por fin «la página de Ila,
+doblada, sin leer», llevada desde Adruin por todo el libro: la primera carta de Ila,
+escrita antes de que él se fuera. **El narrador se reveló: es Ila** — lleva escribiendo el
+libro entero, cada arco, desde que decidió llevar la cuenta de lo que se pierde (por eso
+el narrador sólo tenía privilegio sobre su cabeza y la de Sel). Ila tiene su propia frase,
+y dice que algún día se la contará entera — hilo dejado abierto a propósito, fuera del
+libro.
+
+**El décimo perro, completo: seis arcos, seis papeles, la lista cerrada en cinco de
+cinco, los dos nudos del haranu cumplidos, *halumi ish alun* completada, y el narrador
+nombrado en la última página.**
+
 ---
 
 ## Dónde están
@@ -144,7 +156,7 @@ quedarse (§ R). Sel ve perfectamente de cerca; ya no distingue las estrellas le
 | Cosas de la lista | 5 de 5 — completa |
 | Nudos atados en el haranu | 2, ambos cumplidos (volver — cap. 1; traer la frase — cap. 6) |
 | Promesas | traer la frase (pagada, cap. 6) · algo a Ila (pagada) |
-| Pistas pendientes | 112 de 181 |
+| Pistas pendientes | 119 de 203 (varias abiertas a propósito, como es tradición del libro) |
 
 ---
 
