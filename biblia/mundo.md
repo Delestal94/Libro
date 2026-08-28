@@ -120,6 +120,9 @@ Ver la línea del tiempo en la app (Trama → Cronología), que ya lleva los dos
 | **lasharil** | El musgo que alumbra. Crece más donde se recuerda a los muertos |
 | **haranu** | El árbol de los nudos. Uno por promesa |
 | **grado** | Cuánta magia hay metida en la vida diaria de un sitio. De 0 a 4 |
+| **rescoldo** | Memoria de otro, embotellada. Tecnología de § F robada por Dench (Ossin, grado 3), sin control de dosis. Lo gastado no vuelve nunca (`decisiones.md` § P) |
+| **caja de eco** | Máquina de grado 4 (Adalur) que reproduce una melodía perfecta sin fallar nunca. Su perfección es el contraste que sostiene el arco 5: no significa nada porque no puede fallar |
+| **Cerezal** | El vergel de Yenal, grado 2. Árboles con placa que se pagan dos veces — monedas al patrocinador, memoria a quien los abre. Ver [[flor-del-cerezal]] |
 
 ## Decisiones cerradas
 

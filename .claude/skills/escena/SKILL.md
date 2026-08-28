@@ -18,6 +18,8 @@ nunca se acaba el sitio.
 | `biblia/voz.md` | **Entero, siempre.** Es el contrato. Sin esto la escena no suena al libro |
 | `biblia/estado.md` | Dónde está todo. Sustituye a leerse lo anterior |
 | `biblia/personajes/<los que salgan>.md` | Sólo los que aparecen. Dos o tres |
+| `biblia/lugares/<el lugar de la escena>.md` | Si existe ficha del lugar, cárgala — grado, quién manda, qué esconde. Si no existe, créala al cerrar el capítulo (ver abajo) |
+| `biblia/fauna/` y `biblia/flora/` | Sólo si la hoja menciona un bicho o una planta propia del mundo — Grep por nombre, no leas la carpeta entera |
 | `biblia/pistas.md` | **Sólo las filas de este capítulo y las pendientes que toquen** — usa Grep por «cap. N» / «arco X», no lo leas entero: la tabla crece con cada arco |
 | El final del texto anterior | Los últimos ~40 renglones. Para que la juntura pegue |
 
@@ -75,6 +77,13 @@ Una escena sin contabilizar es una promesa que se pierde. Al terminar:
 - **`biblia/estado.md`** — si cambió lo que alguien sabe, lo que Sel ha perdido, dónde
   están o algún contador, **actualízalo**. El siguiente agente lee esto y nada más.
 - **`biblia/cronologia.md`** — si el suceso tiene fecha.
+- **`biblia/personajes/<nombre>.md`** — si aparece un personaje nuevo con peso (va a
+  volver, o define algo del sistema), dale ficha. No hace falta para quien aparece una vez
+  y no vuelve.
+- **`biblia/lugares/<lugar>.md`** — si el arco entra en un lugar nuevo y todavía no tiene
+  ficha, créala al cerrar el arco (no hace falta antes de cada escena, con estado.md basta
+  mientras se escribe). Es lo que deja el mundo consultable después de escrito, no sólo
+  mientras se escribe.
 
 ---
 

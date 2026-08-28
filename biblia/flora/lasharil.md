@@ -52,10 +52,11 @@ resuelto sin ninguna ley, sin ningún guarda y sin haberlo hablado nunca: no se 
 Los de fuera lo encuentran conmovedor. Los de dentro no entienden qué tiene de
 conmovedor no ser idiota.
 
-> **Para el arco 3.** En la ciudad-jardín aprendieron a trasplantarlo. Funciona una
-> temporada. Después el sitio de origen está muerto y el nuevo también. Han iluminado
-> avenidas enteras y las cambian cada año, y ya no queda lasharil en cien leguas a la
-> redonda.
+> **Nota de escritura, superada:** esta ficha planeaba, antes de escaletar el arco 3, que
+> Yenal fuera una "ciudad-jardín" que trasplantaba lasharil. Al escribir el arco se decidió
+> algo más propio del lugar — el Cerezal, con su propia flora mágica de grado 2 (ver
+> [[flor-del-cerezal]]) — y el lasharil no vuelve a aparecer después del arco 1. Se deja
+> esta nota como registro de la idea descartada, no como plan vigente.
 
 ## Qué cuentan de ella
 

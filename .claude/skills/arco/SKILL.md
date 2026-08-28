@@ -71,7 +71,28 @@ Busca:
 
 ---
 
-## 4 · El panel
+## 4 · El mundo, antes del panel · **lo que se olvidó los primeros cinco arcos**
+
+Con el arco cerrado y las costuras arregladas, antes de lanzar el panel:
+
+- **Escribe `biblia/lugares/<lugar-del-arco>.md`**, con el formato de `keliun.md`
+  (frontmatter con grado, tema, secreto; cuerpo con qué se ve al llegar, cómo funciona,
+  quién manda, qué esconde, qué pasa aquí).
+- **Escribe ficha en `biblia/personajes/`** para cada personaje nuevo con peso — el que
+  enseña el papel, el antagonista, quien se queda atrás con nombre y relación con Sel. No
+  hace falta para quien aparece una vez y no vuelve.
+- **Si el arco inventó flora o fauna propia** (una planta o un bicho atado a ese lugar,
+  no genérico), dale ficha en `biblia/flora/` o `biblia/fauna/`.
+
+Esto no se hizo en los arcos 2 a 6 la primera vez —`biblia/lugares/` se quedó con sólo
+Keliun, y `biblia/personajes/` con sólo el reparto del arco 1— y el propio skill [[escena]]
+nunca cargaba estas fichas al escribir, así que el mundo dejó de crecer aunque el libro
+siguiera. Hacerlo aquí, al cerrar cada arco, es más barato que reconstruirlo entero al
+final.
+
+---
+
+## 5 · El panel
 
 Con [[panel]], en `revisiones/`. **Lanza uno solo primero y comprueba que escribe su
 fichero**; si no puede, el registro de agentes está antiguo y hay que reiniciar.
