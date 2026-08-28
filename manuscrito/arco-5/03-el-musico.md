@@ -9,12 +9,12 @@ Vessa no se rió de la idea, aunque a Sel le pareció, por un momento, que estab
 hacerlo.
 
 —Ya la has visto de cerca —dijo, sin soltarle la mano—. No me toca a mí decirte que no lo
-intentes. Pero si quieres el mío, hay una cosa antes.
+intentes. Pero hay una cosa antes de nada.
 
 —¿Cuál?
 
 —Un instrumento no suena si tiene otra cuerda pisándole encima. Suelta lo que llevas
-puesto primero. Después hablamos.
+puesto primero. Lo demás se ve después.
 
 ---
 
@@ -29,7 +29,7 @@ Esta vez el vacío no dolió como una despedida: fue más parecido a quitarse un
 hacía ya varios días que le sobraba, sin darse cuenta de cuánto pesaba hasta que dejó de
 llevarlo.
 
-—Ya está —dijo Vessa, sin necesidad de preguntar—. Ahora, si quieres, toma el mío.
+—Ya está —dijo Vessa, sin necesidad de preguntar—. Ahora sí. Deja que se te ponga.
 
 Le puso las manos, otra vez, sobre el sarand, y esta vez no corrigió nada. Sel encontró el
 hueco vacío, y ahí, donde un minuto antes había estado la costumbre de robar sin ser visto,
@@ -38,7 +38,7 @@ y la siguiente, un oficio entero que no había tenido que aprender con los dedos
 lo tenía puesto.
 
 —Así se lleva el Músico —dijo Vessa, sin ninguna ceremonia, guardando ya sus propias
-herramientas—. Cuídalo mejor de lo que yo he podido, últimamente.
+herramientas—. No es mío, aunque salga de mirarme a mí. Es tuyo desde ahora. Cuídalo.
 
 ---
 

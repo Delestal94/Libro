@@ -42,6 +42,32 @@ panel que los agentes pueden escribir**, lanzando uno solo primero.
 | 2026-08-11 | **Arco 2 · Adruin · ~9.800 palabras · panel de cierre (primera vez)** | 9 (panel reducido) | **3,75 / 8** (estructura 3,5 · personajes 3,5 · sistema 4 · mercado 4) | [resumen](2026-08-11-arco-2/resumen.md) |
 | 2026-08-12 | **Arco 3 · Yenal · ~8.500 palabras · panel de cierre, tres rondas** | 9 (panel reducido) × 2 rondas + arreglos de criterio propio | **≈4,4 / 8** (estructura 3,5→4,5 · personajes 4 · sistema 5,5 · mercado 3,75) | [resumen](2026-08-12-arco-3/resumen.md) |
 | 2026-08-27 | **Arco 4 · Ossin, el Fondo · ~7.800 palabras · panel de cierre, dos rondas** | 9 (panel reducido) + 3 verificadores + 2 rondas de corrección | **4 / 8** inicial → verificado 5/8 (personajes), 3/8 (estructura, mitad del hallazgo cerrada en 2ª ronda) | [resumen](2026-08-27-arco-4/resumen.md) |
+| 2026-08-27 | **Arco 5 · Adalur, el Conservatorio · ~7.900 palabras · panel de cierre, una ronda** | 9 (panel reducido, variado: 3 lectores niño + 2 adulto) + una ronda de corrección | **3,1 / 8** de media (estructura 2,5 · personajes 3 · sistema 4,5 · mercado 2,5) — recepción emocional unánime y muy positiva pese a la nota técnica más baja del proyecto | [resumen](2026-08-27-arco-5/resumen.md) |
+
+### 2026-08-27 · panel de cierre, arco 5 (una ronda)
+
+**La nota técnica más baja del proyecto (3,1/8) con la recepción emocional más alta hasta
+la fecha.** Los cinco lectores, sin excepción, dijeron que la muerte de Vessa les llegó de
+verdad y que querían seguir leyendo — el problema no era de sensación de lectura, era de
+arquitectura: **la imagen declarada del propio arco (Vessa fallando de verdad, sin
+querer, junto a una caja de eco perfecta) no existía en el manuscrito**, porque Vessa
+dejaba de tocar tras el cap. 2. Hallazgo gemelo: la decisión de no forzar el concierto con
+el papel se tomaba en la escena 5.3, así que el gesto de soltarlo en el clímax (6.2) era
+río abajo de una decisión ya tomada — pasaba la prueba del tachado en el peor sentido
+posible.
+
+Corregido en una sola ronda: escena nueva al abrir el cap. 5 (Vessa falla de verdad junto
+a una caja de eco y se enfada por primera y única vez — «treinta años. Y ahora esto. No es
+justo»); 5.3 reescrita para dejar la decisión abierta; el clímax (6.2) reescrito para que
+Talia pida el papel en persona y Sel elija de nuevo, notando el paralelismo con su propio
+fallo del cap. 3; Talia recupera agencia para salir a tocar por decisión propia; se corta
+el tic «nadie se lo discutió» (cinco apariciones → cero); se reescriben dos frases del
+cap. 6 que copiaban la escaleta casi palabra por palabra; se añade `decisiones.md` § Q
+(el oficio real nunca fue un papel — resuelve por qué Vessa sigue tocando tras «dar» el
+Músico sin romper la regla dura 4). Ver [resumen del 27-08](2026-08-27-arco-5/resumen.md)
+para el detalle completo, incluidos los hilos dejados abiertos a propósito (la economía de
+grado 4 sin dramatizar a fondo; las voces de Vessa, Farel y Talia, poco diferenciadas
+entre sí).
 
 ### 2026-08-27 · panel de cierre, arco 4 (una ronda)
 
@@ -265,6 +291,25 @@ dejadas abiertas a propósito, no bugs pendientes de arreglar. Ver
 
 **Leyenda igual que arriba.** H48 y H49 son hilos dejados abiertos a propósito. Ver
 [resumen del 27-08](2026-08-27-arco-4/resumen.md) para el detalle completo.
+
+### Hallazgos nuevos, hijos del panel del 27 de agosto (arco 5)
+
+| # | Hallazgo | Coincidencias | Estado |
+|---|---|---|---|
+| **H50** | La imagen declarada del arco (Vessa fallando de verdad junto a una caja de eco) no existía en el manuscrito — Vessa dejaba de tocar tras el cap. 2 | critico-01, critico-04, implícito en escritor-04 | 🟢 **cerrado.** Escena nueva al abrir el cap. 5 |
+| **H51** | La decisión de no forzar el concierto se tomaba en 5.3, no en el clímax 6.2 — el gesto de soltar el papel era río abajo de una decisión ya tomada | critico-01 | 🟢 **cerrado.** 5.3 reescrita abierta; 6.2 reescrita como decisión real, con Talia pidiéndolo en persona |
+| **H52** | «Nadie se lo discutió» repetido cinco veces con la misma construcción | critico-02 | 🟢 **cerrado**, cortado a cero en el cuerpo del texto |
+| **H53** | Vessa nunca se enfadaba pese a que la escaleta lo prometía explícitamente — arquetipo de Maestra Sabia Moribunda | critico-02, critico-04 | 🟢 **cerrado**, junto con H50 |
+| **H54** | Talia perdía agencia en el clímax: salía a tocar porque Farel la llamaba | critico-02 | 🟢 **cerrado** |
+| **H55** | El cap. 6 copiaba el lenguaje de la escaleta casi palabra por palabra en dos frases clave | critico-01, escritor-04 | 🟢 **cerrado**, ambas reescritas |
+| **H56** | § M en riesgo: Vessa parecía seguir «llevando» el Músico tras dárselo a Sel | critico-03 | 🟢 **cerrado.** `decisiones.md` § Q añadido, diálogo del cap. 3 corregido |
+| **H57** | Un médico que cobra «en monedas, no en memoria» sugería una medicina mágica capaz de curar lo que el arco decía sin cura | critico-03 | 🟢 **cerrado**, línea del médico corregida |
+| **H58** | Diez ausente de los capítulos 2, 4, 5 y 6 — falta en la muerte y el velatorio | critico-04 | 🟢 **cerrado parcialmente** — añadido a la nueva escena del cap. 5 y al velatorio del cap. 6; sigue sin aparecer en caps. 2 y 4 |
+| **H59** | Voces de Vessa, Farel y Talia poco diferenciadas — mismo tipo de frase corta y pulida | lector-adulto-02, lector-adulto-04 | 🔴 **abierto a propósito** — señalado, no reescrito línea por línea |
+| **H60** | Economía de grado 4 no dramatizada en la página (Adalur no «cobra» nada visiblemente) | critico-03 | 🔴 **abierto a propósito** — exigiría una escena nueva de mayor calado |
+
+**Leyenda igual que arriba.** H59 y H60 son hilos dejados abiertos a propósito. Ver
+[resumen del 27-08](2026-08-27-arco-5/resumen.md) para el detalle completo.
 
 ### Pasada 4 · 2 de agosto de 2026 · 15.418 → 14.632 palabras
 

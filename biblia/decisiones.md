@@ -446,6 +446,23 @@ que alguien, algún día, pueda confirmar que se acordaron de esa persona mientr
 memoria circulaba, no que la memoria misma vaya a volver. Es la misma lógica que sostiene
 *halumi ish*: no se arregla la pérdida, se atestigua que hubo alguien.
 
+---
+
+## Q · El oficio real nunca fue un papel · *(27 de agosto de 2026)*
+
+El panel del arco 5 (crítico de sistema) encontró una grieta de continuidad: si Vessa le
+«da» a Sel el papel del Músico y luego sigue tocando y enseñando ella misma, parece que
+dos personas llevan el mismo papel a la vez — contra la regla dura 4.
+
+**No lo llevan.** Esto ya estaba implícito desde el arco 2 (la distinción de Bern: el
+atajo contra el oficio) y aquí se hace explícito: **el maestro de origen nunca lleva un
+papel — tiene el oficio real**, aprendido con años, sin magia de por medio. Un papel es
+la copia mágica de ese oficio, tomada por alguien que lo ha visto de cerca sin haber hecho
+el trabajo. Cuando Vessa le dice a Sel «no es mío, aunque salga de mirarme a mí» (cap. 3,
+arco 5), no está regalando una posesión: está señalando que lo que Sel toma nunca fue
+suyo en ese sentido — es nuevo, nacido de mirarla, y ella conserva intacto lo que de
+verdad es suyo, que nunca necesitó papel para existir.
+
 ### Lo que esto fija para los arcos 5 y 6
 
 - El arco 5 («aquí es donde Sel no puede ayudar») encaja mejor si ya sabemos, desde el

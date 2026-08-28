@@ -91,6 +91,7 @@ ningún papel que pudiera tomar prestado para contestarla más rápido. Era sól
 nada puesto encima que se la contestara por él.
 
 Se guardó la caja con el trozo de cuerda inútil junto al cuchillo de Tarin, la piedra de
-Mira, la hoja de frases tachadas, y se quedó ahí sentado un rato más, con las manos
-vacías, sintiendo, por primera vez en todo el viaje, que unas manos vacías también podían
-ser simplemente eso: suyas.
+Mira, la hoja de frases tachadas, y se quedó ahí sentado un rato más, con las manos vacías
+sobre las rodillas, sin nada puesto, sin nada que hacer con ellas, mirando las luces de
+Adalur hasta que Diez se cansó de esperar y le apoyó la cabeza encima, como si también él
+supiera que esa noche las manos de Sel no tenían otra cosa que sostener.

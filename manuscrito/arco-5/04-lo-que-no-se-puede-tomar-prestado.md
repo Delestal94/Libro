@@ -36,10 +36,8 @@ sarand, despacio, con las manos temblando un poco más que por la mañana—. Un
 podría copiar la nota mala también, si la oyera una vez. Pero copiaría el error, no la
 razón. Y la razón es lo único que de verdad era suyo.
 
-Sel, desde donde estaba, con las dos cajas de cuerdas todavía en los brazos, entendió algo
-que ningún papel le había enseñado nunca: un papel le daba lo que alguien sabía hacer, no
-por qué lo hacía así y no de otra manera. Eso último no se podía ver de cerca ni tomar
-prestado. Había que haberlo vivido.
+Sel se quedó donde estaba, con las dos cajas de cuerdas todavía en los brazos, sin decir
+nada, dándole vueltas a esa frase de una manera que no supo explicar ni a sí mismo.
 
 ---
 
@@ -89,8 +87,9 @@ sea el de una llave cerrando una puerta.
 
 —Voy a tocar yo —dijo Vessa, antes de que nadie más dijera nada.
 
-Nadie se lo discutió. Talia miró sus manos, que apenas sostenían el vaso de agua que
-tenía delante, y no dijo nada. Sel tampoco dijo nada, aunque por dentro ya había empezado
+Talia miró las manos de Vessa, que apenas sostenían el vaso de agua que tenía delante, y
+abrió la boca para decir algo y volvió a cerrarla. Sel tampoco dijo nada, aunque por dentro
+ya había empezado
 a contar los cinco días como quien cuenta algo que no quiere que se le acabe entre los
 dedos.
 

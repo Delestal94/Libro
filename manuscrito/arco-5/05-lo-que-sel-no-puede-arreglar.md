@@ -1,7 +1,44 @@
 # Lo que Sel no puede arreglar
 
-Dos días antes del concierto, Vessa estaba a mitad de una frase —«pon el arco más recto,
-no dejes que caiga solo»— cuando dejó de terminarla.
+Tres días antes del concierto, Vessa quiso practicar en la plaza, «para acostumbrarme al
+ruido de la calle», y nadie le dijo que no, porque decirle que no a Vessa nunca había
+servido de mucho.
+
+Se sentó a quince pasos de la misma caja de eco de siempre, con el sarand apoyado en las
+rodillas, y levantó el arco para empezar la pieza que llevaba treinta años tocando de
+memoria.
+
+No le salió nada. La mano no encontró la primera cuerda. Lo intentó otra vez, más despacio,
+y el arco resbaló entero, sin sonido, como si el instrumento hubiera dejado de reconocer
+la mano que lo sostenía.
+
+---
+
+Diez, que se había sentado delante de ella con la misma seriedad de siempre, ladeó la
+cabeza al no oír nada.
+
+Vessa lo intentó una tercera vez. La caja de eco, a quince pasos, seguía reproduciendo su
+melodía perfecta, sin enterarse de nada, y la diferencia entre las dos cosas —una máquina
+que no podía fallar y una mujer que ya no podía no fallar— se quedó ahí, en medio de la
+plaza, sin que nadie tuviera que señalarla.
+
+—Vessa... —empezó Talia.
+
+—No. —La palabra le salió seca, la primera vez que Sel la oía hablarle así a alguien—.
+No me digas que está bien. No está bien.
+
+Tiró el arco al suelo, con una fuerza que a Sel le sorprendió que todavía tuviera, y se
+quedó con las manos abiertas sobre el regazo, mirándolas como si fueran de otra persona.
+
+—Treinta años —dijo, más baja—. Y ahora esto. No es justo, y no me hace falta que nadie me
+diga que la vida no lo es. Ya lo sé. Me sigue pareciendo injusto igual.
+
+Nadie le contestó. No hacía falta.
+
+---
+
+Dos días antes del concierto, a media clase, Vessa estaba a mitad de una frase —«pon el
+arco más recto, no dejes que caiga solo»— cuando dejó de terminarla.
 
 No se cayó de golpe, como se cae alguien en las historias. Se dobló despacio, primero por
 la cintura, después por las rodillas, con el sarand todavía sujeto contra el pecho como si
@@ -35,13 +72,15 @@ frase después de cuatro ciudades enteras en las que siempre había algo que hac
 ---
 
 La llevaron entre los dos hasta su habitación, más pesada de lo que su cuerpo pequeño
-debería pesar, y un médico de Adalur —de los que cobraban en monedas, no en memoria, y no
-sabían nada de papeles ni falta que les hacía— dijo lo que Sel ya sospechaba sin
-palabras: el corazón se le estaba cansando de sostenerla, y no había ninguna medicina que
-le devolviera lo que los años se habían llevado.
+debería pesar, y un médico de Adalur —de los que cobraban en monedas, no en memoria— la
+examinó despacio antes de decir lo que Sel ya sospechaba sin palabras.
 
-—¿Cuánto tiempo? —preguntó Talia, con una voz que ya no tenía ninguna esperanza que
-proteger.
+—El corazón se le está cansando de sostenerla —dijo—. Yo curo huesos rotos y fiebres. Los
+que cobran en memoria curan otras cosas: un miedo, una pena, algo que se quedó atascado en
+la cabeza y no deja vivir. Ninguno de los dos cura esto. Esto no es una herida. Es que se
+le acaba el tiempo, y el tiempo no lo cura nadie, se cobre como se cobre.
+
+—¿Cuánto? —preguntó Talia, con una voz que ya no tenía ninguna esperanza que proteger.
 
 —No lo sé. Días. Quizás menos.
 
@@ -49,36 +88,15 @@ Sel se quedó en el pasillo cuando el médico se fue, con la espalda contra la p
 pensando en Yeva, en su libro de cuentas, en cada regla que había aprendido sobre lo que
 costaba usar un papel. Todas esas reglas hablaban de memoria. Ninguna hablaba de esto.
 
-Memoria de gente recordada. Eso era lo único que la magia sabía tocar. Vessa no se estaba
-quedando sin memoria: se estaba quedando sin tiempo, y el tiempo no era algo que ningún
-papel del mundo hubiera aprendido nunca a prestar.
+Memoria de gente recordada. Eso era lo único que la magia sabía tocar, se pagara con
+monedas o con recuerdos. Vessa no se estaba quedando sin memoria: se estaba quedando sin
+tiempo, y eso no era algo que ningún papel del mundo hubiera aprendido nunca a prestar.
 
----
-
-Encontró a Farel esa misma tarde, en su despacho, con las cajas de la mudanza ya medio
-llenas contra la pared.
-
-—Tiene que haber algo —dijo Sel, sin ningún plan detrás de la frase, sólo la necesidad de
-decirla en voz alta delante de alguien—. Si consigo que la gente vuelva, si hago que a
-alguien le importe otra vez...
-
-Farel dejó lo que tenía en las manos y lo miró con una paciencia que no tenía nada de
-condescendencia.
-
-—Si encuentras la manera de que a alguien le vuelva a hacer falta esto —dijo—, dímelo. Yo
-también quiero que exista una. Llevo diez años buscándola yo solo, antes de que tú
-llegaras.
-
-—¿Y si...?
-
-—No hay «y si». —No lo dijo con dureza. Lo dijo con el mismo cansancio con el que Vessa
-había dicho que se estaba muriendo despacio—. Esto no se cierra porque alguien lo decida.
-Se cierra porque ya se cerró hace tiempo, y lo único que queda es firmar el papel.
-
-Sel se quedó de pie, sin nada más que ofrecer, y por primera vez en cuatro arcos se dio la
-vuelta y se fue sin haber conseguido nada, sin que nadie lo hubiera vencido, sin ningún
-hueco que dejar ni ninguna puerta que forzar. No había perdido una discusión. Simplemente
-no había ninguna palanca que él pudiera mover.
+Fue a buscar a Farel de todas formas, más por no quedarse quieto que porque le quedara
+alguna esperanza real. La conversación fue corta: Farel ya se lo había dicho todo dos días
+antes, en su despacho, y no tenía ninguna frase nueva que ofrecerle. Sel se fue sin
+insistir, porque insistir habría sido pedirle a un hombre cansado que repitiera una verdad
+que ya le había costado bastante decir la primera vez.
 
 ---
 
@@ -88,20 +106,21 @@ que a los dos les daba miedo escuchar demasiado de cerca.
 —¿Vas a tocar tú? —preguntó Talia, al rato, sin apartar los ojos de Vessa—. En el
 concierto. Con el papel puesto. Para que al menos eso salga bien.
 
-Sel lo pensó de verdad, más tiempo del que le hubiera gustado necesitar.
+Sel lo pensó de verdad, más tiempo del que le hubiera gustado necesitar, y la respuesta que
+le vino primero fue que sí, que sería tan fácil que nadie tendría nada que oponer.
 
-—No —dijo, al final.
+—No lo sé —dijo, al final, y no era del todo mentira—. Sé lo que pasó la última vez que
+lo hice. Te dejé sin nadie que te escuchara a ti. Pero no sé si esta vez sería distinto.
+No sé si voy a ser capaz de no hacerlo cuando llegue el momento.
 
-—¿Por qué no? Sonaría perfecto. Le daría a Vessa el concierto que se merece.
+—¿Y eso qué significa?
 
-—Porque ya sé lo que pasa cuando lo hago —dijo Sel—. La última vez sonó perfecto y te
-dejé sin nadie que te escuchara a ti. No sé qué es lo que hace falta esta vez. Pero sé que
-no es eso.
+—Que todavía no lo sé —dijo Sel—. Lo voy a saber cuando esté ahí, y no antes.
 
 Talia no le contestó enseguida. Se quedó mirando a Vessa dormir, con las manos quietas
 sobre las rodillas, y cuando habló otra vez no fue para darle la razón ni para quitársela.
 
 —Entonces no sé qué va a pasar en ese concierto —dijo.
 
-—Yo tampoco —dijo Sel—. Pero por lo menos esta vez no voy a ser yo el que decida por
-todos lo que tiene que pasar.
+—Yo tampoco —dijo Sel—. Y por lo menos esta vez lo digo de verdad, en vez de fingir que ya
+lo tengo decidido.

@@ -14,17 +14,20 @@ del Jardinero) quedó reparado y verificado.
 media; ver `revisiones/2026-08-27-arco-4/resumen.md`). § O demostrado: al borde exacto de
 poder forzar a Dench para salvar a Tobal, Sel elige no hacerlo y encuentra otra salida.
 
-**Arco 5 (Adalur, el Conservatorio) — cerrado en primera escritura**, siete capítulos,
-pendiente de costuras y panel. Es el arco donde, por diseño, **Sel no puede ayudar**: no
-hay villano ni institución que ceda, sólo la muerte de Vessa (maestra de sarand) y el
-cierre económico del Conservatorio, ninguna de las dos cosas resoluble con papeles ni con
-coste. Sel tomó el Músico (soltando el Ladrón) y lo soltó de nuevo en el clímax, sin
-dárselo a nadie, para que Talia tocara su propia versión imperfecta — coste real y visible
-en la escena. Vessa murió esa noche, después del concierto. **Sel sale sin ningún papel
-puesto, primera vez en el libro.** Le preguntó qué soñaba (variación de *halumi ish*) y no
-supo contestar — pregunta abierta para el arco 6. La lista de sentidos no se tocó: la
-pérdida de este arco es mortalidad, no magia. Detalle completo en
-`manuscrito/arco-5/00-escaleta.md`.
+**Arco 5 (Adalur, el Conservatorio) — cerrado del todo**, tras panel de 9 y una ronda de
+corrección (ver `revisiones/2026-08-27-arco-5/resumen.md`). Es el arco donde, por diseño,
+**Sel no puede ayudar**: no hay villano ni institución que ceda, sólo la muerte de Vessa
+(maestra de sarand) y el cierre económico del Conservatorio, ninguna de las dos cosas
+resoluble con papeles ni con coste. Vessa falla de verdad tocando junto a una caja de eco
+—la imagen del arco— y por primera y única vez se enfada de verdad («treinta años. Y ahora
+esto. No es justo»). Sel tomó el Músico (soltando el Ladrón; § Q aclara que Vessa nunca
+«llevó» el papel, tiene el oficio real) y, en el clímax, con Talia pidiéndoselo en persona,
+eligió de nuevo no usarlo — coste real y visible, notando el paralelismo con su propio
+fallo del cap. 3. Talia tocó su propia versión imperfecta, por decisión propia. Vessa murió
+esa noche, después del concierto. **Sel sale sin ningún papel puesto, primera vez en el
+libro.** Le preguntó qué soñaba (variación de *halumi ish*) y no supo contestar — pregunta
+abierta para el arco 6. La lista de sentidos no se tocó: la pérdida de este arco es
+mortalidad, no magia. Detalle completo en `manuscrito/arco-5/00-escaleta.md`.
 
 **Momento:** otoño del 1200, saliendo de Adalur. Sel viaja solo con Diez, grado 4, hacia el
 arco 6 — **«Casa»**, tema «seguir vivo», papel **el Padre**, grado 0 · Yerma
@@ -134,7 +137,7 @@ gastarla alguna vez o si el punto es, precisamente, que deja de hacer falta.
 | Cosas de la lista | 4 de 5 — sólo queda la vista |
 | Nudos atados en el haranu | 2 |
 | Promesas | traer la frase · (pagada: algo a Ila) |
-| Pistas pendientes | 111 de 178 |
+| Pistas pendientes | 112 de 181 |
 
 ---
 

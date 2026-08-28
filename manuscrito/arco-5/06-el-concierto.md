@@ -1,8 +1,9 @@
 # El concierto
 
 Vessa no pudo levantarse esa noche. Se quedó en la cama, con la ventana entreabierta hacia
-el patio, diciendo que oiría lo que pudiera oírse desde ahí, y nadie discutió con ella
-porque discutir habría significado admitir en voz alta que no había otra opción.
+el patio, diciendo que oiría lo que pudiera oírse desde ahí. Nadie le dijo que no era
+suficiente, aunque los dos lo estaban pensando: decirlo en voz alta habría sido admitir
+que no había otra opción.
 
 La sala del Conservatorio, la única que Farel no había cerrado con llave todavía, se llenó
 más de lo que nadie esperaba: no las salas llenas de otros años, pero sí más gente de la
@@ -28,15 +29,24 @@ Se quedó mirándolo entonces, con una esperanza que a Sel le dolió reconocer, 
 había visto antes, en las caras de gente que necesitaba algo de él.
 
 —Tócala tú —dijo Talia—. Con el papel. Que salga perfecta, aunque sea mentira. Vessa se
-merece un concierto que suene bien, aunque sea prestado.
+merece un concierto que suene bien, aunque sea prestado. Y esta vez te lo estoy pidiendo
+yo. No te lo estás inventando tú solo.
 
 ---
 
-Sel se quedó callado un momento largo, con el peso del Músico todavía encima, sintiendo lo
-fácil que sería decir que sí. Nadie se lo iba a discutir. Ni Talia, que se lo estaba
-pidiendo con la voz rota. Ni la sala, que no sabría distinguir un fallo real de una
-perfección prestada. Ni siquiera Vessa, que quizás, desde la cama, sólo quisiera oír que
-algo salía bien, aunque no fuera verdad.
+Ahí estaba. Lo que Sel llevaba dos días sin saber si iba a poder resistir, servido en
+bandeja por la única persona a la que de verdad no quería volver a hacerle daño. Nadie se
+lo iba a echar en cara esta vez. Ni la sala, que no sabría distinguir un fallo real de una
+perfección prestada. Ni Vessa, que quizás, desde la cama, sólo quisiera oír que algo salía
+bien. Ni siquiera Talia, que se lo estaba pidiendo con su propia voz.
+
+Sel se quedó callado un momento largo, con el peso del Músico todavía encima, notando lo
+fácil que sería decir que sí, y lo mucho que se parecía esa facilidad a la de la plaza, el
+día que le quitó a Talia su público sin darse cuenta. La diferencia era que esta vez sí se
+daba cuenta, mientras todavía estaba a tiempo de elegir.
+
+—No —dijo, y le costó decirlo, más de lo que había costado decidirlo dos noches antes,
+junto a la cama—. Toca tú. Mal, si hace falta. Pero tú.
 
 Cerró los ojos y buscó el hueco donde llevaba el papel: el peso exacto del arco, la
 distancia entre las notas, el oficio entero que Vessa le había puesto en las manos sin
@@ -68,9 +78,11 @@ Vessa querría oír de verdad.
 
 ---
 
-Talia no tuvo tiempo de discutírselo. Farel asomó la cabeza entre las cortinas y dijo que
-ya estaban esperando, y ella salió con el sarand contra el pecho, sin ningún papel encima,
-sin ninguna red debajo.
+Talia se quedó mirando el hueco donde un momento antes había estado el Músico, y algo en
+su cara cambió: ya no era sólo miedo. Cuando Farel asomó la cabeza entre las cortinas y
+dijo que ya estaban esperando, ella no esperó a que se lo repitiera. Se levantó, se puso
+el sarand bajo el brazo y salió ella sola, sin que nadie la empujara, con el mismo paso con
+el que había cruzado la plaza el primer día que Sel la vio tocar sin público.
 
 Sel se quedó solo entre bastidores, con las manos todavía frías, sin nada que hacer con
 ellas más que apretarlas una contra otra. No podía tocar él mismo, aunque hubiera querido
@@ -109,8 +121,12 @@ Aplaudieron, sí. El aplauso de quien ha visto algo, no el de quien ha visto alg
 Un par de personas se pusieron de pie. La mayoría se quedó sentada, aplaudiendo despacio,
 con la misma cara curiosa con la que habían entrado.
 
-No fue un triunfo. Fue, simplemente, una persona tocando de verdad delante de otras
-personas, quizás la última vez que eso fuera a pasar en Adalur en mucho tiempo.
+Sel, entre bastidores, con las manos todavía frías, pensó que si aquello hubiera sido
+suyo —tocado con el papel, sin ningún fallo— el aplauso habría sonado exactamente igual de
+educado, y quizás ni siquiera se habría notado la diferencia desde fuera. La diferencia
+estaba en otro sitio: en que esta vez, cuando Talia bajó el arco, se quedó mirando sus
+propias manos con algo parecido al orgullo, no con el alivio de haber sobrevivido a un
+préstamo.
 
 ---
 
@@ -128,15 +144,20 @@ verdad.
 
 Se la llevaron de vuelta a la cama esa misma noche, cansada pero tranquila, y Sel se quedó
 sentado a su lado un rato, sin decir nada, porque no le pareció que hiciera falta ninguna
-palabra más después de lo que ya había pasado esa noche.
+palabra más después de lo que ya había pasado esa noche. Diez se tumbó contra la pata de
+la cama, sin que nadie lo llamara, y se quedó ahí toda la noche, la cabeza sobre las patas,
+igual que se había tumbado el primer día que oyó tocar a Talia.
 
 Vessa murió horas después, ya de madrugada, no durante el concierto ni por culpa de él,
 sencillamente cuando su cuerpo dejó de poder seguir, con Talia dormida en una silla a su
-lado y Sel despierto en el pasillo, contando, sin proponérselo, los minutos entre una
-respiración y la siguiente hasta que dejó de haber ninguna que contar.
+lado, Diez todavía contra la pata de la cama, y Sel despierto en el pasillo, contando, sin
+proponérselo, los minutos entre una respiración y la siguiente hasta que dejó de haber
+ninguna que contar.
 
-No la salvó. Nadie la salvó. No había ninguna manera de que alguien lo hiciera, y esa
-certeza, cuando por fin llegó del todo, no se pareció a nada que Sel hubiera sentido antes
-en cuatro arcos enteros de perder cosas: no fue un precio que hubiera pagado. Fue,
-simplemente, algo que se llevó la vida sin preguntarle a nadie si estaba dispuesto a
-pagarlo.
+Sel se quedó un rato más mirando la puerta por la que se habían llevado el cuerpo, buscando
+dentro de sí mismo el sitio donde en otras cuatro ciudades había encontrado siempre algo
+que hacer con lo que sentía —un papel que soltar, una cuenta que igualar, un precio que
+por fin entendía y podía pagar— y no encontró nada de eso ahí. Esta vez no había ninguna
+cuenta. Vessa no se le debía a nadie, y nadie se la debía a ella: simplemente ya no estaba,
+de la misma manera silenciosa en que deja de estar cualquier cosa que se acaba por dentro,
+sin que nadie tenga que venir a llevársela.
