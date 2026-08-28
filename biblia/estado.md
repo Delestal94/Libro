@@ -45,6 +45,13 @@ pueblo entero arrima el hombro sin ningún acuerdo mágico** (Anu guarda pan «p
 sobra», el molino manda harina) — la promesa real, cumplida bien esta vez, a diferencia
 de la plaza del arco 1.
 
+**Capítulo 4 cerrado.** Anu le preguntó a Sel si se va a ir otra vez — dejó la respuesta
+abierta a propósito: «Creo que me estoy acercando a algo. Pero no lo tengo. Todavía no.»
+Repasó la lista completa: sólo queda la vista, y entendió que quedarse de verdad tiene un
+precio que esta vez pone él mismo — sin decirlo aún en voz alta. El padre de Ila apareció
+borracho a reclamar a los niños; Sel se interpuso sin usar el hueco («sería como él») —
+único momento de amenaza física real del arco.
+
 ---
 
 ## Dónde están
