@@ -86,4 +86,6 @@ diga entera.*
 *Por ahora, esto es lo único que puedo darte: que nada de lo que perdiste se perdió del
 todo, mientras alguien lo siguiera contando.*
 
-*Halumi ish alun. Yo también. A mi manera.*
+*Halumi ish selmi alun. Yo también, a mi manera —de dos hermanos que no me tocaba criar
+y que crié igual. Puede que ésa sea la parte de la frase que nunca hizo falta que nadie
+me la dijera primero.*

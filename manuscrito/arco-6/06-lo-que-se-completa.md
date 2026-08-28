@@ -22,23 +22,36 @@ instante, casi un acto físico, como dejar en el suelo algo que se lleva mucho t
 los brazos.
 
 Pensó en Maara, la noche del brindis, deteniéndose antes de terminar una frase para que él
-la oyera solo. Pensó en Vessa, en la cama, preguntándole lo mismo con otras palabras, sin
-consolarlo por no tener respuesta. Las dos preguntas, hechas por dos personas que nunca se
-conocieron, llegaban ahora juntas a la misma boca, en la misma panadería, once meses
-después de la primera.
+la oyera solo: *Halumi ish...* Mi sueño es. Y nada más, porque a la abuela no le quedó
+tiempo para lo que venía detrás. Pensó en Vessa, en la cama, preguntándole lo mismo con
+otras palabras, sin consolarlo por no tener respuesta. Las dos preguntas, hechas por dos
+personas que nunca se conocieron, llegaban ahora juntas a la misma boca, en la misma
+panadería, once meses después de la primera.
+
+Durante todo el camino había buscado el final de esa frase como quien busca algo perdido,
+convencido de que era suyo por encontrar, un sueño propio esperando a que le pusiera
+nombre. Ahora, sentado en la panadería de Anu, entendió que se había equivocado de
+pregunta desde el principio. La frase nunca había sido suya. Era de Maara, dicha para él,
+y lo único que le tocaba a Sel no era terminarla por ella, sino aprender a decirla él
+mismo, de su propia boca, sobre alguien que fuera suyo del mismo modo en que él había sido
+de ella.
 
 ---
 
-—Halumi ish alun —dijo Sel, en voz alta, completa, por primera vez en su vida.
+—Halumi ish selmi alun —dijo Sel, en voz alta, completa, por primera vez en su vida.
 
 No la tradujo. No hacía falta explicarle a Anu lo que significaba, porque Anu no hablaba
 veresh y aun así entendió algo en la cara de Sel al decirla que no necesitaba ninguna
 palabra más. Y no hacía falta explicárselo a nadie que hubiera seguido a Sel desde
 Keliun hasta Keliun otra vez, por cinco ciudades y cinco papeles y una lista que ya estaba
-completa.
+completa, y que ahora sabía en quién estaba pensando al decir *selmi* —mi hijo— sin que
+nadie tuviera que preguntárselo.
 
-Era, sencillamente, lo que llevaba haciendo las últimas semanas sin ponerle nombre. Ahora
-tenía nombre, y el nombre era ése.
+Mi sueño es que mi hijo sea feliz. No lo dijo de sí mismo. Lo dijo pensando en Toma,
+dormido ya con Pell al otro lado de la pared, y entendió, diciéndolo, que ésa era
+exactamente la frase que Maara le había querido decir a él la noche que se le acabó el
+tiempo, y que la única manera de terminarla de verdad no era recibirla, sino volver a
+decirla, entera, sobre alguien más.
 
 ---
 
