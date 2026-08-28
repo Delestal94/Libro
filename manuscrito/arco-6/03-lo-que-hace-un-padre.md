@@ -29,20 +29,14 @@ Trabajaron en silencio un rato largo, con el sol bajando despacio, y ninguno de 
 dijo nada sobre lo raro que era: el que sabía enseñando al que no sabía, sin que hiciera
 falta ningún papel de por medio para que la lección funcionara.
 
-Como pago por la lección, Sel le enseñó a Toma un puñado de palabras de la lengua vieja
-que había ido recogiendo por el camino: agua, camino, casa, padre. Toma las repitió una
-vez cada una, sin demasiado interés, salvo la última, que tenía dos formas, una cerrada y
-otra abierta.
+Como pago por la lección, Sel le enseñó a Toma unas pocas palabras en veresh: *una*, agua;
+*tor*, camino; *kel*, casa; *avan*, padre —la misma que un viejo del pueblo le había dicho
+una vez, sin querer, de Tarin, delante de todo Keliun, antes de que Sel se fuera la primera
+vez—. Le enseñó también las dos formas de esa última, *avanin* y *avanesh*, sin
+explicarle mucho más que lo necesario para que sonaran distintas.
 
-—¿Por qué dos? —dijo Toma.
-
-—Según de quién sea de verdad, y de quién sólo hace de eso.
-
-—Qué raro. —Se quedó pensándolo un momento, con el nudo a medio hacer entre los dedos—.
-Que la misma palabra signifique dos cosas distintas según quién la diga.
-
-No volvió a mencionarlo, y Sel tampoco, pero la frase se le quedó rondando mucho después
-de que se hiciera de noche.
+Toma las repitió detrás de él, una vez cada una, más pendiente del nudo que tenía entre
+los dedos que de las palabras, y no volvió a mencionarlas.
 
 ---
 

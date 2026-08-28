@@ -58,9 +58,9 @@ libro entero de su propia vida le había estado enseñando que cuesta algo. Cinc
 detrás, y en cada una había aprendido lo mismo de una forma distinta: nada que de verdad
 importa sale gratis.
 
-Y esta vez, por primera vez, entendió también que el precio no lo iba a poner ninguna
-regla del mundo. Lo iba a poner él, con la misma mano con la que había escrito las otras
-cuatro cosas en esa hoja.
+Y esta vez, por primera vez, entendió también que lo que iba a disparar el precio no era
+ninguna regla del mundo puesta por nadie más: era la propia decisión que estaba a punto de
+tomar, con la misma mano con la que había escrito las otras cuatro cosas en esa hoja.
 
 No lo dijo en voz alta. No había nadie delante a quien decírselo, y una parte de él,
 tumbado esa noche mirando el techo, sabía que pensar algo en la cabeza y decirlo delante

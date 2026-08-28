@@ -107,5 +107,5 @@ por escaletar. Lo único fijo:
   el arco 1), y sólo entonces se asienta solo. El precio es la vista, elegida a sabiendas
   (`decisiones.md` § R) — no por § K ni por § F, sino por el tamaño de la propia decisión
   de quedarse. El narrador se revela: es Ila, escribiendo el libro entero como registro
-  para Sel. Se completa *halumi ish alun*. Detalle completo en
+  para Sel. Se completa *halumi ish selmi alun*. Detalle completo en
   `manuscrito/arco-6/00-escaleta.md`.

@@ -39,8 +39,9 @@ de ella.
 Se dio cuenta, además, de una cosa en la que nunca se había parado a pensar: la palabra
 que le faltaba ya la llevaba encima desde siempre, puesta delante de todo lo que decía o
 hacía, sin que nadie se la hubiera tenido que traducir nunca. *Sel.* Hijo. Bastaba con
-ponerle detrás lo que se pone cuando algo deja de ser de uno mismo y pasa a ser de otro,
-para que la misma palabra que lo nombraba a él nombrara, en cambio, a quien él quisiera.
+ponerle detrás lo mismo que llevaba *halu* para volverse *halumi* —lo que marca que algo
+es de uno— para que esa misma palabra dejara de nombrarlo a él y empezara a nombrar,
+en cambio, al hijo de quien la dijera.
 
 ---
 
@@ -123,12 +124,15 @@ Entonces te creo. —Se quedó un momento callado, buscando algo, y cuando lo en
 dijo sin ninguna ceremonia, como quien no sabe que acaba de decir la cosa más importante
 de la conversación—: Avanin.
 
-No «avanesh». Sel se acordó, oyéndolo, de un viejo sentado al sol en Keliun, hacía ya toda
-una vida, diciendo esa misma palabra de Tarin sin que nadie se lo pidiera —la primera vez
-que había oído que existían las dos, y que nadie que hablara de verdad podía decir una por
-la otra sin que se notara. Entonces la palabra había sido para Tarin. Ahora, por primera
-vez en su vida, alguien la decía de él, y era la buena. Toma no pareció darse cuenta de lo
-que había hecho. Lo dijo como quien nombra algo que ya era verdad antes de decirlo, que
+No «avanesh». Sel se acordó, oyéndolo, de aquella tarde en Keliun, antes de irse la primera
+vez, cuando un viejo sentado al sol había dicho esa misma palabra de Tarin sin que nadie se
+lo pidiera, y él había preguntado qué quería decir el «-esh», sin haberlo oído nunca hasta
+entonces. *¿Y si haces de algo mucho tiempo?*, había preguntado también, y el viejo le
+había contestado que entonces la gente empezaba a decírtelo con la otra, y que ése era el
+problema. A Sel, con nueve años, aquello le había parecido lo mejor que había oído en su
+vida. Ahora entendía, por fin, por qué el viejo lo había llamado problema: porque
+significaba que ya no había vuelta atrás. Toma no pareció darse cuenta de lo que había
+hecho. Lo dijo como quien nombra algo que ya era verdad antes de decirlo, que
 es, exactamente, la única manera en que esa palabra se puede decir sin mentir.
 
 No dijo que confiara en él del todo, ni que lo quisiera, ni ninguna de las frases grandes

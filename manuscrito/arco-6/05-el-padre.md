@@ -91,15 +91,16 @@ queda una.
 Anu se quedó mirando el espacio en blanco un momento más de lo normal, y algo en su cara
 cambió, como quien ve venir una cuenta antes de que se la digan.
 
-—No hace falta que la escribas esta noche —dijo—. Puede esperar a mañana. A la semana que
-viene. No tiene por qué ser ahora mismo, delante de mí, sólo porque acabas de decirle a un
-crío que te quedas.
+—Tienes nueve años —dijo—. Nueve años no es edad para firmar algo que dure para siempre.
+Nadie te ha pedido que lo hagas ya, esta noche, delante de mí.
 
-—Sí tiene que ser ahora —dijo Sel—. Si espero, va a parecer que lo dudo. Y no lo dudo.
+—No es una firma que se pueda dejar para después —dijo Sel—. O la hago sabiendo lo que
+cuesta, o me quedo de todas formas y finjo que no cuesta nada. Y ya he visto lo que pasa
+cuando alguien finge eso.
 
-Anu no insistió más, pero tampoco se apartó, y se quedó ahí, con los brazos cruzados, el
-tiempo justo para que Sel supiera que si de verdad hubiera querido pararlo, ése era el
-momento.
+Anu se quedó mirándolo un momento largo, con la boca a punto de decir algo más, y no lo
+dijo, y a Sel le pareció, después, que ése había sido el momento exacto en que ella había
+podido pararlo de verdad y había elegido no hacerlo.
 
 —¿Y qué es la quinta? —preguntó, al fin, más baja.
 
@@ -127,7 +128,7 @@ no sabía qué hacer con las manos: se giró hacia la mesa y empezó a mover pan
 estaban en su sitio, uno hacia la izquierda, otro hacia la derecha, sin que la fila
 cambiara en nada.
 
-—Tienes nueve años —dijo, sin mirarlo, con la voz más tirante de lo que Sel la había oído
+—Ya te lo dije —dijo, sin mirarlo, con la voz más tirante de lo que Sel la había oído
 nunca—. Nadie tenía que dejarte pagar esto. Yo podría haberte dicho que no, esta misma
 noche, antes de que lo escribieras.
 

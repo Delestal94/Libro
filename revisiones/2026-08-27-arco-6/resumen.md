@@ -195,3 +195,36 @@ de esa pérdida en la escena de las estrellas; reescrito el párrafo del cap. 3 
 criterio real de § M (reconocimiento social, el mismo de Bern en el arco 2); movida la
 objeción de Anu a antes de que Sel escriba el precio, con un momento real en que podría
 haberlo parado. Ver H61, H70, H82-H85 en `revisiones/README.md`.
+
+## Tercera verificación y cuarta ronda, mismo día (28-08)
+
+Se relanzaron los dos mismos verificadores sobre esta segunda ronda. Confirmaron que dos
+arreglos habían entrado de verdad (regla dura 4, la ejecución del pago de Maara), pero
+encontraron una nueva capa de fósiles y errores introducidos por las propias correcciones:
+
+- **H61 seguía vivo en la escaleta maestra del libro** (`manuscrito/00-escaleta.md`, no la
+  del arco 6) — el único sitio desde el que el error podía volver a propagarse.
+- **El gloss de `selmi` definía `-mi` al revés** (decía que marcaba dejar de ser de uno
+  mismo, cuando marca justo la posesión propia).
+- **La escena nueva de veresh (cap. 3) desmentía la línea que venía a arreglar**: hacía
+  que Toma comentara la distinción en voz alta, cuando el cap. 6 sigue diciendo que «no
+  pareció darse cuenta» — y la escena no incluía ni una palabra veresh real.
+- **El `avanesh` citaba la mitad irrelevante** de la escena del arco 1 y añadía una
+  jerarquía («era la buena») que el propio arco 1 niega.
+- **Un fósil no se cortó, se mudó**: «el precio no lo iba a poner ninguna regla, lo iba a
+  poner él» seguía en el cap. 4, contradiciendo la § R ya reconciliada.
+- **La fricción de Anu (cap. 5) seguía sin pasar la prueba del tachado**: objetaba al
+  *cuándo*, no al *qué*, y sin conocer aún el precio.
+
+**Corregido en una cuarta ronda:** `00-escaleta.md` corregido y verificado con un grep de
+la frase *mala* en todo el repositorio (no de la buena, que es lo que se había estado
+grepeando en las tres rondas anteriores); el gloss de `-mi` reescrito citando el paralelo
+correcto con `halu`/`halumi`; la escena del cap. 3 reescrita para que Toma sólo repita
+palabras veresh reales sin comentarlas, ancladas a la escena exacta del arco 1; el
+`avanesh` del cap. 6 reescrito citando la mitad de la escena que de verdad se cobra («si
+haces de algo mucho tiempo, la gente empieza a decírtelo con la otra»); el fósil del cap.
+4 reescrito para que la decisión *dispare* el precio, no lo *ponga*; la objeción de Anu
+reescrita sobre la sustancia (nueve años, para siempre) en vez del calendario. Ver
+H86-H90 en `revisiones/README.md`. No se relanza una quinta ronda de verificación — el
+patrón de hallazgos cada vez más específicos y de menor alcance en cada pasada (igual que
+en el arco 4) es la señal de convergencia real que marca `revisiones/panel.md`.
