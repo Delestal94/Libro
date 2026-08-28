@@ -12,8 +12,8 @@ El taller de Yeva estaba detrás de la casa del letrero, la de la lámpara amari
 aro. Dentro olía a cera y a algo metálico, y había estantes con lámparas apagadas, unas
 encima de otras, esperando turno.
 
-Yeva estaba sentada delante de una mesa con un libro grueso abierto, sin lámpara encendida
-todavía a esa hora de la mañana, con la luz de la puerta.
+Yeva estaba sentada en un banco bajo, con un cuenco de agua y un trapo al lado, sin lámpara
+encendida todavía a esa hora de la mañana, con la luz de la puerta.
 
 —Siéntate.
 
@@ -40,12 +40,13 @@ todavía.
 
 La tercera la dejó casi al borde de la mesa, como si no le gustara tenerla tan cerca.
 
-—Y ésta la pidió, una sola vez, un hombre que lleva treinta años andando el mismo camino
-al molino. Una mañana salió de su casa y no supo, durante casi una hora entera, hacia
-dónde quedaba. Eso no tiene raya de vuelta.
+—Y ésta la pidió, una sola vez, un hombre que se quedó despierto toda una noche cuidando
+a un hijo con fiebre. El niño se puso bien. Pero el padre, con los años, se dio cuenta de
+que ya no se acordaba de qué cara tenía ese hijo el día que nació, sólo de que un día
+existió esa cara y ya no la tenía. Eso no tiene raya de vuelta.
 
-Sel se quedó mirando las tres lámparas frías, en fila, sin entender todavía por qué le
-importaban tanto.
+Sel se quedó mirando las tres lámparas frías, en fila, y sintió que ya sabía, sin que
+nadie se lo explicara, en cuál de los tres escalones habría estado la suya, la de anoche.
 
 —¿Y a Reta?
 
@@ -83,7 +84,7 @@ conocías ni un poco.
 —No. Perdiste tú.
 
 Lo dijo sin dureza, casi con la misma voz con la que había puesto las lámparas en fila, y
-a Sel eso le pesó más de lo que le habría pesado un grito.
+a Sel eso se le quedó dentro de un modo más callado y más largo que un grito.
 
 —¿Y si hubiera perdido ella? —dijo Yeva—. Tú no lo sabías. Eso es lo que hace que fuera
 peligroso, no que saliera mal.
@@ -92,12 +93,12 @@ peligroso, no que saliera mal.
 
 —Enséñame —dijo Sel.
 
-—¿El qué.
+—¿El qué?
 
 —Esto. Las lámparas. Cómo se sabe dónde está la raya.
 
-Yeva cerró el libro despacio, con las dos manos, como quien no quiere que se le escape una
-página.
+Yeva se limpió las manos despacio en el trapo, sin prisa, como quien se toma un momento
+antes de contestar algo que le importa de verdad.
 
 —Se tarda años.
 

@@ -60,8 +60,7 @@ Y volvió adentro.
 Sel se quedó fuera, con Diez sentado a su lado, mirando la lámpara desde la puerta.
 
 Llevaba días volviendo a la casa de Reta sin que ella se lo pidiera ni una sola vez, y en
-los ratos libres seguía haciendo lo mismo que desde aquella tarde en el taller de Yeva:
-mirar. A Bern encendiendo lámparas de verdad, alguna vez de lejos por el mercado, con su
+los ratos libres seguía haciendo lo mismo que desde el día del taller de Yeva: mirar. A Bern encendiendo lámparas de verdad, alguna vez de lejos por el mercado, con su
 bolsa gastada, entrando en una casa a oscuras y saliendo con la puerta ya encendida por
 dentro, sin ceremonia, como quien entrega un pedido. Había hecho, con todo eso junto, una
 cosa que en Keliun le funcionaba con casi todo: mirar hasta que le pareciera fácil.
