@@ -4,6 +4,7 @@ import NavInferior from "@/components/NavInferior";
 import NavLateral from "@/components/NavLateral";
 import Conexion from "@/components/Conexion";
 import ModoTema from "@/components/ModoTema";
+import ContenedorPrincipal from "@/components/ContenedorPrincipal";
 
 export const metadata: Metadata = {
   title: "Escritorio",
@@ -42,7 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             que centra: mezclar mx-auto con un margen fijo en la misma caja
             hace que el auto pierda y todo quede pegado a la izquierda. */}
         <main className="pb-28 pt-segura lg:pb-8 lg:pl-56">
-          <div className="mx-auto w-full max-w-2xl px-4 lg:max-w-3xl lg:px-8">{children}</div>
+          <ContenedorPrincipal>{children}</ContenedorPrincipal>
         </main>
         <NavInferior />
         <ModoTema />

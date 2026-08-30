@@ -452,7 +452,11 @@ export default function Lector({
           <ListaIndice secciones={secciones} onIr={irA} />
         </nav>
 
-        <div className="min-w-0 flex-1">
+        {/* lg:max-w-3xl: un ancho de lectura cómodo, no todo lo que sobre —
+            el índice ya no comparte una columna centrada y angosta con el
+            texto (ver ContenedorPrincipal), así que sin este límite el texto
+            se estiraría demasiado en un monitor ancho. */}
+        <div className="min-w-0 flex-1 lg:max-w-3xl">
           <header className="mb-6">
             <div className="flex items-center gap-2">
               <button
