@@ -37,9 +37,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Conexion />
         <NavLateral />
         {/* pb-28 reserva el hueco de la barra inferior fija; en desktop no hay
-            barra inferior (la nav vive en NavLateral) así que se anula. */}
-        <main className="mx-auto w-full max-w-2xl px-4 pb-28 pt-segura lg:ml-56 lg:max-w-3xl lg:px-8 lg:pb-8">
-          {children}
+            barra inferior (la nav vive en NavLateral) así que se anula.
+            lg:pl-56 reserva el hueco de la sidebar en un elemento aparte del
+            que centra: mezclar mx-auto con un margen fijo en la misma caja
+            hace que el auto pierda y todo quede pegado a la izquierda. */}
+        <main className="pb-28 pt-segura lg:pb-8 lg:pl-56">
+          <div className="mx-auto w-full max-w-2xl px-4 lg:max-w-3xl lg:px-8">{children}</div>
         </main>
         <NavInferior />
         <ModoTema />
