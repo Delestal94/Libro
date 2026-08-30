@@ -54,6 +54,33 @@ const Capitulos = memo(function Capitulos({ secciones }: { secciones: Seccion[] 
   );
 });
 
+function ListaIndice({
+  secciones,
+  onIr,
+}: {
+  secciones: Seccion[];
+  onIr: (ruta: string) => void;
+}) {
+  return (
+    <>
+      {secciones.map((s, i) => (
+        <button
+          key={s.ruta}
+          onClick={() => onIr(s.ruta)}
+          className={`flex min-h-14 w-full items-center justify-between gap-3 bg-superficie px-4 text-left active:bg-superficie-alta ${
+            i ? "border-t border-borde" : ""
+          }`}
+        >
+          <span className="truncate">{s.titulo}</span>
+          <span className="shrink-0 text-xs text-tenue tabular-nums">
+            {s.palabras.toLocaleString("es-ES")}
+          </span>
+        </button>
+      ))}
+    </>
+  );
+}
+
 function PuntosDeColor({
   elegido,
   onElegir,
@@ -417,73 +444,76 @@ export default function Lector({
         style={{ transform: `scaleX(${progreso})` }}
       />
 
-      <header className="mb-6">
-        <div className="flex items-center gap-2">
-          <button
-            onClick={() => setIndice((v) => !v)}
-            className="min-h-11 rounded-md border border-borde bg-superficie px-3 text-sm text-tenue"
-          >
-            ☰ Índice
-          </button>
+      <div className="lg:flex lg:items-start lg:gap-8">
+        {/* En desktop el índice queda siempre visible en vez de un panel que
+            se togglea: hay espacio de sobra y consultarlo no debería costar
+            un toque. */}
+        <nav className="hidden lg:sticky lg:top-6 lg:block lg:w-56 lg:shrink-0 lg:overflow-hidden lg:rounded-lg lg:border lg:border-borde">
+          <ListaIndice secciones={secciones} onIr={irA} />
+        </nav>
 
-          <div className="ml-auto flex overflow-hidden rounded-md border border-borde">
-            {TAMANOS.map((t) => (
+        <div className="min-w-0 flex-1">
+          <header className="mb-6">
+            <div className="flex items-center gap-2">
               <button
-                key={t}
-                onClick={() => setTamano(t)}
-                className={`min-h-11 px-3 ${tamano === t ? "bg-acento/15 text-acento" : "text-tenue"}`}
-                style={{ fontSize: Math.max(11, t - 6) }}
-                aria-label={`Tamaño ${t} píxeles`}
+                onClick={() => setIndice((v) => !v)}
+                className="min-h-11 rounded-md border border-borde bg-superficie px-3 text-sm text-tenue lg:hidden"
               >
-                A
+                ☰ Índice
               </button>
-            ))}
+
+              <span className="text-xs text-tenue tabular-nums">{Math.round(progreso * 100)}%</span>
+
+              <div className="ml-auto flex overflow-hidden rounded-md border border-borde">
+                {TAMANOS.map((t) => (
+                  <button
+                    key={t}
+                    onClick={() => setTamano(t)}
+                    className={`min-h-11 px-3 ${tamano === t ? "bg-acento/15 text-acento" : "text-tenue"}`}
+                    style={{ fontSize: Math.max(11, t - 6) }}
+                    aria-label={`Tamaño ${t} píxeles`}
+                  >
+                    A
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            <p className="mt-3 text-xs text-tenue">
+              {secciones.length} {secciones.length === 1 ? "capítulo" : "capítulos"} ·{" "}
+              {total.toLocaleString("es-ES")} palabras · {minutos} min
+              {anotaciones.length > 0 && (
+                <>
+                  {" "}
+                  · {anotaciones.length} {anotaciones.length === 1 ? "anotación" : "anotaciones"}
+                </>
+              )}
+              {pendientes > 0 && <span className="text-acento"> · {pendientes} sin sincronizar</span>}
+            </p>
+
+            {listaHuerfanas.length > 0 && (
+              <button
+                onClick={() => setVerHuerfanas(true)}
+                className="mt-2 w-full rounded-md border border-peligro/40 bg-peligro/10 px-3 py-2 text-left text-xs text-tenue"
+              >
+                {listaHuerfanas.length}{" "}
+                {listaHuerfanas.length === 1 ? "anotación no encaja" : "anotaciones no encajan"} con
+                el texto actual · ver
+              </button>
+            )}
+          </header>
+
+          {indice && (
+            <nav className="mb-6 overflow-hidden rounded-lg border border-borde lg:hidden">
+              <ListaIndice secciones={secciones} onIr={irA} />
+            </nav>
+          )}
+
+          <div style={{ fontSize: tamano }}>
+            <Capitulos secciones={secciones} />
+            <p className="pb-8 text-center text-sm text-tenue">— Fin de lo escrito —</p>
           </div>
         </div>
-
-        <p className="mt-3 text-xs text-tenue">
-          {secciones.length} {secciones.length === 1 ? "capítulo" : "capítulos"} ·{" "}
-          {total.toLocaleString("es-ES")} palabras · {minutos} min
-          {anotaciones.length > 0 && (
-            <> · {anotaciones.length} {anotaciones.length === 1 ? "anotación" : "anotaciones"}</>
-          )}
-          {pendientes > 0 && <span className="text-acento"> · {pendientes} sin sincronizar</span>}
-        </p>
-
-        {listaHuerfanas.length > 0 && (
-          <button
-            onClick={() => setVerHuerfanas(true)}
-            className="mt-2 w-full rounded-md border border-peligro/40 bg-peligro/10 px-3 py-2 text-left text-xs text-tenue"
-          >
-            {listaHuerfanas.length}{" "}
-            {listaHuerfanas.length === 1 ? "anotación no encaja" : "anotaciones no encajan"} con el
-            texto actual · ver
-          </button>
-        )}
-      </header>
-
-      {indice && (
-        <nav className="mb-6 overflow-hidden rounded-lg border border-borde">
-          {secciones.map((s, i) => (
-            <button
-              key={s.ruta}
-              onClick={() => irA(s.ruta)}
-              className={`flex min-h-14 w-full items-center justify-between gap-3 bg-superficie px-4 text-left active:bg-superficie-alta ${
-                i ? "border-t border-borde" : ""
-              }`}
-            >
-              <span className="truncate">{s.titulo}</span>
-              <span className="shrink-0 text-xs text-tenue tabular-nums">
-                {s.palabras.toLocaleString("es-ES")}
-              </span>
-            </button>
-          ))}
-        </nav>
-      )}
-
-      <div style={{ fontSize: tamano }}>
-        <Capitulos secciones={secciones} />
-        <p className="pb-8 text-center text-sm text-tenue">— Fin de lo escrito —</p>
       </div>
 
       {/* Al seleccionar: un color para subrayar, o comentar. */}

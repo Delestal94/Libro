@@ -62,7 +62,7 @@ export default function ListaFichas({
             : `Empieza por uno. Un nombre basta; lo demás se rellena cuando se te ocurra.`}
         </p>
       ) : (
-        <ul className="mb-6 space-y-2">
+        <ul className="mb-6 space-y-2 md:grid md:grid-cols-2 md:gap-3 md:space-y-0 lg:grid-cols-3">
           {visibles.map((f) => (
             <li key={f.slug}>
               <Link

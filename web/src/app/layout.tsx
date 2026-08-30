@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import NavInferior from "@/components/NavInferior";
+import NavLateral from "@/components/NavLateral";
 import Conexion from "@/components/Conexion";
 import ModoTema from "@/components/ModoTema";
 
@@ -34,8 +35,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="min-h-dvh bg-fondo text-texto">
         <Conexion />
-        {/* pb-28 reserva el hueco de la barra inferior fija. */}
-        <main className="mx-auto w-full max-w-2xl px-4 pb-28 pt-segura">{children}</main>
+        <NavLateral />
+        {/* pb-28 reserva el hueco de la barra inferior fija; en desktop no hay
+            barra inferior (la nav vive en NavLateral) así que se anula. */}
+        <main className="mx-auto w-full max-w-2xl px-4 pb-28 pt-segura lg:ml-56 lg:max-w-3xl lg:px-8 lg:pb-8">
+          {children}
+        </main>
         <NavInferior />
         <ModoTema />
       </body>

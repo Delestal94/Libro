@@ -54,12 +54,13 @@ export default function Editor({ ruta, shaInicial, contenidoInicial, titulo }: P
   const palabras = useMemo(() => contarPalabras(texto), [texto]);
   const indice = useMemo(() => new Map(enlaces?.indice ?? []), [enlaces]);
 
+  // Se calcula siempre, no sólo en la vista "leer": en desktop se ve en
+  // paralelo al editor (split-view), así que no puede depender de la pestaña.
   const html = useMemo(() => {
-    if (vista !== "leer") return "";
     // Los `[[ ]]` se convierten a HTML antes de Markdown: así marked los ve ya
     // como enlaces normales y no intenta interpretar los corchetes.
     return marked.parse(enlacesAHtml(texto, indice), { async: false, breaks: false }) as string;
-  }, [vista, texto, indice]);
+  }, [texto, indice]);
 
   // --- Enlaces del proyecto, en segundo plano ---
   useEffect(() => {
@@ -245,7 +246,9 @@ export default function Editor({ ruta, shaInicial, contenidoInicial, titulo }: P
       )}
 
       <div className="mb-2 flex items-center gap-2">
-        <div className="flex overflow-hidden rounded-md border border-borde">
+        {/* En desktop se ven las dos vistas a la vez (split-view), así que el
+            interruptor sólo hace falta en móvil. */}
+        <div className="flex overflow-hidden rounded-md border border-borde lg:hidden">
           {(["editar", "leer"] as const).map((v) => (
             <button
               key={v}
@@ -263,8 +266,8 @@ export default function Editor({ ruta, shaInicial, contenidoInicial, titulo }: P
         </span>
       </div>
 
-      {vista === "editar" ? (
-        <>
+      <div className="lg:grid lg:grid-cols-2 lg:items-start lg:gap-4">
+        <div className={vista === "editar" ? "" : "hidden lg:block"}>
           <div className="mb-2 flex gap-1 overflow-x-auto pb-1">
             {ATAJOS.map((a) => (
               <button
@@ -312,13 +315,15 @@ export default function Editor({ ruta, shaInicial, contenidoInicial, titulo }: P
               </ul>
             )}
           </div>
-        </>
-      ) : (
+        </div>
+
         <article
-          className="prosa flex-1 rounded-lg border border-borde bg-superficie p-5 text-lg"
+          className={`prosa rounded-lg border border-borde bg-superficie p-5 text-lg lg:min-h-[55dvh] ${
+            vista === "leer" ? "" : "hidden lg:block"
+          }`}
           dangerouslySetInnerHTML={{ __html: html }}
         />
-      )}
+      </div>
 
       {error && <p className="mt-2 text-sm text-peligro">{error}</p>}
 

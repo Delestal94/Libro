@@ -2,6 +2,7 @@ import Link from "next/link";
 import SinConfigurar from "@/components/SinConfigurar";
 import NuevoDocumento from "@/components/NuevoDocumento";
 import Salir from "@/components/Salir";
+import BibliotecaSecciones from "@/components/BibliotecaSecciones";
 import { repoConfigurado } from "@/lib/github";
 import { cargarProyecto, capitulos, conteoFichas, type Doc } from "@/lib/proyecto";
 import { SECCIONES, minutosLectura } from "@/lib/libro";
@@ -39,7 +40,7 @@ export default async function Biblioteca() {
         />
       </Link>
 
-      <nav className="mb-8 grid grid-cols-2 gap-2">
+      <nav className="mb-8 grid grid-cols-1 gap-2 sm:grid-cols-3">
         <Acceso
           href="/mundo"
           icono="☗"
@@ -50,47 +51,22 @@ export default async function Biblioteca() {
         <Acceso href="/revisiones" icono="◈" titulo="Revisiones" detalle="El panel de lectores" />
       </nav>
 
-      {SECCIONES.map((s) => {
-        const dentro = docs
-          .filter((d) => d.seccion === s.id)
-          // Las fichas tienen pantalla propia; repetirlas aquí sólo sería ruido.
-          .filter((d) => !esFicha(d.ruta))
-          // Las revisiones tienen su propia pantalla, con agregado por panel.
-          .filter((d) => !d.ruta.startsWith("revisiones/"))
-          .sort((a, b) => a.ruta.localeCompare(b.ruta, "es"));
-        if (!dentro.length) return null;
-
-        return (
-          <section key={s.id} className="mb-8">
-            <h2 className="mb-1 flex items-center gap-2 text-sm font-semibold tracking-wide uppercase">
-              <span className="text-acento">{s.icono}</span>
-              {s.titulo}
-            </h2>
-            <p className="mb-3 text-xs text-tenue">{s.descripcion}</p>
-
-            <ul className="overflow-hidden rounded-lg border border-borde">
-              {dentro.map((d, i) => (
-                <li key={d.ruta} className={i ? "border-t border-borde" : ""}>
-                  <Link
-                    href={`/editar/${d.ruta}`}
-                    className="flex min-h-14 items-center justify-between gap-3 bg-superficie px-4 py-3 active:bg-superficie-alta"
-                  >
-                    <span className="min-w-0">
-                      <span className="block truncate">{d.titulo}</span>
-                      <span className="block truncate font-mono text-[11px] text-tenue">
-                        {d.ruta}
-                      </span>
-                    </span>
-                    <span className="shrink-0 text-xs text-tenue tabular-nums">
-                      {d.palabras.toLocaleString("es-ES")} pal.
-                    </span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </section>
-        );
-      })}
+      <BibliotecaSecciones
+        secciones={SECCIONES.map((s) => ({
+          id: s.id,
+          titulo: s.titulo,
+          descripcion: s.descripcion,
+          icono: s.icono,
+          docs: docs
+            .filter((d) => d.seccion === s.id)
+            // Las fichas tienen pantalla propia; repetirlas aquí sólo sería ruido.
+            .filter((d) => !esFicha(d.ruta))
+            // Las revisiones tienen su propia pantalla, con agregado por panel.
+            .filter((d) => !d.ruta.startsWith("revisiones/"))
+            .sort((a, b) => a.ruta.localeCompare(b.ruta, "es"))
+            .map((d) => ({ ruta: d.ruta, titulo: d.titulo, palabras: d.palabras })),
+        })).filter((s) => s.docs.length > 0)}
+      />
 
       <NuevoDocumento />
       <Salir />

@@ -4,21 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import CapturaRapida from "./CapturaRapida";
-
-/*
-  Cuatro destinos y la nota. Trama y Progreso se llegan desde la Biblioteca:
-  son pantallas de sentarse a planificar, no de consultar a diario, y meterlas
-  aquí dejaría las pestañas demasiado estrechas para el pulgar.
-*/
-const ENLACES = [
-  { href: "/", etiqueta: "Biblioteca", icono: "◆" },
-  { href: "/mundo", etiqueta: "Mundo", icono: "☗" },
-  { href: "/leer", etiqueta: "Leer", icono: "▤" },
-  { href: "/buscar", etiqueta: "Buscar", icono: "⌕" },
-];
-
-/* Personajes, lugares y criaturas cuelgan de Mundo: son tres destinos que no
-   caben abajo, y agrupados se llega igual de rápido. */
+import { ENLACES, activo } from "@/lib/nav";
 
 export default function NavInferior() {
   const ruta = usePathname();
@@ -27,38 +13,40 @@ export default function NavInferior() {
   // El login se ve a pantalla completa, sin navegación.
   if (ruta === "/login") return null;
 
-  // Las fichas cuelgan de Mundo, así que su pestaña sigue marcada dentro de ellas.
-  const RAMAS_MUNDO = ["/mundo", "/personajes", "/lugares", "/fauna", "/flora"];
-
-  const activo = (href: string) => {
-    if (href === "/") return ruta === "/";
-    if (href === "/mundo") return RAMAS_MUNDO.some((r) => ruta.startsWith(r));
-    return ruta.startsWith(href);
-  };
-
   return (
     <>
-      <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-borde bg-superficie/95 backdrop-blur pb-segura">
+      {/* Sólo en móvil: en desktop la navegación vive en la sidebar (NavLateral). */}
+      <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-borde bg-superficie/95 backdrop-blur pb-segura lg:hidden">
         <div className="mx-auto flex max-w-2xl items-stretch">
           {ENLACES.map((e) => (
             <Link
               key={e.href}
               href={e.href}
+              aria-current={activo(ruta, e.href) ? "page" : undefined}
               /* min-h-14: objetivo táctil cómodo con el pulgar. */
               className={`flex min-h-14 flex-1 flex-col items-center justify-center gap-0.5 py-2 text-[11px] transition-colors ${
-                activo(e.href) ? "text-acento" : "text-tenue"
+                activo(ruta, e.href) ? "text-acento" : "text-tenue"
               }`}
             >
-              <span className="text-lg leading-none">{e.icono}</span>
+              <span className="text-lg leading-none" aria-hidden="true">
+                {e.icono}
+              </span>
               {e.etiqueta}
             </Link>
           ))}
+          {/* "Nota" es una acción, no un destino: se eleva sobre la barra en vez
+              de ser una quinta pestaña idéntica a las de navegación. */}
           <button
             type="button"
             onClick={() => setCapturando(true)}
             className="flex min-h-14 flex-1 flex-col items-center justify-center gap-0.5 py-2 text-[11px] text-tenue"
           >
-            <span className="text-lg leading-none text-acento">✦</span>
+            <span
+              className="-mt-4 flex h-9 w-9 items-center justify-center rounded-full bg-acento text-base leading-none text-fondo shadow"
+              aria-hidden="true"
+            >
+              ✦
+            </span>
             Nota
           </button>
         </div>
